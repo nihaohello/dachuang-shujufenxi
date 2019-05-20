@@ -1,0 +1,1008 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=http://www.w3.org/1999/xhtml>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<meta name="renderer" content="webkit">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<title>404 Not Found_世界工厂网</title>
+<meta http-equiv="mobile-agent" content="format=html5;url=https://mobile.gongchang.com/404.php">
+<link rel="shortcut icon" type="image/x-icon" href="https://www.gongchang.com/favicon.ico"/>
+<link rel="bookmark" type="image/x-icon" href="https://www.gongchang.com/favicon.ico"/>
+<link rel="stylesheet" type="text/css" href="https://www.gongchang.com/skin/v3_6/style.css"/>
+<link rel="stylesheet" type="text/css" href="https://www.gongchang.com/skin/v3_6/css/header.css"/>
+<link rel="stylesheet" type="text/css" href="https://www.gongchang.com/skin/v3_6/css/footer.css"/>
+<link rel="stylesheet" type="text/css" href="https://www.gongchang.com/skin/v3_6/css/css_index.css"/>
+<!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="https://www.gongchang.com/skin/v3_6/ie6.css"/>
+<![endif]-->
+<script type="text/javascript">window.onerror=function(){return true;}</script><script type="text/javascript" src="https://www.gongchang.com/lang/zh-cn/lang.js"></script>
+<script type="text/javascript" src="https://www.gongchang.com/file/script/config.js"></script>
+<script type="text/javascript" src="https://www.gongchang.com/skin/v3_6/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="https://www.gongchang.com/file/script/common.js"></script>
+<script type="text/javascript" src="https://www.gongchang.com/file/script/page.js"></script>
+<script type="text/javascript" src="//www.gongchang.com/file/script/usertop.js"></script>
+<script type="text/javascript" src="https://www.gongchang.com/skin/v3_6/js/jquery.SuperSlide.2.1.1.js"></script>
+<script type="text/javascript">
+GoMobile('https://mobile.gongchang.com/404.php');
+var searchid = 5;
+</script>
+</head>
+<body><div class="header">
+<div class="usertop" id="usertop">
+        <div class="layout">
+            <div class="top-l">
+                <div class="login fl">
+                    <span class="fl">欢迎来到世界工厂网！</span>
+                    <a href="https://user.gongchang.com/l.php" class="top-itm" target="_blank">登录</a>
+                    <a href="https://user.gongchang.com/r.php" class="top-itm last usertop-reg" target="_blank">免费注册</a>
+                    <p class="usertop-reg-tip">注册并完善信息获神秘礼包<i class="js-close-reg-tip"></i></p>
+            </div>
+        </div>
+        <div class="top-r">
+            <div class="nav">
+                <a href="https://www.gongchang.com/prod/star.html" class="top-itm" target="_blank">五星云站</a>
+                <div class="top-drop pos">
+                    <div class="top-itm"><a href="https://q.gongchang.com/" target="_blank">商圈</a></div>
+                    <div class="dropdown drop-nav">
+                        <ul class="dn-list">
+                            <li class="dn-li"><a href="https://user.gongchang.com/p.php?mid=18" target="_blank">我的帖子</a></li>
+                            <li class="dn-li"><a href="https://user.gongchang.com/p.php?mid=18&job=reply" target="_blank">我的回复</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="top-drop pos">
+                    <div class="top-itm"><a href="https://mall.gongchang.com/" target="_blank">全球严选</a></div>
+                    <div class="dropdown drop-nav">
+                        <ul class="dn-list">
+                            <li class="dn-li"><a href="https://user.gongchang.com/trade.php" target="_blank">我的订单</a></li>
+                            <li class="dn-li"><a href="https://user.gongchang.com/address.php" target="_blank">收货地址</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="top-drop pos">
+                    <div class="top-itm"><a href="https://www.gongchang.com/vip/hyfw.php" target="_blank">VIP会员</a></div>
+                    <div class="dropdown drop-nav" style="width: 173px;">
+                        <ul class="dn-list">
+                            <li class="dn-li"><a href="https://www.gongchang.com/vip/hyfw.php" target="_blank">VIP会员服务</a></li>
+                            <li class="dn-li"><a href="https://user.gongchang.com/grade.php" target="_blank">会员升级</a></li>
+                            <li class="dn-li">联系我们：<span style="color: #2faa18;font-weight: 700;">0371-86688225</span></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="top-drop pos">
+                   <div class="top-itm">营销工具</div>
+                   <div class="dropdown drop-nav">
+                       <ul class="dn-list">
+                           <li class="dn-li"><a href="https://t.gongchang.com/url/" target="_blank">查收录</a></li>
+                            <li class="dn-li"><a href="https://t.gongchang.com/rank/" target="_blank">查排名</a></li>
+                            <li class="dn-li"><a href="https://t.gongchang.com/weight/" target="_blank">查权重</a></li>
+                            <li class="dn-li"><a href="https://t.gongchang.com/" target="_blank">营销推广工具</a></li>
+                            <li class="dn-li"><a href="http://www.naipan.com/" target="_blank">伪原创</a></li>
+                            <li class="dn-li"><a href="http://www.xizhi.com" target="_blank">客户信息核查</a></li>
+                            <li class="dn-li"><a href="https://www.gongchang.com/prod/wbuy.html" target="_blank">微采</a></li>
+                       </ul>
+                   </div>
+               </div>
+                <div class="top-drop">
+                    <div class="top-itm">网站地图</div>
+                    <div class="dropdown">
+                        <div class="map-box">
+                            <div class="drop-tit">线上生态服务</div>
+                            <ul class="u-list clf">
+                                <li class="li"><a href="https://www.gongchang.com/service/report.html" target="_blank">企业线上生态分析报告</a></li>
+                                <li class="li"><a href="https://www.gongchang.com/service/online.html" target="_blank">线上总部建设</a></li>
+                                <li class="li"><a href="https://www.gongchang.com/service/official.html" target="_blank">官网升级</a></li>
+                                <li class="li"><a href="https://www.gongchang.com/service/team.html" target="_blank">团队组建与优化</a></li>
+                                <li class="li"><a href="https://www.gongchang.com/service/marketing.html" target="_blank">营销成本优化</a></li>
+                                <li class="li"><a href="https://www.gongchang.com/service/domestic.html" target="_blank">国内贸易</a></li>
+                                <li class="li"><a href="https://www.gongchang.com/service/global.html" target="_blank">全球贸易</a></li>
+                                <li class="li"><a href="https://www.gongchang.com/service/brand.html" target="_blank">品牌传播优化与提升</a></li>
+                                <li class="li"><a href="https://www.gongchang.com/service/video.html" target="_blank">视频营销</a></li>
+                                <li class="li"><a href="https://www.gongchang.com/service/public.html" target="_blank">公关传播</a></li>
+                                <li class="li"><a href="https://www.gongchang.com/service/media.html" target="_blank">新媒体传播</a></li>
+                                <li class="li"><a href="https://www.gongchang.com/service/event.html" target="_blank">事件营销</a></li>
+                                <li class="li"><a href="https://www.gongchang.com/prod/shop.html" target="_blank">简单商铺（中小企业）</a></li>
+                                <li class="li"><a href="https://xy.gongchang.com/" target="_blank">线上生态学院</a></li>
+                            </ul>
+                        </div>
+                        <div class="map-box">
+                            <div class="drop-tit">采购市场</div>
+                            <ul class="u-list clf">
+                                                                                                <li class="li"><a href="https://chanpin.gongchang.com/list/136132/" target="_blank">工业品</a></li>
+                                                                <li class="li"><a href="https://chanpin.gongchang.com/list/136133/" target="_blank">原材料</a></li>
+                                                                <li class="li"><a href="https://chanpin.gongchang.com/list/136134/" target="_blank">消费品</a></li>
+                                                                <li class="li"><a href="https://chanpin.gongchang.com/list/1/" target="_blank">农业畜牧</a></li>
+                                                                <li class="li"><a href="https://chanpin.gongchang.com/list/7496/" target="_blank">宠物园艺</a></li>
+                                                                <li class="li"><a href="https://chanpin.gongchang.com/list/136136/" target="_blank">商务服务</a></li>
+                                                            </ul>
+                        </div>
+                        <div class="map-box">
+                            <div class="drop-tit">常用工具</div>
+                            <ul class="u-list clf">
+                                <li class="li"><a href="http://www.xizhi.com" target="_blank">核查企业</a></li>
+                                <li class="li"><a href="https://www.gongchang.com/prod/wbuy.html" target="_blank">微采</a></li>
+                                <li class="li"><a href="https://user.gongchang.com/p.php?mid=6&action=add" target="_blank">专家咨询</a></li>
+                                <li class="li"><a href="http://www.naipan.com/" target="_blank">伪原创</a></li>
+                                <li class="li"><a href="https://t.gongchang.com/keyword/" target="_blank">掘词</a></li>
+                                <li class="li"><a href="https://t.gongchang.com/url/" target="_blank">查收录</a></li>
+                                <li class="li"><a href="https://t.gongchang.com/rank/" target="_blank">查排名</a></li>
+                                <li class="li"><a href="https://t.gongchang.com/weight/" target="_blank">查权重</a></li>
+                            </ul>
+                        </div>
+                        <div class="map-box">
+                            <div class="drop-tit">更多频道</div>
+                            <ul class="u-list clf">
+                                <li class="li"><a href="https://chanpin.gongchang.com/" target="_blank">产品</a></li>
+                                <li class="li"><a href="https://qiye.gongchang.com/" target="_blank">企业</a></li>
+                                <li class="li"><a href="https://caigou.gongchang.com/" target="_blank">采购</a></li>
+                                <li class="li"><a href="https://video.gongchang.com/" target="_blank">视频</a></li>
+                                <li class="li"><a href="https://photo.gongchang.com/" target="_blank">图库</a></li>
+                                <li class="li"><a href="https://pinpai.gongchang.com/" target="_blank">品牌</a></li>
+                                <li class="li"><a href="https://zhaoshang.gongchang.com/" target="_blank">招商</a></li>
+                                <li class="li"><a href="https://job.gongchang.com/" target="_blank">人才</a></li>
+                                <li class="li"><a href="https://down.gongchang.com/" target="_blank">下载</a></li>
+                                <li class="li"><a href="https://zhidao.gongchang.com/" target="_blank">知道</a></li>
+                                <li class="li"><a href="https://www.gongchang.com/gift/index.php?action=myinfo" target="_blank">积分</a></li>
+                                <li class="li"><a href="https://www.gongchang.com/vip/hyfw.php" target="_blank">VIP会员</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <a href="https://www.gongchang.com/help/" class="top-itm" target="_blank">帮助中心</a>
+                <div class="top-drop top-mobile">
+                    <div class="top-itm "><i class="icon i-code"></i>移动版</div>
+                    <div class="dropdown">
+                        <div class="code-box">
+                            <img src="//static.gcimg.net/i/201804/3tp5wlBawZ.png" height="130" width="130" alt="移动版">
+                            <p class="code-tip">手机扫码访问工厂网</p>
+                            <p class="ft-gray">用微信/QQ扫一扫</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--mini顶部-->
+</div>
+<div class="nav_hd_top">
+<div class="nav_top">
+<div id="destoon_qrcode" style="display:none;"></div><div id="destoon_space"></div>
+<div class="hd_logo fl"><a href="https://www.gongchang.com/"><img src="https://www.gongchang.com/file/static/m_logo.png" alt="世界工厂网"/></a></div>
+<div class="logo-ft"><img src="https://www.gongchang.com/skin/v3_6/css/img/logo-ft.png" width="100" height="53" /></div>
+<div class="main_uc fl mtb">
+<div class="head_search"  onmouseout="Dh('search_module');">
+<div id="search_module" class="search_module" style="display:none;" onmouseout="Dh('search_module');" onmouseover="Ds('search_module');">
+<!-- <a href="javascript:void(0);" onclick="setModule('5','产品')">产品</a><a href="javascript:void(0);" onclick="setModule('13','品牌')">品牌</a><a href="javascript:void(0);" onclick="setModule('22','招商')">招商</a><a href="javascript:void(0);" onclick="setModule('4','企业')">企业</a><a href="javascript:void(0);" onclick="setModule('16','全球严选')">全球严选</a><a href="javascript:void(0);" onclick="setModule('14','视频')">视频</a><a href="javascript:void(0);" onclick="setModule('6','采购')">采购</a> -->
+<a href="javascript:void(0);" onclick="setModule('5','产品')">产品</a>
+<a href="javascript:void(0);" onclick="setModule('4','企业')">企业</a>
+<a href="javascript:void(0);" onclick="setModule('16','全球严选')">全球严选</a>
+<a href="javascript:void(0);" onclick="setModule('6','采购')">采购</a>
+<a href="javascript:void(0);" onclick="setModule('13','品牌')">品牌</a>
+<a href="javascript:void(0);" onclick="setModule('22','招商')">招商</a>
+<!-- <a href="javascript:void(0);" onclick="setModule('14','视频')">视频</a> -->
+</div>
+<!--[if IE]>
+<div id="search_tips" class="search_tips" style="display:none;"></div>
+<![endif]-->
+<div id="search_tips" class="search_tips" style="display:none;" onmouseout="this.style.display='none';" onmouseover="this.style.display='block';"></div>
+<form id="destoon_search" action="https://chanpin.gongchang.com/search.php"  onsubmit="return Dsearch(1);" class="search_form">
+<input type="hidden" name="moduleid" value="5" id="destoon_moduleid"/>
+<input type="hidden" name="spread" value="0" id="destoon_spread"/>
+<div class="hsit" id="hsit">
+<input type="text" id="destoon_select" class="search_m" value="产品" readonly onfocus="this.blur();" onclick="$('#search_module').fadeIn('fast');"/>
+<input name="kw" id="destoon_kw" type="text" class="search_i" value="请输入关键词" onfocus="if(this.value=='请输入关键词') this.value='';" onkeyup="STip(this.value);" autocomplete="off" x-webkit-speech speech/>
+<div class="hotkw" id="destoon_word">
+<a href="https://chanpin.gongchang.com/search.php?kw=%E7%A0%B4%E7%A2%8E%E6%9C%BA" draggable="false" rel="nofollow">破碎机</a><a href="https://chanpin.gongchang.com/search.php?kw=%E5%88%87%E5%89%B2%E6%9C%BA" draggable="false" rel="nofollow">切割机</a></div>
+</div>
+<input type="submit" value="搜索" class="hsbn"/>
+</form> 
+<div class="clear"></div>
+</div>
+</div>
+<div class="fr fabu">
+<div class="head_bprice fl mtb">
+<a href="https://user.gongchang.com/p.php?mid=5&action=add" class="popup-updata-ajax-js" target="_blank" rel="nofollow">发布产品</a>
+</div>
+<div class="head_bprice fl mtb">
+<a href="https://user.gongchang.com/p.php?mid=6&action=add" target="_blank" rel="nofollow">发布采购</a>
+</div>
+</div>
+ </div>
+<div class="clear"></div>
+</div>
+<div class="btcolor"></div>
+<div class="navigation bgwidth">
+<div class="navigation_nav">
+    <ul>
+<li class="menuon"><a href="https://www.gongchang.com/"><span>首页</span></a></li>
+<li>
+<a href="https://chanpin.gongchang.com/" target="_blank">
+ 优质货源
+</a> 
+</li><li>
+<a href="https://pinpai.gongchang.com/">
+品牌</a> 
+<i class="hot"></i></li><li>
+<a href="https://zhaoshang.gongchang.com/" target="_blank">
+招商</a> 
+</li><li>
+<a href="https://qiye.gongchang.com/" target="_blank">
+ 实力厂家
+</a> 
+</li><li>
+<a href="https://mall.gongchang.com/" target="_blank">
+全球严选</a> 
+</li><li>
+<a href="https://video.gongchang.com/" target="_blank">
+视频</a> 
+</li><li>
+<a href="https://caigou.gongchang.com/">
+采购</a> 
+<i class="hot"></i></li>    </ul>
+    </div>
+</div>
+<div class="clear mt10"></div><link rel="stylesheet" type="text/css" href="https://www.gongchang.com/skin/v3_6/message_new.css"/>
+<div class="m tip-art fl-clr">
+        <img src="https://www.gongchang.com/skin/v3_6/images/message/404.png">
+        <dl>
+            <dt>抱歉，您所查看的页面不存在！</dt>
+            <dd>有可能内容已被删除或您输入的网址不正确</dd>
+            <dd class="dd2">您可以<a href="https://www.gongchang.com/" class="btn_x goHome">去首页</a>或者去<a href="https://www.gongchang.com/sitemap/" class="btn_x search_x">网站导航</a></dd>
+            <dd class="dd3">找不到合适自己的，您可以<a href="https://user.gongchang.com/p.php?mid=6&action=add" class="btn_x">快速发布求购</a></dd>
+        </dl>
+</div>
+<div class="m mt30">
+<div class="m_l f_l">
+<div class="box_head"><div><span class="f_r"><a href="https://chanpin.gongchang.com/">更多&raquo;</a></span><a href="https://chanpin.gongchang.com/"><strong>供应产品</strong></a></div></div>
+<div class="box_body thumb_m"><table cellpadding="0" cellspacing="0" width="100%">
+<tr align="center"><td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183057/" target="_blank"><img src="https://img020.gcimg.net/201905/02/05/054026608487335.jpg.thumb.jpg" width="150" height="150" alt="绍兴到新安汽车客车大巴直达、乘汽车乘车信息（汽车站时刻表"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183057/" title="绍兴到新安汽车客车大巴直达、乘汽车乘车信息（汽车站时刻表" target="_blank">绍兴到新安汽车</a></li></ul></td>
+<td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183056/" target="_blank"><img src="https://img020.gcimg.net/201905/18/10/104140238493714.jpg.thumb.jpg" width="150" height="150" alt="EnCore HH5004 EnCom ABS高流动原包"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183056/" title="EnCore HH5004 EnCom ABS高流动原包" target="_blank">EnCore HH5004 </a></li></ul></td>
+<td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183055/" target="_blank"><img src="https://img020.gcimg.net/201904/30/15/150216918483607.jpg.thumb.jpg" width="150" height="150" alt="达州钢管扣件厂家/价格/达州：工程产品经久耐用"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183055/" title="达州钢管扣件厂家/价格/达州：工程产品经久耐用" target="_blank">达州钢管扣件厂</a></li></ul></td>
+<td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183054/" target="_blank"><img src="https://img020.gcimg.net/201809/20/17/171931928444796.jpg.thumb.jpg" width="150" height="150" alt="客车）盘县到闽清直达汽车客车大巴、在哪里坐车（汽车站发车时刻表"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183054/" title="客车）盘县到闽清直达汽车客车大巴、在哪里坐车（汽车站发车时刻表" target="_blank">客车）盘县到闽</a></li></ul></td>
+<td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183053/" target="_blank"><img src="https://img020.gcimg.net/201903/23/13/134824528489652.jpg" width="150" height="150" alt="清远 冲床油泵维修，VA06M-960 找东永源"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183053/" title="清远 冲床油泵维修，VA06M-960 找东永源" target="_blank">清远 冲床油泵</a></li></ul></td>
+</tr><tr align="center"><td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183051/" target="_blank"><img src="https://img020.gcimg.net/201905/02/05/054036438487335.jpg.thumb.jpg" width="150" height="150" alt="绍兴到毕节直达大巴客车汽车、乘汽车汽车线路资讯（汽车站时刻表"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183051/" title="绍兴到毕节直达大巴客车汽车、乘汽车汽车线路资讯（汽车站时刻表" target="_blank">绍兴到毕节直达</a></li></ul></td>
+<td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183050/" target="_blank"><img src="//img020.gcimg.net/images/c30d84ed12o3b708f741ea264c1003a7.jpg" width="150" height="150" alt="【正品】瑞尔欣 医用眼贴宝 护眼贴 购买市场"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183050/" title="【正品】瑞尔欣 医用眼贴宝 护眼贴 购买市场" target="_blank">【正品】瑞尔欣</a></li></ul></td>
+<td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183049/" target="_blank"><img src="https://img020.gcimg.net/201903/20/17/17480555458118.jpg" width="150" height="150" alt="冲压成型润滑喷油机，冲床自动喷油润滑系统，节省工人的  找东永源专业"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183049/" title="冲压成型润滑喷油机，冲床自动喷油润滑系统，节省工人的  找东永源专业" target="_blank">冲压成型润滑喷</a></li></ul></td>
+<td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183048/" target="_blank"><img src="https://img020.gcimg.net/201905/18/10/104208438493714.jpg.thumb.jpg" width="150" height="150" alt="ELIX ABS M203 ELIX ABS耐污染现货"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183048/" title="ELIX ABS M203 ELIX ABS耐污染现货" target="_blank">ELIX ABS M203 </a></li></ul></td>
+<td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183047/" target="_blank"><img src="https://img020.gcimg.net/201809/20/17/171731468444796.jpg.thumb.jpg" width="150" height="150" alt="查询、昆明到台儿庄直达客车大巴汽车、线路查询（汽车站发车时刻表"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183047/" title="查询、昆明到台儿庄直达客车大巴汽车、线路查询（汽车站发车时刻表" target="_blank">查询、昆明到台</a></li></ul></td>
+</tr><tr align="center"><td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183046/" target="_blank"><img src="https://img020.gcimg.net/201904/30/15/150546748483607.jpg.thumb.jpg" width="150" height="150" alt="沧州热轧（冷拔）钢管厂家/价格/沧州：工程产品经久耐用"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183046/" title="沧州热轧（冷拔）钢管厂家/价格/沧州：工程产品经久耐用" target="_blank">沧州热轧（冷拔</a></li></ul></td>
+<td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183045/" target="_blank"><img src="https://img020.gcimg.net/201903/23/12/121858108489652.jpg" width="150" height="150" alt="清远 冲床油泵维修，VS06M-960 选东永源"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183045/" title="清远 冲床油泵维修，VS06M-960 选东永源" target="_blank">清远 冲床油泵</a></li></ul></td>
+<td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183044/" target="_blank"><img src="https://img020.gcimg.net/201905/18/10/104135188493714.jpg.thumb.jpg" width="150" height="150" alt="CYCOLOY Resin XCY630-Asia SABIC PC+ABS强韧柔性进口"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183044/" title="CYCOLOY Resin XCY630-Asia SABIC PC+ABS强韧柔性进口" target="_blank">CYCOLOY Resin </a></li></ul></td>
+<td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183043/" target="_blank"><img src="https://img020.gcimg.net/201905/02/05/054036438487335.jpg.thumb.jpg" width="150" height="150" alt="绍兴到渑池汽车客车大巴直达、乘汽车一览表（汽车站时刻表"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183043/" title="绍兴到渑池汽车客车大巴直达、乘汽车一览表（汽车站时刻表" target="_blank">绍兴到渑池汽车</a></li></ul></td>
+<td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183042/" target="_blank"><img src="https://img020.gcimg.net/201905/18/10/104303158493714.jpg.thumb.jpg" width="150" height="150" alt="Diamond ABS VP-33 1002 Natural A. Schulman ABS低蠕变直销"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183042/" title="Diamond ABS VP-33 1002 Natural A. Schulman ABS低蠕变直销" target="_blank">Diamond ABS VP</a></li></ul></td>
+</tr><tr align="center"><td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183041/" target="_blank"><img src="https://img020.gcimg.net/201903/20/17/17561940458118.jpg" width="150" height="150" alt="冲压成型润滑喷油机，铝箔冲压涂油装置设备，调节精准的  当然东永源专业"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183041/" title="冲压成型润滑喷油机，铝箔冲压涂油装置设备，调节精准的  当然东永源专业" target="_blank">冲压成型润滑喷</a></li></ul></td>
+<td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183040/" target="_blank"><img src="//img020.gcimg.net/images/b1146d6904id762819e2bw8a0e229016.jpg" width="150" height="150" alt="【正品】秦鲁 乳腺增生贴 求购效果"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183040/" title="【正品】秦鲁 乳腺增生贴 求购效果" target="_blank">【正品】秦鲁 </a></li></ul></td>
+<td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183039/" target="_blank"><img src="https://img020.gcimg.net/201809/20/17/171902678444796.jpg.thumb.jpg" width="150" height="150" alt="盘县到太仓汽车客车大巴直达时刻表.乘客车汽车班次查询（今日时刻表"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183039/" title="盘县到太仓汽车客车大巴直达时刻表.乘客车汽车班次查询（今日时刻表" target="_blank">盘县到太仓汽车</a></li></ul></td>
+<td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183038/" target="_blank"><img src="https://img020.gcimg.net/201905/18/10/104235218493714.jpg.thumb.jpg" width="150" height="150" alt="CYCOLOY Resin XCY620S-Asia SABIC PC+ABS化学稳定性销售"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183038/" title="CYCOLOY Resin XCY620S-Asia SABIC PC+ABS化学稳定性销售" target="_blank">CYCOLOY Resin </a></li></ul></td>
+<td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183037/" target="_blank"><img src="https://img020.gcimg.net/201903/23/12/125415188489652.jpg" width="150" height="150" alt="东莞冲床超负荷油泵，VS06M-763 找东永源"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183037/" title="东莞冲床超负荷油泵，VS06M-763 找东永源" target="_blank">东莞冲床超负荷</a></li></ul></td>
+</tr></table>
+</div>
+</div>
+<div class="m_n f_l">&nbsp;</div>
+<div class="m_r f_l">
+<div class="box_head"><div><span class="f_r"><a href="https://caigou.gongchang.com/">更多&raquo;</a></span><a href="https://caigou.gongchang.com/"><strong>求购信息</strong></a></div></div>
+<div class="box_body li_dot f_gray"><ul>
+<li><span class="f_r px11">&nbsp;04-30</span><a href="https://caigou.gongchang.com/show/33521/" target="_blank" title="夏装夏装夏装夏装夏装夏装夏装夏装">夏装夏装夏装夏装夏装夏装夏装夏装</a></li>
+<li><span class="f_r px11">&nbsp;01-24</span><a href="https://caigou.gongchang.com/show/29677/" target="_blank" title="新闻山东烟台毛面HDPE防渗膜代理价格新闻">新闻山东烟台毛面HDPE防渗膜代理价格新闻</a></li>
+<li><span class="f_r px11">&nbsp;05-12</span><a href="https://caigou.gongchang.com/show/8960/" target="_blank" title="醋酸钠">醋酸钠</a></li>
+<li><span class="f_r px11">&nbsp;01-10</span><a href="https://caigou.gongchang.com/show/1601/" target="_blank" title="求购： 海菱冷水机（负20到200）">求购： 海菱冷水机（负20到200）</a></li>
+</ul>
+</div>
+<div class="b10">&nbsp;</div>
+<div class="box_head"><div><span class="f_r"><a href="https://qiye.gongchang.com/">更多&raquo;</a></span><a href="https://qiye.gongchang.com/"><strong>VIP企业</strong></a></div></div>
+<div class="box_body li_dot f_gray"><ul>
+<li><span class="f_r f_gray">河北</span><a href="https://qiye.gongchang.com/jiaheshangmao/" target="_blank">北京佳和顺达商贸有限公司</a></li>
+<li><span class="f_r f_gray">河北</span><a href="https://tdguandao.gongchang.com/" target="_blank">雄县腾达塑胶制品有限公司</a></li>
+<li><span class="f_r f_gray">广东</span><a href="https://iambest1.gongchang.com/" target="_blank">深圳市房卡科技有限公司</a></li>
+<li><span class="f_r f_gray">山东</span><a href="https://dingjijiaodai.gongchang.com/" target="_blank">山东恒宸新型建材有限公司</a></li>
+<li><span class="f_r f_gray">江苏</span><a href="https://wuxiyuchang.gongchang.com/" target="_blank">无锡沛缇美容服务有限公司</a></li>
+<li><span class="f_r f_gray">江苏</span><a href="https://mongdong123.gongchang.com/" target="_blank">无锡源彩化工材料有限公司</a></li>
+<li><span class="f_r f_gray">河北</span><a href="https://tuoqigroup.gongchang.com/" target="_blank">河北拓奇科技有限公司</a></li>
+<li><span class="f_r f_gray">山东</span><a href="https://jiudiangeduan.gongchang.com/" target="_blank">山东青岛大槐树商用设备有限公司</a></li>
+<li><span class="f_r f_gray">山东</span><a href="https://bolitiemo8.gongchang.com/" target="_blank">青岛绿森宝环保科技有限公司</a></li>
+<li><span class="f_r f_gray">广东</span><a href="https://asd910143201.gongchang.com/" target="_blank">广州玉祥装饰材料有限公司</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="clear">&nbsp;</div>
+<div class="footer">
+    <div class="layout">
+        <div class="f-btm">
+            <div class="links">
+               <a href="https://www.gongchang.com/">网站首页</a>
+        | <a href="https://www.gongchang.com/about" target="_blank">关于我们</a> 
+    | <a href="//hr.gongchang.com" target="_blank">招贤纳士</a> 
+    | <a href="https://www.gongchang.com/about/contact.html" target="_blank">联系方式</a> 
+    | <a href="https://www.gongchang.com/about/agreement.html" target="_blank">使用协议</a> 
+    | <a href="https://www.gongchang.com/about/copyright.html" target="_blank">版权隐私</a> 
+    | <a href="https://www.gongchang.com/sitemap/" target="_blank">网站地图</a>
+    | <a href="https://www.gongchang.com/spread/" target="_blank">排名推广</a>
+     | <a href="https://www.gongchang.com/ad/" target="_blank">广告服务</a>     | <a href="https://www.gongchang.com/gift/index2.php" target="_blank">积分换礼</a>     | <a href="https://www.gongchang.com/guestbook/" target="_blank">网站留言</a>                   | <a href="https://www.gongchang.com/help/term.php" target="_blank">服务条款</a>
+            </div>
+            <div class="links">
+                <script>document.write('<div class="f-cert">增值电信业务经营许可证<span class="c-name">豫 B2-20140060</span></div><span>|</span><div class="f-cert">网络文化经营许可证<span class="c-name">豫网文【2015】1103-002 号</span></div><span>|</span><div class="f-cert">出版物经营许可证<span class="c-name">新出发 zzgx 零字第 0003 号</span></div><span>|</span><div class="f-cert">广播电视节目制作经营许可证<span class="c-name">（豫）字第 00236 号</span></div><span>|</span><div class="f-cert">互联网药品信息服务资格证<span class="c-name">（豫）-经营性-2016-0001</span></div>');</script>
+            </div>
+           <p class="copyright" id="copyright">
+                        (c)2008-2019 世界工厂网V3.6 All Rights Reserved<a href="http://www.miibeian.gov.cn" target="_blank" rel="nofollow">B2-20151232</a> </p>
+            <div class="cert">
+                <div class="honor">
+                    <span class="cert-item"><a href="https://ss.knet.cn/verifyseal.dll?sn=e140527410100493988pdi000000&comefrom=trust" rel="external nofollow" target="_blank"><img src="//static.gcimg.net/i/201511/Duj6GZxMER.png" alt="可信网站身份验证" height="32" width="90"></a></span>
+                    <span class="cert-item"><a href="http://si.trustutn.org/info?sn=131190329037873720796&certType=1" rel="external nofollow" target="_blank"><img src="//v.trustutn.org/images/cert/bottom_small_img.png" alt="认证联盟实名认证" height="32" width="90"></a></span>
+                    <span class="cert-item"><a href="https://img-i.gcimg.net/2019/0307/o1h7cyyqncpzj3lc014920.jpg" rel="external nofollow" target="_blank"><img src="//static.gcimg.net/i/201511/IDl6jzEMOK.png" alt="工商局电子营业执照" height="32" width="90"></a></span>
+                    <span class="cert-item"><img src="//static.gcimg.net/i/201511/KnlloNlzjn.png" alt="银联特约商户" height="32" width="90"></span>
+                    <span class="cert-item"><a href="http://www.miibeian.gov.cn" rel="external nofollow" target="_blank"><img src="//static.gcimg.net/i/201511/GOw5PAcOIL.png" alt="网络社会征信网" height="32" width="90"></a></span>
+                    <span class="cert-item"><img src="//static.gcimg.net/i/201511/tKYmauqCVE.png" alt="公共信息安全网络监察" height="32" width="90"></span>
+                    <span class="cert-item">
+                        <img src="//static.gcimg.net/i/201611/9SNWtk0hLx.png" alt="守合同重信用" height="32" width="90">
+                    </span>
+                </div>
+                <div style="width:300px;margin:0 auto; padding:20px 0 0;">
+                    <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=41010202000002" rel="external nofollow" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="//static.gcimg.net/i/201605/Brqqbmu9np.png" style="float:left;">
+                        <p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">豫公网安备 41010202000002号</p>
+                    </a>
+                </div>
+            </div>
+                    </div>
+    </div>
+</div>
+<script type="text/javascript" src="https://www.gongchang.com/skin/v3_6/js/xh_common.js?_=20170829"></script>
+<script type="text/javascript">
+<!--
+//浮动-1种
+/*set top*/
+$('.arx_list_info').fixedDiv('#hotproduct');
+$('.detailsT').fixedDiv('#hotproduct');
+$('.right_zixun').fixedDiv('#hotproduct');  
+$('.info_list').fixedDiv('#hotproduct');
+jQuery(".hotproduct").slide({ mainCell:"ul",vis:5,scroll:1,autoPlay:true,prevCell:".sPrev",nextCell:".sNext",effect:"leftLoop"});
+/* open */
+gd_tab_open(".gright .sp_sort .sbt1","div.aRrow","iCred","iCadd",".sToggle");
+ -->
+</script>
+<!--在线咨询弹框 S-->
+<link href="https://www.gongchang.com/skin/v3_6/css/zxzx-2.css" rel="stylesheet" type="text/css" />
+<div class="float-r">
+<ul>
+<li class="f-float-avatar" >
+<span class="icon-avatar"></span>
+<div class="animat zktx clf"><em>hi~请</em> <a href="https://user.gongchang.com/l.php" target="_blank">登录</a> <i></i> <a href="https://user.gongchang.com/r.php" target="_blank">注册</a></div>
+</li>
+        <li class="li1" id="zkl">
+<span class="icon1"></span>
+<div class="animat-a zktx" style="left: -188px;">
+<div class="animat-a-a" style="width: 188px;text-align: left;">
+                    <div class="s-hd">人工客服</div>
+<div class="s-list" id="LR_ServKindlist_Div"></div>
+                    <div class="tel">4006692008</div>
+<div class="info-add">网站客服法定工作日<br>9:00-17:00</div>
+</div>
+<strong class="borderys1"></strong>
+</div>
+</li>
+        <li class="li2" id="zkl">
+<span class="icon2"></span>
+<div class="icon1ct zktx">
+<div class="icon1ct-z">
+<img src="https://www.gongchang.com/file/upload/201711/08/10/100158651.jpg" alt="">
+<p>世界工厂网</p>
+<p>微信扫描关注</p>
+</div>
+<strong class="borderys1"></strong>
+</div>
+</li>
+<li class="li3" id="zkl">
+<a target="_blank" href="https://www.gongchang.com/guestbook/"><span class="icon3"></span><div class="animat zktx"><b>用户反馈</b><strong class="borderys2"></strong></div></a></li>
+<li class="li4" style="display: none;" id="zkl"><span class="icon4"></span><div class="animat zktx"><b>返回顶部</b><strong class="borderys2"></strong></div></li>
+</ul>
+</div>
+<script type="text/javascript">
+    <!--
+    !function() {
+        var l = $(document),
+            o = $(window),
+            i = $(".float-r .li4");
+        i.click(function() {
+            $("body,html").animate({
+                    scrollTop: 0
+                },
+                500)
+        });
+        o.scroll(function() {
+            l.scrollTop() >= 300 ? $(".float-r .li4").slideDown(300) : $(".float-r .li4").slideUp(100)
+        })
+    } ();
+    -->
+</script>
+<script language="javascript" src="//wt.zoosnet.net/LR/servkind.aspx?id=LRW77021783&lng=cn"></script>
+<script type="text/javascript">
+    <!--
+    //输出HTML函数，技术人员可以修改为自己想要的样式
+    var LR_ServKindlistHtml='';
+    function outputServKindlist(name,id,state) {
+        var text = '',
+            className = '';
+        if (state === 2 || state === 1) {
+            text = '繁忙';
+            className = 'online';
+        }
+        if (state === 0) {
+            text = '离线';
+            className = 'offline';
+        }
+        if(state >= 3) {
+            LR_ServKindlistHtml += '<div class="s-item">' + unescape(name.replace(/\+/g,'%20'))
+                + '<a href="javascript:openZoosWindow_olist(\'chatwin\',\'&skid='+id+'&sk='+name+'&e='+name+'\')" target="_self"><span class="online">在线</span></a></div>';
+        } else {
+            LR_ServKindlistHtml += '<div class="s-item">' + unescape(name.replace(/\+/g, '%20'))
+                + '<a href="javascript:;" target="_self"><span onclick=openZoosWindow_olist(\'sendnote\',\'&skid=' + id + '&sk=' + name + '&e=' + name + '\') class="' + className + '">' + text + '</span></a></div>';
+        }
+    }
+    if(typeof(ServerKindArray) != 'undefined') {
+        for(i = 0; i < ServerKindArray.length;i ++)
+        {
+            outputServKindlist(ServerKindArray[i].name, ServerKindArray[i].id, ServerKindArray[i].state);
+        }
+    }
+    //-->
+</script>
+<script language="javascript" src="//wt.zoosnet.net/JS/LSJS.aspx?siteid=LRW77021783&lng=cn"></script>
+<script language="javascript">
+    <!--
+    if(typeof(LiveReceptionCode_isonline) !== 'undefined') {
+        LR_GetObj('LR_ServKindlist_Div').innerHTML = LR_ServKindlistHtml;
+    }
+    //-->
+</script><script type="text/javascript">
+if(get_cookie('auth')) {
+  $('.xh_dl')[0].className = 'xh_dl_no';
+  $('.xh_dl_2_no')[0].className = 'xh_dl_2';
+  $('.xh_dl_x')[0].className = 'xh_dl_no';
+  $('.xh_dl_x_2_no')[0].className = 'xh_dl_2';
+}
+</script>
+<script type="text/javascript">
+var destoon_userid = 0;
+var destoon_username = '';
+var destoon_message = 0;
+var destoon_chat = 0;
+var destoon_cart = get_cart();
+var xh_member = '';
+var xh_memberimg = '';
+var oauth_site = '';
+var oauth_user = '';
+xh_member += (oauth_user && oauth_site) ? '<img src="https://www.gongchang.com/api/oauth/'+oauth_site+'/ico.png" align="absmiddle"/> 欢迎，<strong>'+oauth_user+'</strong> | <a href="https://www.gongchang.com/api/oauth/'+oauth_site+'/index.php?time=1558357987">绑定帐号</a> | <a href="https://user.gongchang.com/l.php">注销登录</a>' : '欢迎来到世界工厂网！&nbsp;&nbsp;<a class="login" href="https://user.gongchang.com/l.php">请登录</a> | <a class="login" href="https://user.gongchang.com/r.php">免费注册</a>';
+xh_memberimg += '<img src="https://www.gongchang.com/skin/v3_6/css/img/head_picture.png" class="brand_img"/>';
+$('#xh_member').html(xh_member);
+$('#xh_memberimg').html(xh_memberimg);
+$('#destoon_cart').html(destoon_cart > 0 ? '<strong>'+destoon_cart+'</strong>' : 0);
+</script>
+<script charset="utf-8"  type="text/javascript" src="//static.gcimg.net/atm/dt/global/tongji/1.0.0/src/tj.js"></script>
+<script charset="utf-8"  type="text/javascript" src="//static.gcimg.net/atm/dt/global/tongji/1.0.0/src/tj-v36.js"></script>
+</body>
+</html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=http://www.w3.org/1999/xhtml>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<meta name="renderer" content="webkit">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<title>404 Not Found_世界工厂网</title>
+<meta http-equiv="mobile-agent" content="format=html5;url=https://mobile.gongchang.com/404.php">
+<link rel="shortcut icon" type="image/x-icon" href="https://www.gongchang.com/favicon.ico"/>
+<link rel="bookmark" type="image/x-icon" href="https://www.gongchang.com/favicon.ico"/>
+<link rel="stylesheet" type="text/css" href="https://www.gongchang.com/skin/v3_6/style.css"/>
+<link rel="stylesheet" type="text/css" href="https://www.gongchang.com/skin/v3_6/css/header.css"/>
+<link rel="stylesheet" type="text/css" href="https://www.gongchang.com/skin/v3_6/css/footer.css"/>
+<link rel="stylesheet" type="text/css" href="https://www.gongchang.com/skin/v3_6/css/css_index.css"/>
+<!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="https://www.gongchang.com/skin/v3_6/ie6.css"/>
+<![endif]-->
+<script type="text/javascript">window.onerror=function(){return true;}</script><script type="text/javascript" src="https://www.gongchang.com/lang/zh-cn/lang.js"></script>
+<script type="text/javascript" src="https://www.gongchang.com/file/script/config.js"></script>
+<script type="text/javascript" src="https://www.gongchang.com/skin/v3_6/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="https://www.gongchang.com/file/script/common.js"></script>
+<script type="text/javascript" src="https://www.gongchang.com/file/script/page.js"></script>
+<script type="text/javascript" src="//www.gongchang.com/file/script/usertop.js"></script>
+<script type="text/javascript" src="https://www.gongchang.com/skin/v3_6/js/jquery.SuperSlide.2.1.1.js"></script>
+<script type="text/javascript">
+GoMobile('https://mobile.gongchang.com/404.php');
+var searchid = 5;
+</script>
+</head>
+<body><div class="header">
+<div class="usertop" id="usertop">
+        <div class="layout">
+            <div class="top-l">
+                <div class="login fl">
+                    <span class="fl">欢迎来到世界工厂网！</span>
+                    <a href="https://user.gongchang.com/l.php" class="top-itm" target="_blank">登录</a>
+                    <a href="https://user.gongchang.com/r.php" class="top-itm last usertop-reg" target="_blank">免费注册</a>
+                    <p class="usertop-reg-tip">注册并完善信息获神秘礼包<i class="js-close-reg-tip"></i></p>
+            </div>
+        </div>
+        <div class="top-r">
+            <div class="nav">
+                <a href="https://www.gongchang.com/prod/star.html" class="top-itm" target="_blank">五星云站</a>
+                <div class="top-drop pos">
+                    <div class="top-itm"><a href="https://q.gongchang.com/" target="_blank">商圈</a></div>
+                    <div class="dropdown drop-nav">
+                        <ul class="dn-list">
+                            <li class="dn-li"><a href="https://user.gongchang.com/p.php?mid=18" target="_blank">我的帖子</a></li>
+                            <li class="dn-li"><a href="https://user.gongchang.com/p.php?mid=18&job=reply" target="_blank">我的回复</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="top-drop pos">
+                    <div class="top-itm"><a href="https://mall.gongchang.com/" target="_blank">全球严选</a></div>
+                    <div class="dropdown drop-nav">
+                        <ul class="dn-list">
+                            <li class="dn-li"><a href="https://user.gongchang.com/trade.php" target="_blank">我的订单</a></li>
+                            <li class="dn-li"><a href="https://user.gongchang.com/address.php" target="_blank">收货地址</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="top-drop pos">
+                    <div class="top-itm"><a href="https://www.gongchang.com/vip/hyfw.php" target="_blank">VIP会员</a></div>
+                    <div class="dropdown drop-nav" style="width: 173px;">
+                        <ul class="dn-list">
+                            <li class="dn-li"><a href="https://www.gongchang.com/vip/hyfw.php" target="_blank">VIP会员服务</a></li>
+                            <li class="dn-li"><a href="https://user.gongchang.com/grade.php" target="_blank">会员升级</a></li>
+                            <li class="dn-li">联系我们：<span style="color: #2faa18;font-weight: 700;">0371-86688225</span></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="top-drop pos">
+                   <div class="top-itm">营销工具</div>
+                   <div class="dropdown drop-nav">
+                       <ul class="dn-list">
+                           <li class="dn-li"><a href="https://t.gongchang.com/url/" target="_blank">查收录</a></li>
+                            <li class="dn-li"><a href="https://t.gongchang.com/rank/" target="_blank">查排名</a></li>
+                            <li class="dn-li"><a href="https://t.gongchang.com/weight/" target="_blank">查权重</a></li>
+                            <li class="dn-li"><a href="https://t.gongchang.com/" target="_blank">营销推广工具</a></li>
+                            <li class="dn-li"><a href="http://www.naipan.com/" target="_blank">伪原创</a></li>
+                            <li class="dn-li"><a href="http://www.xizhi.com" target="_blank">客户信息核查</a></li>
+                            <li class="dn-li"><a href="https://www.gongchang.com/prod/wbuy.html" target="_blank">微采</a></li>
+                       </ul>
+                   </div>
+               </div>
+                <div class="top-drop">
+                    <div class="top-itm">网站地图</div>
+                    <div class="dropdown">
+                        <div class="map-box">
+                            <div class="drop-tit">线上生态服务</div>
+                            <ul class="u-list clf">
+                                <li class="li"><a href="https://www.gongchang.com/service/report.html" target="_blank">企业线上生态分析报告</a></li>
+                                <li class="li"><a href="https://www.gongchang.com/service/online.html" target="_blank">线上总部建设</a></li>
+                                <li class="li"><a href="https://www.gongchang.com/service/official.html" target="_blank">官网升级</a></li>
+                                <li class="li"><a href="https://www.gongchang.com/service/team.html" target="_blank">团队组建与优化</a></li>
+                                <li class="li"><a href="https://www.gongchang.com/service/marketing.html" target="_blank">营销成本优化</a></li>
+                                <li class="li"><a href="https://www.gongchang.com/service/domestic.html" target="_blank">国内贸易</a></li>
+                                <li class="li"><a href="https://www.gongchang.com/service/global.html" target="_blank">全球贸易</a></li>
+                                <li class="li"><a href="https://www.gongchang.com/service/brand.html" target="_blank">品牌传播优化与提升</a></li>
+                                <li class="li"><a href="https://www.gongchang.com/service/video.html" target="_blank">视频营销</a></li>
+                                <li class="li"><a href="https://www.gongchang.com/service/public.html" target="_blank">公关传播</a></li>
+                                <li class="li"><a href="https://www.gongchang.com/service/media.html" target="_blank">新媒体传播</a></li>
+                                <li class="li"><a href="https://www.gongchang.com/service/event.html" target="_blank">事件营销</a></li>
+                                <li class="li"><a href="https://www.gongchang.com/prod/shop.html" target="_blank">简单商铺（中小企业）</a></li>
+                                <li class="li"><a href="https://xy.gongchang.com/" target="_blank">线上生态学院</a></li>
+                            </ul>
+                        </div>
+                        <div class="map-box">
+                            <div class="drop-tit">采购市场</div>
+                            <ul class="u-list clf">
+                                                                                                <li class="li"><a href="https://chanpin.gongchang.com/list/136132/" target="_blank">工业品</a></li>
+                                                                <li class="li"><a href="https://chanpin.gongchang.com/list/136133/" target="_blank">原材料</a></li>
+                                                                <li class="li"><a href="https://chanpin.gongchang.com/list/136134/" target="_blank">消费品</a></li>
+                                                                <li class="li"><a href="https://chanpin.gongchang.com/list/1/" target="_blank">农业畜牧</a></li>
+                                                                <li class="li"><a href="https://chanpin.gongchang.com/list/7496/" target="_blank">宠物园艺</a></li>
+                                                                <li class="li"><a href="https://chanpin.gongchang.com/list/136136/" target="_blank">商务服务</a></li>
+                                                            </ul>
+                        </div>
+                        <div class="map-box">
+                            <div class="drop-tit">常用工具</div>
+                            <ul class="u-list clf">
+                                <li class="li"><a href="http://www.xizhi.com" target="_blank">核查企业</a></li>
+                                <li class="li"><a href="https://www.gongchang.com/prod/wbuy.html" target="_blank">微采</a></li>
+                                <li class="li"><a href="https://user.gongchang.com/p.php?mid=6&action=add" target="_blank">专家咨询</a></li>
+                                <li class="li"><a href="http://www.naipan.com/" target="_blank">伪原创</a></li>
+                                <li class="li"><a href="https://t.gongchang.com/keyword/" target="_blank">掘词</a></li>
+                                <li class="li"><a href="https://t.gongchang.com/url/" target="_blank">查收录</a></li>
+                                <li class="li"><a href="https://t.gongchang.com/rank/" target="_blank">查排名</a></li>
+                                <li class="li"><a href="https://t.gongchang.com/weight/" target="_blank">查权重</a></li>
+                            </ul>
+                        </div>
+                        <div class="map-box">
+                            <div class="drop-tit">更多频道</div>
+                            <ul class="u-list clf">
+                                <li class="li"><a href="https://chanpin.gongchang.com/" target="_blank">产品</a></li>
+                                <li class="li"><a href="https://qiye.gongchang.com/" target="_blank">企业</a></li>
+                                <li class="li"><a href="https://caigou.gongchang.com/" target="_blank">采购</a></li>
+                                <li class="li"><a href="https://video.gongchang.com/" target="_blank">视频</a></li>
+                                <li class="li"><a href="https://photo.gongchang.com/" target="_blank">图库</a></li>
+                                <li class="li"><a href="https://pinpai.gongchang.com/" target="_blank">品牌</a></li>
+                                <li class="li"><a href="https://zhaoshang.gongchang.com/" target="_blank">招商</a></li>
+                                <li class="li"><a href="https://job.gongchang.com/" target="_blank">人才</a></li>
+                                <li class="li"><a href="https://down.gongchang.com/" target="_blank">下载</a></li>
+                                <li class="li"><a href="https://zhidao.gongchang.com/" target="_blank">知道</a></li>
+                                <li class="li"><a href="https://www.gongchang.com/gift/index.php?action=myinfo" target="_blank">积分</a></li>
+                                <li class="li"><a href="https://www.gongchang.com/vip/hyfw.php" target="_blank">VIP会员</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <a href="https://www.gongchang.com/help/" class="top-itm" target="_blank">帮助中心</a>
+                <div class="top-drop top-mobile">
+                    <div class="top-itm "><i class="icon i-code"></i>移动版</div>
+                    <div class="dropdown">
+                        <div class="code-box">
+                            <img src="//static.gcimg.net/i/201804/3tp5wlBawZ.png" height="130" width="130" alt="移动版">
+                            <p class="code-tip">手机扫码访问工厂网</p>
+                            <p class="ft-gray">用微信/QQ扫一扫</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--mini顶部-->
+</div>
+<div class="nav_hd_top">
+<div class="nav_top">
+<div id="destoon_qrcode" style="display:none;"></div><div id="destoon_space"></div>
+<div class="hd_logo fl"><a href="https://www.gongchang.com/"><img src="https://www.gongchang.com/file/static/m_logo.png" alt="世界工厂网"/></a></div>
+<div class="logo-ft"><img src="https://www.gongchang.com/skin/v3_6/css/img/logo-ft.png" width="100" height="53" /></div>
+<div class="main_uc fl mtb">
+<div class="head_search"  onmouseout="Dh('search_module');">
+<div id="search_module" class="search_module" style="display:none;" onmouseout="Dh('search_module');" onmouseover="Ds('search_module');">
+<!-- <a href="javascript:void(0);" onclick="setModule('5','产品')">产品</a><a href="javascript:void(0);" onclick="setModule('13','品牌')">品牌</a><a href="javascript:void(0);" onclick="setModule('22','招商')">招商</a><a href="javascript:void(0);" onclick="setModule('4','企业')">企业</a><a href="javascript:void(0);" onclick="setModule('16','全球严选')">全球严选</a><a href="javascript:void(0);" onclick="setModule('14','视频')">视频</a><a href="javascript:void(0);" onclick="setModule('6','采购')">采购</a> -->
+<a href="javascript:void(0);" onclick="setModule('5','产品')">产品</a>
+<a href="javascript:void(0);" onclick="setModule('4','企业')">企业</a>
+<a href="javascript:void(0);" onclick="setModule('16','全球严选')">全球严选</a>
+<a href="javascript:void(0);" onclick="setModule('6','采购')">采购</a>
+<a href="javascript:void(0);" onclick="setModule('13','品牌')">品牌</a>
+<a href="javascript:void(0);" onclick="setModule('22','招商')">招商</a>
+<!-- <a href="javascript:void(0);" onclick="setModule('14','视频')">视频</a> -->
+</div>
+<!--[if IE]>
+<div id="search_tips" class="search_tips" style="display:none;"></div>
+<![endif]-->
+<div id="search_tips" class="search_tips" style="display:none;" onmouseout="this.style.display='none';" onmouseover="this.style.display='block';"></div>
+<form id="destoon_search" action="https://chanpin.gongchang.com/search.php"  onsubmit="return Dsearch(1);" class="search_form">
+<input type="hidden" name="moduleid" value="5" id="destoon_moduleid"/>
+<input type="hidden" name="spread" value="0" id="destoon_spread"/>
+<div class="hsit" id="hsit">
+<input type="text" id="destoon_select" class="search_m" value="产品" readonly onfocus="this.blur();" onclick="$('#search_module').fadeIn('fast');"/>
+<input name="kw" id="destoon_kw" type="text" class="search_i" value="请输入关键词" onfocus="if(this.value=='请输入关键词') this.value='';" onkeyup="STip(this.value);" autocomplete="off" x-webkit-speech speech/>
+<div class="hotkw" id="destoon_word">
+<a href="https://chanpin.gongchang.com/search.php?kw=%E7%A0%B4%E7%A2%8E%E6%9C%BA" draggable="false" rel="nofollow">破碎机</a><a href="https://chanpin.gongchang.com/search.php?kw=%E5%88%87%E5%89%B2%E6%9C%BA" draggable="false" rel="nofollow">切割机</a></div>
+</div>
+<input type="submit" value="搜索" class="hsbn"/>
+</form> 
+<div class="clear"></div>
+</div>
+</div>
+<div class="fr fabu">
+<div class="head_bprice fl mtb">
+<a href="https://user.gongchang.com/p.php?mid=5&action=add" class="popup-updata-ajax-js" target="_blank" rel="nofollow">发布产品</a>
+</div>
+<div class="head_bprice fl mtb">
+<a href="https://user.gongchang.com/p.php?mid=6&action=add" target="_blank" rel="nofollow">发布采购</a>
+</div>
+</div>
+ </div>
+<div class="clear"></div>
+</div>
+<div class="btcolor"></div>
+<div class="navigation bgwidth">
+<div class="navigation_nav">
+    <ul>
+<li class="menuon"><a href="https://www.gongchang.com/"><span>首页</span></a></li>
+<li>
+<a href="https://chanpin.gongchang.com/" target="_blank">
+ 优质货源
+</a> 
+</li><li>
+<a href="https://pinpai.gongchang.com/">
+品牌</a> 
+<i class="hot"></i></li><li>
+<a href="https://zhaoshang.gongchang.com/" target="_blank">
+招商</a> 
+</li><li>
+<a href="https://qiye.gongchang.com/" target="_blank">
+ 实力厂家
+</a> 
+</li><li>
+<a href="https://mall.gongchang.com/" target="_blank">
+全球严选</a> 
+</li><li>
+<a href="https://video.gongchang.com/" target="_blank">
+视频</a> 
+</li><li>
+<a href="https://caigou.gongchang.com/">
+采购</a> 
+<i class="hot"></i></li>    </ul>
+    </div>
+</div>
+<div class="clear mt10"></div><link rel="stylesheet" type="text/css" href="https://www.gongchang.com/skin/v3_6/message_new.css"/>
+<div class="m tip-art fl-clr">
+        <img src="https://www.gongchang.com/skin/v3_6/images/message/404.png">
+        <dl>
+            <dt>抱歉，您所查看的页面不存在！</dt>
+            <dd>有可能内容已被删除或您输入的网址不正确</dd>
+            <dd class="dd2">您可以<a href="https://www.gongchang.com/" class="btn_x goHome">去首页</a>或者去<a href="https://www.gongchang.com/sitemap/" class="btn_x search_x">网站导航</a></dd>
+            <dd class="dd3">找不到合适自己的，您可以<a href="https://user.gongchang.com/p.php?mid=6&action=add" class="btn_x">快速发布求购</a></dd>
+        </dl>
+</div>
+<div class="m mt30">
+<div class="m_l f_l">
+<div class="box_head"><div><span class="f_r"><a href="https://chanpin.gongchang.com/">更多&raquo;</a></span><a href="https://chanpin.gongchang.com/"><strong>供应产品</strong></a></div></div>
+<div class="box_body thumb_m"><table cellpadding="0" cellspacing="0" width="100%">
+<tr align="center"><td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183057/" target="_blank"><img src="https://img020.gcimg.net/201905/02/05/054026608487335.jpg.thumb.jpg" width="150" height="150" alt="绍兴到新安汽车客车大巴直达、乘汽车乘车信息（汽车站时刻表"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183057/" title="绍兴到新安汽车客车大巴直达、乘汽车乘车信息（汽车站时刻表" target="_blank">绍兴到新安汽车</a></li></ul></td>
+<td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183056/" target="_blank"><img src="https://img020.gcimg.net/201905/18/10/104140238493714.jpg.thumb.jpg" width="150" height="150" alt="EnCore HH5004 EnCom ABS高流动原包"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183056/" title="EnCore HH5004 EnCom ABS高流动原包" target="_blank">EnCore HH5004 </a></li></ul></td>
+<td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183055/" target="_blank"><img src="https://img020.gcimg.net/201904/30/15/150216918483607.jpg.thumb.jpg" width="150" height="150" alt="达州钢管扣件厂家/价格/达州：工程产品经久耐用"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183055/" title="达州钢管扣件厂家/价格/达州：工程产品经久耐用" target="_blank">达州钢管扣件厂</a></li></ul></td>
+<td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183054/" target="_blank"><img src="https://img020.gcimg.net/201809/20/17/171931928444796.jpg.thumb.jpg" width="150" height="150" alt="客车）盘县到闽清直达汽车客车大巴、在哪里坐车（汽车站发车时刻表"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183054/" title="客车）盘县到闽清直达汽车客车大巴、在哪里坐车（汽车站发车时刻表" target="_blank">客车）盘县到闽</a></li></ul></td>
+<td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183053/" target="_blank"><img src="https://img020.gcimg.net/201903/23/13/134824528489652.jpg" width="150" height="150" alt="清远 冲床油泵维修，VA06M-960 找东永源"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183053/" title="清远 冲床油泵维修，VA06M-960 找东永源" target="_blank">清远 冲床油泵</a></li></ul></td>
+</tr><tr align="center"><td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183051/" target="_blank"><img src="https://img020.gcimg.net/201905/02/05/054036438487335.jpg.thumb.jpg" width="150" height="150" alt="绍兴到毕节直达大巴客车汽车、乘汽车汽车线路资讯（汽车站时刻表"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183051/" title="绍兴到毕节直达大巴客车汽车、乘汽车汽车线路资讯（汽车站时刻表" target="_blank">绍兴到毕节直达</a></li></ul></td>
+<td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183050/" target="_blank"><img src="//img020.gcimg.net/images/c30d84ed12o3b708f741ea264c1003a7.jpg" width="150" height="150" alt="【正品】瑞尔欣 医用眼贴宝 护眼贴 购买市场"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183050/" title="【正品】瑞尔欣 医用眼贴宝 护眼贴 购买市场" target="_blank">【正品】瑞尔欣</a></li></ul></td>
+<td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183049/" target="_blank"><img src="https://img020.gcimg.net/201903/20/17/17480555458118.jpg" width="150" height="150" alt="冲压成型润滑喷油机，冲床自动喷油润滑系统，节省工人的  找东永源专业"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183049/" title="冲压成型润滑喷油机，冲床自动喷油润滑系统，节省工人的  找东永源专业" target="_blank">冲压成型润滑喷</a></li></ul></td>
+<td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183048/" target="_blank"><img src="https://img020.gcimg.net/201905/18/10/104208438493714.jpg.thumb.jpg" width="150" height="150" alt="ELIX ABS M203 ELIX ABS耐污染现货"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183048/" title="ELIX ABS M203 ELIX ABS耐污染现货" target="_blank">ELIX ABS M203 </a></li></ul></td>
+<td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183047/" target="_blank"><img src="https://img020.gcimg.net/201809/20/17/171731468444796.jpg.thumb.jpg" width="150" height="150" alt="查询、昆明到台儿庄直达客车大巴汽车、线路查询（汽车站发车时刻表"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183047/" title="查询、昆明到台儿庄直达客车大巴汽车、线路查询（汽车站发车时刻表" target="_blank">查询、昆明到台</a></li></ul></td>
+</tr><tr align="center"><td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183046/" target="_blank"><img src="https://img020.gcimg.net/201904/30/15/150546748483607.jpg.thumb.jpg" width="150" height="150" alt="沧州热轧（冷拔）钢管厂家/价格/沧州：工程产品经久耐用"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183046/" title="沧州热轧（冷拔）钢管厂家/价格/沧州：工程产品经久耐用" target="_blank">沧州热轧（冷拔</a></li></ul></td>
+<td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183045/" target="_blank"><img src="https://img020.gcimg.net/201903/23/12/121858108489652.jpg" width="150" height="150" alt="清远 冲床油泵维修，VS06M-960 选东永源"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183045/" title="清远 冲床油泵维修，VS06M-960 选东永源" target="_blank">清远 冲床油泵</a></li></ul></td>
+<td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183044/" target="_blank"><img src="https://img020.gcimg.net/201905/18/10/104135188493714.jpg.thumb.jpg" width="150" height="150" alt="CYCOLOY Resin XCY630-Asia SABIC PC+ABS强韧柔性进口"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183044/" title="CYCOLOY Resin XCY630-Asia SABIC PC+ABS强韧柔性进口" target="_blank">CYCOLOY Resin </a></li></ul></td>
+<td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183043/" target="_blank"><img src="https://img020.gcimg.net/201905/02/05/054036438487335.jpg.thumb.jpg" width="150" height="150" alt="绍兴到渑池汽车客车大巴直达、乘汽车一览表（汽车站时刻表"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183043/" title="绍兴到渑池汽车客车大巴直达、乘汽车一览表（汽车站时刻表" target="_blank">绍兴到渑池汽车</a></li></ul></td>
+<td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183042/" target="_blank"><img src="https://img020.gcimg.net/201905/18/10/104303158493714.jpg.thumb.jpg" width="150" height="150" alt="Diamond ABS VP-33 1002 Natural A. Schulman ABS低蠕变直销"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183042/" title="Diamond ABS VP-33 1002 Natural A. Schulman ABS低蠕变直销" target="_blank">Diamond ABS VP</a></li></ul></td>
+</tr><tr align="center"><td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183041/" target="_blank"><img src="https://img020.gcimg.net/201903/20/17/17561940458118.jpg" width="150" height="150" alt="冲压成型润滑喷油机，铝箔冲压涂油装置设备，调节精准的  当然东永源专业"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183041/" title="冲压成型润滑喷油机，铝箔冲压涂油装置设备，调节精准的  当然东永源专业" target="_blank">冲压成型润滑喷</a></li></ul></td>
+<td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183040/" target="_blank"><img src="//img020.gcimg.net/images/b1146d6904id762819e2bw8a0e229016.jpg" width="150" height="150" alt="【正品】秦鲁 乳腺增生贴 求购效果"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183040/" title="【正品】秦鲁 乳腺增生贴 求购效果" target="_blank">【正品】秦鲁 </a></li></ul></td>
+<td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183039/" target="_blank"><img src="https://img020.gcimg.net/201809/20/17/171902678444796.jpg.thumb.jpg" width="150" height="150" alt="盘县到太仓汽车客车大巴直达时刻表.乘客车汽车班次查询（今日时刻表"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183039/" title="盘县到太仓汽车客车大巴直达时刻表.乘客车汽车班次查询（今日时刻表" target="_blank">盘县到太仓汽车</a></li></ul></td>
+<td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183038/" target="_blank"><img src="https://img020.gcimg.net/201905/18/10/104235218493714.jpg.thumb.jpg" width="150" height="150" alt="CYCOLOY Resin XCY620S-Asia SABIC PC+ABS化学稳定性销售"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183038/" title="CYCOLOY Resin XCY620S-Asia SABIC PC+ABS化学稳定性销售" target="_blank">CYCOLOY Resin </a></li></ul></td>
+<td width="20%" valign="top"><a href="https://chanpin.gongchang.com/show/902183037/" target="_blank"><img src="https://img020.gcimg.net/201903/23/12/125415188489652.jpg" width="150" height="150" alt="东莞冲床超负荷油泵，VS06M-763 找东永源"/></a>
+<ul><li><a href="https://chanpin.gongchang.com/show/902183037/" title="东莞冲床超负荷油泵，VS06M-763 找东永源" target="_blank">东莞冲床超负荷</a></li></ul></td>
+</tr></table>
+</div>
+</div>
+<div class="m_n f_l">&nbsp;</div>
+<div class="m_r f_l">
+<div class="box_head"><div><span class="f_r"><a href="https://caigou.gongchang.com/">更多&raquo;</a></span><a href="https://caigou.gongchang.com/"><strong>求购信息</strong></a></div></div>
+<div class="box_body li_dot f_gray"><ul>
+<li><span class="f_r px11">&nbsp;04-30</span><a href="https://caigou.gongchang.com/show/33521/" target="_blank" title="夏装夏装夏装夏装夏装夏装夏装夏装">夏装夏装夏装夏装夏装夏装夏装夏装</a></li>
+<li><span class="f_r px11">&nbsp;01-24</span><a href="https://caigou.gongchang.com/show/29677/" target="_blank" title="新闻山东烟台毛面HDPE防渗膜代理价格新闻">新闻山东烟台毛面HDPE防渗膜代理价格新闻</a></li>
+<li><span class="f_r px11">&nbsp;05-12</span><a href="https://caigou.gongchang.com/show/8960/" target="_blank" title="醋酸钠">醋酸钠</a></li>
+<li><span class="f_r px11">&nbsp;01-10</span><a href="https://caigou.gongchang.com/show/1601/" target="_blank" title="求购： 海菱冷水机（负20到200）">求购： 海菱冷水机（负20到200）</a></li>
+</ul>
+</div>
+<div class="b10">&nbsp;</div>
+<div class="box_head"><div><span class="f_r"><a href="https://qiye.gongchang.com/">更多&raquo;</a></span><a href="https://qiye.gongchang.com/"><strong>VIP企业</strong></a></div></div>
+<div class="box_body li_dot f_gray"><ul>
+<li><span class="f_r f_gray">河北</span><a href="https://qiye.gongchang.com/jiaheshangmao/" target="_blank">北京佳和顺达商贸有限公司</a></li>
+<li><span class="f_r f_gray">河北</span><a href="https://tdguandao.gongchang.com/" target="_blank">雄县腾达塑胶制品有限公司</a></li>
+<li><span class="f_r f_gray">广东</span><a href="https://iambest1.gongchang.com/" target="_blank">深圳市房卡科技有限公司</a></li>
+<li><span class="f_r f_gray">山东</span><a href="https://dingjijiaodai.gongchang.com/" target="_blank">山东恒宸新型建材有限公司</a></li>
+<li><span class="f_r f_gray">江苏</span><a href="https://wuxiyuchang.gongchang.com/" target="_blank">无锡沛缇美容服务有限公司</a></li>
+<li><span class="f_r f_gray">江苏</span><a href="https://mongdong123.gongchang.com/" target="_blank">无锡源彩化工材料有限公司</a></li>
+<li><span class="f_r f_gray">河北</span><a href="https://tuoqigroup.gongchang.com/" target="_blank">河北拓奇科技有限公司</a></li>
+<li><span class="f_r f_gray">山东</span><a href="https://jiudiangeduan.gongchang.com/" target="_blank">山东青岛大槐树商用设备有限公司</a></li>
+<li><span class="f_r f_gray">山东</span><a href="https://bolitiemo8.gongchang.com/" target="_blank">青岛绿森宝环保科技有限公司</a></li>
+<li><span class="f_r f_gray">广东</span><a href="https://asd910143201.gongchang.com/" target="_blank">广州玉祥装饰材料有限公司</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="clear">&nbsp;</div>
+<div class="footer">
+    <div class="layout">
+        <div class="f-btm">
+            <div class="links">
+               <a href="https://www.gongchang.com/">网站首页</a>
+        | <a href="https://www.gongchang.com/about" target="_blank">关于我们</a> 
+    | <a href="//hr.gongchang.com" target="_blank">招贤纳士</a> 
+    | <a href="https://www.gongchang.com/about/contact.html" target="_blank">联系方式</a> 
+    | <a href="https://www.gongchang.com/about/agreement.html" target="_blank">使用协议</a> 
+    | <a href="https://www.gongchang.com/about/copyright.html" target="_blank">版权隐私</a> 
+    | <a href="https://www.gongchang.com/sitemap/" target="_blank">网站地图</a>
+    | <a href="https://www.gongchang.com/spread/" target="_blank">排名推广</a>
+     | <a href="https://www.gongchang.com/ad/" target="_blank">广告服务</a>     | <a href="https://www.gongchang.com/gift/index2.php" target="_blank">积分换礼</a>     | <a href="https://www.gongchang.com/guestbook/" target="_blank">网站留言</a>                   | <a href="https://www.gongchang.com/help/term.php" target="_blank">服务条款</a>
+            </div>
+            <div class="links">
+                <script>document.write('<div class="f-cert">增值电信业务经营许可证<span class="c-name">豫 B2-20140060</span></div><span>|</span><div class="f-cert">网络文化经营许可证<span class="c-name">豫网文【2015】1103-002 号</span></div><span>|</span><div class="f-cert">出版物经营许可证<span class="c-name">新出发 zzgx 零字第 0003 号</span></div><span>|</span><div class="f-cert">广播电视节目制作经营许可证<span class="c-name">（豫）字第 00236 号</span></div><span>|</span><div class="f-cert">互联网药品信息服务资格证<span class="c-name">（豫）-经营性-2016-0001</span></div>');</script>
+            </div>
+           <p class="copyright" id="copyright">
+                        (c)2008-2019 世界工厂网V3.6 All Rights Reserved<a href="http://www.miibeian.gov.cn" target="_blank" rel="nofollow">B2-20151232</a> </p>
+            <div class="cert">
+                <div class="honor">
+                    <span class="cert-item"><a href="https://ss.knet.cn/verifyseal.dll?sn=e140527410100493988pdi000000&comefrom=trust" rel="external nofollow" target="_blank"><img src="//static.gcimg.net/i/201511/Duj6GZxMER.png" alt="可信网站身份验证" height="32" width="90"></a></span>
+                    <span class="cert-item"><a href="http://si.trustutn.org/info?sn=131190329037873720796&certType=1" rel="external nofollow" target="_blank"><img src="//v.trustutn.org/images/cert/bottom_small_img.png" alt="认证联盟实名认证" height="32" width="90"></a></span>
+                    <span class="cert-item"><a href="https://img-i.gcimg.net/2019/0307/o1h7cyyqncpzj3lc014920.jpg" rel="external nofollow" target="_blank"><img src="//static.gcimg.net/i/201511/IDl6jzEMOK.png" alt="工商局电子营业执照" height="32" width="90"></a></span>
+                    <span class="cert-item"><img src="//static.gcimg.net/i/201511/KnlloNlzjn.png" alt="银联特约商户" height="32" width="90"></span>
+                    <span class="cert-item"><a href="http://www.miibeian.gov.cn" rel="external nofollow" target="_blank"><img src="//static.gcimg.net/i/201511/GOw5PAcOIL.png" alt="网络社会征信网" height="32" width="90"></a></span>
+                    <span class="cert-item"><img src="//static.gcimg.net/i/201511/tKYmauqCVE.png" alt="公共信息安全网络监察" height="32" width="90"></span>
+                    <span class="cert-item">
+                        <img src="//static.gcimg.net/i/201611/9SNWtk0hLx.png" alt="守合同重信用" height="32" width="90">
+                    </span>
+                </div>
+                <div style="width:300px;margin:0 auto; padding:20px 0 0;">
+                    <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=41010202000002" rel="external nofollow" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="//static.gcimg.net/i/201605/Brqqbmu9np.png" style="float:left;">
+                        <p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">豫公网安备 41010202000002号</p>
+                    </a>
+                </div>
+            </div>
+                    </div>
+    </div>
+</div>
+<script type="text/javascript" src="https://www.gongchang.com/skin/v3_6/js/xh_common.js?_=20170829"></script>
+<script type="text/javascript">
+<!--
+//浮动-1种
+/*set top*/
+$('.arx_list_info').fixedDiv('#hotproduct');
+$('.detailsT').fixedDiv('#hotproduct');
+$('.right_zixun').fixedDiv('#hotproduct');  
+$('.info_list').fixedDiv('#hotproduct');
+jQuery(".hotproduct").slide({ mainCell:"ul",vis:5,scroll:1,autoPlay:true,prevCell:".sPrev",nextCell:".sNext",effect:"leftLoop"});
+/* open */
+gd_tab_open(".gright .sp_sort .sbt1","div.aRrow","iCred","iCadd",".sToggle");
+ -->
+</script>
+<!--在线咨询弹框 S-->
+<link href="https://www.gongchang.com/skin/v3_6/css/zxzx-2.css" rel="stylesheet" type="text/css" />
+<div class="float-r">
+<ul>
+<li class="f-float-avatar" >
+<span class="icon-avatar"></span>
+<div class="animat zktx clf"><em>hi~请</em> <a href="https://user.gongchang.com/l.php" target="_blank">登录</a> <i></i> <a href="https://user.gongchang.com/r.php" target="_blank">注册</a></div>
+</li>
+        <li class="li1" id="zkl">
+<span class="icon1"></span>
+<div class="animat-a zktx" style="left: -188px;">
+<div class="animat-a-a" style="width: 188px;text-align: left;">
+                    <div class="s-hd">人工客服</div>
+<div class="s-list" id="LR_ServKindlist_Div"></div>
+                    <div class="tel">4006692008</div>
+<div class="info-add">网站客服法定工作日<br>9:00-17:00</div>
+</div>
+<strong class="borderys1"></strong>
+</div>
+</li>
+        <li class="li2" id="zkl">
+<span class="icon2"></span>
+<div class="icon1ct zktx">
+<div class="icon1ct-z">
+<img src="https://www.gongchang.com/file/upload/201711/08/10/100158651.jpg" alt="">
+<p>世界工厂网</p>
+<p>微信扫描关注</p>
+</div>
+<strong class="borderys1"></strong>
+</div>
+</li>
+<li class="li3" id="zkl">
+<a target="_blank" href="https://www.gongchang.com/guestbook/"><span class="icon3"></span><div class="animat zktx"><b>用户反馈</b><strong class="borderys2"></strong></div></a></li>
+<li class="li4" style="display: none;" id="zkl"><span class="icon4"></span><div class="animat zktx"><b>返回顶部</b><strong class="borderys2"></strong></div></li>
+</ul>
+</div>
+<script type="text/javascript">
+    <!--
+    !function() {
+        var l = $(document),
+            o = $(window),
+            i = $(".float-r .li4");
+        i.click(function() {
+            $("body,html").animate({
+                    scrollTop: 0
+                },
+                500)
+        });
+        o.scroll(function() {
+            l.scrollTop() >= 300 ? $(".float-r .li4").slideDown(300) : $(".float-r .li4").slideUp(100)
+        })
+    } ();
+    -->
+</script>
+<script language="javascript" src="//wt.zoosnet.net/LR/servkind.aspx?id=LRW77021783&lng=cn"></script>
+<script type="text/javascript">
+    <!--
+    //输出HTML函数，技术人员可以修改为自己想要的样式
+    var LR_ServKindlistHtml='';
+    function outputServKindlist(name,id,state) {
+        var text = '',
+            className = '';
+        if (state === 2 || state === 1) {
+            text = '繁忙';
+            className = 'online';
+        }
+        if (state === 0) {
+            text = '离线';
+            className = 'offline';
+        }
+        if(state >= 3) {
+            LR_ServKindlistHtml += '<div class="s-item">' + unescape(name.replace(/\+/g,'%20'))
+                + '<a href="javascript:openZoosWindow_olist(\'chatwin\',\'&skid='+id+'&sk='+name+'&e='+name+'\')" target="_self"><span class="online">在线</span></a></div>';
+        } else {
+            LR_ServKindlistHtml += '<div class="s-item">' + unescape(name.replace(/\+/g, '%20'))
+                + '<a href="javascript:;" target="_self"><span onclick=openZoosWindow_olist(\'sendnote\',\'&skid=' + id + '&sk=' + name + '&e=' + name + '\') class="' + className + '">' + text + '</span></a></div>';
+        }
+    }
+    if(typeof(ServerKindArray) != 'undefined') {
+        for(i = 0; i < ServerKindArray.length;i ++)
+        {
+            outputServKindlist(ServerKindArray[i].name, ServerKindArray[i].id, ServerKindArray[i].state);
+        }
+    }
+    //-->
+</script>
+<script language="javascript" src="//wt.zoosnet.net/JS/LSJS.aspx?siteid=LRW77021783&lng=cn"></script>
+<script language="javascript">
+    <!--
+    if(typeof(LiveReceptionCode_isonline) !== 'undefined') {
+        LR_GetObj('LR_ServKindlist_Div').innerHTML = LR_ServKindlistHtml;
+    }
+    //-->
+</script><script type="text/javascript">
+if(get_cookie('auth')) {
+  $('.xh_dl')[0].className = 'xh_dl_no';
+  $('.xh_dl_2_no')[0].className = 'xh_dl_2';
+  $('.xh_dl_x')[0].className = 'xh_dl_no';
+  $('.xh_dl_x_2_no')[0].className = 'xh_dl_2';
+}
+</script>
+<script type="text/javascript">
+var destoon_userid = 0;
+var destoon_username = '';
+var destoon_message = 0;
+var destoon_chat = 0;
+var destoon_cart = get_cart();
+var xh_member = '';
+var xh_memberimg = '';
+var oauth_site = '';
+var oauth_user = '';
+xh_member += (oauth_user && oauth_site) ? '<img src="https://www.gongchang.com/api/oauth/'+oauth_site+'/ico.png" align="absmiddle"/> 欢迎，<strong>'+oauth_user+'</strong> | <a href="https://www.gongchang.com/api/oauth/'+oauth_site+'/index.php?time=1558358024">绑定帐号</a> | <a href="https://user.gongchang.com/l.php">注销登录</a>' : '欢迎来到世界工厂网！&nbsp;&nbsp;<a class="login" href="https://user.gongchang.com/l.php">请登录</a> | <a class="login" href="https://user.gongchang.com/r.php">免费注册</a>';
+xh_memberimg += '<img src="https://www.gongchang.com/skin/v3_6/css/img/head_picture.png" class="brand_img"/>';
+$('#xh_member').html(xh_member);
+$('#xh_memberimg').html(xh_memberimg);
+$('#destoon_cart').html(destoon_cart > 0 ? '<strong>'+destoon_cart+'</strong>' : 0);
+</script>
+<script charset="utf-8"  type="text/javascript" src="//static.gcimg.net/atm/dt/global/tongji/1.0.0/src/tj.js"></script>
+<script charset="utf-8"  type="text/javascript" src="//static.gcimg.net/atm/dt/global/tongji/1.0.0/src/tj-v36.js"></script>
+</body>
+</html>

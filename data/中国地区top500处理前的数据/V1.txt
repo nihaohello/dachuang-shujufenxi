@@ -1,0 +1,4677 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="keywords" content="大运之河,洪凯作曲,三番作曲,黄艳首唱">
+<meta name="description" content="建大运河文化带,江苏拿出新作为 大运之河 黄艳">
+<title>大运之河 黄艳首唱-第一视频-音乐</title>
+<link href="http://static.v1.cn/v1cn/web2017/css/v1commStyle.css" rel="stylesheet" type="text/css">
+<link href="http://static.v1.cn/v1cn/web2017/css/v1usercenterStyle.css" rel="stylesheet" type="text/css">
+<script src="http://static.v1.cn/js/jquery-1.11.3.min.js"></script>
+<script src="/static/js/countUp.js"></script>
+<script src="/static/js/commonfunction.js"></script>
+<script src="http://static.v1.cn/act/liulianvr/app2.0/layer/layer.js"></script>
+
+<link href="http://static.v1.cn/v1cn/web2017/css/v1channelStyle.css" rel="stylesheet" type="text/css">
+<link href="http://static.v1.cn/v1cn/web2017/css/v1reg_loginStyle.css" rel="stylesheet" type="text/css">
+
+</head>
+<body>
+<div class="wrapper">
+  <div class="headerWrap">
+    <div class="header">
+      <div class="headerL">
+
+        <ul class="topNav">
+          <li><a href="/">头条</a></li>
+          <li><a href="http://toujiang.v1.cn/" target="_blank">投将</a></li>
+          <li><a href="/miaoping/">秒评</a></li>
+                              	<li><a href="/zrtt/">昨日头条</a></li>
+                                        	<li><a href="/xinwen/">新闻</a></li>
+                                        	<li><a href="/shehui/">社会</a></li>
+                                        	<li><a href="/yule/">娱乐</a></li>
+                                        	<li><a href="/gaoxiao/">搞笑</a></li>
+                                        	<li><a href="/yuanchuang/">历史</a></li>
+                                        	<li><a href="/lvyou/">旅游</a></li>
+                            </ul>
+                <div class="topNavMoreBt">更多
+          <div class="topNavMoreMenu gray">
+                            	          	<a href="/caijing/">财经</a>
+	                                      	          	<a href="/meishi/">美食</a>
+	                                      	          	<a href="/qiche/">汽车</a>
+	                                      	          	<a href="/yinyue/">音乐</a>
+	                                      	          	<a href="/yingshi/">影视</a>
+	                                      <a href="http://vr.v1.cn/" target="_blank">VR</a>
+              <a href="http://www.liangziport.com/" target="_blank">量子港</a>
+          </div>
+        </div>
+              </div>
+      <div class="headerR_wrap">
+        <div class="headerR">
+          <ul class="operation">
+                            <li><a href="/user/login" class="icoBt icoUser">登录</a></li>
+                        <li><a href="javascript:void(0)" class="icoBt icoBt1" id="cyy_upload">上传</a></li>
+            <li><a target="_blank" href="http://weibo.com/myv1" class="icoBt icoBt2">微博</a></li>
+            <li><a target="_blank" href="http://apps.v1.cn/" class="icoBt icoBt3">APP</a></li>
+            <li id="moreMenu"><a href="javascript:" class="icoBt icoBt4">更多</a>
+              <div class="moreMenuList">
+                <ul>
+                    <li><a href="http://ir.v1.cn/index/#/business">关于我们</a></li>
+                  <li><a href="http://ir.v1.cn/index/#/investor/investor#ContactInfo">联系我们</a></li>
+                  <li><a href="https://www.liepin.com/company/9113901/">加入我们</a></li>
+                  <li><a href="http://www.12377.cn/" target="_blank">廉洁举报</a></li>
+                  <li><a href="http://pc.v1.cn/vodone/aboutus/law/protocol.html">用户协议</a></li>
+                </ul>
+              </div>
+            </li>
+          </ul>
+                 </div>
+      </div>
+    </div>
+  </div>
+<script>
+    $(function(){
+        $("#cyy_logut").click(function(){
+            $.ajax({
+                type:'get',
+                url:'/user/signOut',//路径
+                dataType:'json',
+                data:{
+                },
+                success:function(msg){
+                    if(msg.code==200){
+                        layer.msg('删除成功');
+                    }else{
+                        layer.msg('删除失败');
+                    }
+                }  
+            })
+        });
+        $("#cyy_upload").click(function(){
+            if(0){
+                isauth = "0";
+                if(isauth=='1'){ 
+                    window.location.href='/uploadtx/upload';
+                }else{
+                    window.location.href='/authStatus/authOne';
+                }
+            }else{
+                window.location.href='/user/login';
+            }
+            
+        });
+    });
+</script>
+  <!--user center begin-->
+    	<div class="conMainWrap"> 
+	  
+    <!--conHeader-->
+    <div class="conHeader">
+        <a href="/" class="logo">第一视频</a>
+        <a href="http://toujiang.v1.cn/" class="toujiangLogo" target="_blank">投将</a>
+      <div class="searchBoxR">
+        <input class="searchInp" type="text" id="searchWordNew" value="搜你喜欢" onfocus="if (value =='搜你喜欢'){value =''}" onblur="if (value ==''){value='搜你喜欢'}">
+        <a href="javascript:void(0)" class="searchBt"></a></div>
+    </div>
+    <!--conHeader end-->
+    
+    <script>
+    $(function(){
+        $('.searchBt').click(function(){
+			var val = $.trim($('#searchWordNew').val());
+			if(val && val != '搜你喜欢')
+			{
+				window.open('/search/getList?keyword='+val)
+			}
+			return false;
+		})
+    })
+    </script>   
+   <link href="http://static.v1.cn/v1cn/web2017/css/v1playStyle.css" rel="stylesheet" type="text/css">
+   
+    <div class="mainBox shadowBox">
+	    <div class="videoTop">
+	     	<h2>大运之河 黄艳首唱</h2>
+		    <div class="miniBanner">
+				<script type='text/javascript'><!--//<![CDATA[ 
+var m3_u = (location.protocol=='https:'?'http://luckstatic.v1.cn/st/10000/1500/1464.js':'http://luckstatic.v1.cn/st/10000/1500/1464.js');
+document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+document.write ("?rand="+new Date().getTime());
+document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+		    </div>
+	     </div>
+	     <!--20170512 修改-->
+      <input type="hidden" id="vid" value="15650780" />
+      <input type="hidden" id="last_id" value="0" />
+      <!--videoMod begin-->
+      <div class="videoMod">
+        <div class="videoBox">
+          <object width="820" height="470" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,115,0" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" id="play1">
+            <param name="movie" value="http://www.v1.cn/player/cloud/cloud_player.swf">
+            <param name="bgcolor" value="#000000">
+            <param name="FlashVars" value="id=2308583&amp;startSwfUrl=http://www.v1.cn/player/cloud/loading.swf&amp;videoUrl=http://f10.v1.cn/site/15650780.mp4.f30.mp4">
+            <param name="allowScriptAccess" value="always">
+            <param name="allowFullScreen" value="true">
+            <param name="wmode" value="opaque">
+            <embed width="820" height="470" src="http://www.v1.cn/player/cloud/cloud_player.swf" flashvars="id=2308583&amp;startSwfUrl=http://www.v1.cn/player/cloud/loading.swf&amp;videoUrl=http://f10.v1.cn/site/15650780.mp4.f30.mp4" name="play1" bgcolor="#000000" allowscriptaccess="always" allowfullscreen="true" wmode="opaque" cover="http://f10.v1.cn/site/15650780.mp4.0_0.p0.jpg" type="application/x-shockwave-flash">
+          </object>
+        </div>
+        
+                <!--videoList begin-->
+        <div class="videoLike">
+          <div class="videoList" id="scrollBox">
+            <ul>
+			              
+              <li><a target="_blank" href="/video/14391169.shtml">
+                <p class="pic">
+                	<span class="tipTime">03:46</span>
+                	<img src="http://img.mms.v1.cn/static/mms/images//201609141436092525.jpg" >
+                </p>
+                <div class="txt">于朦胧新歌《无罪》MV首播 </div>
+                </a>
+              </li>
+                          
+              <li><a target="_blank" href="/video/14362638.shtml">
+                <p class="pic">
+                	<span class="tipTime">03:37</span>
+                	<img src="http://img.mms.v1.cn/static/mms/images//201608031537463980.jpg" >
+                </p>
+                <div class="txt">新鲜出炉自杀小队电影主题曲《异教徒》 </div>
+                </a>
+              </li>
+                          
+              <li><a target="_blank" href="/video/14362429.shtml">
+                <p class="pic">
+                	<span class="tipTime">04:13</span>
+                	<img src="http://img.mms.v1.cn/static/mms/images//201608031047142837.jpg" >
+                </p>
+                <div class="txt">独角戏(Monodrama)完整版-张艺兴(EXO) </div>
+                </a>
+              </li>
+                          
+              <li><a target="_blank" href="/video/14362112.shtml">
+                <p class="pic">
+                	<span class="tipTime">05:00</span>
+                	<img src="http://img.mms.v1.cn/static/mms/images//201608021816129920.jpg" >
+                </p>
+                <div class="txt">缪杰-午夜夕阳（官方正式版） </div>
+                </a>
+              </li>
+                          
+              <li><a target="_blank" href="/video/14361776.shtml">
+                <p class="pic">
+                	<span class="tipTime">02:17</span>
+                	<img src="http://img.mms.v1.cn/static/mms/images//201608020947083147.jpg" >
+                </p>
+                <div class="txt">《你是偶像》里面有你从没见过的刘嘉玲的一面 </div>
+                </a>
+              </li>
+                          
+              <li><a target="_blank" href="/video/14361713.shtml">
+                <p class="pic">
+                	<span class="tipTime">03:42</span>
+                	<img src="http://img.mms.v1.cn/static/mms/images//201608021014442124.jpg" >
+                </p>
+                <div class="txt">《不要再孤单》-微微一笑很倾城 </div>
+                </a>
+              </li>
+                          
+              <li><a target="_blank" href="/video/14361711.shtml">
+                <p class="pic">
+                	<span class="tipTime">03:58</span>
+                	<img src="http://img.mms.v1.cn/static/mms/images//201608021739376407.jpg" >
+                </p>
+                <div class="txt">《寂寞的温度》-包伟铭 </div>
+                </a>
+              </li>
+                          
+              <li><a target="_blank" href="/video/14361714.shtml">
+                <p class="pic">
+                	<span class="tipTime">04:06</span>
+                	<img src="http://img.mms.v1.cn/static/mms/images//201608021036005221.jpg" >
+                </p>
+                <div class="txt">《说走就走》-信 </div>
+                </a>
+              </li>
+                          </ul>
+          </div>
+        </div>
+        <!--videoList end--> 
+                
+      </div>
+      <!--videoMod end-->
+      <div class="video_infoBar"> <span class="publishDate">2019-05-14 12:49:50</span>
+        <!--        	 <p class="favoritesOk">-->
+<!--        		已收藏-->
+<!--        	 </p>-->
+        <!--        	<p class="favorites">-->
+<!--        		收藏-->
+<!--        	</p>-->
+                <!--已收藏时用 <p class="favorites ok">-->
+      </div>
+    </div>
+    
+    <div class="hr30"></div>
+    
+    <!--conMainL begin-->
+    <div class="conMainL">
+      <div class="shadowBox padBoxLr uploadUserBox">
+        <div class="userTx"><img src="http://qzapp.qlogo.cn/qzapp/101400103/23D739EF7AE589C0DC99DFABBC7BE36F/30" alt=""></div>
+        <div class="txt" id="8811108">
+        <span class="addBt">+</span>
+          <p class="userName"><a href="#">三番音悦 </a></p>
+          <p>这家伙很懒，什么也没有留下</p>
+        </div>
+      </div>
+      
+      <!-- 广告 -->
+      <div class="bannerCon">
+      <script type='text/javascript'><!--//<![CDATA[ 
+var m3_u = (location.protocol=='https:'?'http://luckstatic.v1.cn/st/10000/1500/1469.js':'http://luckstatic.v1.cn/st/10000/1500/1469.js');
+document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+document.write ("?rand="+new Date().getTime());
+document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+      </div>
+      <!-- 广告 -->
+      
+      <div class="shadowBox padBoxLr">
+        <div class="commentTit">猜你喜欢</div>
+		 <ul class="likeList"></ul> 
+      </div>
+      
+      <!-- 广告 -->
+      <div class="bannerCon">
+      <script type='text/javascript'><!--//<![CDATA[ 
+var m3_u = (location.protocol=='https:'?'http://luckstatic.v1.cn/st/10000/1500/1467.js':'http://luckstatic.v1.cn/st/10000/1500/1467.js');
+document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+document.write ("?rand="+new Date().getTime());
+document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+      </div>
+      <!-- 广告 -->
+            <div class="shadowBox padBoxLr">
+        <div class="commentTit" id="commentTit">评论</div>
+        <div class="commentBox">
+          <textarea id="commentcontent" onfocus="if (value =='说点什么吧'){value =''}" onblur="if (value ==''){value='说点什么吧'}">说点什么吧</textarea>
+        </div>
+        <div class="submitBar">
+          <button class="submitBt fr">发表评论</button>
+        </div>
+
+        <!--plList begin-->
+        <ul class="plList"></ul>
+        <!--plList end-->
+        
+        <div class="listMoreBar" style="display:none;"><span>点击查看更多</span></div>
+        
+        <div class="hr20"></div>
+      </div>
+            </div>
+    <!--conMainL end--> 
+    <!--conMainR begin-->
+    <div class="conMainR">
+      <div class="sideBanner s1">
+      	<script type='text/javascript'><!--//<![CDATA[ 
+var m3_u = (location.protocol=='https:'?'http://luckstatic.v1.cn/st/10000/1500/1465.js':'http://luckstatic.v1.cn/st/10000/1500/1465.js');
+document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+document.write ("?rand="+new Date().getTime());
+document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+      </div>
+      <div class="sideBanner s2">
+      	<script type='text/javascript'><!--//<![CDATA[ 
+var m3_u = (location.protocol=='https:'?'http://luckstatic.v1.cn/st/10000/1500/1468.js':'http://luckstatic.v1.cn/st/10000/1500/1468.js');
+document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+document.write ("?rand="+new Date().getTime());
+document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+      </div>
+      <div class="sideBanner s3">
+      	<script type='text/javascript'><!--//<![CDATA[ 
+var m3_u = (location.protocol=='https:'?'http://luckstatic.v1.cn/st/10000/1500/1466.js':'http://luckstatic.v1.cn/st/10000/1500/1466.js');
+document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+document.write ("?rand="+new Date().getTime());
+document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+      </div>
+    </div>
+    <!--conMainR end-->
+    <div class="hr20"></div>
+  </div>
+
+<!--20170522 begin-->
+<div id="popBanner">
+    <script type='text/javascript'><!--//<![CDATA[ 
+var m3_u = (location.protocol=='https:'?'http://luckstatic.v1.cn/st/10000/1500/1470.js':'http://luckstatic.v1.cn/st/10000/1500/1470.js');
+document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+document.write ("?rand="+new Date().getTime());
+document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+</div>
+<!--20170522 end-->  
+ 
+<!--20170516 begin-->
+<div class="loginBox" style="display: none;" id="loginBox"> 
+      <!--<div class="prompt error" style="visibility: hidden;"><span>账号/密码错误</span></div>     不显示时用style="visibility: hidden;" -->
+      <div class="prompt error" style="display: none"><span>账号/密码错误</span></div>
+      <ul class="loginForm">
+        <li>
+          <input type="text" class="input" id="username"  placeholder="账号/手机号" >
+        </li>
+        <li>
+          <div class="placeholder">密码</div>
+          <input type="password" class="input passwordInput" id="password" placeholder="密码">
+        </li>
+        <li class="yzm">
+          <input type="text" class="input2" id="code" placeholder="验证码">
+          <p class="yzmBox">
+          <img  width="120" height="50" src="/user/getValidateCode" alt="" onclick= this.src="/user/getValidateCode?tm="+Math.random() style="cursor: pointer;" title="看不清？点击更换另一个验证码。"/>  
+          </p>
+        </li>
+        <li class="gray"><a href="/user/forgetPass" class="fr">忘记密码</a>
+          <input type="checkbox" class="checkbox" id="checkbox">
+          &nbsp;一个月内免登录</li>
+        <li><a href="javascript:;" class="loginBt white">登录</a></li>
+      </ul>
+      <div class="loginType">
+          <a target="_blank" href="https://api.weibo.com/oauth2/authorize?client_id=674964345&redirect_uri=http%3A%2F%2Fwww.v1.cn%2FThirdLogin%2Fweibocallback&response_type=code" class="t1"> 微博</a>
+
+          <a href="javascript:" target="_blank" class="t2" onclick="window.open('/ThirdLogin/qqReq','TencentLogin','')"> QQ</a>
+<!--          <a href="#" class="t3"> 微信</a>-->
+      </div>
+      <div class="loginEnd blue"><a href="/user/reg">我要注册</a></div>
+    </div>
+<script src="http://static.v1.cn/v1cn/web2017/js/v1Site_login.js"></script>
+<script>
+$(function(){
+    $(".loginBt").click(function(){
+          var username = $("#username").val();
+          var password = $("#password").val();
+          var code = $("#code").val();
+          var checkbox = $("#checkbox").is(':checked');
+          if(username==''){
+              $(".error").show().find('span').html("手机号或用户名不能为空");
+              return false;
+          }
+          if(password==''){
+              $(".error").show().find('span').html("密码不能为空");
+              return false;
+          }
+          if(code==''){
+              $(".error").show().find('span').html("验证码不能为空");
+              return false;
+          }
+          $.ajax({
+                type:'POST',
+                url:'/user/loginOper',//路径
+                data:{  
+                    username:username,
+                    password:password,
+                    code:code,
+                    checkbox_status:checkbox,                              //是否选中1个月登录有效
+                },  
+                dataType:'json',
+                success:function(msg){
+                    if(msg.code==200)
+                    {
+                    	location.reload();
+                    	return false;
+                    }else{
+                        $(".error").show().find('span').html(msg.info);
+                        return false;
+                    }
+                }  
+            })
+    });
+      
+})
+
+function loginPop() 
+{
+	layer.open({
+	  type: 1, 
+	  title: "登录",
+	 // area: ['402px', '533px'],
+	  content: $('#loginBox')
+	}); 	
+}
+</script>
+<!--20170516 end-->  
+  
+<script src="http://static.v1.cn/v1cn/web2017/js/jquery.nicescroll.js"></script>  
+<script>
+$('#scrollBox').niceScroll({
+	cursorcolor: "#f5f7fa", //# 光标颜色
+	cursoropacitymax: 1, //改变不透明度非常光标处于活动状态（scrollabar“可见”状态），范围从1到0
+	touchbehavior: false, //使光标拖动滚动像在台式电脑触摸设备
+	cursorwidth: "5px", //像素光标的宽度
+	cursorborder: "0", // 	游标边框css定义
+	cursorborderradius: "0px", //以像素为光标边界半径
+	autohidemode: false //是否隐藏滚动条
+});
+
+$(".plList").delegate(".huifuBt","click",function(){
+	$(".plList li").each(function(i){
+		if($(this).find('.huifuBox'))
+			$(this).find('.huifuBox').remove();
+	})
+
+	var name = $(this).siblings('.userName').text();
+
+	var html = '<div class="huifuBox">';
+    html += '<div class="commentBox2"><textarea value="回复'+name+'">回复'+name+'</textarea></div>';
+    html += '<div class="submitBar"><button class="cancelBt fr">取消</button>';
+    html += '<button class="huifuBt2 fr">回复</button></div></div>';
+
+	$(this).parent(".txt").append(html);
+});
+
+$(".plList").delegate(".cancelBt","click",function(){
+	$(this).parents('.huifuBox').remove();
+
+});
+
+$(".plList").delegate("textarea", "focus",function(){
+	var name = $(this).parents(".txt").find('.userName').text();  
+	if ($(this).text() =='回复'+name)
+	{
+    	$(this).empty();
+  	} 
+
+});
+
+$(".plList").delegate("textarea", "blur",function(){
+	var name = $(this).parents(".txt").find('.userName').text();   
+	if ($(this).text() =='')
+	{
+    	$(this).text('回复'+name);
+  	} 
+
+});
+
+//收藏
+$(".video_infoBar").delegate(".favorites", "click",function(){	
+	var obj = $(this);
+	$.post("/collection/setCollectVideo", {vid: $('#vid').val()},function(data){
+	     if(data.code == 200)
+	     {
+	    	 obj.removeClass("favorites").addClass('favoritesOk').html('已收藏');
+		 }
+	     else if(data.code == 201)
+	     {
+	    	 loginPop();
+			return false;
+		 }
+	   }, "json");
+});	
+
+//取消收藏
+$(".video_infoBar").delegate(".favoritesOk", "click",function(){
+	var obj = $(this);
+	$.post("/collection/unSetcollectVideo", {vid: $('#vid').val()},function(data){
+	     if(data.code == 200)
+	     {
+	    	 obj.removeClass("favoritesOk").addClass('favorites').html('收藏');
+		 }
+	     else if(data.code == 201)
+	     {
+	    	 loginPop();
+			return false;
+		 }
+	   }, "json");
+});	
+
+//关注
+$(".addBt").click(function () {
+	var tuid = $(this).parents(".txt").attr('id');  
+	$.post("/followFans/addSubscription", {tuid: tuid},function(data){
+	     if(data.code == 200)
+	     {
+	    	 $(".addBt").removeClass("addBt").addClass('addBt_ed');
+		 }
+	     else if(data.code == 201)
+	     {
+	    	 loginPop();
+			return false;
+		 }
+	     else
+	     {
+	    	alert(data.info);
+			return false;
+		 }
+	   }, "json");
+});	
+
+//取消关注
+$(".addBt_ed").click(function () {
+	var tuid = $(this).parents(".txt").attr('id');
+	$.post("/followFans/cancelSubscription", {tuid: tuid},function(data){
+		 if(data.code == 200)
+	     {
+	    	 $(".addBt_ed").removeClass("addBt_ed").addClass('addBt');
+		 }
+	     else if(data.code == 201)
+	     {
+	    	 loginPop();
+			return false;
+		 }
+	     else
+	     {
+	    	alert(data.info);
+			return false;
+		 }
+	   }, "json");
+});	
+
+//发表评论
+$(".submitBt").click(function () {
+	var content = $.trim($('#commentcontent').val());
+	if(content)
+	{
+		$.post("/comment/addComment",{object_id: $('#vid').val(), content: content, parent_id:0},function(data){
+				     if(data.code == 201)
+				     {
+				    	 loginPop();
+				    	 return false;
+					 }
+				     else if (data.code == 200)
+				 	 {
+					 	 var html = '';
+					 	 	html +='<li>';
+						 	html +='<div class="pic"><img alt="" src="'+data.userinfo.data.picture+'"></div>';
+						 	html +='<div class="txt" id="'+data.comment_id+'" data="0"> <span class="huifuBt">回复</span><span class="zanIcoBt fr">0</span>';
+							if(data.userinfo.data.is_vip != 0)
+							{
+								html +='<p class="userName vip">'+data.userinfo.data.nickname+'</p>';
+							}
+							else
+							{
+								html +='<p class="userName">'+data.userinfo.data.nickname+'</p>';
+							}
+						 	html +='<div class="plConBox">'+content+'</div>';
+						 	html +='<p class="gray2">'+getNowFormatDate()+'</p>';
+						 	html +='</div></li>';
+
+					    	$('.plList').prepend(html);
+					    	$('#commentcontent').val('说点什么吧');
+					 }
+				     else if(data.code == 203)
+				     {
+					 	alert(data.info);
+					 	return false;
+					 }
+
+			   }, "json");
+	}
+	else
+		return false;
+});	
+
+//回复评论
+$(".plList").delegate(".huifuBt2","click",function(){
+	var content = $.trim($(this).parents('.txt').find('textarea').val());
+	var parent_id = $.trim($(this).parents('.txt').attr('id'));
+	var userName = $.trim($(this).parents('.txt').find('.userName').text());
+	var huifuBox = $(this).parents('.huifuBox');
+	if(content)
+	{
+		$.post("/comment/addComment",{object_id: $('#vid').val(), content: content, parent_id: parent_id},function(data){
+				     if(data.code == 201)
+				     {
+				    	 loginPop();
+				    	 return false;
+					 }
+				     else if (data.code == 200)
+				 	 {
+					 	 var html = '';
+					 	 	html +='<li>';
+						 	html +='<div class="pic"><img alt="" src="'+data.userinfo.data.picture+'"></div>';
+						 	html +='<div class="txt" id="'+data.comment_id+'" data="0"> <span class="huifuBt">回复</span><span class="zanIcoBt fr">0</span>';
+							if(data.userinfo.data.is_vip != 0)
+							{
+								html +='<p class="userName vip">'+data.userinfo.data.nickname+'</p>';
+							}
+							else
+							{
+								html +='<p class="userName">'+data.userinfo.data.nickname+'</p>';
+							}
+							
+							html +='<div class="huifuTit">'+data.userinfo.data.nickname+'回复了'+userName+'</div>';
+						 	html +='<div class="plConBox">'+content+'</div>';
+						 	html +='<p class="gray2">'+getNowFormatDate()+'</p>';
+						 	html +='</div></li>';
+
+					    	$('.plList').prepend(html);
+
+							//去掉回复框
+					    	huifuBox.remove();
+					 }
+				     else if(data.code == 203)
+				     {
+					 	alert(data.info);
+					 	return false;
+					 }
+
+			   }, "json");
+	}
+	else
+		return false;
+});
+
+
+//评论点赞
+$(".plList").delegate(".zanIcoBt","click",function(){
+	var comment_id = $.trim($(this).parents('.txt').attr('id'));
+	var obj = $(this);
+	var num = $(this).parents('.txt').attr('data');
+	if(num > 0)
+		return false;
+	
+	$.post("/comment/upDown", {comment_id: comment_id, type_id:1},function(data){
+	     if(data.code == 200)
+	     {
+	    	 obj.addClass('zanClick');
+	    	 obj.text(eval(obj.text()+"+1"));
+	    	 obj.parents('.txt').attr('data', eval(num+"+1"));
+		 }
+	     else if(data.code == 201)
+	     {
+	    	 loginPop();
+			return false;
+		 }
+	     else if(data.code == 203)
+	     {
+			alert(data.info);
+			obj.parents('.txt').attr('data', eval(num+"+1"));
+			return false;
+		 }
+	   }, "json");
+});
+
+//关闭弹窗广告
+$(".closeBt").on('click',function () { $(this).parent().hide();}); 
+
+$(function(){
+//	//获取评论数
+//	if($('#vid').val())
+//	{
+//		$.post("/comment/getNum4Ajax", {vid: $('#vid').val()},function(data){
+//		     if(data.msg == 1)
+//		     {
+//				$('#commentTit').html('评论('+data.num+')');
+//			 }
+//		   }, "json");
+//	}
+
+	if($('#vid').val())
+	{
+		$.post("/play/add", {vid: $('#vid').val()},function(data){
+		   }, "json");
+	}
+
+	//猜你喜欢
+	$.post("/index/getGuessList4Ajax", {},function(data){
+	     if(data.msg == 1)
+	     {
+	    	 var html = '';
+	    		$.each(data.list, function(i){
+	    			html += '<li><div class="pic">';
+	    			html += '<a href="'+data.list[i].link+'"  target="_blank">';
+	    			html += '<img src="'+data.list[i].pic+'"></a>';
+	    			html += '</div><div class="tit"><a href="'+data.list[i].link+'" target="_blank">'+data.list[i].title+'</a></div></li>';
+		    	})
+
+	    		$('.likeList').append(html);
+		 }
+	   }, "json");
+	
+	getCommentList();
+
+	$('.listMoreBar').click(function(){
+		getCommentList();
+	})
+
+})
+
+function getCommentList()
+{
+	if($('#vid').val())
+	{
+		$.post("/comment/getList4Ajax", {vid: $('#vid').val(), last_id: $('#last_id').val()},function(data){
+		     if(data.msg == 1)
+		     {
+		    	 var html = '';
+		    		$.each(data.list, function(i){
+		    			html += '<li><div class="pic"><img src="'+data.list[i].picture+'" alt=""></div>';
+		    			html += '<div class="txt" id="'+data.list[i].comment_id+'"> <span class="huifuBt">回复</span><span class="zanIcoBt fr zanClick">'+data.list[i].support_num+'</span>';
+
+		    			if(data.list[i].vip != 0)
+		    			{
+		    				html += '<p class="userName vip">'+data.list[i].nickname+'</p>';
+		    			}
+		    			else
+		    			{
+		    				html += '<p class="userName">'+data.list[i].nickname+'</p>';
+		    			}
+
+		    			if(data.list[i].to_userid != 0)
+		    			{
+		    				html += '<div class="huifuTit">'+data.list[i].nickname+'回复了'+data.list[i].to_nickname+'</div>';
+		    			}
+
+		    			html += '<div class="plConBox">'+data.list[i].content+'</div>';
+		    			html += '<p class="gray2">'+data.list[i].create_time+'</p>';
+		    			html += '</div></li>';
+
+
+		    		})
+
+		    		$('.plList').append(html);
+		    		var last_id = eval(data.list)[eval(data.list).length-1]["comment_id"];
+		    		$('#last_id').val(last_id);
+		    		$('.listMoreBar').show();
+			 }
+		     else if(data.msg == 2)
+		     {
+		     	$('.listMoreBar').remove();
+		     }
+			     
+		   }, "json");
+	}
+}
+
+function getNowFormatDate() {
+    var date = new Date();
+    var seperator1 = "-";
+    var seperator2 = ":";
+    var month = date.getMonth() + 1;
+    var strDate = date.getDate();
+    if (month >= 1 && month <= 9) {
+        month = "0" + month;
+    }
+    if (strDate >= 0 && strDate <= 9) {
+        strDate = "0" + strDate;
+    }
+    var currentdate = date.getFullYear() + seperator1 + month + seperator1 + strDate
+            + " " + date.getHours() + seperator2 + date.getMinutes()
+            + seperator2 + date.getSeconds();
+    return currentdate;
+} 
+</script>
+ <!--footer begin-->
+  <div class="footerWrap">
+    <div class="footerIndexMain">
+    <div class="footerNav">
+      <ul>
+        <li><a target="_blank" href="http://ir.v1.cn/index/#/information">集团介绍</a></li>
+        <li><a target="_blank" href="http://ir.v1.cn/index/#/news">新闻中心</a></li>
+        <!--<li><a target="_blank" href="http://pc.v1.cn/sitemap/">网站地图</a></li>-->
+        <li><a target="_blank" href="http://ir.v1.cn/index/#/business">关于我们</a></li>
+        <li><a target="_blank" href="https://www.liepin.com/company/9113901/">诚聘英才</a></li>
+        <li><a target="_blank" href="http://www.v1.cn/Qualification/privacy.html">隐私政策</a></li>
+        <li><a target="_blank" href="http://ir.v1.cn/index/#/investor/investor#ContactInfo">联系我们</a></li>
+      </ul>
+    </div>
+    © 2017  第一视频公司版权所有<br>
+    <a target="_blank" href="http://www.v1.cn/Qualification/xinwen.html?from=v1">互联网新闻信息服务许可证(国新网许可证编号11220180006)</a>　<a target="_blank" href="http://www.v1.cn/Qualification/icp.html" >电信与信息服务业务经营许可证(京ICP证050390号)</a>　<a href="http://www.v1.cn/Qualification/jmzz.shtml">广播电视节目制作经营许可证 (广媒)字第150号</a><br>
+    统一社会信用代码：911101087754533048  <a target="_blank" href="http://sq.ccm.gov.cn:80/ccnt/sczr/service/business/emark/toDetail/57DBA3B393E0C00EE0530140A8C0691D"> 网络文化经营许可证：京网文【2018】10244-931号</a>　　网络出版服务许可证：（总）网出证（京）字第194号<br><a target="_blank" href="http://www.v1.cn/Qualification/shiting.html" >信息网络传播视听节目许可证(0105136)</a>  测绘资质证书(甲测资字1100561)  增值电信业务经营许可证B2-20050381<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002002116" class="gonganBei">京公网安备：11000002002116</a><br>
+    邮箱:service@v1.cn　　热线: 400-006-4571　　不良信息举报: 010-64706601
+    <div class="wanganList"> <a target="_blank" href="http://www.itrust.org.cn/home/index/itrust_certifi/wm/2775453304"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo1.jpg" ></a> <a target="_blank" href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202005121600020"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo2.jpg" ></a> <a target="_blank" href="http://www.12377.cn/"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo3.jpg" ></a> <a target="_blank" href="http://www.bnia.cn/"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo4.jpg" ></a> <a target="_blank"  href="http://www.cyberpolice.cn"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo5.jpg" ></a> <a target="_blank" href="https://credit.szfw.org/CX20141125005630005718.html"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo6.jpg" ></a> <a target="_blank"  href="http://www.bjwhzf.gov.cn/accuse.do"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo7.jpg" ></a> <a target="_blank"  href="http://www.bjjubao.org/index.htm"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo8.jpg" ></a> <a target="_blank"  href="https://ss.knet.cn/verifyseal.dll?sn=e15101011010860803dsde000000&ct=df&a=1&pa=0.917555071164685"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo9.jpg" ></a></div>
+    </div>
+  </div>
+  <!--footer end-->
+
+</div>
+<script src="http://static.v1.cn/v1cn/web2017/js/v1Site_comm.js"></script>
+<script src="http://static.v1.cn/v1cn/web2017/js/v1Site_miaoping.js"></script>
+<script src="http://static.v1.cn/v1cn/web2017/js/v1Site_focus.js"></script>
+
+<!-- v1统计代码 -->
+<script type="text/javascript">
+cookie={
+set:function(cookieName, cookieValue, expires, path, domain, secure) {
+document.cookie =
+escape(cookieName) + '=' + escape(cookieValue)
++ (expires ? '; expires=' + expires.toGMTString() : '')
++ (path ? '; path=' + path : '')
++ (domain ? '; domain=' + domain : '')
++ (secure ? '; secure' : '');
+},
+get:function(cookieName) {
+var cookieValue = '';
+var posName = document.cookie.indexOf(escape(cookieName) + '=');
+if (posName != 1) {
+var posValue = posName + (escape(cookieName) + '=').length;
+var endPos = document.cookie.indexOf(';', posValue);
+if (endPos != -1) cookieValue = unescape(document.cookie.substring(posValue, endPos));
+else cookieValue = unescape(document.cookie.substring(posValue));
+}
+return (cookieValue);
+}
+}
+if(cookie.get('CookieV1Log')==""){
+v1log=new Date();
+cValue = Math.ceil(((v1log.getTime()*9321+49297) % 233280 /(233280.0)) * 9999999999999999);
+v1log.setTime(v1log.getTime() + 86400000);
+cookie.set('CookieV1Log',cValue,v1log,'','','');
+}
+path = "http://v1log.v1.cn/log.js?page=wap_jrtt&yu="+cookie.get('CookieV1Log')+"&tmp="+Math.round(Math.random()*100000)+"&referer="+document.referrer+"&customSort=wap";
+document.write("<script type=text/javascript src ="+path+" ><\/script> ");
+</script>
+<!-- v1统计代码end -->
+
+<!-- START baidu v1.0 -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fcb44eb450c53c91a1cc1d2511f5919b3' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!-- END baidu v1.0 -->
+<!-- cnzz  -->
+<div style="display:none">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1255096340'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/z_stat.php%3Fid%3D1255096340%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+<style>
+            .layui-layer { background-color:gray; }
+        </style>
+<!-- end cnzz -->
+</body>
+</html>
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="keywords" content="大运之河,洪凯作曲,三番作曲,黄艳首唱">
+<meta name="description" content="建大运河文化带,江苏拿出新作为 大运之河 黄艳">
+<title>大运之河 黄艳首唱-第一视频-音乐</title>
+<link href="http://static.v1.cn/v1cn/web2017/css/v1commStyle.css" rel="stylesheet" type="text/css">
+<link href="http://static.v1.cn/v1cn/web2017/css/v1usercenterStyle.css" rel="stylesheet" type="text/css">
+<script src="http://static.v1.cn/js/jquery-1.11.3.min.js"></script>
+<script src="/static/js/countUp.js"></script>
+<script src="/static/js/commonfunction.js"></script>
+<script src="http://static.v1.cn/act/liulianvr/app2.0/layer/layer.js"></script>
+
+<link href="http://static.v1.cn/v1cn/web2017/css/v1channelStyle.css" rel="stylesheet" type="text/css">
+<link href="http://static.v1.cn/v1cn/web2017/css/v1reg_loginStyle.css" rel="stylesheet" type="text/css">
+
+</head>
+<body>
+<div class="wrapper">
+  <div class="headerWrap">
+    <div class="header">
+      <div class="headerL">
+
+        <ul class="topNav">
+          <li><a href="/">头条</a></li>
+          <li><a href="http://toujiang.v1.cn/" target="_blank">投将</a></li>
+          <li><a href="/miaoping/">秒评</a></li>
+                              	<li><a href="/zrtt/">昨日头条</a></li>
+                                        	<li><a href="/xinwen/">新闻</a></li>
+                                        	<li><a href="/shehui/">社会</a></li>
+                                        	<li><a href="/yule/">娱乐</a></li>
+                                        	<li><a href="/gaoxiao/">搞笑</a></li>
+                                        	<li><a href="/yuanchuang/">历史</a></li>
+                                        	<li><a href="/lvyou/">旅游</a></li>
+                            </ul>
+                <div class="topNavMoreBt">更多
+          <div class="topNavMoreMenu gray">
+                            	          	<a href="/caijing/">财经</a>
+	                                      	          	<a href="/meishi/">美食</a>
+	                                      	          	<a href="/qiche/">汽车</a>
+	                                      	          	<a href="/yinyue/">音乐</a>
+	                                      	          	<a href="/yingshi/">影视</a>
+	                                      <a href="http://vr.v1.cn/" target="_blank">VR</a>
+              <a href="http://www.liangziport.com/" target="_blank">量子港</a>
+          </div>
+        </div>
+              </div>
+      <div class="headerR_wrap">
+        <div class="headerR">
+          <ul class="operation">
+                            <li><a href="/user/login" class="icoBt icoUser">登录</a></li>
+                        <li><a href="javascript:void(0)" class="icoBt icoBt1" id="cyy_upload">上传</a></li>
+            <li><a target="_blank" href="http://weibo.com/myv1" class="icoBt icoBt2">微博</a></li>
+            <li><a target="_blank" href="http://apps.v1.cn/" class="icoBt icoBt3">APP</a></li>
+            <li id="moreMenu"><a href="javascript:" class="icoBt icoBt4">更多</a>
+              <div class="moreMenuList">
+                <ul>
+                    <li><a href="http://ir.v1.cn/index/#/business">关于我们</a></li>
+                  <li><a href="http://ir.v1.cn/index/#/investor/investor#ContactInfo">联系我们</a></li>
+                  <li><a href="https://www.liepin.com/company/9113901/">加入我们</a></li>
+                  <li><a href="http://www.12377.cn/" target="_blank">廉洁举报</a></li>
+                  <li><a href="http://pc.v1.cn/vodone/aboutus/law/protocol.html">用户协议</a></li>
+                </ul>
+              </div>
+            </li>
+          </ul>
+                 </div>
+      </div>
+    </div>
+  </div>
+<script>
+    $(function(){
+        $("#cyy_logut").click(function(){
+            $.ajax({
+                type:'get',
+                url:'/user/signOut',//路径
+                dataType:'json',
+                data:{
+                },
+                success:function(msg){
+                    if(msg.code==200){
+                        layer.msg('删除成功');
+                    }else{
+                        layer.msg('删除失败');
+                    }
+                }  
+            })
+        });
+        $("#cyy_upload").click(function(){
+            if(0){
+                isauth = "0";
+                if(isauth=='1'){ 
+                    window.location.href='/uploadtx/upload';
+                }else{
+                    window.location.href='/authStatus/authOne';
+                }
+            }else{
+                window.location.href='/user/login';
+            }
+            
+        });
+    });
+</script>
+  <!--user center begin-->
+    	<div class="conMainWrap"> 
+	  
+    <!--conHeader-->
+    <div class="conHeader">
+        <a href="/" class="logo">第一视频</a>
+        <a href="http://toujiang.v1.cn/" class="toujiangLogo" target="_blank">投将</a>
+      <div class="searchBoxR">
+        <input class="searchInp" type="text" id="searchWordNew" value="搜你喜欢" onfocus="if (value =='搜你喜欢'){value =''}" onblur="if (value ==''){value='搜你喜欢'}">
+        <a href="javascript:void(0)" class="searchBt"></a></div>
+    </div>
+    <!--conHeader end-->
+    
+    <script>
+    $(function(){
+        $('.searchBt').click(function(){
+			var val = $.trim($('#searchWordNew').val());
+			if(val && val != '搜你喜欢')
+			{
+				window.open('/search/getList?keyword='+val)
+			}
+			return false;
+		})
+    })
+    </script>   
+   <link href="http://static.v1.cn/v1cn/web2017/css/v1playStyle.css" rel="stylesheet" type="text/css">
+   
+    <div class="mainBox shadowBox">
+	    <div class="videoTop">
+	     	<h2>大运之河 黄艳首唱</h2>
+		    <div class="miniBanner">
+				<script type='text/javascript'><!--//<![CDATA[ 
+var m3_u = (location.protocol=='https:'?'http://luckstatic.v1.cn/st/10000/1500/1464.js':'http://luckstatic.v1.cn/st/10000/1500/1464.js');
+document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+document.write ("?rand="+new Date().getTime());
+document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+		    </div>
+	     </div>
+	     <!--20170512 修改-->
+      <input type="hidden" id="vid" value="15650780" />
+      <input type="hidden" id="last_id" value="0" />
+      <!--videoMod begin-->
+      <div class="videoMod">
+        <div class="videoBox">
+          <object width="820" height="470" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,115,0" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" id="play1">
+            <param name="movie" value="http://www.v1.cn/player/cloud/cloud_player.swf">
+            <param name="bgcolor" value="#000000">
+            <param name="FlashVars" value="id=2308583&amp;startSwfUrl=http://www.v1.cn/player/cloud/loading.swf&amp;videoUrl=http://f10.v1.cn/site/15650780.mp4.f30.mp4">
+            <param name="allowScriptAccess" value="always">
+            <param name="allowFullScreen" value="true">
+            <param name="wmode" value="opaque">
+            <embed width="820" height="470" src="http://www.v1.cn/player/cloud/cloud_player.swf" flashvars="id=2308583&amp;startSwfUrl=http://www.v1.cn/player/cloud/loading.swf&amp;videoUrl=http://f10.v1.cn/site/15650780.mp4.f30.mp4" name="play1" bgcolor="#000000" allowscriptaccess="always" allowfullscreen="true" wmode="opaque" cover="http://f10.v1.cn/site/15650780.mp4.0_0.p0.jpg" type="application/x-shockwave-flash">
+          </object>
+        </div>
+        
+                <!--videoList begin-->
+        <div class="videoLike">
+          <div class="videoList" id="scrollBox">
+            <ul>
+			              
+              <li><a target="_blank" href="/video/14353012.shtml">
+                <p class="pic">
+                	<span class="tipTime">04:24</span>
+                	<img src="http://img.mms.v1.cn/static/mms/images//201607191543408843.jpg" >
+                </p>
+                <div class="txt">《龙拳小子》发布主题曲《一生为你》 </div>
+                </a>
+              </li>
+                          
+              <li><a target="_blank" href="/video/14353015.shtml">
+                <p class="pic">
+                	<span class="tipTime">04:27</span>
+                	<img src="http://img.mms.v1.cn/static/mms/images//201607191521502486.jpg" >
+                </p>
+                <div class="txt">徐怀钰《明日，我将以我的方式狂欢》 </div>
+                </a>
+              </li>
+                          
+              <li><a target="_blank" href="/video/14353645.shtml">
+                <p class="pic">
+                	<span class="tipTime">00:34</span>
+                	<img src="http://img.mms.v1.cn/static/mms/images//201607201440449342.jpg" >
+                </p>
+                <div class="txt">贺敬轩《他靠不住》预告片 </div>
+                </a>
+              </li>
+                          
+              <li><a target="_blank" href="/video/14353615.shtml">
+                <p class="pic">
+                	<span class="tipTime">03:23</span>
+                	<img src="http://img.mms.v1.cn/static/mms/images//201607201450214428.jpg" >
+                </p>
+                <div class="txt">《Laissez-les kouma》 </div>
+                </a>
+              </li>
+                          
+              <li><a target="_blank" href="/video/14353624.shtml">
+                <p class="pic">
+                	<span class="tipTime">05:11</span>
+                	<img src="http://img.mms.v1.cn/static/mms/images//201607201445331953.jpg" >
+                </p>
+                <div class="txt">方力申《舍·得》 </div>
+                </a>
+              </li>
+                          
+              <li><a target="_blank" href="/video/14353623.shtml">
+                <p class="pic">
+                	<span class="tipTime">04:01</span>
+                	<img src="http://img.mms.v1.cn/static/mms/images//201607201424194269.jpg" >
+                </p>
+                <div class="txt">谭嘉仪《扯线木偶》 </div>
+                </a>
+              </li>
+                          
+              <li><a target="_blank" href="/video/14353620.shtml">
+                <p class="pic">
+                	<span class="tipTime">03:39</span>
+                	<img src="http://img.mms.v1.cn/static/mms/images//201607201502359220.jpg" >
+                </p>
+                <div class="txt">《你是我的》电影《致青春2》插曲 </div>
+                </a>
+              </li>
+                          
+              <li><a target="_blank" href="/video/14353576.shtml">
+                <p class="pic">
+                	<span class="tipTime">04:20</span>
+                	<img src="http://img.mms.v1.cn/static/mms/images//201607201505496273.jpg" >
+                </p>
+                <div class="txt">《西海情歌》听到心都痛了！ </div>
+                </a>
+              </li>
+                          </ul>
+          </div>
+        </div>
+        <!--videoList end--> 
+                
+      </div>
+      <!--videoMod end-->
+      <div class="video_infoBar"> <span class="publishDate">2019-05-14 12:49:50</span>
+        <!--        	 <p class="favoritesOk">-->
+<!--        		已收藏-->
+<!--        	 </p>-->
+        <!--        	<p class="favorites">-->
+<!--        		收藏-->
+<!--        	</p>-->
+                <!--已收藏时用 <p class="favorites ok">-->
+      </div>
+    </div>
+    
+    <div class="hr30"></div>
+    
+    <!--conMainL begin-->
+    <div class="conMainL">
+      <div class="shadowBox padBoxLr uploadUserBox">
+        <div class="userTx"><img src="http://qzapp.qlogo.cn/qzapp/101400103/23D739EF7AE589C0DC99DFABBC7BE36F/30" alt=""></div>
+        <div class="txt" id="8811108">
+        <span class="addBt">+</span>
+          <p class="userName"><a href="#">三番音悦 </a></p>
+          <p>这家伙很懒，什么也没有留下</p>
+        </div>
+      </div>
+      
+      <!-- 广告 -->
+      <div class="bannerCon">
+      <script type='text/javascript'><!--//<![CDATA[ 
+var m3_u = (location.protocol=='https:'?'http://luckstatic.v1.cn/st/10000/1500/1469.js':'http://luckstatic.v1.cn/st/10000/1500/1469.js');
+document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+document.write ("?rand="+new Date().getTime());
+document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+      </div>
+      <!-- 广告 -->
+      
+      <div class="shadowBox padBoxLr">
+        <div class="commentTit">猜你喜欢</div>
+		 <ul class="likeList"></ul> 
+      </div>
+      
+      <!-- 广告 -->
+      <div class="bannerCon">
+      <script type='text/javascript'><!--//<![CDATA[ 
+var m3_u = (location.protocol=='https:'?'http://luckstatic.v1.cn/st/10000/1500/1467.js':'http://luckstatic.v1.cn/st/10000/1500/1467.js');
+document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+document.write ("?rand="+new Date().getTime());
+document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+      </div>
+      <!-- 广告 -->
+            <div class="shadowBox padBoxLr">
+        <div class="commentTit" id="commentTit">评论</div>
+        <div class="commentBox">
+          <textarea id="commentcontent" onfocus="if (value =='说点什么吧'){value =''}" onblur="if (value ==''){value='说点什么吧'}">说点什么吧</textarea>
+        </div>
+        <div class="submitBar">
+          <button class="submitBt fr">发表评论</button>
+        </div>
+
+        <!--plList begin-->
+        <ul class="plList"></ul>
+        <!--plList end-->
+        
+        <div class="listMoreBar" style="display:none;"><span>点击查看更多</span></div>
+        
+        <div class="hr20"></div>
+      </div>
+            </div>
+    <!--conMainL end--> 
+    <!--conMainR begin-->
+    <div class="conMainR">
+      <div class="sideBanner s1">
+      	<script type='text/javascript'><!--//<![CDATA[ 
+var m3_u = (location.protocol=='https:'?'http://luckstatic.v1.cn/st/10000/1500/1465.js':'http://luckstatic.v1.cn/st/10000/1500/1465.js');
+document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+document.write ("?rand="+new Date().getTime());
+document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+      </div>
+      <div class="sideBanner s2">
+      	<script type='text/javascript'><!--//<![CDATA[ 
+var m3_u = (location.protocol=='https:'?'http://luckstatic.v1.cn/st/10000/1500/1468.js':'http://luckstatic.v1.cn/st/10000/1500/1468.js');
+document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+document.write ("?rand="+new Date().getTime());
+document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+      </div>
+      <div class="sideBanner s3">
+      	<script type='text/javascript'><!--//<![CDATA[ 
+var m3_u = (location.protocol=='https:'?'http://luckstatic.v1.cn/st/10000/1500/1466.js':'http://luckstatic.v1.cn/st/10000/1500/1466.js');
+document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+document.write ("?rand="+new Date().getTime());
+document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+      </div>
+    </div>
+    <!--conMainR end-->
+    <div class="hr20"></div>
+  </div>
+
+<!--20170522 begin-->
+<div id="popBanner">
+    <script type='text/javascript'><!--//<![CDATA[ 
+var m3_u = (location.protocol=='https:'?'http://luckstatic.v1.cn/st/10000/1500/1470.js':'http://luckstatic.v1.cn/st/10000/1500/1470.js');
+document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+document.write ("?rand="+new Date().getTime());
+document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+</div>
+<!--20170522 end-->  
+ 
+<!--20170516 begin-->
+<div class="loginBox" style="display: none;" id="loginBox"> 
+      <!--<div class="prompt error" style="visibility: hidden;"><span>账号/密码错误</span></div>     不显示时用style="visibility: hidden;" -->
+      <div class="prompt error" style="display: none"><span>账号/密码错误</span></div>
+      <ul class="loginForm">
+        <li>
+          <input type="text" class="input" id="username"  placeholder="账号/手机号" >
+        </li>
+        <li>
+          <div class="placeholder">密码</div>
+          <input type="password" class="input passwordInput" id="password" placeholder="密码">
+        </li>
+        <li class="yzm">
+          <input type="text" class="input2" id="code" placeholder="验证码">
+          <p class="yzmBox">
+          <img  width="120" height="50" src="/user/getValidateCode" alt="" onclick= this.src="/user/getValidateCode?tm="+Math.random() style="cursor: pointer;" title="看不清？点击更换另一个验证码。"/>  
+          </p>
+        </li>
+        <li class="gray"><a href="/user/forgetPass" class="fr">忘记密码</a>
+          <input type="checkbox" class="checkbox" id="checkbox">
+          &nbsp;一个月内免登录</li>
+        <li><a href="javascript:;" class="loginBt white">登录</a></li>
+      </ul>
+      <div class="loginType">
+          <a target="_blank" href="https://api.weibo.com/oauth2/authorize?client_id=674964345&redirect_uri=http%3A%2F%2Fwww.v1.cn%2FThirdLogin%2Fweibocallback&response_type=code" class="t1"> 微博</a>
+
+          <a href="javascript:" target="_blank" class="t2" onclick="window.open('/ThirdLogin/qqReq','TencentLogin','')"> QQ</a>
+<!--          <a href="#" class="t3"> 微信</a>-->
+      </div>
+      <div class="loginEnd blue"><a href="/user/reg">我要注册</a></div>
+    </div>
+<script src="http://static.v1.cn/v1cn/web2017/js/v1Site_login.js"></script>
+<script>
+$(function(){
+    $(".loginBt").click(function(){
+          var username = $("#username").val();
+          var password = $("#password").val();
+          var code = $("#code").val();
+          var checkbox = $("#checkbox").is(':checked');
+          if(username==''){
+              $(".error").show().find('span').html("手机号或用户名不能为空");
+              return false;
+          }
+          if(password==''){
+              $(".error").show().find('span').html("密码不能为空");
+              return false;
+          }
+          if(code==''){
+              $(".error").show().find('span').html("验证码不能为空");
+              return false;
+          }
+          $.ajax({
+                type:'POST',
+                url:'/user/loginOper',//路径
+                data:{  
+                    username:username,
+                    password:password,
+                    code:code,
+                    checkbox_status:checkbox,                              //是否选中1个月登录有效
+                },  
+                dataType:'json',
+                success:function(msg){
+                    if(msg.code==200)
+                    {
+                    	location.reload();
+                    	return false;
+                    }else{
+                        $(".error").show().find('span').html(msg.info);
+                        return false;
+                    }
+                }  
+            })
+    });
+      
+})
+
+function loginPop() 
+{
+	layer.open({
+	  type: 1, 
+	  title: "登录",
+	 // area: ['402px', '533px'],
+	  content: $('#loginBox')
+	}); 	
+}
+</script>
+<!--20170516 end-->  
+  
+<script src="http://static.v1.cn/v1cn/web2017/js/jquery.nicescroll.js"></script>  
+<script>
+$('#scrollBox').niceScroll({
+	cursorcolor: "#f5f7fa", //# 光标颜色
+	cursoropacitymax: 1, //改变不透明度非常光标处于活动状态（scrollabar“可见”状态），范围从1到0
+	touchbehavior: false, //使光标拖动滚动像在台式电脑触摸设备
+	cursorwidth: "5px", //像素光标的宽度
+	cursorborder: "0", // 	游标边框css定义
+	cursorborderradius: "0px", //以像素为光标边界半径
+	autohidemode: false //是否隐藏滚动条
+});
+
+$(".plList").delegate(".huifuBt","click",function(){
+	$(".plList li").each(function(i){
+		if($(this).find('.huifuBox'))
+			$(this).find('.huifuBox').remove();
+	})
+
+	var name = $(this).siblings('.userName').text();
+
+	var html = '<div class="huifuBox">';
+    html += '<div class="commentBox2"><textarea value="回复'+name+'">回复'+name+'</textarea></div>';
+    html += '<div class="submitBar"><button class="cancelBt fr">取消</button>';
+    html += '<button class="huifuBt2 fr">回复</button></div></div>';
+
+	$(this).parent(".txt").append(html);
+});
+
+$(".plList").delegate(".cancelBt","click",function(){
+	$(this).parents('.huifuBox').remove();
+
+});
+
+$(".plList").delegate("textarea", "focus",function(){
+	var name = $(this).parents(".txt").find('.userName').text();  
+	if ($(this).text() =='回复'+name)
+	{
+    	$(this).empty();
+  	} 
+
+});
+
+$(".plList").delegate("textarea", "blur",function(){
+	var name = $(this).parents(".txt").find('.userName').text();   
+	if ($(this).text() =='')
+	{
+    	$(this).text('回复'+name);
+  	} 
+
+});
+
+//收藏
+$(".video_infoBar").delegate(".favorites", "click",function(){	
+	var obj = $(this);
+	$.post("/collection/setCollectVideo", {vid: $('#vid').val()},function(data){
+	     if(data.code == 200)
+	     {
+	    	 obj.removeClass("favorites").addClass('favoritesOk').html('已收藏');
+		 }
+	     else if(data.code == 201)
+	     {
+	    	 loginPop();
+			return false;
+		 }
+	   }, "json");
+});	
+
+//取消收藏
+$(".video_infoBar").delegate(".favoritesOk", "click",function(){
+	var obj = $(this);
+	$.post("/collection/unSetcollectVideo", {vid: $('#vid').val()},function(data){
+	     if(data.code == 200)
+	     {
+	    	 obj.removeClass("favoritesOk").addClass('favorites').html('收藏');
+		 }
+	     else if(data.code == 201)
+	     {
+	    	 loginPop();
+			return false;
+		 }
+	   }, "json");
+});	
+
+//关注
+$(".addBt").click(function () {
+	var tuid = $(this).parents(".txt").attr('id');  
+	$.post("/followFans/addSubscription", {tuid: tuid},function(data){
+	     if(data.code == 200)
+	     {
+	    	 $(".addBt").removeClass("addBt").addClass('addBt_ed');
+		 }
+	     else if(data.code == 201)
+	     {
+	    	 loginPop();
+			return false;
+		 }
+	     else
+	     {
+	    	alert(data.info);
+			return false;
+		 }
+	   }, "json");
+});	
+
+//取消关注
+$(".addBt_ed").click(function () {
+	var tuid = $(this).parents(".txt").attr('id');
+	$.post("/followFans/cancelSubscription", {tuid: tuid},function(data){
+		 if(data.code == 200)
+	     {
+	    	 $(".addBt_ed").removeClass("addBt_ed").addClass('addBt');
+		 }
+	     else if(data.code == 201)
+	     {
+	    	 loginPop();
+			return false;
+		 }
+	     else
+	     {
+	    	alert(data.info);
+			return false;
+		 }
+	   }, "json");
+});	
+
+//发表评论
+$(".submitBt").click(function () {
+	var content = $.trim($('#commentcontent').val());
+	if(content)
+	{
+		$.post("/comment/addComment",{object_id: $('#vid').val(), content: content, parent_id:0},function(data){
+				     if(data.code == 201)
+				     {
+				    	 loginPop();
+				    	 return false;
+					 }
+				     else if (data.code == 200)
+				 	 {
+					 	 var html = '';
+					 	 	html +='<li>';
+						 	html +='<div class="pic"><img alt="" src="'+data.userinfo.data.picture+'"></div>';
+						 	html +='<div class="txt" id="'+data.comment_id+'" data="0"> <span class="huifuBt">回复</span><span class="zanIcoBt fr">0</span>';
+							if(data.userinfo.data.is_vip != 0)
+							{
+								html +='<p class="userName vip">'+data.userinfo.data.nickname+'</p>';
+							}
+							else
+							{
+								html +='<p class="userName">'+data.userinfo.data.nickname+'</p>';
+							}
+						 	html +='<div class="plConBox">'+content+'</div>';
+						 	html +='<p class="gray2">'+getNowFormatDate()+'</p>';
+						 	html +='</div></li>';
+
+					    	$('.plList').prepend(html);
+					    	$('#commentcontent').val('说点什么吧');
+					 }
+				     else if(data.code == 203)
+				     {
+					 	alert(data.info);
+					 	return false;
+					 }
+
+			   }, "json");
+	}
+	else
+		return false;
+});	
+
+//回复评论
+$(".plList").delegate(".huifuBt2","click",function(){
+	var content = $.trim($(this).parents('.txt').find('textarea').val());
+	var parent_id = $.trim($(this).parents('.txt').attr('id'));
+	var userName = $.trim($(this).parents('.txt').find('.userName').text());
+	var huifuBox = $(this).parents('.huifuBox');
+	if(content)
+	{
+		$.post("/comment/addComment",{object_id: $('#vid').val(), content: content, parent_id: parent_id},function(data){
+				     if(data.code == 201)
+				     {
+				    	 loginPop();
+				    	 return false;
+					 }
+				     else if (data.code == 200)
+				 	 {
+					 	 var html = '';
+					 	 	html +='<li>';
+						 	html +='<div class="pic"><img alt="" src="'+data.userinfo.data.picture+'"></div>';
+						 	html +='<div class="txt" id="'+data.comment_id+'" data="0"> <span class="huifuBt">回复</span><span class="zanIcoBt fr">0</span>';
+							if(data.userinfo.data.is_vip != 0)
+							{
+								html +='<p class="userName vip">'+data.userinfo.data.nickname+'</p>';
+							}
+							else
+							{
+								html +='<p class="userName">'+data.userinfo.data.nickname+'</p>';
+							}
+							
+							html +='<div class="huifuTit">'+data.userinfo.data.nickname+'回复了'+userName+'</div>';
+						 	html +='<div class="plConBox">'+content+'</div>';
+						 	html +='<p class="gray2">'+getNowFormatDate()+'</p>';
+						 	html +='</div></li>';
+
+					    	$('.plList').prepend(html);
+
+							//去掉回复框
+					    	huifuBox.remove();
+					 }
+				     else if(data.code == 203)
+				     {
+					 	alert(data.info);
+					 	return false;
+					 }
+
+			   }, "json");
+	}
+	else
+		return false;
+});
+
+
+//评论点赞
+$(".plList").delegate(".zanIcoBt","click",function(){
+	var comment_id = $.trim($(this).parents('.txt').attr('id'));
+	var obj = $(this);
+	var num = $(this).parents('.txt').attr('data');
+	if(num > 0)
+		return false;
+	
+	$.post("/comment/upDown", {comment_id: comment_id, type_id:1},function(data){
+	     if(data.code == 200)
+	     {
+	    	 obj.addClass('zanClick');
+	    	 obj.text(eval(obj.text()+"+1"));
+	    	 obj.parents('.txt').attr('data', eval(num+"+1"));
+		 }
+	     else if(data.code == 201)
+	     {
+	    	 loginPop();
+			return false;
+		 }
+	     else if(data.code == 203)
+	     {
+			alert(data.info);
+			obj.parents('.txt').attr('data', eval(num+"+1"));
+			return false;
+		 }
+	   }, "json");
+});
+
+//关闭弹窗广告
+$(".closeBt").on('click',function () { $(this).parent().hide();}); 
+
+$(function(){
+//	//获取评论数
+//	if($('#vid').val())
+//	{
+//		$.post("/comment/getNum4Ajax", {vid: $('#vid').val()},function(data){
+//		     if(data.msg == 1)
+//		     {
+//				$('#commentTit').html('评论('+data.num+')');
+//			 }
+//		   }, "json");
+//	}
+
+	if($('#vid').val())
+	{
+		$.post("/play/add", {vid: $('#vid').val()},function(data){
+		   }, "json");
+	}
+
+	//猜你喜欢
+	$.post("/index/getGuessList4Ajax", {},function(data){
+	     if(data.msg == 1)
+	     {
+	    	 var html = '';
+	    		$.each(data.list, function(i){
+	    			html += '<li><div class="pic">';
+	    			html += '<a href="'+data.list[i].link+'"  target="_blank">';
+	    			html += '<img src="'+data.list[i].pic+'"></a>';
+	    			html += '</div><div class="tit"><a href="'+data.list[i].link+'" target="_blank">'+data.list[i].title+'</a></div></li>';
+		    	})
+
+	    		$('.likeList').append(html);
+		 }
+	   }, "json");
+	
+	getCommentList();
+
+	$('.listMoreBar').click(function(){
+		getCommentList();
+	})
+
+})
+
+function getCommentList()
+{
+	if($('#vid').val())
+	{
+		$.post("/comment/getList4Ajax", {vid: $('#vid').val(), last_id: $('#last_id').val()},function(data){
+		     if(data.msg == 1)
+		     {
+		    	 var html = '';
+		    		$.each(data.list, function(i){
+		    			html += '<li><div class="pic"><img src="'+data.list[i].picture+'" alt=""></div>';
+		    			html += '<div class="txt" id="'+data.list[i].comment_id+'"> <span class="huifuBt">回复</span><span class="zanIcoBt fr zanClick">'+data.list[i].support_num+'</span>';
+
+		    			if(data.list[i].vip != 0)
+		    			{
+		    				html += '<p class="userName vip">'+data.list[i].nickname+'</p>';
+		    			}
+		    			else
+		    			{
+		    				html += '<p class="userName">'+data.list[i].nickname+'</p>';
+		    			}
+
+		    			if(data.list[i].to_userid != 0)
+		    			{
+		    				html += '<div class="huifuTit">'+data.list[i].nickname+'回复了'+data.list[i].to_nickname+'</div>';
+		    			}
+
+		    			html += '<div class="plConBox">'+data.list[i].content+'</div>';
+		    			html += '<p class="gray2">'+data.list[i].create_time+'</p>';
+		    			html += '</div></li>';
+
+
+		    		})
+
+		    		$('.plList').append(html);
+		    		var last_id = eval(data.list)[eval(data.list).length-1]["comment_id"];
+		    		$('#last_id').val(last_id);
+		    		$('.listMoreBar').show();
+			 }
+		     else if(data.msg == 2)
+		     {
+		     	$('.listMoreBar').remove();
+		     }
+			     
+		   }, "json");
+	}
+}
+
+function getNowFormatDate() {
+    var date = new Date();
+    var seperator1 = "-";
+    var seperator2 = ":";
+    var month = date.getMonth() + 1;
+    var strDate = date.getDate();
+    if (month >= 1 && month <= 9) {
+        month = "0" + month;
+    }
+    if (strDate >= 0 && strDate <= 9) {
+        strDate = "0" + strDate;
+    }
+    var currentdate = date.getFullYear() + seperator1 + month + seperator1 + strDate
+            + " " + date.getHours() + seperator2 + date.getMinutes()
+            + seperator2 + date.getSeconds();
+    return currentdate;
+} 
+</script>
+ <!--footer begin-->
+  <div class="footerWrap">
+    <div class="footerIndexMain">
+    <div class="footerNav">
+      <ul>
+        <li><a target="_blank" href="http://ir.v1.cn/index/#/information">集团介绍</a></li>
+        <li><a target="_blank" href="http://ir.v1.cn/index/#/news">新闻中心</a></li>
+        <!--<li><a target="_blank" href="http://pc.v1.cn/sitemap/">网站地图</a></li>-->
+        <li><a target="_blank" href="http://ir.v1.cn/index/#/business">关于我们</a></li>
+        <li><a target="_blank" href="https://www.liepin.com/company/9113901/">诚聘英才</a></li>
+        <li><a target="_blank" href="http://www.v1.cn/Qualification/privacy.html">隐私政策</a></li>
+        <li><a target="_blank" href="http://ir.v1.cn/index/#/investor/investor#ContactInfo">联系我们</a></li>
+      </ul>
+    </div>
+    © 2017  第一视频公司版权所有<br>
+    <a target="_blank" href="http://www.v1.cn/Qualification/xinwen.html?from=v1">互联网新闻信息服务许可证(国新网许可证编号11220180006)</a>　<a target="_blank" href="http://www.v1.cn/Qualification/icp.html" >电信与信息服务业务经营许可证(京ICP证050390号)</a>　<a href="http://www.v1.cn/Qualification/jmzz.shtml">广播电视节目制作经营许可证 (广媒)字第150号</a><br>
+    统一社会信用代码：911101087754533048  <a target="_blank" href="http://sq.ccm.gov.cn:80/ccnt/sczr/service/business/emark/toDetail/57DBA3B393E0C00EE0530140A8C0691D"> 网络文化经营许可证：京网文【2018】10244-931号</a>　　网络出版服务许可证：（总）网出证（京）字第194号<br><a target="_blank" href="http://www.v1.cn/Qualification/shiting.html" >信息网络传播视听节目许可证(0105136)</a>  测绘资质证书(甲测资字1100561)  增值电信业务经营许可证B2-20050381<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002002116" class="gonganBei">京公网安备：11000002002116</a><br>
+    邮箱:service@v1.cn　　热线: 400-006-4571　　不良信息举报: 010-64706601
+    <div class="wanganList"> <a target="_blank" href="http://www.itrust.org.cn/home/index/itrust_certifi/wm/2775453304"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo1.jpg" ></a> <a target="_blank" href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202005121600020"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo2.jpg" ></a> <a target="_blank" href="http://www.12377.cn/"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo3.jpg" ></a> <a target="_blank" href="http://www.bnia.cn/"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo4.jpg" ></a> <a target="_blank"  href="http://www.cyberpolice.cn"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo5.jpg" ></a> <a target="_blank" href="https://credit.szfw.org/CX20141125005630005718.html"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo6.jpg" ></a> <a target="_blank"  href="http://www.bjwhzf.gov.cn/accuse.do"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo7.jpg" ></a> <a target="_blank"  href="http://www.bjjubao.org/index.htm"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo8.jpg" ></a> <a target="_blank"  href="https://ss.knet.cn/verifyseal.dll?sn=e15101011010860803dsde000000&ct=df&a=1&pa=0.917555071164685"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo9.jpg" ></a></div>
+    </div>
+  </div>
+  <!--footer end-->
+
+</div>
+<script src="http://static.v1.cn/v1cn/web2017/js/v1Site_comm.js"></script>
+<script src="http://static.v1.cn/v1cn/web2017/js/v1Site_miaoping.js"></script>
+<script src="http://static.v1.cn/v1cn/web2017/js/v1Site_focus.js"></script>
+
+<!-- v1统计代码 -->
+<script type="text/javascript">
+cookie={
+set:function(cookieName, cookieValue, expires, path, domain, secure) {
+document.cookie =
+escape(cookieName) + '=' + escape(cookieValue)
++ (expires ? '; expires=' + expires.toGMTString() : '')
++ (path ? '; path=' + path : '')
++ (domain ? '; domain=' + domain : '')
++ (secure ? '; secure' : '');
+},
+get:function(cookieName) {
+var cookieValue = '';
+var posName = document.cookie.indexOf(escape(cookieName) + '=');
+if (posName != 1) {
+var posValue = posName + (escape(cookieName) + '=').length;
+var endPos = document.cookie.indexOf(';', posValue);
+if (endPos != -1) cookieValue = unescape(document.cookie.substring(posValue, endPos));
+else cookieValue = unescape(document.cookie.substring(posValue));
+}
+return (cookieValue);
+}
+}
+if(cookie.get('CookieV1Log')==""){
+v1log=new Date();
+cValue = Math.ceil(((v1log.getTime()*9321+49297) % 233280 /(233280.0)) * 9999999999999999);
+v1log.setTime(v1log.getTime() + 86400000);
+cookie.set('CookieV1Log',cValue,v1log,'','','');
+}
+path = "http://v1log.v1.cn/log.js?page=wap_jrtt&yu="+cookie.get('CookieV1Log')+"&tmp="+Math.round(Math.random()*100000)+"&referer="+document.referrer+"&customSort=wap";
+document.write("<script type=text/javascript src ="+path+" ><\/script> ");
+</script>
+<!-- v1统计代码end -->
+
+<!-- START baidu v1.0 -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fcb44eb450c53c91a1cc1d2511f5919b3' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!-- END baidu v1.0 -->
+<!-- cnzz  -->
+<div style="display:none">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1255096340'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/z_stat.php%3Fid%3D1255096340%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+<style>
+            .layui-layer { background-color:gray; }
+        </style>
+<!-- end cnzz -->
+</body>
+</html>
+
+�PNG
+
+   IHDR   �   2   ���  �IDATx��\ix[Ź��ۖd˶�(��]�c;�	��lY !	�6.�eI�����}XRn[�@[Z
+I)�@��@H�X��k�.ɲl˶dK�����ȣ�,�NJ����s�w�̙3�����IfP����j�� �Z2�9xU����U��������s��2䣑ya�h$�
+�n�c��;�l������{�(�d�PE�f�����[iu+C�z����XPo��[j�S�k�A5�\A�;�h�+EQ 0:� ����A�
+,,��rAB-����3���/`���X B�8��K ��<���1B�,�
+�y���	���U�%,�� �l�RIDY�������+��&�����V�Ű7Z �BH� �H�b�л4t�_A ��BO!� 
+�8���G�L�	��D��ŏw>˰���{/�M��N�Ddq r%�@�Q� �-C�R	)�$��� PX�T�i�T
+�����o��w?nŅAb�|�� ����rǊ@Q��eL��T> �\�$3�� BM� 
+*g�Cs���x�׵ۮ-]�{�C�֋��qׁ����q�`!���9Ո��'/Z��Ʀ��$� PO9An��l�D�  |6f�`�,a���Aau��v��M�תޯ��c�h�+w`�E�\�c������� $�報�	 ��ePO9�<�� $�=!�\�*�*l P��Q��  )A� �/���J�Ƕi����\���g�]�D�vA9�d�$IH������d���#:wI`F �i�@w�|J BȲB T�qS$�Ĥ9/. �&�Z!C H���Q�u����Q�}�'���S	B�C�����~�ԡ�Ք�G�~B
+�tM�| 04 0�$���� ���¸f���nw��p���v	\�cc8���y5�E�� ��c
+��B5ج1�L@�D��[�l_�吗?��]jm���xc�c}j͙?����ĩ���=�C��\�?��yZ}���B�6 |������`���֩�!Z$�_[&�y�&�A����t������>��Ak�b1W���4  E����y��{9/���E�^��<�֜���d ���Ƃ�5��	r�AH�)�T��9�Ë��Fx�I7�a���q�j�`ݷ�֔�DԢk�p�رi� ,֩��k��z|�'0�4p٬����f��b��Ccy��S���^����|�����9��k�r ����v���O��r\�Y�0�t\�fo�A��
+ �uq����. (,��S�	)�B� �n1�:3�7)o�ys劥y�Qbl,��j���5c��V�cEn.*?$3��[*��R�lS��q��Mg�ݸMg�(j}q�._vtw�ݴ.�@�	n��Y�bq�*vސ�������0d\��*�ǊM?VL^��y��p;(3s��C=C p��ogp�6��9 f�'��ީHN\��`�[��Qi�@U�B�dܧ�� ������X][RB�B��ڜnwݑ��7*	SOݷuW�PS��ɗ?9���)�;W�nA�(�y�x�m"�k�� ��`R}��/^c���2O��]�Vv��]Zռ����ʮ���9�(�VI�A{�"�-0�EK�-F S�;'?���9��R�?ڽ�z�M��8�E*���'~6�Z�#�VQ��y���೿|h��� ���_�ܕ�* ��C>�]�]����G4ѥ���������XY�{�M� ��^��-�	�����VV�d1��v (Q6��: T�ڧ�~���*��V�6fp�j9�n^Sq~y$�c�[�{�NL��:��a �9L ˏ�]�����1�oL�#	�h`Z�۵��m�G�𯎽{V�?2�'L[��lr��J$������G4iD����5dQ�9�9�Ž���y\��jWVݽ 
+����^���ʪ3>>}��n�c���>�� yR�{{v�{�������Z�� ���i�4y���,�����L,@b�_]��/ܻ��f����ɫ|�����\�)-��:�*��Ci HI��
+b��\0���1,�EŉI�аF���8�����ի�3o?�EyZM/ P6hBJ @��n���6*ߺa �\v���th��7�w*8���+ɐh�Q\
+�ᆊr+��$�e��
+6�itbֳX͊2.; !� �hZJyɥ�dT_w��uw�B���;��as�B4�� Q<��~�z�4���Zwݾ��<h��ZMoL�_ZYu�����޺�|���Km�~��Q��G����}�v ��� P�_��5��"J�,S"y����rRR�._~`�N&�!�N�pأީ�i��5���L� ��H�����q�{6�a�W"A�W"A�����Ê��u�w�ȳJ�)D&&�M���/�t�zHIJ4���R�i�Tjr�}��Ug��{���_ �Ɍ]�dݭ�x�O����- hڨ�ƥb��@�	�?�9����33޺� � D �pD�K!q���~��F�y걞hvQ���:�Oa劓 �{Ԕ;�V���oo��Z2X&��:+�<Y{6V���66 ��Ws�W���HIJT�M��$ @)�Q�w䏋ﰍ�c,?!���k+�W���U}Ǟ�����r���-m�*<��`s��I����𱏢�D�;֮_)l79v��lu�z��W����5k��c�.I*�@��iG9�ɋ6��8�����曟��Ŀ��8g���-�*/�s� 3�Ԧ��N	�H���7��Ӵ�FJq��7��o3��냷��`78��g�~��b�\]����|zp���_}�G��ΔH"�5Ͼv����I���8��w҃q��+_��%.fI�"	��EX�������HZPR�M� g`�u߳'/�uwaR��o?�YYDVF(F��������mk�^|`��ҕn�ߏn����~x����M���\XU�E�)߶�I7�_��S6{٪3�-����^Mkv��׏��I�ׅ���,�K�䅷�tbf�\w���o��#��L`��[<��?8����o�;|��`wNO�����tM��ƱQ�Ù �D��2�g���D�Uh��wҔ�BA��6��^�;!%�����<u��,�Z�O��k�m��Ĥ;.V�݀5@@J����%���������3}��K���bU��T������0�9�J��T7IͳWU�)�ݾ 8�0�����ڽ�C�L$�y���/>V���y��?nP|����ݳ� 7�?��q�`�}OX��$?&�VO��e�nv�k�>��6p�^{��Xmo���k�~��b���ї������i��<����� Y��u	�Q���!ݨ�<��$qKU����$S�̎�@0:����q���?��6� �_�|���� �Ԃ���5Y���w�hx�;��}�9&�����@�^��7�����UX��� ��$d�!���#�  Rc�-���@=����6�?�py<��k���,���`deV�Y\�����tM}�����Ti�ɋ�����k��ܾ$y��;����k�1���XEߤ�-�KI2��j׍�0#@x�&Cݑ���hE�>��I�v*�}+�k�3=���X\I��2e��Y��/���q&�Q����0�:Y��¬���}'6O*-��pͅ�ogg]#YRp�그 �jaI򬫦���$y$��E?�;CGO��v�r������anL��Gﺾv7��>�R��uG��^����[�8���)`��c1�V��pFY���L�ꉯ�Rv_'ˮݼ���LA4���e�_+7�� ��I��[W�_����ˉ���� `YU:��(I��P"��O_Q ��J���'/x�aR���X~��(!}S�8�@n�@� n�;r�b�����9�0J ,�(ZD1��	Q._�u�d%ENE�/��&c�I��qB�y?-��1Ky$Y4�>�oߝ�Y-˯IO��(t�uH L0��J��H�%��<y�ɗ�?U*�F2�0�	  U�4EQ��ntV�����k��*%����5�eRO+}s �}�@���"����\�� p�\&��Ы�g�W). @ @��U*��E��A_)����*�Uz�	� �e@E,�$ ��Ѭ�l�Ì $���C]�<^J|:-7 H%A(���EŸYC�teNDJ�n��V�YU�EU:������t���H s�[#g�I��[#G �,�����ѢH4�6`Ьk�l���M��4�Щ^�<j�q���~���P��4���H87 >�:���:��
+ �#nV2ǭ��T�캡��{�+$��Jj=�S�&��j=U��  �j�������nA�)��A<V"C�����4D"�@"X�y�qH,"EwN*  ?���6r�P�,�=ǖ�Fބ���$�����$#,$(�\�����O�H$ �y��M	 A��&saЬ3�L��f]J|`�<|	)@ȸ�0��I��4�Ta2�m�E�� �@�N��5@E�T�+����J��kq��Q�9Q�g���'� ��p�~͕�e]�p�~���
+���h64�1�L4j&C��W�+�[�t>ڑ�(_��v�A9Md�y��<-�vDrS���u:Lf��<�ΐ�_
+������#.R�s�X��l�R.�A� l������@n�w d>���ť�\0c���i��^����_y'$20��!dn���Θs󫍲.g\֏)i�J��2r�1=>��`{�P~b�H>P_�Z3�O�D乡{j(�?O��\�,.%	��� ��-Z�/�,((5YU��I�or.r��A��;5*7�����K��Kdo��#��c���e3�$^� ��z�腊)�q'&g�\Aiށ�}�����,6���6u�����a�-��r�[����s�1���^�ߔ�z���'C^�Ma0Wf��K���
+{�Y(�U>��Y(�8:ΏJW�G]-�Z��̜-�E�H��v�
+Jm';#ߣ�lO��1��a1�WPN�̭U��2��ZN��;F�X
+�4��2���yS��K>u�L %�C�Z���i���R�ӎ��eb��|@j��@s������2�  ��$ p2��9��xBJ1� P�Z]�Z�f ��h�Ig�� h �����[
+ &*frCc���d����*���sCcgkcg+��/z��L�&hGpV@�۬���s�\09�ы�l�R7t�=�r��Hjp    IEND�B`�
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="keywords" content="封神">
+<meta name="description" content="《封神：刺杀苏妲己》主题曲《道离别》MV">
+<title>《封神：刺杀苏妲己》主题曲《道离别》MV-第一视频-音乐</title>
+<link href="http://static.v1.cn/v1cn/web2017/css/v1commStyle.css" rel="stylesheet" type="text/css">
+<link href="http://static.v1.cn/v1cn/web2017/css/v1usercenterStyle.css" rel="stylesheet" type="text/css">
+<script src="http://static.v1.cn/js/jquery-1.11.3.min.js"></script>
+<script src="/static/js/countUp.js"></script>
+<script src="/static/js/commonfunction.js"></script>
+<script src="http://static.v1.cn/act/liulianvr/app2.0/layer/layer.js"></script>
+
+<link href="http://static.v1.cn/v1cn/web2017/css/v1channelStyle.css" rel="stylesheet" type="text/css">
+<link href="http://static.v1.cn/v1cn/web2017/css/v1reg_loginStyle.css" rel="stylesheet" type="text/css">
+
+</head>
+<body>
+<div class="wrapper">
+  <div class="headerWrap">
+    <div class="header">
+      <div class="headerL">
+
+        <ul class="topNav">
+          <li><a href="/">头条</a></li>
+          <li><a href="http://toujiang.v1.cn/" target="_blank">投将</a></li>
+          <li><a href="/miaoping/">秒评</a></li>
+                              	<li><a href="/zrtt/">昨日头条</a></li>
+                                        	<li><a href="/xinwen/">新闻</a></li>
+                                        	<li><a href="/shehui/">社会</a></li>
+                                        	<li><a href="/yule/">娱乐</a></li>
+                                        	<li><a href="/gaoxiao/">搞笑</a></li>
+                                        	<li><a href="/yuanchuang/">历史</a></li>
+                                        	<li><a href="/lvyou/">旅游</a></li>
+                            </ul>
+                <div class="topNavMoreBt">更多
+          <div class="topNavMoreMenu gray">
+                            	          	<a href="/caijing/">财经</a>
+	                                      	          	<a href="/meishi/">美食</a>
+	                                      	          	<a href="/qiche/">汽车</a>
+	                                      	          	<a href="/yinyue/">音乐</a>
+	                                      	          	<a href="/yingshi/">影视</a>
+	                                      <a href="http://vr.v1.cn/" target="_blank">VR</a>
+              <a href="http://www.liangziport.com/" target="_blank">量子港</a>
+          </div>
+        </div>
+              </div>
+      <div class="headerR_wrap">
+        <div class="headerR">
+          <ul class="operation">
+                            <li><a href="/user/login" class="icoBt icoUser">登录</a></li>
+                        <li><a href="javascript:void(0)" class="icoBt icoBt1" id="cyy_upload">上传</a></li>
+            <li><a target="_blank" href="http://weibo.com/myv1" class="icoBt icoBt2">微博</a></li>
+            <li><a target="_blank" href="http://apps.v1.cn/" class="icoBt icoBt3">APP</a></li>
+            <li id="moreMenu"><a href="javascript:" class="icoBt icoBt4">更多</a>
+              <div class="moreMenuList">
+                <ul>
+                    <li><a href="http://ir.v1.cn/index/#/business">关于我们</a></li>
+                  <li><a href="http://ir.v1.cn/index/#/investor/investor#ContactInfo">联系我们</a></li>
+                  <li><a href="https://www.liepin.com/company/9113901/">加入我们</a></li>
+                  <li><a href="http://www.12377.cn/" target="_blank">廉洁举报</a></li>
+                  <li><a href="http://pc.v1.cn/vodone/aboutus/law/protocol.html">用户协议</a></li>
+                </ul>
+              </div>
+            </li>
+          </ul>
+                 </div>
+      </div>
+    </div>
+  </div>
+<script>
+    $(function(){
+        $("#cyy_logut").click(function(){
+            $.ajax({
+                type:'get',
+                url:'/user/signOut',//路径
+                dataType:'json',
+                data:{
+                },
+                success:function(msg){
+                    if(msg.code==200){
+                        layer.msg('删除成功');
+                    }else{
+                        layer.msg('删除失败');
+                    }
+                }  
+            })
+        });
+        $("#cyy_upload").click(function(){
+            if(0){
+                isauth = "0";
+                if(isauth=='1'){ 
+                    window.location.href='/uploadtx/upload';
+                }else{
+                    window.location.href='/authStatus/authOne';
+                }
+            }else{
+                window.location.href='/user/login';
+            }
+            
+        });
+    });
+</script>
+  <!--user center begin-->
+    	<div class="conMainWrap"> 
+	  
+    <!--conHeader-->
+    <div class="conHeader">
+        <a href="/" class="logo">第一视频</a>
+        <a href="http://toujiang.v1.cn/" class="toujiangLogo" target="_blank">投将</a>
+      <div class="searchBoxR">
+        <input class="searchInp" type="text" id="searchWordNew" value="搜你喜欢" onfocus="if (value =='搜你喜欢'){value =''}" onblur="if (value ==''){value='搜你喜欢'}">
+        <a href="javascript:void(0)" class="searchBt"></a></div>
+    </div>
+    <!--conHeader end-->
+    
+    <script>
+    $(function(){
+        $('.searchBt').click(function(){
+			var val = $.trim($('#searchWordNew').val());
+			if(val && val != '搜你喜欢')
+			{
+				window.open('/search/getList?keyword='+val)
+			}
+			return false;
+		})
+    })
+    </script>   
+   <link href="http://static.v1.cn/v1cn/web2017/css/v1playStyle.css" rel="stylesheet" type="text/css">
+   
+    <div class="mainBox shadowBox">
+	    <div class="videoTop">
+	     	<h2>《封神：刺杀苏妲己》主题曲《道离别》MV</h2>
+		    <div class="miniBanner">
+				<script type='text/javascript'><!--//<![CDATA[ 
+var m3_u = (location.protocol=='https:'?'http://luckstatic.v1.cn/st/10000/1500/1464.js':'http://luckstatic.v1.cn/st/10000/1500/1464.js');
+document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+document.write ("?rand="+new Date().getTime());
+document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+		    </div>
+	     </div>
+	     <!--20170512 修改-->
+      <input type="hidden" id="vid" value="15644678" />
+      <input type="hidden" id="last_id" value="0" />
+      <!--videoMod begin-->
+      <div class="videoMod">
+        <div class="videoBox">
+          <object width="820" height="470" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,115,0" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" id="play1">
+            <param name="movie" value="http://www.v1.cn/player/cloud/cloud_player.swf">
+            <param name="bgcolor" value="#000000">
+            <param name="FlashVars" value="id=2308583&amp;startSwfUrl=http://www.v1.cn/player/cloud/loading.swf&amp;videoUrl=http://f10.v1.cn/site/15644678.mp4.f30.mp4">
+            <param name="allowScriptAccess" value="always">
+            <param name="allowFullScreen" value="true">
+            <param name="wmode" value="opaque">
+            <embed width="820" height="470" src="http://www.v1.cn/player/cloud/cloud_player.swf" flashvars="id=2308583&amp;startSwfUrl=http://www.v1.cn/player/cloud/loading.swf&amp;videoUrl=http://f10.v1.cn/site/15644678.mp4.f30.mp4" name="play1" bgcolor="#000000" allowscriptaccess="always" allowfullscreen="true" wmode="opaque" cover="http://img.mms.v1.cn/static/mms/images/2019-05-09/201905091125503643.jpg" type="application/x-shockwave-flash">
+          </object>
+        </div>
+        
+                <!--videoList begin-->
+        <div class="videoLike">
+          <div class="videoList" id="scrollBox">
+            <ul>
+			              
+              <li><a target="_blank" href="/video/14356157.shtml">
+                <p class="pic">
+                	<span class="tipTime">04:52</span>
+                	<img src="http://img.mms.v1.cn/static/mms/images//201607261455312267.jpg" >
+                </p>
+                <div class="txt">Wali Band《Salam 5 Waktu》 </div>
+                </a>
+              </li>
+                          
+              <li><a target="_blank" href="/video/14356915.shtml">
+                <p class="pic">
+                	<span class="tipTime">03:45</span>
+                	<img src="http://img.mms.v1.cn/static/mms/images//201607261432226521.jpg" >
+                </p>
+                <div class="txt">Piece By Piece (Cover)-HammerZiMuBoy </div>
+                </a>
+              </li>
+                          
+              <li><a target="_blank" href="/video/14356767.shtml">
+                <p class="pic">
+                	<span class="tipTime">03:47</span>
+                	<img src="http://img.mms.v1.cn/static/mms/images//201607261449043701.jpg" >
+                </p>
+                <div class="txt">《爱为你出发》冯建宇 </div>
+                </a>
+              </li>
+                          
+              <li><a target="_blank" href="/video/14356756.shtml">
+                <p class="pic">
+                	<span class="tipTime">05:19</span>
+                	<img src="http://img.mms.v1.cn/static/mms/images//201607251754154833.jpg" >
+                </p>
+                <div class="txt">《事过境迁》蔡妍 </div>
+                </a>
+              </li>
+                          
+              <li><a target="_blank" href="/video/14355009.shtml">
+                <p class="pic">
+                	<span class="tipTime">09:03</span>
+                	<img src="http://img.mms.v1.cn/static/mms/images//201607251506245633.jpg" >
+                </p>
+                <div class="txt">《明天爱》唐柏宁 </div>
+                </a>
+              </li>
+                          
+              <li><a target="_blank" href="/video/14356625.shtml">
+                <p class="pic">
+                	<span class="tipTime">04:40</span>
+                	<img src="http://img.mms.v1.cn/static/mms/images//201607251719446950.jpg" >
+                </p>
+                <div class="txt">蔡素珊《撕》 </div>
+                </a>
+              </li>
+                          
+              <li><a target="_blank" href="/video/14356624.shtml">
+                <p class="pic">
+                	<span class="tipTime">03:52</span>
+                	<img src="http://img.mms.v1.cn/static/mms/images//201607251729511790.jpg" >
+                </p>
+                <div class="txt">《莫奈花园》黄玮亦 </div>
+                </a>
+              </li>
+                          
+              <li><a target="_blank" href="/video/14354930.shtml">
+                <p class="pic">
+                	<span class="tipTime">04:29</span>
+                	<img src="http://img.mms.v1.cn/static/mms/images//201607251731544224.jpg" >
+                </p>
+                <div class="txt">《小幸运》简弘亦 </div>
+                </a>
+              </li>
+                          </ul>
+          </div>
+        </div>
+        <!--videoList end--> 
+                
+      </div>
+      <!--videoMod end-->
+      <div class="video_infoBar"> <span class="publishDate">2019-05-09 11:12:31</span>
+        <!--        	 <p class="favoritesOk">-->
+<!--        		已收藏-->
+<!--        	 </p>-->
+        <!--        	<p class="favorites">-->
+<!--        		收藏-->
+<!--        	</p>-->
+                <!--已收藏时用 <p class="favorites ok">-->
+      </div>
+    </div>
+    
+    <div class="hr30"></div>
+    
+    <!--conMainL begin-->
+    <div class="conMainL">
+      <div class="shadowBox padBoxLr uploadUserBox">
+        <div class="userTx"><img src="http://img.user.v1.cn/static/images/201706/28/510.jpg" alt=""></div>
+        <div class="txt" id="8822527">
+        <span class="addBt">+</span>
+          <p class="userName"><a href="#">娱乐小队长</a></p>
+          <p>娱乐天下</p>
+        </div>
+      </div>
+      
+      <!-- 广告 -->
+      <div class="bannerCon">
+      <script type='text/javascript'><!--//<![CDATA[ 
+var m3_u = (location.protocol=='https:'?'http://luckstatic.v1.cn/st/10000/1500/1469.js':'http://luckstatic.v1.cn/st/10000/1500/1469.js');
+document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+document.write ("?rand="+new Date().getTime());
+document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+      </div>
+      <!-- 广告 -->
+      
+      <div class="shadowBox padBoxLr">
+        <div class="commentTit">猜你喜欢</div>
+		 <ul class="likeList"></ul> 
+      </div>
+      
+      <!-- 广告 -->
+      <div class="bannerCon">
+      <script type='text/javascript'><!--//<![CDATA[ 
+var m3_u = (location.protocol=='https:'?'http://luckstatic.v1.cn/st/10000/1500/1467.js':'http://luckstatic.v1.cn/st/10000/1500/1467.js');
+document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+document.write ("?rand="+new Date().getTime());
+document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+      </div>
+      <!-- 广告 -->
+            <div class="shadowBox padBoxLr">
+        <div class="commentTit" id="commentTit">评论</div>
+        <div class="commentBox">
+          <textarea id="commentcontent" onfocus="if (value =='说点什么吧'){value =''}" onblur="if (value ==''){value='说点什么吧'}">说点什么吧</textarea>
+        </div>
+        <div class="submitBar">
+          <button class="submitBt fr">发表评论</button>
+        </div>
+
+        <!--plList begin-->
+        <ul class="plList"></ul>
+        <!--plList end-->
+        
+        <div class="listMoreBar" style="display:none;"><span>点击查看更多</span></div>
+        
+        <div class="hr20"></div>
+      </div>
+            </div>
+    <!--conMainL end--> 
+    <!--conMainR begin-->
+    <div class="conMainR">
+      <div class="sideBanner s1">
+      	<script type='text/javascript'><!--//<![CDATA[ 
+var m3_u = (location.protocol=='https:'?'http://luckstatic.v1.cn/st/10000/1500/1465.js':'http://luckstatic.v1.cn/st/10000/1500/1465.js');
+document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+document.write ("?rand="+new Date().getTime());
+document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+      </div>
+      <div class="sideBanner s2">
+      	<script type='text/javascript'><!--//<![CDATA[ 
+var m3_u = (location.protocol=='https:'?'http://luckstatic.v1.cn/st/10000/1500/1468.js':'http://luckstatic.v1.cn/st/10000/1500/1468.js');
+document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+document.write ("?rand="+new Date().getTime());
+document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+      </div>
+      <div class="sideBanner s3">
+      	<script type='text/javascript'><!--//<![CDATA[ 
+var m3_u = (location.protocol=='https:'?'http://luckstatic.v1.cn/st/10000/1500/1466.js':'http://luckstatic.v1.cn/st/10000/1500/1466.js');
+document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+document.write ("?rand="+new Date().getTime());
+document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+      </div>
+    </div>
+    <!--conMainR end-->
+    <div class="hr20"></div>
+  </div>
+
+<!--20170522 begin-->
+<div id="popBanner">
+    <script type='text/javascript'><!--//<![CDATA[ 
+var m3_u = (location.protocol=='https:'?'http://luckstatic.v1.cn/st/10000/1500/1470.js':'http://luckstatic.v1.cn/st/10000/1500/1470.js');
+document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+document.write ("?rand="+new Date().getTime());
+document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+</div>
+<!--20170522 end-->  
+ 
+<!--20170516 begin-->
+<div class="loginBox" style="display: none;" id="loginBox"> 
+      <!--<div class="prompt error" style="visibility: hidden;"><span>账号/密码错误</span></div>     不显示时用style="visibility: hidden;" -->
+      <div class="prompt error" style="display: none"><span>账号/密码错误</span></div>
+      <ul class="loginForm">
+        <li>
+          <input type="text" class="input" id="username"  placeholder="账号/手机号" >
+        </li>
+        <li>
+          <div class="placeholder">密码</div>
+          <input type="password" class="input passwordInput" id="password" placeholder="密码">
+        </li>
+        <li class="yzm">
+          <input type="text" class="input2" id="code" placeholder="验证码">
+          <p class="yzmBox">
+          <img  width="120" height="50" src="/user/getValidateCode" alt="" onclick= this.src="/user/getValidateCode?tm="+Math.random() style="cursor: pointer;" title="看不清？点击更换另一个验证码。"/>  
+          </p>
+        </li>
+        <li class="gray"><a href="/user/forgetPass" class="fr">忘记密码</a>
+          <input type="checkbox" class="checkbox" id="checkbox">
+          &nbsp;一个月内免登录</li>
+        <li><a href="javascript:;" class="loginBt white">登录</a></li>
+      </ul>
+      <div class="loginType">
+          <a target="_blank" href="https://api.weibo.com/oauth2/authorize?client_id=674964345&redirect_uri=http%3A%2F%2Fwww.v1.cn%2FThirdLogin%2Fweibocallback&response_type=code" class="t1"> 微博</a>
+
+          <a href="javascript:" target="_blank" class="t2" onclick="window.open('/ThirdLogin/qqReq','TencentLogin','')"> QQ</a>
+<!--          <a href="#" class="t3"> 微信</a>-->
+      </div>
+      <div class="loginEnd blue"><a href="/user/reg">我要注册</a></div>
+    </div>
+<script src="http://static.v1.cn/v1cn/web2017/js/v1Site_login.js"></script>
+<script>
+$(function(){
+    $(".loginBt").click(function(){
+          var username = $("#username").val();
+          var password = $("#password").val();
+          var code = $("#code").val();
+          var checkbox = $("#checkbox").is(':checked');
+          if(username==''){
+              $(".error").show().find('span').html("手机号或用户名不能为空");
+              return false;
+          }
+          if(password==''){
+              $(".error").show().find('span').html("密码不能为空");
+              return false;
+          }
+          if(code==''){
+              $(".error").show().find('span').html("验证码不能为空");
+              return false;
+          }
+          $.ajax({
+                type:'POST',
+                url:'/user/loginOper',//路径
+                data:{  
+                    username:username,
+                    password:password,
+                    code:code,
+                    checkbox_status:checkbox,                              //是否选中1个月登录有效
+                },  
+                dataType:'json',
+                success:function(msg){
+                    if(msg.code==200)
+                    {
+                    	location.reload();
+                    	return false;
+                    }else{
+                        $(".error").show().find('span').html(msg.info);
+                        return false;
+                    }
+                }  
+            })
+    });
+      
+})
+
+function loginPop() 
+{
+	layer.open({
+	  type: 1, 
+	  title: "登录",
+	 // area: ['402px', '533px'],
+	  content: $('#loginBox')
+	}); 	
+}
+</script>
+<!--20170516 end-->  
+  
+<script src="http://static.v1.cn/v1cn/web2017/js/jquery.nicescroll.js"></script>  
+<script>
+$('#scrollBox').niceScroll({
+	cursorcolor: "#f5f7fa", //# 光标颜色
+	cursoropacitymax: 1, //改变不透明度非常光标处于活动状态（scrollabar“可见”状态），范围从1到0
+	touchbehavior: false, //使光标拖动滚动像在台式电脑触摸设备
+	cursorwidth: "5px", //像素光标的宽度
+	cursorborder: "0", // 	游标边框css定义
+	cursorborderradius: "0px", //以像素为光标边界半径
+	autohidemode: false //是否隐藏滚动条
+});
+
+$(".plList").delegate(".huifuBt","click",function(){
+	$(".plList li").each(function(i){
+		if($(this).find('.huifuBox'))
+			$(this).find('.huifuBox').remove();
+	})
+
+	var name = $(this).siblings('.userName').text();
+
+	var html = '<div class="huifuBox">';
+    html += '<div class="commentBox2"><textarea value="回复'+name+'">回复'+name+'</textarea></div>';
+    html += '<div class="submitBar"><button class="cancelBt fr">取消</button>';
+    html += '<button class="huifuBt2 fr">回复</button></div></div>';
+
+	$(this).parent(".txt").append(html);
+});
+
+$(".plList").delegate(".cancelBt","click",function(){
+	$(this).parents('.huifuBox').remove();
+
+});
+
+$(".plList").delegate("textarea", "focus",function(){
+	var name = $(this).parents(".txt").find('.userName').text();  
+	if ($(this).text() =='回复'+name)
+	{
+    	$(this).empty();
+  	} 
+
+});
+
+$(".plList").delegate("textarea", "blur",function(){
+	var name = $(this).parents(".txt").find('.userName').text();   
+	if ($(this).text() =='')
+	{
+    	$(this).text('回复'+name);
+  	} 
+
+});
+
+//收藏
+$(".video_infoBar").delegate(".favorites", "click",function(){	
+	var obj = $(this);
+	$.post("/collection/setCollectVideo", {vid: $('#vid').val()},function(data){
+	     if(data.code == 200)
+	     {
+	    	 obj.removeClass("favorites").addClass('favoritesOk').html('已收藏');
+		 }
+	     else if(data.code == 201)
+	     {
+	    	 loginPop();
+			return false;
+		 }
+	   }, "json");
+});	
+
+//取消收藏
+$(".video_infoBar").delegate(".favoritesOk", "click",function(){
+	var obj = $(this);
+	$.post("/collection/unSetcollectVideo", {vid: $('#vid').val()},function(data){
+	     if(data.code == 200)
+	     {
+	    	 obj.removeClass("favoritesOk").addClass('favorites').html('收藏');
+		 }
+	     else if(data.code == 201)
+	     {
+	    	 loginPop();
+			return false;
+		 }
+	   }, "json");
+});	
+
+//关注
+$(".addBt").click(function () {
+	var tuid = $(this).parents(".txt").attr('id');  
+	$.post("/followFans/addSubscription", {tuid: tuid},function(data){
+	     if(data.code == 200)
+	     {
+	    	 $(".addBt").removeClass("addBt").addClass('addBt_ed');
+		 }
+	     else if(data.code == 201)
+	     {
+	    	 loginPop();
+			return false;
+		 }
+	     else
+	     {
+	    	alert(data.info);
+			return false;
+		 }
+	   }, "json");
+});	
+
+//取消关注
+$(".addBt_ed").click(function () {
+	var tuid = $(this).parents(".txt").attr('id');
+	$.post("/followFans/cancelSubscription", {tuid: tuid},function(data){
+		 if(data.code == 200)
+	     {
+	    	 $(".addBt_ed").removeClass("addBt_ed").addClass('addBt');
+		 }
+	     else if(data.code == 201)
+	     {
+	    	 loginPop();
+			return false;
+		 }
+	     else
+	     {
+	    	alert(data.info);
+			return false;
+		 }
+	   }, "json");
+});	
+
+//发表评论
+$(".submitBt").click(function () {
+	var content = $.trim($('#commentcontent').val());
+	if(content)
+	{
+		$.post("/comment/addComment",{object_id: $('#vid').val(), content: content, parent_id:0},function(data){
+				     if(data.code == 201)
+				     {
+				    	 loginPop();
+				    	 return false;
+					 }
+				     else if (data.code == 200)
+				 	 {
+					 	 var html = '';
+					 	 	html +='<li>';
+						 	html +='<div class="pic"><img alt="" src="'+data.userinfo.data.picture+'"></div>';
+						 	html +='<div class="txt" id="'+data.comment_id+'" data="0"> <span class="huifuBt">回复</span><span class="zanIcoBt fr">0</span>';
+							if(data.userinfo.data.is_vip != 0)
+							{
+								html +='<p class="userName vip">'+data.userinfo.data.nickname+'</p>';
+							}
+							else
+							{
+								html +='<p class="userName">'+data.userinfo.data.nickname+'</p>';
+							}
+						 	html +='<div class="plConBox">'+content+'</div>';
+						 	html +='<p class="gray2">'+getNowFormatDate()+'</p>';
+						 	html +='</div></li>';
+
+					    	$('.plList').prepend(html);
+					    	$('#commentcontent').val('说点什么吧');
+					 }
+				     else if(data.code == 203)
+				     {
+					 	alert(data.info);
+					 	return false;
+					 }
+
+			   }, "json");
+	}
+	else
+		return false;
+});	
+
+//回复评论
+$(".plList").delegate(".huifuBt2","click",function(){
+	var content = $.trim($(this).parents('.txt').find('textarea').val());
+	var parent_id = $.trim($(this).parents('.txt').attr('id'));
+	var userName = $.trim($(this).parents('.txt').find('.userName').text());
+	var huifuBox = $(this).parents('.huifuBox');
+	if(content)
+	{
+		$.post("/comment/addComment",{object_id: $('#vid').val(), content: content, parent_id: parent_id},function(data){
+				     if(data.code == 201)
+				     {
+				    	 loginPop();
+				    	 return false;
+					 }
+				     else if (data.code == 200)
+				 	 {
+					 	 var html = '';
+					 	 	html +='<li>';
+						 	html +='<div class="pic"><img alt="" src="'+data.userinfo.data.picture+'"></div>';
+						 	html +='<div class="txt" id="'+data.comment_id+'" data="0"> <span class="huifuBt">回复</span><span class="zanIcoBt fr">0</span>';
+							if(data.userinfo.data.is_vip != 0)
+							{
+								html +='<p class="userName vip">'+data.userinfo.data.nickname+'</p>';
+							}
+							else
+							{
+								html +='<p class="userName">'+data.userinfo.data.nickname+'</p>';
+							}
+							
+							html +='<div class="huifuTit">'+data.userinfo.data.nickname+'回复了'+userName+'</div>';
+						 	html +='<div class="plConBox">'+content+'</div>';
+						 	html +='<p class="gray2">'+getNowFormatDate()+'</p>';
+						 	html +='</div></li>';
+
+					    	$('.plList').prepend(html);
+
+							//去掉回复框
+					    	huifuBox.remove();
+					 }
+				     else if(data.code == 203)
+				     {
+					 	alert(data.info);
+					 	return false;
+					 }
+
+			   }, "json");
+	}
+	else
+		return false;
+});
+
+
+//评论点赞
+$(".plList").delegate(".zanIcoBt","click",function(){
+	var comment_id = $.trim($(this).parents('.txt').attr('id'));
+	var obj = $(this);
+	var num = $(this).parents('.txt').attr('data');
+	if(num > 0)
+		return false;
+	
+	$.post("/comment/upDown", {comment_id: comment_id, type_id:1},function(data){
+	     if(data.code == 200)
+	     {
+	    	 obj.addClass('zanClick');
+	    	 obj.text(eval(obj.text()+"+1"));
+	    	 obj.parents('.txt').attr('data', eval(num+"+1"));
+		 }
+	     else if(data.code == 201)
+	     {
+	    	 loginPop();
+			return false;
+		 }
+	     else if(data.code == 203)
+	     {
+			alert(data.info);
+			obj.parents('.txt').attr('data', eval(num+"+1"));
+			return false;
+		 }
+	   }, "json");
+});
+
+//关闭弹窗广告
+$(".closeBt").on('click',function () { $(this).parent().hide();}); 
+
+$(function(){
+//	//获取评论数
+//	if($('#vid').val())
+//	{
+//		$.post("/comment/getNum4Ajax", {vid: $('#vid').val()},function(data){
+//		     if(data.msg == 1)
+//		     {
+//				$('#commentTit').html('评论('+data.num+')');
+//			 }
+//		   }, "json");
+//	}
+
+	if($('#vid').val())
+	{
+		$.post("/play/add", {vid: $('#vid').val()},function(data){
+		   }, "json");
+	}
+
+	//猜你喜欢
+	$.post("/index/getGuessList4Ajax", {},function(data){
+	     if(data.msg == 1)
+	     {
+	    	 var html = '';
+	    		$.each(data.list, function(i){
+	    			html += '<li><div class="pic">';
+	    			html += '<a href="'+data.list[i].link+'"  target="_blank">';
+	    			html += '<img src="'+data.list[i].pic+'"></a>';
+	    			html += '</div><div class="tit"><a href="'+data.list[i].link+'" target="_blank">'+data.list[i].title+'</a></div></li>';
+		    	})
+
+	    		$('.likeList').append(html);
+		 }
+	   }, "json");
+	
+	getCommentList();
+
+	$('.listMoreBar').click(function(){
+		getCommentList();
+	})
+
+})
+
+function getCommentList()
+{
+	if($('#vid').val())
+	{
+		$.post("/comment/getList4Ajax", {vid: $('#vid').val(), last_id: $('#last_id').val()},function(data){
+		     if(data.msg == 1)
+		     {
+		    	 var html = '';
+		    		$.each(data.list, function(i){
+		    			html += '<li><div class="pic"><img src="'+data.list[i].picture+'" alt=""></div>';
+		    			html += '<div class="txt" id="'+data.list[i].comment_id+'"> <span class="huifuBt">回复</span><span class="zanIcoBt fr zanClick">'+data.list[i].support_num+'</span>';
+
+		    			if(data.list[i].vip != 0)
+		    			{
+		    				html += '<p class="userName vip">'+data.list[i].nickname+'</p>';
+		    			}
+		    			else
+		    			{
+		    				html += '<p class="userName">'+data.list[i].nickname+'</p>';
+		    			}
+
+		    			if(data.list[i].to_userid != 0)
+		    			{
+		    				html += '<div class="huifuTit">'+data.list[i].nickname+'回复了'+data.list[i].to_nickname+'</div>';
+		    			}
+
+		    			html += '<div class="plConBox">'+data.list[i].content+'</div>';
+		    			html += '<p class="gray2">'+data.list[i].create_time+'</p>';
+		    			html += '</div></li>';
+
+
+		    		})
+
+		    		$('.plList').append(html);
+		    		var last_id = eval(data.list)[eval(data.list).length-1]["comment_id"];
+		    		$('#last_id').val(last_id);
+		    		$('.listMoreBar').show();
+			 }
+		     else if(data.msg == 2)
+		     {
+		     	$('.listMoreBar').remove();
+		     }
+			     
+		   }, "json");
+	}
+}
+
+function getNowFormatDate() {
+    var date = new Date();
+    var seperator1 = "-";
+    var seperator2 = ":";
+    var month = date.getMonth() + 1;
+    var strDate = date.getDate();
+    if (month >= 1 && month <= 9) {
+        month = "0" + month;
+    }
+    if (strDate >= 0 && strDate <= 9) {
+        strDate = "0" + strDate;
+    }
+    var currentdate = date.getFullYear() + seperator1 + month + seperator1 + strDate
+            + " " + date.getHours() + seperator2 + date.getMinutes()
+            + seperator2 + date.getSeconds();
+    return currentdate;
+} 
+</script>
+ <!--footer begin-->
+  <div class="footerWrap">
+    <div class="footerIndexMain">
+    <div class="footerNav">
+      <ul>
+        <li><a target="_blank" href="http://ir.v1.cn/index/#/information">集团介绍</a></li>
+        <li><a target="_blank" href="http://ir.v1.cn/index/#/news">新闻中心</a></li>
+        <!--<li><a target="_blank" href="http://pc.v1.cn/sitemap/">网站地图</a></li>-->
+        <li><a target="_blank" href="http://ir.v1.cn/index/#/business">关于我们</a></li>
+        <li><a target="_blank" href="https://www.liepin.com/company/9113901/">诚聘英才</a></li>
+        <li><a target="_blank" href="http://www.v1.cn/Qualification/privacy.html">隐私政策</a></li>
+        <li><a target="_blank" href="http://ir.v1.cn/index/#/investor/investor#ContactInfo">联系我们</a></li>
+      </ul>
+    </div>
+    © 2017  第一视频公司版权所有<br>
+    <a target="_blank" href="http://www.v1.cn/Qualification/xinwen.html?from=v1">互联网新闻信息服务许可证(国新网许可证编号11220180006)</a>　<a target="_blank" href="http://www.v1.cn/Qualification/icp.html" >电信与信息服务业务经营许可证(京ICP证050390号)</a>　<a href="http://www.v1.cn/Qualification/jmzz.shtml">广播电视节目制作经营许可证 (广媒)字第150号</a><br>
+    统一社会信用代码：911101087754533048  <a target="_blank" href="http://sq.ccm.gov.cn:80/ccnt/sczr/service/business/emark/toDetail/57DBA3B393E0C00EE0530140A8C0691D"> 网络文化经营许可证：京网文【2018】10244-931号</a>　　网络出版服务许可证：（总）网出证（京）字第194号<br><a target="_blank" href="http://www.v1.cn/Qualification/shiting.html" >信息网络传播视听节目许可证(0105136)</a>  测绘资质证书(甲测资字1100561)  增值电信业务经营许可证B2-20050381<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002002116" class="gonganBei">京公网安备：11000002002116</a><br>
+    邮箱:service@v1.cn　　热线: 400-006-4571　　不良信息举报: 010-64706601
+    <div class="wanganList"> <a target="_blank" href="http://www.itrust.org.cn/home/index/itrust_certifi/wm/2775453304"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo1.jpg" ></a> <a target="_blank" href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202005121600020"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo2.jpg" ></a> <a target="_blank" href="http://www.12377.cn/"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo3.jpg" ></a> <a target="_blank" href="http://www.bnia.cn/"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo4.jpg" ></a> <a target="_blank"  href="http://www.cyberpolice.cn"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo5.jpg" ></a> <a target="_blank" href="https://credit.szfw.org/CX20141125005630005718.html"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo6.jpg" ></a> <a target="_blank"  href="http://www.bjwhzf.gov.cn/accuse.do"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo7.jpg" ></a> <a target="_blank"  href="http://www.bjjubao.org/index.htm"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo8.jpg" ></a> <a target="_blank"  href="https://ss.knet.cn/verifyseal.dll?sn=e15101011010860803dsde000000&ct=df&a=1&pa=0.917555071164685"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo9.jpg" ></a></div>
+    </div>
+  </div>
+  <!--footer end-->
+
+</div>
+<script src="http://static.v1.cn/v1cn/web2017/js/v1Site_comm.js"></script>
+<script src="http://static.v1.cn/v1cn/web2017/js/v1Site_miaoping.js"></script>
+<script src="http://static.v1.cn/v1cn/web2017/js/v1Site_focus.js"></script>
+
+<!-- v1统计代码 -->
+<script type="text/javascript">
+cookie={
+set:function(cookieName, cookieValue, expires, path, domain, secure) {
+document.cookie =
+escape(cookieName) + '=' + escape(cookieValue)
++ (expires ? '; expires=' + expires.toGMTString() : '')
++ (path ? '; path=' + path : '')
++ (domain ? '; domain=' + domain : '')
++ (secure ? '; secure' : '');
+},
+get:function(cookieName) {
+var cookieValue = '';
+var posName = document.cookie.indexOf(escape(cookieName) + '=');
+if (posName != 1) {
+var posValue = posName + (escape(cookieName) + '=').length;
+var endPos = document.cookie.indexOf(';', posValue);
+if (endPos != -1) cookieValue = unescape(document.cookie.substring(posValue, endPos));
+else cookieValue = unescape(document.cookie.substring(posValue));
+}
+return (cookieValue);
+}
+}
+if(cookie.get('CookieV1Log')==""){
+v1log=new Date();
+cValue = Math.ceil(((v1log.getTime()*9321+49297) % 233280 /(233280.0)) * 9999999999999999);
+v1log.setTime(v1log.getTime() + 86400000);
+cookie.set('CookieV1Log',cValue,v1log,'','','');
+}
+path = "http://v1log.v1.cn/log.js?page=wap_jrtt&yu="+cookie.get('CookieV1Log')+"&tmp="+Math.round(Math.random()*100000)+"&referer="+document.referrer+"&customSort=wap";
+document.write("<script type=text/javascript src ="+path+" ><\/script> ");
+</script>
+<!-- v1统计代码end -->
+
+<!-- START baidu v1.0 -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fcb44eb450c53c91a1cc1d2511f5919b3' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!-- END baidu v1.0 -->
+<!-- cnzz  -->
+<div style="display:none">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1255096340'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/z_stat.php%3Fid%3D1255096340%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+<style>
+            .layui-layer { background-color:gray; }
+        </style>
+<!-- end cnzz -->
+</body>
+</html>
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="keywords" content="娱乐视频，明星，花边，八卦，第一视频">
+<meta name="description" content="第一视频娱乐频道，为您带来最新的娱乐视频，第一时间为您呈现最新的明星花边八卦新闻，看娱乐视频尽在第一视频">
+<title>第一视频-中国短视频新闻媒体平台</title>
+<link href="http://static.v1.cn/v1cn/web2017/css/v1commStyle.css" rel="stylesheet" type="text/css">
+<link href="http://static.v1.cn/v1cn/web2017/css/v1channelStyle.css" rel="stylesheet" type="text/css">
+<link href="http://static.v1.cn/v1cn/web2017/css/v1reg_loginStyle.css" rel="stylesheet" type="text/css">
+<link href="http://static.v1.cn/v1cn/web2017/css/v1specialStyle.css" rel="stylesheet" type="text/css">
+<script src="http://static.v1.cn/js/jquery-1.11.3.min.js"></script>
+<script src="http://static.v1.cn/act/liulianvr/app2.0/layer/layer.js"></script>
+<script src="/static/js/jquery.lazyload.js"></script>                              <!--jquery懒加载-->
+<meta property="wb:webmaster" content="7353887df60c36c5" />
+</head>
+<body>
+<div class="wrapper">
+  <div class="headerWrap">
+    <div class="header">
+      <div class="headerL">
+<!--      <span class="icoBt sideMenuBt"></span>-->
+        <a href="/" class="logo">第一视频</a>
+        <a href="http://toujiang.v1.cn/" class="toujiangLogo" target="_blank">投将</a>
+        <div class="searchBox" style="display: block;">
+          <input class="searchInp" type="text" id="searchWordNew" value="搜你喜欢" onfocus="if (value =='搜你喜欢'){value =''}" onblur="if (value ==''){value='搜你喜欢'}">
+          <a href="javascript:void(0)" class="searchBt"></a></div>
+      </div>
+      <div class="headerR">
+          <ul class="operation">
+                            <li><a href="/user/login" class="icoBt icoUser">登录</a></li>
+                        <li><a href="javascript:void(0)" class="icoBt icoBt1" id="cyy_upload">上传</a></li>
+            <li><a target="_blank" href="http://weibo.com/myv1" class="icoBt icoBt2">微博</a></li>
+            <li><a target="_blank" href="http://apps.v1.cn/" class="icoBt icoBt3">APP</a></li>
+            <li id="moreMenu"><a href="javascript:" class="icoBt icoBt4">更多</a>
+              <div class="moreMenuList">
+                <ul>
+                  <li><a href="http://ir.v1.cn/index/#/business">关于我们</a></li>
+                  <li><a href="http://ir.v1.cn/index/#/investor/investor#ContactInfo">联系我们</a></li>
+                  <li><a href="https://www.liepin.com/company/9113901/">加入我们</a></li>
+                  <li><a href="http://www.12377.cn/" target="_blank">廉洁举报</a></li>
+                  <li><a href="http://pc.v1.cn/vodone/aboutus/law/protocol.html">用户协议</a></li>
+                </ul>
+              </div>
+            </li>
+          </ul>
+                 </div>
+    </div>
+  </div>
+    
+<script>
+    $(function(){
+        $("#cyy_logut").click(function(){
+            $.ajax({
+                type:'get',
+                url:'/user/signOut',//路径
+                dataType:'json',
+                data:{
+                },
+                success:function(msg){
+                    if(msg.code==200){
+                        window.location.href = '/index';
+                    }else{
+//                        alert('删除失败');
+                    }
+                }  
+            })
+        });
+        $("#cyy_upload").click(function(){
+//            if(//){
+//                isauth = "//";
+//                if(isauth=='1'){
+                    window.location.href='/uploadtx/upload';
+//                }else{
+//                    window.location.href='/authStatus/authOne';
+//                }
+//            }else{
+//                window.location.href='/user/login';
+//            }
+            
+        });
+
+		$('.searchBt').click(function(){
+			var val = $.trim($('#searchWordNew').val());
+			if(val && val != '搜你喜欢')
+			{
+				window.open('/search/getList?keyword='+val)
+			}
+			return false;
+		})
+        
+    });
+</script>
+
+  <div class="mainWrap shadowBox">
+      <div class="sideMenu">
+    <ul class="menuList">
+      <li><a href="/" >头条</a></li>
+<!--      <li><a href="http://toujiang.v1.cn/" target="_blank">投将</a></li>-->
+<!--      <li><a href="/miaoping/" --><!--秒评</a></li>-->
+                    <li><a href="/zrtt/" >
+                昨日头条                </a>
+        </li>
+                       	<li><a href="/xinwen/" >
+     		新闻     		</a>
+     	</li>
+                       	<li><a href="/shehui/" >
+     		社会     		</a>
+     	</li>
+                       	<li><a href="/yule/" class="curr">
+     		娱乐     		</a>
+     	</li>
+                       	<li><a href="/gaoxiao/" >
+     		搞笑     		</a>
+     	</li>
+                       	<li><a href="/yuanchuang/" >
+     		历史     		</a>
+     	</li>
+                       	<li><a href="/lvyou/" >
+     		旅游     		</a>
+     	</li>
+                       	<li><a href="/caijing/" >
+     		财经     		</a>
+     	</li>
+                       	<li><a href="/meishi/" >
+     		美食     		</a>
+     	</li>
+                       	<li><a href="/qiche/" >
+     		汽车     		</a>
+     	</li>
+                       	<li><a href="/yinyue/" >
+     		音乐     		</a>
+     	</li>
+                       	<li><a href="/yingshi/" >
+     		影视     		</a>
+     	</li>
+                  <li><a href="http://vr.v1.cn/" target="_blank">VR</a></li>
+      <li><a href="http://www.liangziport.com/" target="_blank">量子港</a></li>
+  <!--    <li><a href="http://www.v1.cn/dongman/index.html" target="_blank">动漫</a></li>
+      <li><a href="http://www.v1.cn/v1zhibo.html" target="_blank">v1秀</a></li> -->
+    </ul>
+  </div>
+    <div class="mainBox"> 
+      <!-- 娱乐 begin -->
+      <div class="colBar">
+      	<span class="colTit">娱乐</span>
+      	<input type="hidden" id="cid" value="17" />
+      </div>
+            <div class="colConBox borderB">
+        <ul class="infoList">
+                    <li>
+            <div class="pic">
+            	<span class="tipTime">01:03</span>
+            	<a target="_blank" href="/video/15659019.shtml">
+            		<img src="http://img.mms.v1.cn/static/mms/images/2019-05-20/201905201542245661.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15659019.shtml">张继科自曝与景甜分手 已换掉情侣头像</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">娱老头</p>
+            </div>
+            <span class="icoPv">5245</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">01:06</span>
+            	<a target="_blank" href="/video/15659020.shtml">
+            		<img src="http://img.mms.v1.cn/static/mms/images/2019-05-20/201905201541374893.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15659020.shtml">李敏镐新剧女主敲定金高银 将饰演警察与罪犯两角</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">娱老头</p>
+            </div>
+            <span class="icoPv">4059</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">01:05</span>
+            	<a target="_blank" href="/video/15658600.shtml">
+            		<img src="http://img.mms.v1.cn/static/mms/images/2019-05-20/201905200927364269.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15658600.shtml">曝迪丽热巴输掉游戏，拿球用力砸张艺兴被批没礼貌</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">快看新闻</p>
+            </div>
+            <span class="icoPv">8431</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">01:07</span>
+            	<a target="_blank" href="/video/15658602.shtml">
+            		<img src="http://img.mms.v1.cn/static/mms/images/2019-05-20/201905200925042905.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15658602.shtml">吴秀波参加酒局身后摆茅台 当场高歌表情十分陶醉</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">快看新闻</p>
+            </div>
+            <span class="icoPv">9442</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">00:59</span>
+            	<a target="_blank" href="/video/15658603.shtml">
+            		<img src="http://img.mms.v1.cn/static/mms/images/2019-05-20/201905200922311075.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15658603.shtml">奚梦瑶晒红毯美照回应被拍到赘肉 疑否认怀孕传闻</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">快看新闻</p>
+            </div>
+            <span class="icoPv">7672</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">01:00</span>
+            	<a target="_blank" href="/video/15658604.shtml">
+            		<img src="http://img.mms.v1.cn/static/mms/images/2019-05-20/201905200921279224.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15658604.shtml">张柏芝现身机场瘦到极致，弟弟全程呵护姐姐</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">快看新闻</p>
+            </div>
+            <span class="icoPv">9223</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">01:07</span>
+            	<a target="_blank" href="/video/15658598.shtml">
+            		<img src="http://img.mms.v1.cn/static/mms/images/2019-05-20/201905200920161510.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15658598.shtml">张丹峰洪欣带女儿逛商场，一路畅聊十分恩爱</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">快看新闻</p>
+            </div>
+            <span class="icoPv">6766</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">01:03</span>
+            	<a target="_blank" href="/video/15658595.shtml">
+            		<img src="http://img.mms.v1.cn/static/mms/images/2019-05-20/201905200918333298.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15658595.shtml">迷弟胡歌在线追星！戛纳见偶像昆汀秒变星星眼</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">快看新闻</p>
+            </div>
+            <span class="icoPv">6978</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">01:20</span>
+            	<a target="_blank" href="/video/15658593.shtml">
+            		<img src="http://img.mms.v1.cn/static/mms/images/2019-05-20/201905200917282258.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15658593.shtml">何猷君在景点留字告白奚梦瑶，本人发文道歉</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">快看新闻</p>
+            </div>
+            <span class="icoPv">10270</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">01:08</span>
+            	<a target="_blank" href="/video/15657082.shtml">
+            		<img src="http://img.mms.v1.cn/static/mms/images/2019-05-19/201905191612365323.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15657082.shtml">李荣浩人缘真好！演唱会犹如艺人团建现场</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">热点追踪</p>
+            </div>
+            <span class="icoPv">7831</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">01:06</span>
+            	<a target="_blank" href="/video/15657081.shtml">
+            		<img src="http://img.mms.v1.cn/static/mms/images/2019-05-19/201905191611255858.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15657081.shtml">洪欣全面复出忙捞金 低端品牌照接不误</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">热点追踪</p>
+            </div>
+            <span class="icoPv">6761</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">01:03</span>
+            	<a target="_blank" href="/video/15656369.shtml">
+            		<img src="http://f10.v1.cn/site/15656369.mp4.0_0.p0.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15656369.shtml">杨幂笑对外界的各种质疑：不介意更多</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">快看新闻</p>
+            </div>
+            <span class="icoPv">9836</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">01:07</span>
+            	<a target="_blank" href="/video/15656370.shtml">
+            		<img src="http://f10.v1.cn/site/15656370.mp4.0_0.p0.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15656370.shtml">范冰冰被曝着急结婚以宣告复出</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">快看新闻</p>
+            </div>
+            <span class="icoPv">8170</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">01:12</span>
+            	<a target="_blank" href="/video/15656371.shtml">
+            		<img src="http://img.mms.v1.cn/static/mms/images/2019-05-19/201905190911192694.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15656371.shtml">胡歌亮相戛纳新片首映 细心帮廖凡整理衣服</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">快看新闻</p>
+            </div>
+            <span class="icoPv">6549</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">01:02</span>
+            	<a target="_blank" href="/video/15656372.shtml">
+            		<img src="http://f10.v1.cn/site/15656372.mp4.0_0.p0.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15656372.shtml">知情人曝赵丽颖自降五千万片酬以求复出</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">快看新闻</p>
+            </div>
+            <span class="icoPv">8652</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">01:08</span>
+            	<a target="_blank" href="/video/15656373.shtml">
+            		<img src="http://img.mms.v1.cn/static/mms/images/2019-05-19/201905190907242907.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15656373.shtml">一点不慌！沈腾彩排忘词淡定应对</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">快看新闻</p>
+            </div>
+            <span class="icoPv">6653</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">00:59</span>
+            	<a target="_blank" href="/video/15656002.shtml">
+            		<img src="http://f10.v1.cn/site/15656002.mp4.0_0.p0.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15656002.shtml">吴卓林街头搂抱同性太太Andi</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">快看新闻</p>
+            </div>
+            <span class="icoPv">8286</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">00:59</span>
+            	<a target="_blank" href="/video/15656004.shtml">
+            		<img src="http://f10.v1.cn/site/15656004.mp4.0_0.p0.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15656004.shtml">杨超越呼吁不要打扰家人生活：我家不是景点</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">快看新闻</p>
+            </div>
+            <span class="icoPv">9095</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">01:04</span>
+            	<a target="_blank" href="/video/15656005.shtml">
+            		<img src="http://f10.v1.cn/site/15656005.mp4.0_0.p0.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15656005.shtml">毕滢引咎辞职后举报网友，维护自身名誉权</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">快看新闻</p>
+            </div>
+            <span class="icoPv">8397</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">00:58</span>
+            	<a target="_blank" href="/video/15656003.shtml">
+            		<img src="http://f10.v1.cn/site/15656003.mp4.0_0.p0.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15656003.shtml">奚梦瑶答应何猷君求婚后首晒照</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">快看新闻</p>
+            </div>
+            <span class="icoPv">6406</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">01:06</span>
+            	<a target="_blank" href="/video/15655998.shtml">
+            		<img src="http://img.mms.v1.cn/static/mms/images/2019-05-18/201905181025019199.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15655998.shtml">迅速！韩国检方透露已对朴有天进行拘留起诉</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">快看新闻</p>
+            </div>
+            <span class="icoPv">9478</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">01:05</span>
+            	<a target="_blank" href="/video/15656001.shtml">
+            		<img src="http://f10.v1.cn/site/15656001.mp4.0_0.p0.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15656001.shtml">台媒曝李荣浩准备和老东家散伙，自立门户</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">快看新闻</p>
+            </div>
+            <span class="icoPv">6793</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">01:00</span>
+            	<a target="_blank" href="/video/15655999.shtml">
+            		<img src="http://f10.v1.cn/site/15655999.mp4.0_0.p0.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15655999.shtml">陈晓疑似不满主演新剧剪辑，称就像两个沙雕</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">快看新闻</p>
+            </div>
+            <span class="icoPv">7423</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">02:02</span>
+            	<a target="_blank" href="/video/15655834.shtml">
+            		<img src="http://img.mms.v1.cn/static/mms/images/2019-05-17/201905171747152560.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15655834.shtml">都匀电影电视节举办 李乃文涂松岩任推广大使</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">坐视天下</p>
+            </div>
+            <span class="icoPv">8619</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">01:05</span>
+            	<a target="_blank" href="/video/15655802.shtml">
+            		<img src="http://img.mms.v1.cn/static/mms/images/2019-05-17/201905171700269946.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15655802.shtml">萧亚轩病前曾与两男街头夜游，家族病史被起底</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">热点追踪</p>
+            </div>
+            <span class="icoPv">8688</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">00:52</span>
+            	<a target="_blank" href="/video/15655803.shtml">
+            		<img src="http://img.mms.v1.cn/static/mms/images/2019-05-17/201905171658389897.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15655803.shtml">苏志燮恋上小17岁主持人？员工：已交往1年</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">热点追踪</p>
+            </div>
+            <span class="icoPv">9847</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">00:57</span>
+            	<a target="_blank" href="/video/15655584.shtml">
+            		<img src="http://img.mms.v1.cn/static/mms/images/2019-05-17/201905171354046237.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15655584.shtml">疑似宁泽涛女友曝光 小区门口亲自接送一起回家</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">快看新闻</p>
+            </div>
+            <span class="icoPv">9142</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">00:45</span>
+            	<a target="_blank" href="/video/15655583.shtml">
+            		<img src="http://img.mms.v1.cn/static/mms/images/2019-05-17/201905171350358399.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15655583.shtml">《暮光之城》男主将出演新蝙蝠侠</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">快看新闻</p>
+            </div>
+            <span class="icoPv">10287</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">01:05</span>
+            	<a target="_blank" href="/video/15655582.shtml">
+            		<img src="http://img.mms.v1.cn/static/mms/images/2019-05-17/201905171349315282.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15655582.shtml">JYJ官网删除朴有天相关内容 组合名或将变更</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">快看新闻</p>
+            </div>
+            <span class="icoPv">6456</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">01:01</span>
+            	<a target="_blank" href="/video/15655378.shtml">
+            		<img src="http://img.mms.v1.cn/static/mms/images/2019-05-17/201905170935241331.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15655378.shtml">李易峰邓超等男星合影 沈腾表情实力抢镜</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">快看新闻</p>
+            </div>
+            <span class="icoPv">8455</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">00:58</span>
+            	<a target="_blank" href="/video/15655376.shtml">
+            		<img src="http://img.mms.v1.cn/static/mms/images/2019-05-17/201905170934166257.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15655376.shtml">黄子韬开豪车耍帅失败 实力演绎“中二”</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">快看新闻</p>
+            </div>
+            <span class="icoPv">6945</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">01:01</span>
+            	<a target="_blank" href="/video/15655368.shtml">
+            		<img src="http://img.mms.v1.cn/static/mms/images/2019-05-17/201905170929054129.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15655368.shtml">53岁巩俐再婚嫁71岁法国电子音乐家</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">快看新闻</p>
+            </div>
+            <span class="icoPv">10206</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">00:43</span>
+            	<a target="_blank" href="/video/15654266.shtml">
+            		<img src="http://img.mms.v1.cn/static/mms/images/2019-05-16/201905161649569372.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15654266.shtml">李亚鹏女友微博账号被扒两人相差16岁</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">热点追踪</p>
+            </div>
+            <span class="icoPv">10014</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">00:39</span>
+            	<a target="_blank" href="/video/15654261.shtml">
+            		<img src="http://img.mms.v1.cn/static/mms/images/2019-05-16/201905161648479136.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15654261.shtml">苍井空晒娃 感慨双胞胎每天都在变大</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">热点追踪</p>
+            </div>
+            <span class="icoPv">10268</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">01:00</span>
+            	<a target="_blank" href="/video/15653599.shtml">
+            		<img src="http://img.mms.v1.cn/static/mms/images/2019-05-16/201905161410158105.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15653599.shtml">汪苏泷靳梦佳恋情曝光！两人街头亲吻牵手</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">快看新闻</p>
+            </div>
+            <span class="icoPv">9926</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">01:02</span>
+            	<a target="_blank" href="/video/15654054.shtml">
+            		<img src="http://img.mms.v1.cn/static/mms/images/2019-05-16/201905161358497120.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15654054.shtml">谢楠和男主持拥抱，吴京化身霸道总裁</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">快看新闻</p>
+            </div>
+            <span class="icoPv">9286</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">01:06</span>
+            	<a target="_blank" href="/video/15654053.shtml">
+            		<img src="http://img.mms.v1.cn/static/mms/images/2019-05-16/201905161357302880.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15654053.shtml">宁泽涛疑似公开恋情 曾谈择偶年龄标准</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">快看新闻</p>
+            </div>
+            <span class="icoPv">9024</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">01:05</span>
+            	<a target="_blank" href="/video/15653607.shtml">
+            		<img src="http://img.mms.v1.cn/static/mms/images/2019-05-16/201905160949155721.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15653607.shtml">岳云鹏为老婆庆生送另类祝福</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">快看新闻</p>
+            </div>
+            <span class="icoPv">6512</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">01:00</span>
+            	<a target="_blank" href="/video/15653610.shtml">
+            		<img src="http://img.mms.v1.cn/static/mms/images/2019-05-16/201905160947117176.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15653610.shtml">泳坛男神宁泽涛深夜发文疑似公开恋情</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">快看新闻</p>
+            </div>
+            <span class="icoPv">7438</span>
+          </li>
+
+          
+          
+                              <li>
+            <div class="pic">
+            	<span class="tipTime">00:58</span>
+            	<a target="_blank" href="/video/15653618.shtml">
+            		<img src="http://f10.v1.cn/site/15653618.mp4.0_0.p0.jpg" >
+            	</a>
+            </div>
+            <div class="tit">
+            	<a target="_blank" href="/video/15653618.shtml">奚梦瑶现身戛纳默认怀孕传闻：你们开心就好</a>
+            </div>
+            <div class="uploadUser">
+<!--              <p class="userPic">-->
+<!--              	<img src="" >-->
+<!--              </p>-->
+              <p class="userName gray2">快看新闻</p>
+            </div>
+            <span class="icoPv">6955</span>
+          </li>
+
+          
+          
+                              
+<!--           <div class="bannerTl"><a href="#" target="_blank"><img src="http://static.v1.cn/v1cn/web2017/images/temp_banner.jpg" alt=""></a></div>-->
+          
+        </ul>
+        <div class="listMoreBar"><span>点击查看更多</span></div>
+      </div>
+            <!-- 娱乐 end --> 
+    </div>
+  </div>
+  <script>
+  $(function(){
+	  var page = 1;
+		$('.listMoreBar').click(function(){
+			$.ajax({
+				    url: "/index/getList4Ajax",
+				    type: "post",
+				    data: { cid: $('#cid').val(),  page: page},
+				    dataType: "json",
+				    success: function(data) {
+						if(data.msg == 1)
+						{
+							var html = '<ul class="infoList">';
+							$.each(data.list, function(i){
+								html += '<li><div class="pic">';
+								html += '<span class="tipTime">'+data.list[i].duration+'</span>';
+								html += '<a target="_blank" href="/video/'+data.list[i].vid+'.shtml"><img src="'+data.list[i].pic+'" ></a></div>';
+								html += '<div class="tit"><a target="_blank" href="/video/'+data.list[i].vid+'.shtml">'+data.list[i].title+'</a></div>';
+								html += '<div class="uploadUser">';
+								//html += '<p class="userPic"><img src="'+data.list[i].picture+'" ></p>';
+								html += '<p class="userName gray2">'+data.list[i].nickname+'</p></div>';
+								html += '<span class="icoPv">'+data.list[i].playNum+'</span></li>';
+								})
+							html += '</ul>';
+
+							$('.listMoreBar').before(html);
+							page++;
+						}
+						else if(data.msg == 2)
+						{
+							$('.listMoreBar').remove();
+						}
+				    }
+			});		
+		})
+	})
+  </script>
+  
+ <!--footer begin-->
+  <div class="footerWrap">
+    <div class="footerIndexMain">
+    <div class="footerNav">
+      <ul>
+        <li><a target="_blank" href="http://ir.v1.cn/index/#/information">集团介绍</a></li>
+        <li><a target="_blank" href="http://ir.v1.cn/index/#/news">新闻中心</a></li>
+        <!--<li><a target="_blank" href="http://pc.v1.cn/sitemap/">网站地图</a></li>-->
+        <li><a target="_blank" href="http://ir.v1.cn/index/#/business">关于我们</a></li>
+        <li><a target="_blank" href="https://www.liepin.com/company/9113901/">诚聘英才</a></li>
+        <li><a target="_blank" href="http://www.v1.cn/Qualification/privacy.html">隐私政策</a></li>
+        <li><a target="_blank" href="http://ir.v1.cn/index/#/investor/investor#ContactInfo">联系我们</a></li>
+      </ul>
+    </div>
+    © 2017  第一视频公司版权所有<br>
+    <a target="_blank" href="http://www.v1.cn/Qualification/xinwen.html?from=v1">互联网新闻信息服务许可证(国新网许可证编号11220180006)</a>　<a target="_blank" href="http://www.v1.cn/Qualification/icp.html" >电信与信息服务业务经营许可证(京ICP证050390号)</a>　<a href="http://www.v1.cn/Qualification/jmzz.shtml">广播电视节目制作经营许可证 (广媒)字第150号</a><br>
+    统一社会信用代码：911101087754533048  <a target="_blank" href="http://sq.ccm.gov.cn:80/ccnt/sczr/service/business/emark/toDetail/57DBA3B393E0C00EE0530140A8C0691D"> 网络文化经营许可证：京网文【2018】10244-931号</a>　　网络出版服务许可证：（总）网出证（京）字第194号<br><a target="_blank" href="http://www.v1.cn/Qualification/shiting.html" >信息网络传播视听节目许可证(0105136)</a>  测绘资质证书(甲测资字1100561)  增值电信业务经营许可证B2-20050381<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002002116" class="gonganBei">京公网安备：11000002002116</a><br>
+    邮箱:service@v1.cn　　热线: 400-006-4571　　不良信息举报: 010-64706601
+    <div class="wanganList"> <a target="_blank" href="http://www.itrust.org.cn/home/index/itrust_certifi/wm/2775453304"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo1.jpg" ></a> <a target="_blank" href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202005121600020"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo2.jpg" ></a> <a target="_blank" href="http://www.12377.cn/"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo3.jpg" ></a> <a target="_blank" href="http://www.bnia.cn/"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo4.jpg" ></a> <a target="_blank"  href="http://www.cyberpolice.cn"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo5.jpg" ></a> <a target="_blank" href="https://credit.szfw.org/CX20141125005630005718.html"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo6.jpg" ></a> <a target="_blank"  href="http://www.bjwhzf.gov.cn/accuse.do"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo7.jpg" ></a> <a target="_blank"  href="http://www.bjjubao.org/index.htm"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo8.jpg" ></a> <a target="_blank"  href="https://ss.knet.cn/verifyseal.dll?sn=e15101011010860803dsde000000&ct=df&a=1&pa=0.917555071164685"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo9.jpg" ></a></div>
+    </div>
+  </div>
+  <!--footer end-->
+
+</div>
+<script src="http://static.v1.cn/v1cn/web2017/js/v1Site_comm.js"></script>
+<script src="http://static.v1.cn/v1cn/web2017/js/v1Site_miaoping.js"></script>
+<script src="http://static.v1.cn/v1cn/web2017/js/v1Site_focus.js"></script>
+
+<!-- v1统计代码 -->
+<script type="text/javascript">
+cookie={
+set:function(cookieName, cookieValue, expires, path, domain, secure) {
+document.cookie =
+escape(cookieName) + '=' + escape(cookieValue)
++ (expires ? '; expires=' + expires.toGMTString() : '')
++ (path ? '; path=' + path : '')
++ (domain ? '; domain=' + domain : '')
++ (secure ? '; secure' : '');
+},
+get:function(cookieName) {
+var cookieValue = '';
+var posName = document.cookie.indexOf(escape(cookieName) + '=');
+if (posName != 1) {
+var posValue = posName + (escape(cookieName) + '=').length;
+var endPos = document.cookie.indexOf(';', posValue);
+if (endPos != -1) cookieValue = unescape(document.cookie.substring(posValue, endPos));
+else cookieValue = unescape(document.cookie.substring(posValue));
+}
+return (cookieValue);
+}
+}
+if(cookie.get('CookieV1Log')==""){
+v1log=new Date();
+cValue = Math.ceil(((v1log.getTime()*9321+49297) % 233280 /(233280.0)) * 9999999999999999);
+v1log.setTime(v1log.getTime() + 86400000);
+cookie.set('CookieV1Log',cValue,v1log,'','','');
+}
+path = "http://v1log.v1.cn/log.js?page=wap_jrtt&yu="+cookie.get('CookieV1Log')+"&tmp="+Math.round(Math.random()*100000)+"&referer="+document.referrer+"&customSort=wap";
+document.write("<script type=text/javascript src ="+path+" ><\/script> ");
+</script>
+<!-- v1统计代码end -->
+
+<!-- START baidu v1.0 -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fcb44eb450c53c91a1cc1d2511f5919b3' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!-- END baidu v1.0 -->
+<!-- cnzz  -->
+<div style="display:none">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1255096340'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/z_stat.php%3Fid%3D1255096340%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+<style>
+            .layui-layer { background-color:gray; }
+        </style>
+<!-- end cnzz -->
+</body>
+</html>
+
+�PNG
+
+   IHDR   �   2   ���  IDATx��yxSU��߄�i҅�nt����PPAA��VG�qPp�AP2°�ʌBft@����⎐j�4i��%m�to�fk���o8=�Y����~�o��y���sOo�'�y�97p����?-��v�nT���Z�&{�lwg9c nR��v�W8���<�ct�?'A������Ѡ1�c�����������QM�>�q��w/b����� u��U�o���!�a��Α^�`uւ�Y����GCs� &&�=7�u��M�F�  49��9 J�6 ȍ�cU����|��&� )_A�ț�F4����9@�aa�T�AY�I�V�����O!��N�����jA�Ȫ0@�Ʒ&֒	�`���J���ƀ�sy�P8�w�� ���賔� d  5����w=��ן��8�ٴ�р�Nǁ\ݛ�Og� <��8�K�s�]U�� 
+  �� ��(�"V�L�����lF"C3X�974��B \2h�Q��ġ�7����4�t�����u�X��r�08�X�?� EH����BҮ: �	N�v�Ew� <%ΛI��W	 �јā���F.G� +$M��$`����]b�v� p[ �<G�E���Va��҆z��;˛�IeS^Zm�����a�2Π�� /�MlF<�LJ �`�bE������%Y�<;pȳl[� hReӢe�������B�5��iC��6�|` �i͹������	 �d�N�h���1 �e ��g���=q[�;��x����an�����&R��jv�X ���!U6�7P� X����5� `DP�>aR��7�ҐIi]↓�+Y-�a�Xр��7�e��� ��VD����Z�=���@ٷW*Ke���6��P���0)"nꂻt���1$��� `����Ac�su��q�ːAN�?1����.%�v�*��ȼ��2P���c 1����r�0��|�?�����y��3Ӫ���/N��
+E��+�$�3K ��G���  �?������y����0�UƂ崄gL�
+���U�0�w��o�]�/w˷������f{7�n^��e�r;)��UnbT�BW��y譡��6j�I�1�l�(�)�t꒫xH�0f�iÂ�O�y���K_RTxh^t�7?*���/��+��+m���|X.�����/�y��	��1k��* hS6](8�'yÿ��#}��>��X�Ԣ� @���� ��d���Ejp^*X):'=*'=J�l����g�l�S��:��IA�=}���?��h�~f^l�P�5�k����Ҧ������n��T�)���擳�=������~C�5�	'����c�^C_ҫ�TT�7�x����U��dX�ͯƭ�����}��/��8;��e���fR�֢޷������E������˂x<[���Xḫ���$u&z�L��>;:��<�{�)�]����tGVo�18�[�BR��)��ҔJX5���5r�3�.�É�qUP3w~�h���/�8E_�|�ˉ9Yy�Ѽ� ϣ��d�$E[��ZE��.��)������]}=kq���i�Y��ͦ�E�$�m��o/W��^��@W[�0ŗ�/���1���,����qč2��ӓ,��V��38�==Ʒ�|�N���2$�� �[@� g�1Bɾ/&��A\�SV�b�\�	�8�՞��C����ܒ蒴��N��,��naLFm�Ez�Mr�'�g���y+C�ﻳ����+,,ŏN�^:- r<�a�e�CG�/_9��-��`���b�����/\/�����(���j�/�c�`��K�O}�筅���Р��w������r��'��+�7�& ����0�uH�aC`�D�1���8��z����U3��;{3�*�Ϝ�|ϴ��û$���{D� j�-af��r- p�qo]!�U0S*�@�M�H�'Sq���
+��O\x���i�ӘGա#�X�([o� <�㕇���8�/=�����UUO��m����t�.��q�L�и�����m�[^V�����OO^�y�4�M�oO3�[�4 �5!)C��� �;=�����ּv�&G� @uU��.����^ت��  9����2 �{J���p�ov���������?�@Dr$'��b�g�^��q�[_8� \F���Y������j������:����q?�AQHz�Tq �$  a�u4&�M"f��]�?<k�uu]'mx>0s	�������ߴ婥�=���[%u��$8�(�'KS� D<���.��]�����>���ukH�eSfw4�&$g��=w��_��$�j�-h���s��yY<�7n��+	��K�SO64v������c��[0�+Dܘ�:�6!&*!==�μ��h�G �hu� �0�zCPP`��ڌ������/<���g�C�x�ty_8�h�I= `����w����'h�5��.�J��\����008诧�F%Lr�'-��`�8�m�,��a׫����V �gj�0���L�m(���]�-�m�9�Kjo�t�H~���_�p>��˞[w�;�=@a,\�]�]{m��ǋ�����{Y%u��Pqy�I#2iM������i�Y.�5]b`������.R)��0!-��{b��=� ���r#��ᐤ��p�A���D@����������|lų�ޮ�T�_�5��d�z�Y�X���ZgK+ ��搯?흅?�:~@v��E>������{�}*\^Ul1 � ?I\�	 �  �1  O@Ɲ����*2H��ذw׾�OG��on԰ڗ�蜽�_� �ˈ@c6����Q�����.�8iN�FŞ�g~�+}|}Wo-����@�W_��=��CGFwcDw���Ml*x���?G�D�\�+���y�1��^PS}��-� (��LZ p� e�" �� �o�s�ĩ�+��y�؛g�f=2�,�Z4���`���FF�藶��3���>����z}��˟o:f�2�l)�ka��3�Jz�`����Z��{����Ҧ��[�������`���wcQ������`����D��Ԗ�<���Gj���Ю;\�C��;�I]r+ƄzIUH�d�}�陁������8_X���Z���w�-��4&5����<��ẋ��DIs�zk��oϑDw��79�R[���]!���Ζַ�nk�o��OlyI|���U� �c����ܚ'��3�6��U���UB�oY���H�����,A��JJw�Q/� �[v*�K�#�|��K�P(�@�Lq�����>�r㳭 L��C���[��x�I���^����zI�;�/�sW�� �����q!A��,d  ���oޱ� ��?E|�t P:R�*Ey�rlI��r�  �oz�?n6;���fˊ%��65��V}��~�8n>?I Pl1��<�K� �h�������~��� ��S� ��KA{{�8������� h��<��r��"w�����t۰P�wL��;�N|l�sL�z���`�ܻWm~ �T�x*�W~��?��K��G�}�׮��v%���}�Ʌt�䊴^�ݲ�Y��0�k<'�� �u}��E�{À��M�! P�L�%J����A���c��p�A 6���l�����^=����\��;^8�/�o]~ǰ�A��m�ִj�>��Q�l}6����������޵�]�I��hW-���z�pO��z�&;e�{���9��/b��z�y[W��E���)��}|=!1!� �?���̧h�?���N������Q���*ҩ���*~�-�L�Cz�o��Y��x��B_��G �QO����:U)a�׮$������'>< w�}��W��6��#�H4�[:w<���k����ۧ��sCk3!��8!n�H�+1V�bR�D�ʣ_2v��������dS��u�ל�?���./ϟ3�/  $bȓ+�8/>��mʆ�p �E��l&ٻ^����t4܀��}��oߛv��^��Hu�p���;��a%�ñ��� �Z5���|�ɪV�G��N�I����;.5ɋ$=��Y=�ޛ���e$P��$�%�gk�t�w��n�}�/����R�  ��h^�� �~q�� �ڕ�v  ��/��R  ��A�y���rŵ��Ȋ��I��5����>��j�8�V���ҷ��9�a��X��7Yb�r<�V�o��3E�_VI�^�:U�g�2 �}�U3]�R��\_ W~\��O~�Rt^< (�]1�t�
+Yi�}���X.�;�� EOJm��و�x� ��y`(j{k)	�[z/��
+p�P-�M���K �3Y+?)=�Ի�BA�}�ES��d��Ë��?/�H}�����R#�:�G�`Ph�}}�}��[E�aa��a@�y4tJ ,(���5�c�`H4  ���I��Xw��W��S8\N�B�<q�������# Rn�> ^�ݻ؆0�� �Sn[���1!���V���"�H߻Rq�ؙ��YW�3(.Tf���XQo�>���dR"��m�@�K%�Z�ɖu ��'S���sZ -��џ�`0�ڃD� `��U�*�?�Z�I���X��ϸ%��#�~I[�&1 2Ǉ�O�����5?����f��9.�! 9�a��LJ��N./�6# ��x@���Ϊ�t&ߝ��v�v�#�xW��/����Gڮ�`���?ƖH�  074IM��V�.; (�(|n��. ^K" ��R4�$S�·^�N	.���\�j��5 [{`�0kU*Sb�MH�����g+
+�D�$&h-]�7�3p� d�:�	�OJ������w�32&��2�"�㱘&���?���r��'����
+r08��A@�  �Ab-��M��۟�J�Z�@J�o���4���L��:7�<0���+��N1䔋h@ D�F
+�.��`JP(�{��.I���kSbn����T �T����1l  � H4  44��H���/1QD �#QJ 0~~V H��
+EsF�D��ϒI�F�# $sS1��no�%�Iax��	 Z��'%2)�� 0Z|=�Hp��g@� �F]��1&�9s�Ky��֘�mv��!46~p��sc��ְ0h�����F�$�$nCuI]jސKx3}�N����8����hp'֤d��� �ԬE3"! ��]��j�{�|C��I�N̨o�F�#I���H Tu�����J�4-k���fԢ����� �c�d ��    IEND�B`�
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="keywords" content="原创">
+<meta name="description" content="">
+<title>省油和省心 车主聊聊全新一代ES-第一视频-汽车</title>
+<link href="http://static.v1.cn/v1cn/web2017/css/v1commStyle.css" rel="stylesheet" type="text/css">
+<link href="http://static.v1.cn/v1cn/web2017/css/v1usercenterStyle.css" rel="stylesheet" type="text/css">
+<script src="http://static.v1.cn/js/jquery-1.11.3.min.js"></script>
+<script src="/static/js/countUp.js"></script>
+<script src="/static/js/commonfunction.js"></script>
+<script src="http://static.v1.cn/act/liulianvr/app2.0/layer/layer.js"></script>
+
+<link href="http://static.v1.cn/v1cn/web2017/css/v1channelStyle.css" rel="stylesheet" type="text/css">
+<link href="http://static.v1.cn/v1cn/web2017/css/v1reg_loginStyle.css" rel="stylesheet" type="text/css">
+
+</head>
+<body>
+<div class="wrapper">
+  <div class="headerWrap">
+    <div class="header">
+      <div class="headerL">
+
+        <ul class="topNav">
+          <li><a href="/">头条</a></li>
+          <li><a href="http://toujiang.v1.cn/" target="_blank">投将</a></li>
+          <li><a href="/miaoping/">秒评</a></li>
+                              	<li><a href="/zrtt/">昨日头条</a></li>
+                                        	<li><a href="/xinwen/">新闻</a></li>
+                                        	<li><a href="/shehui/">社会</a></li>
+                                        	<li><a href="/yule/">娱乐</a></li>
+                                        	<li><a href="/gaoxiao/">搞笑</a></li>
+                                        	<li><a href="/yuanchuang/">历史</a></li>
+                                        	<li><a href="/lvyou/">旅游</a></li>
+                            </ul>
+                <div class="topNavMoreBt">更多
+          <div class="topNavMoreMenu gray">
+                            	          	<a href="/caijing/">财经</a>
+	                                      	          	<a href="/meishi/">美食</a>
+	                                      	          	<a href="/qiche/">汽车</a>
+	                                      	          	<a href="/yinyue/">音乐</a>
+	                                      	          	<a href="/yingshi/">影视</a>
+	                                      <a href="http://vr.v1.cn/" target="_blank">VR</a>
+              <a href="http://www.liangziport.com/" target="_blank">量子港</a>
+          </div>
+        </div>
+              </div>
+      <div class="headerR_wrap">
+        <div class="headerR">
+          <ul class="operation">
+                            <li><a href="/user/login" class="icoBt icoUser">登录</a></li>
+                        <li><a href="javascript:void(0)" class="icoBt icoBt1" id="cyy_upload">上传</a></li>
+            <li><a target="_blank" href="http://weibo.com/myv1" class="icoBt icoBt2">微博</a></li>
+            <li><a target="_blank" href="http://apps.v1.cn/" class="icoBt icoBt3">APP</a></li>
+            <li id="moreMenu"><a href="javascript:" class="icoBt icoBt4">更多</a>
+              <div class="moreMenuList">
+                <ul>
+                    <li><a href="http://ir.v1.cn/index/#/business">关于我们</a></li>
+                  <li><a href="http://ir.v1.cn/index/#/investor/investor#ContactInfo">联系我们</a></li>
+                  <li><a href="https://www.liepin.com/company/9113901/">加入我们</a></li>
+                  <li><a href="http://www.12377.cn/" target="_blank">廉洁举报</a></li>
+                  <li><a href="http://pc.v1.cn/vodone/aboutus/law/protocol.html">用户协议</a></li>
+                </ul>
+              </div>
+            </li>
+          </ul>
+                 </div>
+      </div>
+    </div>
+  </div>
+<script>
+    $(function(){
+        $("#cyy_logut").click(function(){
+            $.ajax({
+                type:'get',
+                url:'/user/signOut',//路径
+                dataType:'json',
+                data:{
+                },
+                success:function(msg){
+                    if(msg.code==200){
+                        layer.msg('删除成功');
+                    }else{
+                        layer.msg('删除失败');
+                    }
+                }  
+            })
+        });
+        $("#cyy_upload").click(function(){
+            if(0){
+                isauth = "0";
+                if(isauth=='1'){ 
+                    window.location.href='/uploadtx/upload';
+                }else{
+                    window.location.href='/authStatus/authOne';
+                }
+            }else{
+                window.location.href='/user/login';
+            }
+            
+        });
+    });
+</script>
+  <!--user center begin-->
+    	<div class="conMainWrap"> 
+	  
+    <!--conHeader-->
+    <div class="conHeader">
+        <a href="/" class="logo">第一视频</a>
+        <a href="http://toujiang.v1.cn/" class="toujiangLogo" target="_blank">投将</a>
+      <div class="searchBoxR">
+        <input class="searchInp" type="text" id="searchWordNew" value="搜你喜欢" onfocus="if (value =='搜你喜欢'){value =''}" onblur="if (value ==''){value='搜你喜欢'}">
+        <a href="javascript:void(0)" class="searchBt"></a></div>
+    </div>
+    <!--conHeader end-->
+    
+    <script>
+    $(function(){
+        $('.searchBt').click(function(){
+			var val = $.trim($('#searchWordNew').val());
+			if(val && val != '搜你喜欢')
+			{
+				window.open('/search/getList?keyword='+val)
+			}
+			return false;
+		})
+    })
+    </script>   
+   <link href="http://static.v1.cn/v1cn/web2017/css/v1playStyle.css" rel="stylesheet" type="text/css">
+   
+    <div class="mainBox shadowBox">
+	    <div class="videoTop">
+	     	<h2>省油和省心 车主聊聊全新一代ES</h2>
+		    <div class="miniBanner">
+				<script type='text/javascript'><!--//<![CDATA[ 
+var m3_u = (location.protocol=='https:'?'http://luckstatic.v1.cn/st/10000/1500/1464.js':'http://luckstatic.v1.cn/st/10000/1500/1464.js');
+document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+document.write ("?rand="+new Date().getTime());
+document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+		    </div>
+	     </div>
+	     <!--20170512 修改-->
+      <input type="hidden" id="vid" value="15655811" />
+      <input type="hidden" id="last_id" value="0" />
+      <!--videoMod begin-->
+      <div class="videoMod">
+        <div class="videoBox">
+          <object width="820" height="470" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,115,0" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" id="play1">
+            <param name="movie" value="http://www.v1.cn/player/cloud/cloud_player.swf">
+            <param name="bgcolor" value="#000000">
+            <param name="FlashVars" value="id=2308583&amp;startSwfUrl=http://www.v1.cn/player/cloud/loading.swf&amp;videoUrl=http://f10.v1.cn/site/15655811.mp4.f30.mp4">
+            <param name="allowScriptAccess" value="always">
+            <param name="allowFullScreen" value="true">
+            <param name="wmode" value="opaque">
+            <embed width="820" height="470" src="http://www.v1.cn/player/cloud/cloud_player.swf" flashvars="id=2308583&amp;startSwfUrl=http://www.v1.cn/player/cloud/loading.swf&amp;videoUrl=http://f10.v1.cn/site/15655811.mp4.f30.mp4" name="play1" bgcolor="#000000" allowscriptaccess="always" allowfullscreen="true" wmode="opaque" cover="http://img.mms.v1.cn/static/mms/images/2019-05-17/201905171723409471.jpg" type="application/x-shockwave-flash">
+          </object>
+        </div>
+        
+                <!--videoList begin-->
+        <div class="videoLike">
+          <div class="videoList" id="scrollBox">
+            <ul>
+			              
+              <li><a target="_blank" href="/video/15639657.shtml">
+                <p class="pic">
+                	<span class="tipTime">08:20</span>
+                	<img src="http://img.mms.v1.cn/static/mms/images/2019-05-05/201905051823104294.jpg" >
+                </p>
+                <div class="txt">长安欧尚汽车 “向尚而行”品牌战略正式发布 </div>
+                </a>
+              </li>
+                          
+              <li><a target="_blank" href="/video/15639538.shtml">
+                <p class="pic">
+                	<span class="tipTime">23:36</span>
+                	<img src="http://img.mms.v1.cn/static/mms/images/2019-05-05/201905051505161331.jpg" >
+                </p>
+                <div class="txt">寅哥试吉利GL PHEV插电混动版 </div>
+                </a>
+              </li>
+                          
+              <li><a target="_blank" href="/video/15639518.shtml">
+                <p class="pic">
+                	<span class="tipTime">07:18</span>
+                	<img src="http://img.mms.v1.cn/static/mms/images/2019-05-05/201905051417124799.jpg" >
+                </p>
+                <div class="txt">福特 F-150 LTD 版登陆上海车展 </div>
+                </a>
+              </li>
+                          
+              <li><a target="_blank" href="/video/15638941.shtml">
+                <p class="pic">
+                	<span class="tipTime">06:48</span>
+                	<img src="http://img.mms.v1.cn/static/mms/images/2019-05-04/201905042242435331.jpg" >
+                </p>
+                <div class="txt">赵璞带你五分钟看懂别克VELITE 6 </div>
+                </a>
+              </li>
+                          
+              <li><a target="_blank" href="/video/15637881.shtml">
+                <p class="pic">
+                	<span class="tipTime">06:12</span>
+                	<img src="http://img.mms.v1.cn/static/mms/images/2019-05-03/201905032156124334.jpg" >
+                </p>
+                <div class="txt">没有车门防撞梁，腾势的安全设计还在上世纪 </div>
+                </a>
+              </li>
+                          
+              <li><a target="_blank" href="/video/15636457.shtml">
+                <p class="pic">
+                	<span class="tipTime">09:52</span>
+                	<img src="http://img.mms.v1.cn/static/mms/images/2019-05-02/201905020935558179.jpg" >
+                </p>
+                <div class="txt">豪车不只BBA，越级豪华轿车沃尔沃亚太S90 </div>
+                </a>
+              </li>
+                          
+              <li><a target="_blank" href="/video/15635392.shtml">
+                <p class="pic">
+                	<span class="tipTime">03:22</span>
+                	<img src="http://img.mms.v1.cn/static/mms/images/2019-05-01/201905011617221630.jpg" >
+                </p>
+                <div class="txt">赵璞独家解析英菲尼迪QX50优雅外观 </div>
+                </a>
+              </li>
+                          
+              <li><a target="_blank" href="/video/15635229.shtml">
+                <p class="pic">
+                	<span class="tipTime">03:00</span>
+                	<img src="http://img.mms.v1.cn/static/mms/images/2019-05-01/201905011250009222.jpg" >
+                </p>
+                <div class="txt">全程禁止摄像 探秘吉利CMA工厂 </div>
+                </a>
+              </li>
+                          </ul>
+          </div>
+        </div>
+        <!--videoList end--> 
+                
+      </div>
+      <!--videoMod end-->
+      <div class="video_infoBar"> <span class="publishDate">2019-05-17 17:23:47</span>
+        <!--        	 <p class="favoritesOk">-->
+<!--        		已收藏-->
+<!--        	 </p>-->
+        <!--        	<p class="favorites">-->
+<!--        		收藏-->
+<!--        	</p>-->
+                <!--已收藏时用 <p class="favorites ok">-->
+      </div>
+    </div>
+    
+    <div class="hr30"></div>
+    
+    <!--conMainL begin-->
+    <div class="conMainL">
+      <div class="shadowBox padBoxLr uploadUserBox">
+        <div class="userTx"><img src="http://img.user.v1.cn/static/images/201707/24//201707241052485886.jpg" alt=""></div>
+        <div class="txt" id="8809856">
+        <span class="addBt">+</span>
+          <p class="userName"><a href="#">新浪汽车</a></p>
+          <p>这家伙很懒，什么也没有留下</p>
+        </div>
+      </div>
+      
+      <!-- 广告 -->
+      <div class="bannerCon">
+      <script type='text/javascript'><!--//<![CDATA[ 
+var m3_u = (location.protocol=='https:'?'http://luckstatic.v1.cn/st/10000/1500/1469.js':'http://luckstatic.v1.cn/st/10000/1500/1469.js');
+document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+document.write ("?rand="+new Date().getTime());
+document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+      </div>
+      <!-- 广告 -->
+      
+      <div class="shadowBox padBoxLr">
+        <div class="commentTit">猜你喜欢</div>
+		 <ul class="likeList"></ul> 
+      </div>
+      
+      <!-- 广告 -->
+      <div class="bannerCon">
+      <script type='text/javascript'><!--//<![CDATA[ 
+var m3_u = (location.protocol=='https:'?'http://luckstatic.v1.cn/st/10000/1500/1467.js':'http://luckstatic.v1.cn/st/10000/1500/1467.js');
+document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+document.write ("?rand="+new Date().getTime());
+document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+      </div>
+      <!-- 广告 -->
+            <div class="shadowBox padBoxLr">
+        <div class="commentTit" id="commentTit">评论</div>
+        <div class="commentBox">
+          <textarea id="commentcontent" onfocus="if (value =='说点什么吧'){value =''}" onblur="if (value ==''){value='说点什么吧'}">说点什么吧</textarea>
+        </div>
+        <div class="submitBar">
+          <button class="submitBt fr">发表评论</button>
+        </div>
+
+        <!--plList begin-->
+        <ul class="plList"></ul>
+        <!--plList end-->
+        
+        <div class="listMoreBar" style="display:none;"><span>点击查看更多</span></div>
+        
+        <div class="hr20"></div>
+      </div>
+            </div>
+    <!--conMainL end--> 
+    <!--conMainR begin-->
+    <div class="conMainR">
+      <div class="sideBanner s1">
+      	<script type='text/javascript'><!--//<![CDATA[ 
+var m3_u = (location.protocol=='https:'?'http://luckstatic.v1.cn/st/10000/1500/1465.js':'http://luckstatic.v1.cn/st/10000/1500/1465.js');
+document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+document.write ("?rand="+new Date().getTime());
+document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+      </div>
+      <div class="sideBanner s2">
+      	<script type='text/javascript'><!--//<![CDATA[ 
+var m3_u = (location.protocol=='https:'?'http://luckstatic.v1.cn/st/10000/1500/1468.js':'http://luckstatic.v1.cn/st/10000/1500/1468.js');
+document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+document.write ("?rand="+new Date().getTime());
+document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+      </div>
+      <div class="sideBanner s3">
+      	<script type='text/javascript'><!--//<![CDATA[ 
+var m3_u = (location.protocol=='https:'?'http://luckstatic.v1.cn/st/10000/1500/1466.js':'http://luckstatic.v1.cn/st/10000/1500/1466.js');
+document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+document.write ("?rand="+new Date().getTime());
+document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+      </div>
+    </div>
+    <!--conMainR end-->
+    <div class="hr20"></div>
+  </div>
+
+<!--20170522 begin-->
+<div id="popBanner">
+    <script type='text/javascript'><!--//<![CDATA[ 
+var m3_u = (location.protocol=='https:'?'http://luckstatic.v1.cn/st/10000/1500/1470.js':'http://luckstatic.v1.cn/st/10000/1500/1470.js');
+document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+document.write ("?rand="+new Date().getTime());
+document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
+</div>
+<!--20170522 end-->  
+ 
+<!--20170516 begin-->
+<div class="loginBox" style="display: none;" id="loginBox"> 
+      <!--<div class="prompt error" style="visibility: hidden;"><span>账号/密码错误</span></div>     不显示时用style="visibility: hidden;" -->
+      <div class="prompt error" style="display: none"><span>账号/密码错误</span></div>
+      <ul class="loginForm">
+        <li>
+          <input type="text" class="input" id="username"  placeholder="账号/手机号" >
+        </li>
+        <li>
+          <div class="placeholder">密码</div>
+          <input type="password" class="input passwordInput" id="password" placeholder="密码">
+        </li>
+        <li class="yzm">
+          <input type="text" class="input2" id="code" placeholder="验证码">
+          <p class="yzmBox">
+          <img  width="120" height="50" src="/user/getValidateCode" alt="" onclick= this.src="/user/getValidateCode?tm="+Math.random() style="cursor: pointer;" title="看不清？点击更换另一个验证码。"/>  
+          </p>
+        </li>
+        <li class="gray"><a href="/user/forgetPass" class="fr">忘记密码</a>
+          <input type="checkbox" class="checkbox" id="checkbox">
+          &nbsp;一个月内免登录</li>
+        <li><a href="javascript:;" class="loginBt white">登录</a></li>
+      </ul>
+      <div class="loginType">
+          <a target="_blank" href="https://api.weibo.com/oauth2/authorize?client_id=674964345&redirect_uri=http%3A%2F%2Fwww.v1.cn%2FThirdLogin%2Fweibocallback&response_type=code" class="t1"> 微博</a>
+
+          <a href="javascript:" target="_blank" class="t2" onclick="window.open('/ThirdLogin/qqReq','TencentLogin','')"> QQ</a>
+<!--          <a href="#" class="t3"> 微信</a>-->
+      </div>
+      <div class="loginEnd blue"><a href="/user/reg">我要注册</a></div>
+    </div>
+<script src="http://static.v1.cn/v1cn/web2017/js/v1Site_login.js"></script>
+<script>
+$(function(){
+    $(".loginBt").click(function(){
+          var username = $("#username").val();
+          var password = $("#password").val();
+          var code = $("#code").val();
+          var checkbox = $("#checkbox").is(':checked');
+          if(username==''){
+              $(".error").show().find('span').html("手机号或用户名不能为空");
+              return false;
+          }
+          if(password==''){
+              $(".error").show().find('span').html("密码不能为空");
+              return false;
+          }
+          if(code==''){
+              $(".error").show().find('span').html("验证码不能为空");
+              return false;
+          }
+          $.ajax({
+                type:'POST',
+                url:'/user/loginOper',//路径
+                data:{  
+                    username:username,
+                    password:password,
+                    code:code,
+                    checkbox_status:checkbox,                              //是否选中1个月登录有效
+                },  
+                dataType:'json',
+                success:function(msg){
+                    if(msg.code==200)
+                    {
+                    	location.reload();
+                    	return false;
+                    }else{
+                        $(".error").show().find('span').html(msg.info);
+                        return false;
+                    }
+                }  
+            })
+    });
+      
+})
+
+function loginPop() 
+{
+	layer.open({
+	  type: 1, 
+	  title: "登录",
+	 // area: ['402px', '533px'],
+	  content: $('#loginBox')
+	}); 	
+}
+</script>
+<!--20170516 end-->  
+  
+<script src="http://static.v1.cn/v1cn/web2017/js/jquery.nicescroll.js"></script>  
+<script>
+$('#scrollBox').niceScroll({
+	cursorcolor: "#f5f7fa", //# 光标颜色
+	cursoropacitymax: 1, //改变不透明度非常光标处于活动状态（scrollabar“可见”状态），范围从1到0
+	touchbehavior: false, //使光标拖动滚动像在台式电脑触摸设备
+	cursorwidth: "5px", //像素光标的宽度
+	cursorborder: "0", // 	游标边框css定义
+	cursorborderradius: "0px", //以像素为光标边界半径
+	autohidemode: false //是否隐藏滚动条
+});
+
+$(".plList").delegate(".huifuBt","click",function(){
+	$(".plList li").each(function(i){
+		if($(this).find('.huifuBox'))
+			$(this).find('.huifuBox').remove();
+	})
+
+	var name = $(this).siblings('.userName').text();
+
+	var html = '<div class="huifuBox">';
+    html += '<div class="commentBox2"><textarea value="回复'+name+'">回复'+name+'</textarea></div>';
+    html += '<div class="submitBar"><button class="cancelBt fr">取消</button>';
+    html += '<button class="huifuBt2 fr">回复</button></div></div>';
+
+	$(this).parent(".txt").append(html);
+});
+
+$(".plList").delegate(".cancelBt","click",function(){
+	$(this).parents('.huifuBox').remove();
+
+});
+
+$(".plList").delegate("textarea", "focus",function(){
+	var name = $(this).parents(".txt").find('.userName').text();  
+	if ($(this).text() =='回复'+name)
+	{
+    	$(this).empty();
+  	} 
+
+});
+
+$(".plList").delegate("textarea", "blur",function(){
+	var name = $(this).parents(".txt").find('.userName').text();   
+	if ($(this).text() =='')
+	{
+    	$(this).text('回复'+name);
+  	} 
+
+});
+
+//收藏
+$(".video_infoBar").delegate(".favorites", "click",function(){	
+	var obj = $(this);
+	$.post("/collection/setCollectVideo", {vid: $('#vid').val()},function(data){
+	     if(data.code == 200)
+	     {
+	    	 obj.removeClass("favorites").addClass('favoritesOk').html('已收藏');
+		 }
+	     else if(data.code == 201)
+	     {
+	    	 loginPop();
+			return false;
+		 }
+	   }, "json");
+});	
+
+//取消收藏
+$(".video_infoBar").delegate(".favoritesOk", "click",function(){
+	var obj = $(this);
+	$.post("/collection/unSetcollectVideo", {vid: $('#vid').val()},function(data){
+	     if(data.code == 200)
+	     {
+	    	 obj.removeClass("favoritesOk").addClass('favorites').html('收藏');
+		 }
+	     else if(data.code == 201)
+	     {
+	    	 loginPop();
+			return false;
+		 }
+	   }, "json");
+});	
+
+//关注
+$(".addBt").click(function () {
+	var tuid = $(this).parents(".txt").attr('id');  
+	$.post("/followFans/addSubscription", {tuid: tuid},function(data){
+	     if(data.code == 200)
+	     {
+	    	 $(".addBt").removeClass("addBt").addClass('addBt_ed');
+		 }
+	     else if(data.code == 201)
+	     {
+	    	 loginPop();
+			return false;
+		 }
+	     else
+	     {
+	    	alert(data.info);
+			return false;
+		 }
+	   }, "json");
+});	
+
+//取消关注
+$(".addBt_ed").click(function () {
+	var tuid = $(this).parents(".txt").attr('id');
+	$.post("/followFans/cancelSubscription", {tuid: tuid},function(data){
+		 if(data.code == 200)
+	     {
+	    	 $(".addBt_ed").removeClass("addBt_ed").addClass('addBt');
+		 }
+	     else if(data.code == 201)
+	     {
+	    	 loginPop();
+			return false;
+		 }
+	     else
+	     {
+	    	alert(data.info);
+			return false;
+		 }
+	   }, "json");
+});	
+
+//发表评论
+$(".submitBt").click(function () {
+	var content = $.trim($('#commentcontent').val());
+	if(content)
+	{
+		$.post("/comment/addComment",{object_id: $('#vid').val(), content: content, parent_id:0},function(data){
+				     if(data.code == 201)
+				     {
+				    	 loginPop();
+				    	 return false;
+					 }
+				     else if (data.code == 200)
+				 	 {
+					 	 var html = '';
+					 	 	html +='<li>';
+						 	html +='<div class="pic"><img alt="" src="'+data.userinfo.data.picture+'"></div>';
+						 	html +='<div class="txt" id="'+data.comment_id+'" data="0"> <span class="huifuBt">回复</span><span class="zanIcoBt fr">0</span>';
+							if(data.userinfo.data.is_vip != 0)
+							{
+								html +='<p class="userName vip">'+data.userinfo.data.nickname+'</p>';
+							}
+							else
+							{
+								html +='<p class="userName">'+data.userinfo.data.nickname+'</p>';
+							}
+						 	html +='<div class="plConBox">'+content+'</div>';
+						 	html +='<p class="gray2">'+getNowFormatDate()+'</p>';
+						 	html +='</div></li>';
+
+					    	$('.plList').prepend(html);
+					    	$('#commentcontent').val('说点什么吧');
+					 }
+				     else if(data.code == 203)
+				     {
+					 	alert(data.info);
+					 	return false;
+					 }
+
+			   }, "json");
+	}
+	else
+		return false;
+});	
+
+//回复评论
+$(".plList").delegate(".huifuBt2","click",function(){
+	var content = $.trim($(this).parents('.txt').find('textarea').val());
+	var parent_id = $.trim($(this).parents('.txt').attr('id'));
+	var userName = $.trim($(this).parents('.txt').find('.userName').text());
+	var huifuBox = $(this).parents('.huifuBox');
+	if(content)
+	{
+		$.post("/comment/addComment",{object_id: $('#vid').val(), content: content, parent_id: parent_id},function(data){
+				     if(data.code == 201)
+				     {
+				    	 loginPop();
+				    	 return false;
+					 }
+				     else if (data.code == 200)
+				 	 {
+					 	 var html = '';
+					 	 	html +='<li>';
+						 	html +='<div class="pic"><img alt="" src="'+data.userinfo.data.picture+'"></div>';
+						 	html +='<div class="txt" id="'+data.comment_id+'" data="0"> <span class="huifuBt">回复</span><span class="zanIcoBt fr">0</span>';
+							if(data.userinfo.data.is_vip != 0)
+							{
+								html +='<p class="userName vip">'+data.userinfo.data.nickname+'</p>';
+							}
+							else
+							{
+								html +='<p class="userName">'+data.userinfo.data.nickname+'</p>';
+							}
+							
+							html +='<div class="huifuTit">'+data.userinfo.data.nickname+'回复了'+userName+'</div>';
+						 	html +='<div class="plConBox">'+content+'</div>';
+						 	html +='<p class="gray2">'+getNowFormatDate()+'</p>';
+						 	html +='</div></li>';
+
+					    	$('.plList').prepend(html);
+
+							//去掉回复框
+					    	huifuBox.remove();
+					 }
+				     else if(data.code == 203)
+				     {
+					 	alert(data.info);
+					 	return false;
+					 }
+
+			   }, "json");
+	}
+	else
+		return false;
+});
+
+
+//评论点赞
+$(".plList").delegate(".zanIcoBt","click",function(){
+	var comment_id = $.trim($(this).parents('.txt').attr('id'));
+	var obj = $(this);
+	var num = $(this).parents('.txt').attr('data');
+	if(num > 0)
+		return false;
+	
+	$.post("/comment/upDown", {comment_id: comment_id, type_id:1},function(data){
+	     if(data.code == 200)
+	     {
+	    	 obj.addClass('zanClick');
+	    	 obj.text(eval(obj.text()+"+1"));
+	    	 obj.parents('.txt').attr('data', eval(num+"+1"));
+		 }
+	     else if(data.code == 201)
+	     {
+	    	 loginPop();
+			return false;
+		 }
+	     else if(data.code == 203)
+	     {
+			alert(data.info);
+			obj.parents('.txt').attr('data', eval(num+"+1"));
+			return false;
+		 }
+	   }, "json");
+});
+
+//关闭弹窗广告
+$(".closeBt").on('click',function () { $(this).parent().hide();}); 
+
+$(function(){
+//	//获取评论数
+//	if($('#vid').val())
+//	{
+//		$.post("/comment/getNum4Ajax", {vid: $('#vid').val()},function(data){
+//		     if(data.msg == 1)
+//		     {
+//				$('#commentTit').html('评论('+data.num+')');
+//			 }
+//		   }, "json");
+//	}
+
+	if($('#vid').val())
+	{
+		$.post("/play/add", {vid: $('#vid').val()},function(data){
+		   }, "json");
+	}
+
+	//猜你喜欢
+	$.post("/index/getGuessList4Ajax", {},function(data){
+	     if(data.msg == 1)
+	     {
+	    	 var html = '';
+	    		$.each(data.list, function(i){
+	    			html += '<li><div class="pic">';
+	    			html += '<a href="'+data.list[i].link+'"  target="_blank">';
+	    			html += '<img src="'+data.list[i].pic+'"></a>';
+	    			html += '</div><div class="tit"><a href="'+data.list[i].link+'" target="_blank">'+data.list[i].title+'</a></div></li>';
+		    	})
+
+	    		$('.likeList').append(html);
+		 }
+	   }, "json");
+	
+	getCommentList();
+
+	$('.listMoreBar').click(function(){
+		getCommentList();
+	})
+
+})
+
+function getCommentList()
+{
+	if($('#vid').val())
+	{
+		$.post("/comment/getList4Ajax", {vid: $('#vid').val(), last_id: $('#last_id').val()},function(data){
+		     if(data.msg == 1)
+		     {
+		    	 var html = '';
+		    		$.each(data.list, function(i){
+		    			html += '<li><div class="pic"><img src="'+data.list[i].picture+'" alt=""></div>';
+		    			html += '<div class="txt" id="'+data.list[i].comment_id+'"> <span class="huifuBt">回复</span><span class="zanIcoBt fr zanClick">'+data.list[i].support_num+'</span>';
+
+		    			if(data.list[i].vip != 0)
+		    			{
+		    				html += '<p class="userName vip">'+data.list[i].nickname+'</p>';
+		    			}
+		    			else
+		    			{
+		    				html += '<p class="userName">'+data.list[i].nickname+'</p>';
+		    			}
+
+		    			if(data.list[i].to_userid != 0)
+		    			{
+		    				html += '<div class="huifuTit">'+data.list[i].nickname+'回复了'+data.list[i].to_nickname+'</div>';
+		    			}
+
+		    			html += '<div class="plConBox">'+data.list[i].content+'</div>';
+		    			html += '<p class="gray2">'+data.list[i].create_time+'</p>';
+		    			html += '</div></li>';
+
+
+		    		})
+
+		    		$('.plList').append(html);
+		    		var last_id = eval(data.list)[eval(data.list).length-1]["comment_id"];
+		    		$('#last_id').val(last_id);
+		    		$('.listMoreBar').show();
+			 }
+		     else if(data.msg == 2)
+		     {
+		     	$('.listMoreBar').remove();
+		     }
+			     
+		   }, "json");
+	}
+}
+
+function getNowFormatDate() {
+    var date = new Date();
+    var seperator1 = "-";
+    var seperator2 = ":";
+    var month = date.getMonth() + 1;
+    var strDate = date.getDate();
+    if (month >= 1 && month <= 9) {
+        month = "0" + month;
+    }
+    if (strDate >= 0 && strDate <= 9) {
+        strDate = "0" + strDate;
+    }
+    var currentdate = date.getFullYear() + seperator1 + month + seperator1 + strDate
+            + " " + date.getHours() + seperator2 + date.getMinutes()
+            + seperator2 + date.getSeconds();
+    return currentdate;
+} 
+</script>
+ <!--footer begin-->
+  <div class="footerWrap">
+    <div class="footerIndexMain">
+    <div class="footerNav">
+      <ul>
+        <li><a target="_blank" href="http://ir.v1.cn/index/#/information">集团介绍</a></li>
+        <li><a target="_blank" href="http://ir.v1.cn/index/#/news">新闻中心</a></li>
+        <!--<li><a target="_blank" href="http://pc.v1.cn/sitemap/">网站地图</a></li>-->
+        <li><a target="_blank" href="http://ir.v1.cn/index/#/business">关于我们</a></li>
+        <li><a target="_blank" href="https://www.liepin.com/company/9113901/">诚聘英才</a></li>
+        <li><a target="_blank" href="http://www.v1.cn/Qualification/privacy.html">隐私政策</a></li>
+        <li><a target="_blank" href="http://ir.v1.cn/index/#/investor/investor#ContactInfo">联系我们</a></li>
+      </ul>
+    </div>
+    © 2017  第一视频公司版权所有<br>
+    <a target="_blank" href="http://www.v1.cn/Qualification/xinwen.html?from=v1">互联网新闻信息服务许可证(国新网许可证编号11220180006)</a>　<a target="_blank" href="http://www.v1.cn/Qualification/icp.html" >电信与信息服务业务经营许可证(京ICP证050390号)</a>　<a href="http://www.v1.cn/Qualification/jmzz.shtml">广播电视节目制作经营许可证 (广媒)字第150号</a><br>
+    统一社会信用代码：911101087754533048  <a target="_blank" href="http://sq.ccm.gov.cn:80/ccnt/sczr/service/business/emark/toDetail/57DBA3B393E0C00EE0530140A8C0691D"> 网络文化经营许可证：京网文【2018】10244-931号</a>　　网络出版服务许可证：（总）网出证（京）字第194号<br><a target="_blank" href="http://www.v1.cn/Qualification/shiting.html" >信息网络传播视听节目许可证(0105136)</a>  测绘资质证书(甲测资字1100561)  增值电信业务经营许可证B2-20050381<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002002116" class="gonganBei">京公网安备：11000002002116</a><br>
+    邮箱:service@v1.cn　　热线: 400-006-4571　　不良信息举报: 010-64706601
+    <div class="wanganList"> <a target="_blank" href="http://www.itrust.org.cn/home/index/itrust_certifi/wm/2775453304"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo1.jpg" ></a> <a target="_blank" href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202005121600020"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo2.jpg" ></a> <a target="_blank" href="http://www.12377.cn/"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo3.jpg" ></a> <a target="_blank" href="http://www.bnia.cn/"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo4.jpg" ></a> <a target="_blank"  href="http://www.cyberpolice.cn"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo5.jpg" ></a> <a target="_blank" href="https://credit.szfw.org/CX20141125005630005718.html"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo6.jpg" ></a> <a target="_blank"  href="http://www.bjwhzf.gov.cn/accuse.do"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo7.jpg" ></a> <a target="_blank"  href="http://www.bjjubao.org/index.htm"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo8.jpg" ></a> <a target="_blank"  href="https://ss.knet.cn/verifyseal.dll?sn=e15101011010860803dsde000000&ct=df&a=1&pa=0.917555071164685"><img src="http://static.v1.cn/v1cn/web2017/images/footer_wa_logo9.jpg" ></a></div>
+    </div>
+  </div>
+  <!--footer end-->
+
+</div>
+<script src="http://static.v1.cn/v1cn/web2017/js/v1Site_comm.js"></script>
+<script src="http://static.v1.cn/v1cn/web2017/js/v1Site_miaoping.js"></script>
+<script src="http://static.v1.cn/v1cn/web2017/js/v1Site_focus.js"></script>
+
+<!-- v1统计代码 -->
+<script type="text/javascript">
+cookie={
+set:function(cookieName, cookieValue, expires, path, domain, secure) {
+document.cookie =
+escape(cookieName) + '=' + escape(cookieValue)
++ (expires ? '; expires=' + expires.toGMTString() : '')
++ (path ? '; path=' + path : '')
++ (domain ? '; domain=' + domain : '')
++ (secure ? '; secure' : '');
+},
+get:function(cookieName) {
+var cookieValue = '';
+var posName = document.cookie.indexOf(escape(cookieName) + '=');
+if (posName != 1) {
+var posValue = posName + (escape(cookieName) + '=').length;
+var endPos = document.cookie.indexOf(';', posValue);
+if (endPos != -1) cookieValue = unescape(document.cookie.substring(posValue, endPos));
+else cookieValue = unescape(document.cookie.substring(posValue));
+}
+return (cookieValue);
+}
+}
+if(cookie.get('CookieV1Log')==""){
+v1log=new Date();
+cValue = Math.ceil(((v1log.getTime()*9321+49297) % 233280 /(233280.0)) * 9999999999999999);
+v1log.setTime(v1log.getTime() + 86400000);
+cookie.set('CookieV1Log',cValue,v1log,'','','');
+}
+path = "http://v1log.v1.cn/log.js?page=wap_jrtt&yu="+cookie.get('CookieV1Log')+"&tmp="+Math.round(Math.random()*100000)+"&referer="+document.referrer+"&customSort=wap";
+document.write("<script type=text/javascript src ="+path+" ><\/script> ");
+</script>
+<!-- v1统计代码end -->
+
+<!-- START baidu v1.0 -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fcb44eb450c53c91a1cc1d2511f5919b3' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!-- END baidu v1.0 -->
+<!-- cnzz  -->
+<div style="display:none">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1255096340'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/z_stat.php%3Fid%3D1255096340%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+<style>
+            .layui-layer { background-color:gray; }
+        </style>
+<!-- end cnzz -->
+</body>
+</html>
+

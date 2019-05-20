@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="Content-Language" content="zh-CN">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
+    <title>您的访问受限</title>
+    <link rel="stylesheet" type="text/css" href="https://static.oschina.net/new-osc/js/utils/semantic-ui/semantic.min.css?t=1542621653000"/>
+                <link type="text/css" rel="stylesheet" href="https://static.oschina.net/new-osc/dist/css/web.5dcf3bc2.css">        <link rel="shortcut icon" type="image/x-icon" href="https://static.oschina.net/new-osc/img/favicon.ico"/>
+    <style type="text/css">
+        .error-page-wrap > .segment {padding-bottom: 80px;}
+        #logo {padding: 0 0 15px;}
+        #errorIcon {font-size: 24px!important;margin-top: -10px!important;}
+        #backBtn {display: none}
+    </style>
+</head>
+<body>
+<div class="error-page-wrap">
+    <div class="ui center aligned basic segment">
+        <div id="logo"><a href="https://www.oschina.net"><img src="https://static.oschina.net/new-osc/img/logo_osc_new.svg" alt=""></a></div>
+        <h2 class="ui header"><i id="errorIcon" class="minus circle red icon"></i>您没有此项权限或该资源已屏蔽</h2>
+        <div><img src="https://static.oschina.net/uploads/img/201707/27161839_KziE.jpg"><br>关注公众号获取更多信息</div>
+        <div class="ui hidden divider"></div>
+        <div class="actions">
+            <a id="backBtn" class="ui basic button" href="javascript:history.go(-1)"><i class="left arrow icon"></i> 返回上页</a>
+            <a class="ui basic button" href="https://www.oschina.net"><i class="home icon"></i>网站首页</a>
+        </div>
+    </div>
+</div>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        if (history.length > 1) {
+            document.querySelector('#backBtn').style.display = 'inline-block';
+        }
+    });
+</script>
+</body>
+</html>
+
+

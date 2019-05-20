@@ -1,0 +1,2949 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="Content-Language" content="zh-cn" />
+
+<meta name="robots" content="all" />
+
+<meta name="author" content="w3school.com.cn" />
+<meta name="Copyright" content="Copyright W3school.com.cn All Rights Reserved." />
+<meta name="MSSmartTagsPreventParsing" content="true" />
+<meta http-equiv="imagetoolbar" content="false" />
+
+<link rel="stylesheet" type="text/css" href="/c5.css" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+
+<title>VBScript ½Ì³Ì</title>
+</head>
+
+<body class="serverscripting">
+<div id="wrapper">
+
+<div id="header">
+<a href="/index.html" title="w3school ÔÚÏß½Ì³Ì" style="float:left;">w3school ÔÚÏß½Ì³Ì</a>
+<div id="ad_head">
+<script type="text/javascript"><!--
+google_ad_client = "pub-3381531532877742";
+/* 728x90, ´´½¨ÓÚ 08-12-1 */
+google_ad_slot = "7423315034";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+</div>
+
+<div id="navfirst">
+<ul id="menu">
+<li id="h"><a href="/h.asp" title="HTML ÏµÁÐ½Ì³Ì">HTML ÏµÁÐ½Ì³Ì</a></li>
+<li id="b"><a href="/b.asp" title="ä¯ÀÀÆ÷½Å±¾½Ì³Ì">ä¯ÀÀÆ÷½Å±¾</a></li>
+<li id="s"><a href="/s.asp" title="·þÎñÆ÷½Å±¾½Ì³Ì">·þÎñÆ÷½Å±¾</a></li>
+<li id="d"><a href="/d.asp" title="ASP.NET ½Ì³Ì">ASP.NET ½Ì³Ì</a></li>
+<li id="x"><a href="/x.asp" title="XML ÏµÁÐ½Ì³Ì">XML ÏµÁÐ½Ì³Ì</a></li>
+<li id="ws"><a href="/ws.asp" title="Web Services ÏµÁÐ½Ì³Ì">Web Services ÏµÁÐ½Ì³Ì</a></li>
+<li id="w"><a href="/w.asp" title="½¨Õ¾ÊÖ²á">½¨Õ¾ÊÖ²á</a></li>
+</ul>
+</div>
+
+<div id="navsecond">
+
+<div id="course"><h2>VBScript ½Ì³Ì</h2>
+<ul>
+<li class="currentLink"><a href="/vbscript/index.asp" title="VBScript ½Ì³Ì">VB ½Ì³Ì</a></li>
+<li><a href="/vbscript/vbscript_intro.asp" title="VBScript ¼ò½é">VB ¼ò½é</a></li>
+<li><a href="/vbscript/vbscript_howto.asp" title="VBScript How to">VB How to</a></li>
+<li><a href="/vbscript/vbscript_whereto.asp" title="VBScript Where to">VB Where to</a></li>
+<li><a href="/vbscript/vbscript_variables.asp" title="VBScript ±äÁ¿">VB ±äÁ¿</a></li>
+<li><a href="/vbscript/vbscript_procedures.asp" title="VBScript ³ÌÐò">VB ³ÌÐò</a></li>
+<li><a href="/vbscript/vbscript_conditionals.asp" title="VBScript Ìõ¼þÓï¾ä">VB Ìõ¼þÓï¾ä</a></li>
+<li><a href="/vbscript/vbscript_looping.asp" title="VBScript Ñ­»·Óï¾ä">VB Ñ­»·Óï¾ä</a></li>
+<li><a href="/vbscript/vbscript_summary.asp" title="ÄúÒÑ¾­Ñ§Ï°ÁË VBScript£¬ÏÂÒ»²½ÄØ£¿">VB ½Ì³Ì×Ü½á</a></li>
+</ul>
+<h2>VBScript ÊµÀý</h2>
+<ul>
+<li><a href="/example/vbst_examples.asp" title="VBScript ÊµÀý">VB ÊµÀý</a></li>
+</ul>
+<h2>VBScript ²Î¿¼ÊÖ²á</h2>
+<ul>
+<li><a href="/vbscript/vbscript_ref_functions.asp" title="VBScript º¯Êý">VB º¯Êý</a></li>
+<li><a href="/vbscript/vbscript_ref_keywords.asp" title="VBScript ¹Ø¼ü×Ö">VB ¹Ø¼ü×Ö</a></li>
+</ul>
+</div><div id="selected">
+<h2>½¨Õ¾ÊÖ²á</h2>
+<ul>
+<li><a href="/site/index.asp" title="ÍøÕ¾¹¹½¨">ÍøÕ¾¹¹½¨</a></li>
+<li><a href="/w3c/index.asp" title="ÍòÎ¬ÍøÁªÃË (W3C)">ÍòÎ¬ÍøÁªÃË (W3C)</a></li>
+<li><a href="/browsers/index.asp" title="ä¯ÀÀÆ÷ÐÅÏ¢">ä¯ÀÀÆ÷ÐÅÏ¢</a></li>
+<li><a href="/quality/index.asp" title="ÍøÕ¾Æ·ÖÊ">ÍøÕ¾Æ·ÖÊ</a></li>
+<li><a href="/semweb/index.asp" title="ÓïÒåÍø">ÓïÒåÍø</a></li>
+<li><a href="/careers/index.asp" title="Ö°Òµ¹æ»®">Ö°Òµ¹æ»®</a></li>
+<li><a href="/hosting/index.asp" title="ÍøÕ¾Ö÷»ú">ÍøÕ¾Ö÷»ú</a></li>
+</ul>
+
+<h2 id="link_about"><a href="/about/index.asp" title="¹ØÓÚ W3School" target="_blank">¹ØÓÚ W3School</a></h2>
+<h2 id="link_help"><a href="/about/about_helping.asp" title="°ïÖú W3School" target="_blank">°ïÖú W3School</a></h2>
+<h2 id="link_help"><a href="/ad.html" title="W3School ¹ã¸æ¿¯Àý" target="_blank">¹ã¸æ¿¯Àý</a></h2>
+
+
+</div>
+
+</div>
+
+<div id="maincontent">
+
+<h1>VBScript ½Ì³Ì</h1>
+
+<div id="tpn">
+<ul class="prenext">
+<li class="pre"><a href="/vbscript/index.asp" title="VBScript ½Ì³Ì">VB ½Ì³Ì</a></li>
+<li class="next"><a href="/vbscript/vbscript_intro.asp" title="VBScript ¼ò½é">VB ¼ò½é</a></li>
+</ul>
+</div>
+
+<div>
+<p><strong>VBScript ÊÇÎ¢Èí¹«Ë¾³öÆ·µÄ½Å±¾ÓïÑÔ¡£</strong></p>
+<p><strong>ÔÚÎÒÃÇµÄ VBScript ½Ì³ÌÖÐ£¬Äã¿ÉÒÔÑ§Ï°ÈçºÎÐ´ VBScript£¬ÒÔ¼°ÈçºÎÔÚÄãµÄHTMLÎÄ¼þÖÐ²åÈëÕâÐ©´úÂë£¬ÒÔÊ¹µÃÕâÐ© WEB Ò³Ãæ¶¯Ì¬ÐÔºÍ½»»¥ÐÔ¸üÇ¿¡£</strong></p>
+<p><a href="/vbscript/vbscript_intro.asp" title="VBScript ¼ò½é">¿ªÊ¼Ñ§Ï° VBScript</a>£¡</p>
+</div>
+
+<div>
+<h2>VBScript ÊµÀý</h2>
+<p>Í¨¹ýÊµÀý½øÐÐÑ§Ï°¡£Ê¹ÓÃÎÒÃÇµÄ±à¼­Æ÷£¬Äã¿ÉÒÔ±à¼­Ô´´úÂë£¬È»ºóµ¥»÷ test °´Å¥À´²é¿´½á¹û¡£</p>
+<p><a href="/example/vbst_examples.asp" title="VBScriptÊµÀý">VBScript ÊµÀý</a></p>
+</div>
+
+<div>
+<h2>VBScript ²Î¿¼ÊÖ²á</h2>
+<p>ÔÚ W3School£¬ÎÒÃÇÌá¹©ÍêÕûµÄ VBScript ²Î¿¼ÊÖ²á¡£</p>
+<p><a href="/vbscript/vbscript_ref_functions.asp" title="VBScript Reference">VBScript ²Î¿¼ÊÖ²á</a></p>
+</div>
+
+<div  id="bpn">
+<ul class="prenext">
+<li class="pre"><a href="/vbscript/index.asp" title="VBScript ½Ì³Ì">VB ½Ì³Ì</a></li>
+<li class="next"><a href="/vbscript/vbscript_intro.asp" title="VBScript ¼ò½é">VB ¼ò½é</a></li>
+</ul>
+</div>
+
+
+
+</div>
+
+<div id="sidebar">
+
+<div id="tools">
+<h5 id="tools_reference"><a href="/vbscript/vbscript_ref_functions.asp">VBScript ²Î¿¼ÊÖ²á</a></h5>
+<h5 id="tools_example"><a href="/example/vbst_examples.asp">VBScript ÊµÀý</a></h5>
+</div>
+
+<div id="ad">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-3381531532877742";
+/* sidebar-160x600 */
+google_ad_slot = "3772569310";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+</div>
+
+<div id="footer">
+<p id="p1">
+W3School ¼òÌåÖÐÎÄ°æÌá¹©µÄÄÚÈÝ½öÓÃÓÚÅàÑµºÍ²âÊÔ£¬²»±£Ö¤ÄÚÈÝµÄÕýÈ·ÐÔ¡£Í¨¹ýÊ¹ÓÃ±¾Õ¾ÄÚÈÝËæÖ®¶øÀ´µÄ·çÏÕÓë±¾Õ¾ÎÞ¹Ø¡£
+</p>
+
+<p id="p2">
+Ê¹ÓÃÌõ¿îºÍÒþË½Ìõ¿î¡£°æÈ¨ËùÓÐ£¬±£ÁôÒ»ÇÐÈ¨Àû¡£
+ÔÞÖúÉÌ£º<a href="http://www.ykinvestment.com/">ÉÏº£Ó®¿ÆÍ¶×ÊÓÐÏÞ¹«Ë¾</a>¡£
+<a target="_blank" href="http://www.miitbeian.gov.cn/">ÃÉICP±¸06004630ºÅ</a>
+<a style="color: #000; margin-left: 20px;" href="/ad.html" target="_blank" title="W3School ¹ã¸æ¿¯Àý">¹ã¸æ¿¯Àý</a>
+</p>
+</div>
+
+
+</div>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-878633-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-878633-1');
+</script>
+
+<meta charset="gbk" />
+<meta name="robots" content="all" />
+<meta name="author" content="w3school.com.cn" />
+<link rel="stylesheet" type="text/css" href="/c5.css" />
+<link rel="icon" type="image/png" sizes="16x16" href="/ui2019/w3_16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/ui2019/w3_32x32.png">
+<link rel="icon" type="image/png" sizes="48x48" href="/ui2019/logo-48-red.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/ui2019/logo-96-red.png">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/ui2017/logo-180.png">
+
+
+<title>PHP Date / Time º¯Êý</title>
+
+</head>
+
+<body class="serverscripting">
+
+<div id="wrapper">
+
+<div id="header">
+<a href="/index.html" title="w3school ÔÚÏß½Ì³Ì" style="float:left;">w3school ÔÚÏß½Ì³Ì</a>
+<div id="ad_head">
+<script type="text/javascript"><!--
+google_ad_client = "pub-3381531532877742";
+/* 728x90, ´´½¨ÓÚ 08-12-1 */
+google_ad_slot = "7423315034";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+</div>
+
+<div id="navfirst">
+<ul id="menu">
+<li id="h"><a href="/h.asp" title="HTML ÏµÁÐ½Ì³Ì">HTML ÏµÁÐ½Ì³Ì</a></li>
+<li id="b"><a href="/b.asp" title="ä¯ÀÀÆ÷½Å±¾½Ì³Ì">ä¯ÀÀÆ÷½Å±¾</a></li>
+<li id="s"><a href="/s.asp" title="·þÎñÆ÷½Å±¾½Ì³Ì">·þÎñÆ÷½Å±¾</a></li>
+<li id="d"><a href="/d.asp" title="ASP.NET ½Ì³Ì">ASP.NET ½Ì³Ì</a></li>
+<li id="x"><a href="/x.asp" title="XML ÏµÁÐ½Ì³Ì">XML ÏµÁÐ½Ì³Ì</a></li>
+<li id="ws"><a href="/ws.asp" title="Web Services ÏµÁÐ½Ì³Ì">Web Services ÏµÁÐ½Ì³Ì</a></li>
+<li id="w"><a href="/w.asp" title="½¨Õ¾ÊÖ²á">½¨Õ¾ÊÖ²á</a></li>
+</ul>
+</div>
+
+<div id="navsecond">
+
+<div id="course"><h2>PHP »ù´¡½Ì³Ì</h2>
+<ul>
+<li><a href="/php/index.asp" title="PHP ½Ì³Ì">PHP ½Ì³Ì</a></li>
+<li><a href="/php/php_intro.asp" title="PHP ¼ò½é">PHP ¼ò½é</a></li>
+<li><a href="/php/php_install.asp" title="PHP °²×°">PHP °²×°</a></li>
+<li><a href="/php/php_syntax.asp" title="PHP Óï·¨">PHP Óï·¨</a></li>
+<li><a href="/php/php_variables.asp" title="PHP ±äÁ¿">PHP ±äÁ¿</a></li>
+<li><a href="/php/php_echo_print.asp" title="PHP Echo ºÍ Print Óï¾ä">PHP Echo / Print</a></li>
+<li><a href="/php/php_datatypes.asp" title="PHP Êý¾ÝÀàÐÍ">PHP Êý¾ÝÀàÐÍ</a></li>
+<li><a href="/php/php_string.asp" title="PHP ×Ö·û´®º¯Êý">PHP ×Ö·û´®º¯Êý</a></li>
+<li><a href="/php/php_constants.asp" title="PHP ³£Á¿">PHP ³£Á¿</a></li>
+<li><a href="/php/php_operators.asp" title="PHP ÔËËã·û">PHP ÔËËã·û</a></li>
+<li><a href="/php/php_if_else.asp" title="PHP If...Else Óï¾ä">PHP If...Else</a></li>
+<li><a href="/php/php_switch.asp" title="PHP Switch Óï¾ä">PHP Switch</a></li>
+<li><a href="/php/php_looping.asp" title="PHP while Ñ­»·">PHP While Ñ­»·</a></li>
+<li><a href="/php/php_looping_for.asp" title="PHP for Ñ­»·">PHP For Ñ­»·</a></li>
+<li><a href="/php/php_functions.asp" title="PHP º¯Êý">PHP º¯Êý</a></li>
+<li><a href="/php/php_arrays.asp" title="PHP Êý×é">PHP Êý×é</a></li>
+<li><a href="/php/php_arrays_sort.asp" title="PHP Êý×éÅÅÐò">PHP Êý×éÅÅÐò</a></li>
+<li><a href="/php/php_superglobals.asp" title="PHP ³¬È«¾Ö±äÁ¿">PHP ³¬È«¾Ö</a></li>
+</ul>
+<h2>PHP ±íµ¥</h2>
+<ul>
+<li><a href="/php/php_forms.asp" title="PHP Date()">PHP ±íµ¥´¦Àí</a></li>
+<li><a href="/php/php_form_validation.asp" title="PHP Include ÎÄ¼þ">PHP ±íµ¥ÑéÖ¤</a></li>
+<li><a href="/php/php_form_required.asp" title="PHP ÎÄ¼þ´¦Àí">PHP ±íµ¥±ØÌî</a></li>
+<li><a href="/php/php_form_url_email.asp" title="PHP ÎÄ¼þÉÏ´«">PHP ±íµ¥ URL/E-mail</a></li>
+<li><a href="/php/php_form_complete.asp" title="PHP Cookies">PHP ±íµ¥Íê³É</a></li>
+</ul>
+<h2>PHP ¸ß¼¶½Ì³Ì</h2>
+<ul>
+<li><a href="/php/php_arrays_multi.asp" title="PHP ¶àÎ¬Êý×é">PHP ¶àÎ¬Êý×é</a></li>
+<li><a href="/php/php_date.asp" title="PHP Date()">PHP ÈÕÆÚ</a></li>
+<li><a href="/php/php_includes.asp" title="PHP Include ÎÄ¼þ">PHP Include</a></li>
+<li><a href="/php/php_file.asp" title="PHP ÎÄ¼þ´¦Àí">PHP ÎÄ¼þ</a></li>
+<li><a href="/php/php_file_open.asp" title="PHP ÎÄ¼þÉÏ´«">PHP ÎÄ¼þ´ò¿ª/¶ÁÈ¡</a></li>
+<li><a href="/php/php_file_create.asp" title="PHP ÎÄ¼þÉÏ´«">PHP ÎÄ¼þ´´½¨/Ð´Èë</a></li>
+<li><a href="/php/php_file_upload.asp" title="PHP ÎÄ¼þÉÏ´«">PHP ÎÄ¼þÉÏ´«</a></li>
+<li><a href="/php/php_cookies.asp" title="PHP Cookies">PHP Cookies</a></li>
+<li><a href="/php/php_sessions.asp" title="PHP Sessions">PHP Sessions</a></li>
+<li><a href="/php/php_mail.asp" title="PHP ·¢ËÍµç×ÓÓÊ¼þ">PHP E-mail</a></li>
+<li><a href="/php/php_secure_mail.asp" title="PHP °²È«µÄµç×ÓÓÊ¼þ">PHP °²È« E-mail</a></li>
+<li><a href="/php/php_error.asp" title="PHP ´íÎó´¦Àí">PHP Error</a></li>
+<li><a href="/php/php_exception.asp" title="PHP Òì³£´¦Àí">PHP Exception</a></li>
+<li><a href="/php/php_filter.asp" title="PHP ¹ýÂËÆ÷£¨Filter£©">PHP Filter</a></li>
+</ul>
+<h2>PHP Êý¾Ý¿â</h2>
+<ul>
+<li><a href="/php/php_mysql_intro.asp" title="MySQL ¼ò½é">MySQL ¼ò½é</a></li>
+<li><a href="/php/php_mysql_connect.asp" title="PHP MySQL Á¬½ÓÊý¾Ý¿â">MySQL Connect</a></li>
+<li><a href="/php/php_mysql_create.asp" title="PHP MySQL ´´½¨Êý¾Ý¿âºÍ±í">MySQL Create</a></li>
+<li><a href="/php/php_mysql_insert.asp" title="PHP MySQL Insert Into">MySQL Insert</a></li>
+<li><a href="/php/php_mysql_select.asp" title="PHP MySQL Select">MySQL Select</a></li>
+<li><a href="/php/php_mysql_where.asp" title="PHP MySQL Where ×Ó¾ä">MySQL Where</a></li>
+<li><a href="/php/php_mysql_order_by.asp" title="PHP MySQL Order By ¹Ø¼ü´Ê">MySQL Order By</a></li>
+<li><a href="/php/php_mysql_update.asp" title="PHP MySQL Update">MySQL Update</a></li>
+<li><a href="/php/php_mysql_delete.asp" title="PHP MySQL Delete From">MySQL Delete</a></li>
+<li><a href="/php/php_db_odbc.asp" title="PHP Database ODBC">PHP ODBC</a></li>
+</ul>
+<h2>PHP XML</h2>
+<ul>
+<li><a href="/php/php_xml_parser_expat.asp" title="PHP XML Expat ½âÎöÆ÷">XML Expat Parser</a></li>
+<li><a href="/php/php_xml_dom.asp" title="PHP XML DOM">XML DOM</a></li>
+<li><a href="/php/php_xml_simplexml.asp" title="PHP SimpleXML">XML SimpleXML</a></li>
+</ul>
+<h2>PHP ºÍ AJAX</h2>
+<ul>
+<li><a href="/php/php_ajax_intro.asp" title="AJAX XMLHttpRequest">AJAX ¼ò½é</a></li>
+<li><a href="/php/php_ajax_xmlhttprequest.asp" title="AJAX XMLHttpRequest">XMLHttpRequest</a></li>
+<li><a href="/php/php_ajax_suggest.asp" title="PHP ºÍ AJAX ÇëÇó">AJAX Suggest</a></li>
+<li><a href="/php/php_ajax_xml.asp" title="PHP ºÍ AJAX XML ÊµÀý">AJAX XML</a></li>
+<li><a href="/php/php_ajax_database.asp" title="PHP ºÍ AJAX MySQL Êý¾Ý¿âÊµÀý">AJAX Database</a></li>
+<li><a href="/php/php_ajax_responsexml.asp" title="PHP ºÍ AJAX responseXML ÊµÀý">AJAX responseXML</a></li>
+<li><a href="/php/php_ajax_livesearch.asp" title="PHP ºÍ AJAX Live Search">AJAX Live Search</a></li>
+<li><a href="/php/php_ajax_rss_reader.asp" title="PHP ºÍ AJAX RSS ÔÄ¶ÁÆ÷">AJAX RSS Reader</a></li>
+<li><a href="/php/php_ajax_poll.asp" title="PHP ºÍ AJAX Í¶Æ±">AJAX Poll</a></li>
+</ul>
+<h2>PHP ²Î¿¼ÊÖ²á</h2>
+<ul>
+<li><a href="/php/php_ref_array.asp" title="PHP Array º¯Êý">PHP Array</a></li>
+<li><a href="/php/php_ref_calendar.asp" title="PHP Calendar º¯Êý">PHP Calendar</a></li>
+<li class="currentLink"><a href="/php/php_ref_date.asp" title="PHP Date / Time º¯Êý">PHP Date</a></li>
+<li><a href="/php/php_ref_directory.asp" title="PHP Directory º¯Êý">PHP Directory</a></li>
+<li><a href="/php/php_ref_error.asp" title="PHP Error ºÍ Logging º¯Êý">PHP Error</a></li>
+<li><a href="/php/php_ref_filesystem.asp" title="PHP Filesystem º¯Êý">PHP Filesystem</a></li>
+<li><a href="/php/php_ref_filter.asp" title="PHP Filter º¯Êý">PHP Filter</a></li>
+<li><a href="/php/php_ref_ftp.asp" title="PHP FTP º¯Êý">PHP FTP</a></li>
+<li><a href="/php/php_ref_http.asp" title="PHP HTTP º¯Êý">PHP HTTP</a></li>
+<li><a href="/php/php_ref_libxml.asp" title="PHP LibXML º¯Êý">PHP LibXML</a></li>
+<li><a href="/php/php_ref_mail.asp" title="PHP Mail º¯Êý">PHP Mail</a></li>
+<li><a href="/php/php_ref_math.asp" title="PHP Math º¯Êý">PHP Math</a></li>
+<li><a href="/php/php_ref_mysql.asp" title="PHP MySQL º¯Êý">PHP MySQL</a></li>
+<li><a href="/php/php_ref_mysqli.asp" title="PHP 5 MySQLi º¯Êý">PHP MySQLi</a></li>
+<li><a href="/php/php_ref_simplexml.asp" title="PHP SimpleXML º¯Êý">PHP SimpleXML</a></li>
+<li><a href="/php/php_ref_string.asp" title="PHP String º¯Êý">PHP String</a></li>
+<li><a href="/php/php_ref_xml.asp" title="PHP XML Parser º¯Êý">PHP XML</a></li>
+<li><a href="/php/php_ref_zip.asp" title="PHP Zip File º¯Êý">PHP Zip</a></li>
+<li><a href="/php/php_ref_misc.asp" title="PHP ÔÓÏîº¯Êý">PHP ÔÓÏî</a></li>
+<li><a href="/php/php_ref_timezones.asp" title="PHP Ê±Çø">PHP Ê±Çø</a></li>
+</ul>
+<h2>PHP ²âÑé</h2>
+<ul>
+<li><a href="/php/php_quiz.asp" title="PHP ²âÑé">PHP ²âÑé</a></li>
+</ul>
+</div><div id="selected">
+<h2>½¨Õ¾ÊÖ²á</h2>
+<ul>
+<li><a href="/site/index.asp" title="ÍøÕ¾¹¹½¨">ÍøÕ¾¹¹½¨</a></li>
+<li><a href="/w3c/index.asp" title="ÍòÎ¬ÍøÁªÃË (W3C)">ÍòÎ¬ÍøÁªÃË (W3C)</a></li>
+<li><a href="/browsers/index.asp" title="ä¯ÀÀÆ÷ÐÅÏ¢">ä¯ÀÀÆ÷ÐÅÏ¢</a></li>
+<li><a href="/quality/index.asp" title="ÍøÕ¾Æ·ÖÊ">ÍøÕ¾Æ·ÖÊ</a></li>
+<li><a href="/semweb/index.asp" title="ÓïÒåÍø">ÓïÒåÍø</a></li>
+<li><a href="/careers/index.asp" title="Ö°Òµ¹æ»®">Ö°Òµ¹æ»®</a></li>
+<li><a href="/hosting/index.asp" title="ÍøÕ¾Ö÷»ú">ÍøÕ¾Ö÷»ú</a></li>
+</ul>
+
+<h2 id="link_about"><a href="/about/index.asp" title="¹ØÓÚ W3School" target="_blank">¹ØÓÚ W3School</a></h2>
+<h2 id="link_help"><a href="/about/about_helping.asp" title="°ïÖú W3School" target="_blank">°ïÖú W3School</a></h2>
+<h2 id="link_help"><a href="/ad.html" title="W3School ¹ã¸æ¿¯Àý" target="_blank">¹ã¸æ¿¯Àý</a></h2>
+
+
+</div>
+
+</div>
+
+<div id="maincontent">
+
+<h1>PHP Date / Time º¯Êý</h1>
+
+<div id="tpn">
+<ul class="prenext">
+<li class="pre"><a href="/php/php_ref_calendar.asp" title="PHP Calendar º¯Êý">PHP Calendar</a></li>
+<li class="next"><a href="/php/php_ref_directory.asp" title="PHP Directory º¯Êý">PHP Directory</a></li>
+</ul>
+</div>
+
+
+
+<div>
+<h2>PHP Date/Time ¼ò½é</h2>
+
+<p>Date/Time º¯ÊýÔÊÐíÄú´Ó PHP ½Å±¾ÔËÐÐµÄ·þÎñÆ÷ÉÏ»ñÈ¡ÈÕÆÚºÍÊ±¼ä¡£Äú¿ÉÒÔÊ¹ÓÃ Date/Time º¯ÊýÍ¨¹ý²»Í¬µÄ·½Ê½À´¸ñÊ½»¯ÈÕÆÚºÍÊ±¼ä¡£</p>
+
+<p class="note"><span>×¢ÊÍ£º</span>ÕâÐ©º¯ÊýÒÀÀµÓÚ·þÎñÆ÷µÄ±¾µØÉèÖÃ¡£Ê¹ÓÃÕâÐ©º¯ÊýÊ±Çë¼Ç×¡Òª¿¼ÂÇÏÄÁîÊ±ºÍÈòÄê¡£</p>
+</div>
+
+
+
+<div>
+<h2>°²×°</h2>
+
+<p>PHP Date/Time º¯ÊýÊÇ PHP ºËÐÄµÄ×é³É²¿·Ö¡£ÎÞÐè°²×°¼´¿ÉÊ¹ÓÃÕâÐ©º¯Êý¡£</p>
+</div>
+
+
+
+<div>
+<h2>Runtime ÅäÖÃ</h2>
+
+<p>Date/Time º¯ÊýµÄÐÐÎªÊÜµ½ php.ini ÖÐÉèÖÃµÄÓ°Ïì£º</p>
+
+<table class="dataintable">
+<tr>
+<th>Ãû³Æ</th>
+<th>ÃèÊö</th>
+<th>Ä¬ÈÏ</th>
+<th>PHP °æ±¾</th>
+</tr>
+
+<tr>
+<td>date.timezone</td>
+<td>Ä¬ÈÏÊ±Çø£¨ËùÓÐµÄ Date/Time º¯ÊýÊ¹ÓÃ¸ÃÑ¡Ïî£©</td>
+<td>&quot;&quot;</td>
+<td>PHP 5.1</td>
+</tr>
+
+<tr>
+<td>date.default_latitude</td>
+<td>Ä¬ÈÏÎ³¶È£¨date_sunrise() ºÍ date_sunset() Ê¹ÓÃ¸ÃÑ¡Ïî£©</td>
+<td>&quot;31.7667&quot;</td>
+<td>PHP 5.0</td>
+</tr>
+
+<tr>
+<td>date.default_longitude</td>
+<td>Ä¬ÈÏ¾­¶È£¨date_sunrise() ºÍ date_sunset() Ê¹ÓÃ¸ÃÑ¡Ïî£©</td>
+<td>&quot;35.2333&quot;</td>
+<td>PHP 5.0</td>
+</tr>
+
+<tr>
+<td>date.sunrise_zenith</td>
+<td>Ä¬ÈÏÈÕ³öÌì¶¥£¨date_sunrise() ºÍ date_sunset() Ê¹ÓÃ¸ÃÑ¡Ïî£©</td>
+<td>&quot;90.83&quot;</td>
+<td>PHP 5.0</td>
+</tr>
+
+<tr>
+<td>date.sunset_zenith</td>
+<td>Ä¬ÈÏÈÕÂäÌì¶¥£¨date_sunrise() ºÍ date_sunset() Ê¹ÓÃ¸ÃÑ¡Ïî£©</td>
+<td>&quot;90.83&quot;</td>
+<td>PHP 5.0</td>
+</tr>
+</table>
+</div>
+
+
+
+<div>
+<h2>PHP 5 Date/Time º¯Êý</h2>
+
+<table class="dataintable">
+<tr>
+<th>º¯Êý</th>
+<th>ÃèÊö</th>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_checkdate.asp" title="PHP checkdate() º¯Êý">checkdate()</a></td>
+<td>ÑéÖ¤¸ñÀû¸ßÀïÈÕÆÚ¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_date_add.asp" title="PHP date_add() º¯Êý">date_add()</a></td>
+<td>Ìí¼ÓÈÕ¡¢ÔÂ¡¢Äê¡¢Ê±¡¢·ÖºÍÃëµ½ÈÕÆÚ¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_create_from_format.asp" title="PHP date_create_from_format() º¯Êý">date_create_from_format()</a></td>
+<td>·µ»Ø¸ù¾ÝÖ¸¶¨¸ñÊ½½øÐÐ¸ñÊ½»¯µÄÐÂµÄ DateTime ¶ÔÏó¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_date_create.asp" title="PHP date_create() º¯Êý">date_create()</a></td>
+<td>·µ»ØÐÂµÄ DateTime ¶ÔÏó¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_date_set.asp" title="PHP date_date_set() º¯Êý">date_date_set()</a></td>
+<td>ÉèÖÃÐÂÈÕÆÚ¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_default_timezone_get.asp" title="PHP date_default_timezone_get() º¯Êý">date_default_timezone_get()</a></td>
+<td>·µ»ØÓÉËùÓÐµÄ Date/Time º¯ÊýÊ¹ÓÃµÄÄ¬ÈÏÊ±Çø¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_default_timezone_set.asp" title="PHP date_default_timezone_set() º¯Êý">date_default_timezone_set()</a></td>
+<td>ÉèÖÃÓÉËùÓÐµÄ Date/Time º¯ÊýÊ¹ÓÃµÄÄ¬ÈÏÊ±Çø¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_date_diff.asp" title="PHP date_diff() º¯Êý">date_diff()</a></td>
+<td>·µ»ØÁ½¸öÈÕÆÚ¼äµÄ²îÖµ¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_date_format.asp" title="PHP date_format() º¯Êý">date_format()</a></td>
+<td>·µ»Ø¸ù¾ÝÖ¸¶¨¸ñÊ½½øÐÐ¸ñÊ½»¯µÄÈÕÆÚ¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_get_last_errors.asp" title="PHP date_get_last_errors() º¯Êý">date_get_last_errors()</a></td>
+<td>·µ»ØÈÕÆÚ×Ö·û´®ÖÐµÄ¾¯¸æ/´íÎó¡£</td>
+</tr>
+
+<tr>
+<td>date_interval_create_from_date_string()</td>
+<td>´Ó×Ö·û´®µÄÏà¹Ø²¿·Ö½¨Á¢ DateInterval¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_interval_format.asp" title="PHP date_interval_format() º¯Êý">date_interval_format()</a></td>
+<td>¸ñÊ½»¯Ê±¼ä¼ä¸ô¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_isodate_set.asp" title="PHP date_isodate_set() º¯Êý">date_isodate_set()</a></td>
+<td>ÉèÖÃ ISO ÈÕÆÚ¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_modify.asp" title="PHP date_modify() º¯Êý">date_modify()</a></td>
+<td>ÐÞ¸ÄÊ±¼ä´Á¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_offset_get.asp" title="PHP date_offset_get() º¯Êý">date_offset_get()</a></td>
+<td>·µ»ØÊ±ÇøÆ«ÒÆ¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_parse_from_format.asp" title="PHP date_parse_from_format() º¯Êý">date_parse_from_format()</a></td>
+<td>¸ù¾ÝÖ¸¶¨µÄ¸ñÊ½·µ»Ø´øÓÐ¹ØÓÚÖ¸¶¨ÈÕÆÚµÄÏêÏ¸ÐÅÏ¢µÄ¹ØÁªÊý×é¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_date_parse.asp" title="PHP date_parse() º¯Êý">date_parse()</a></td>
+<td>·µ»Ø´øÓÐ¹ØÓÚÖ¸¶¨ÈÕÆÚµÄÏêÏ¸ÐÅÏ¢µÄ¹ØÁªÊý×é¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_date_sub.asp" title="PHP date_sub() º¯Êý">date_sub()</a></td>
+<td>´ÓÖ¸¶¨ÈÕÆÚ¼õÈ¥ÈÕ¡¢ÔÂ¡¢Äê¡¢Ê±¡¢·ÖºÍÃë¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_sun_info.asp" title="PHP date_sun_info() º¯Êý">date_sun_info()</a></td>
+<td>·µ»Ø°üº¬ÓÐ¹ØÖ¸¶¨ÈÕÆÚÓëµØµãµÄÈÕ³ö/ÈÕÂäºÍ»Æ»è¿ªÊ¼/»Æ»è½áÊøµÄÐÅÏ¢µÄÊý×é¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_sunrise.asp" title="PHP date_sunrise() º¯Êý">date_sunrise()</a></td>
+<td>·µ»ØÖ¸¶¨ÈÕÆÚÓëÎ»ÖÃµÄÈÕ³öÊ±¼ä¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_sunset.asp" title="PHP date_sunset() º¯Êý">date_sunset()</a></td>
+<td>·µ»ØÖ¸¶¨ÈÕÆÚÓëÎ»ÖÃµÄÈÕÂäÊ±¼ä¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_time_set.asp" title="PHP date_time_set() º¯Êý">date_time_set()</a></td>
+<td>ÉèÖÃÊ±¼ä¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_timestamp_get.asp" title="PHP date_timestamp_get() º¯Êý">date_timestamp_get()</a></td>
+<td>·µ»Ø Unix Ê±¼ä´Á¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_timestamp_set.asp" title="PHP date_timestamp_set() º¯Êý">date_timestamp_set()</a></td>
+<td>ÉèÖÃ»ùÓÚ Unix Ê±¼ä´ÁµÄÈÕÆÚºÍÊ±¼ä¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_timezone_get.asp" title="PHP date_timezone_get() º¯Êý">date_timezone_get()</a></td>
+<td>·µ»Ø¸ø¶¨ DateTime ¶ÔÏóµÄÊ±Çø¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_timezone_set.asp" title="PHP date_timezone_set() º¯Êý">date_timezone_set()</a></td>
+<td>ÉèÖÃ DateTime ¶ÔÏóµÄÊ±Çø¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_date.asp" title="PHP date() º¯Êý">date()</a></td>
+<td>¸ñÊ½»¯±¾µØÈÕÆÚºÍÊ±¼ä¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_getdate.asp" title="PHP getdate() º¯Êý">getdate()</a></td>
+<td>·µ»ØÄ³¸öÊ±¼ä´Á»òÕßµ±Ç°±¾µØµÄÈÕÆÚ/Ê±¼äµÄÈÕÆÚ/Ê±¼äÐÅÏ¢¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_gettimeofday.asp" title="PHP gettimeofday() º¯Êý">gettimeofday()</a></td>
+<td>·µ»Øµ±Ç°Ê±¼ä¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_gmdate.asp" title="PHP gmdate() º¯Êý">gmdate()</a></td>
+<td>¸ñÊ½»¯ GMT/UTC ÈÕÆÚºÍÊ±¼ä¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_gmmktime.asp" title="PHP gmmktime() º¯Êý">gmmktime()</a></td>
+<td>·µ»Ø GMT ÈÕÆÚµÄ UNIX Ê±¼ä´Á¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_gmstrftime.asp" title="PHP gmstrftime() º¯Êý">gmstrftime()</a></td>
+<td>¸ù¾ÝÇøÓòÉèÖÃ¶Ô GMT/UTC ÈÕÆÚºÍÊ±¼ä½øÐÐ¸ñÊ½»¯¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_idate.asp" title="PHP idate() º¯Êý">idate()</a></td>
+<td>½«±¾µØÊ±¼ä/ÈÕÆÚ¸ñÊ½»¯ÎªÕûÊý¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_localtime.asp" title="PHP localtime() º¯Êý">localtime()</a></td>
+<td>·µ»Ø±¾µØÊ±¼ä¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_microtime.asp" title="PHP microtime() º¯Êý">microtime()</a></td>
+<td>·µ»Øµ±Ç°Ê±¼äµÄÎ¢ÃëÊý¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_mktime.asp" title="PHP mktime() º¯Êý">mktime()</a></td>
+<td>·µ»ØÈÕÆÚµÄ Unix Ê±¼ä´Á¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_strftime.asp" title="PHP strftime() º¯Êý">strftime()</a></td>
+<td>¸ù¾ÝÇøÓòÉèÖÃ¶Ô±¾µØÊ±¼ä/ÈÕÆÚ½øÐÐ¸ñÊ½»¯¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_strptime.asp" title="PHP strptime() º¯Êý">strptime()</a></td>
+<td>½âÎöÓÉ strftime() Éú³ÉµÄÊ±¼ä/ÈÕÆÚ¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_strtotime.asp" title="PHP strtotime() º¯Êý">strtotime()</a></td>
+<td>½«ÈÎºÎÓ¢ÎÄÎÄ±¾µÄÈÕÆÚ»òÊ±¼äÃèÊö½âÎöÎª Unix Ê±¼ä´Á¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_time.asp" title="PHP time() º¯Êý">time()</a></td>
+<td>·µ»Øµ±Ç°Ê±¼äµÄ Unix Ê±¼ä´Á¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_timezone_abbreviations_list.asp" title="PHP timezone_abbreviations_list() º¯Êý">timezone_abbreviations_list()</a></td>
+<td>·µ»Ø°üº¬ÏÄÁîÊ±¡¢Æ«ÒÆÁ¿ºÍÊ±ÇøÃû³ÆµÄ¹ØÁªÊý×é¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_timezone_identifiers_list.asp" title="PHP timezone_identifiers_list() º¯Êý">timezone_identifiers_list()</a></td>
+<td>·µ»Ø´øÓÐËùÓÐÊ±Çø±êÊ¶·ûµÄË÷ÒýÊý×é¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_timezone_location_get.asp" title="PHP timezone_location_get() º¯Êý">timezone_location_get()</a></td>
+<td>·µ»ØÖ¸¶¨Ê±ÇøµÄÎ»ÖÃÐÅÏ¢¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_timezone_name_from_abbr.asp" title="PHP timezone_name_from_abbr() º¯Êý">timezone_name_from_abbr()</a></td>
+<td>¸ù¾ÝÊ±ÇøËõÂÔÓï·µ»ØÊ±ÇøÃû³Æ¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_timezone_name_get.asp" title="PHP timezone_name_get() º¯Êý">timezone_name_get()</a></td>
+<td>·µ»ØÊ±ÇøµÄÃû³Æ¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_timezone_offset_get.asp" title="PHP timezone_offset_get() º¯Êý">timezone_offset_get()</a></td>
+<td>·µ»ØÏà¶ÔÓÚ GMT µÄÊ±ÇøÆ«ÒÆ¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_timezone_open.asp" title="PHP timezone_open() º¯Êý">timezone_open()</a></td>
+<td>´´½¨ÐÂµÄ DateTimeZone ¶ÔÏó¡£</td>
+</tr>
+
+<tr>
+<td>timezone_transitions_get()</td>
+<td>·µ»ØÊ±ÇøµÄËùÓÐ×ª»»¡£</td>
+</tr>
+
+<tr>
+<td><a href="/php/func_date_timezone_version_get.asp" title="PHP timezone_version_get() º¯Êý">timezone_version_get()</a></td>
+<td>·µ»ØÊ±ÇøÊý¾Ý¿âµÄ°æ±¾¡£</td>
+</tr>
+</table>
+</div>
+
+
+
+<div>
+<h2>PHP 5 Ô¤¶¨ÒåµÄ Date/Time ³£Á¿</h2>
+
+<table class="dataintable">
+<tr>
+<th>³£Á¿</th>
+<th>ÃèÊö</th>
+</tr>
+
+<tr>
+<td>DATE_ATOM</td>
+<td>Atom £¨ÀýÈç£º2005-08-15T16:13:03+0000£©</td>
+</tr>
+
+<tr>
+<td>DATE_COOKIE</td>
+<td>HTTP Cookies £¨ÀýÈç£ºSun, 14 Aug 2005 16:13:03 UTC£©</td>
+</tr>
+
+<tr>
+<td>DATE_ISO8601</td>
+<td>ISO-8601 £¨ÀýÈç£º2005-08-14T16:13:03+0000£©</td>
+</tr>
+
+<tr>
+<td>DATE_RFC822</td>
+<td>RFC 822 £¨ÀýÈç£ºSun, 14 Aug 2005 16:13:03 UTC£©</td>
+</tr>
+
+<tr>
+<td>DATE_RFC850</td>
+<td>RFC 850 £¨ÀýÈç£ºSunday, 14-Aug-05 16:13:03 UTC£©</td>
+</tr>
+
+<tr>
+<td>DATE_RFC1036</td>
+<td>RFC 1036 £¨ÀýÈç£ºSunday, 14-Aug-05 16:13:03 UTC£©</td>
+</tr>
+
+<tr>
+<td>DATE_RFC1123</td>
+<td>RFC 1123 £¨ÀýÈç£ºSun, 14 Aug 2005 16:13:03 UTC£©</td>
+</tr>
+
+<tr>
+<td>DATE_RFC2822</td>
+<td>RFC 2822 £¨Sun, 14 Aug 2005 16:13:03 +0000£©</td>
+</tr>
+
+<tr>
+<td>DATE_RSS</td>
+<td>RSS £¨Sun, 14 Aug 2005 16:13:03 UTC£©</td>
+</tr>
+
+<tr>
+<td>DATE_W3C</td>
+<td>World Wide Web Consortium £¨ÀýÈç£º 2005-08-14T16:13:03+0000£©</td>
+</tr>
+</table>
+</div>
+
+
+
+
+<div id="bpn">
+<ul class="prenext">
+<li class="pre"><a href="/php/php_ref_calendar.asp" title="PHP Calendar º¯Êý">PHP Calendar</a></li>
+<li class="next"><a href="/php/php_ref_directory.asp" title="PHP Directory º¯Êý">PHP Directory</a></li>
+</ul>
+</div>
+
+<div style="background-color:#fcfdf8; padding:0;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- W3School ÕýÎÄµ×²¿¹ã¸æÎ» -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:800px;height:250px"
+     data-ad-client="ca-pub-3381531532877742"
+     data-ad-slot="9384069314"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+</div>
+<!-- maincontent end -->
+
+<div id="sidebar">
+
+<div id="tools">
+<h5 id="tools_reference"><a href="/php/php_ref.asp">PHP ²Î¿¼ÊÖ²á</a></h5>
+<h5 id="tools_quiz"><a href="/php/php_quiz.asp">PHP ²âÑé</a></h5>
+</div>
+
+<div id="ad">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-3381531532877742";
+/* sidebar-160x600 */
+google_ad_slot = "3772569310";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+</div>
+
+<div id="footer">
+<p id="p1">
+W3School ¼òÌåÖÐÎÄ°æÌá¹©µÄÄÚÈÝ½öÓÃÓÚÅàÑµºÍ²âÊÔ£¬²»±£Ö¤ÄÚÈÝµÄÕýÈ·ÐÔ¡£Í¨¹ýÊ¹ÓÃ±¾Õ¾ÄÚÈÝËæÖ®¶øÀ´µÄ·çÏÕÓë±¾Õ¾ÎÞ¹Ø¡£
+</p>
+
+<p id="p2">
+Ê¹ÓÃÌõ¿îºÍÒþË½Ìõ¿î¡£°æÈ¨ËùÓÐ£¬±£ÁôÒ»ÇÐÈ¨Àû¡£
+ÔÞÖúÉÌ£º<a href="http://www.ykinvestment.com/">ÉÏº£Ó®¿ÆÍ¶×ÊÓÐÏÞ¹«Ë¾</a>¡£
+<a target="_blank" href="http://www.miitbeian.gov.cn/">ÃÉICP±¸06004630ºÅ</a>
+<a style="color: #000; margin-left: 20px;" href="/ad.html" target="_blank" title="W3School ¹ã¸æ¿¯Àý">¹ã¸æ¿¯Àý</a>
+</p>
+</div>
+
+
+</div>
+<!-- wrapper end -->
+
+</body>
+
+</html>
+
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-878633-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-878633-1');
+</script>
+
+<meta charset="gbk" />
+<meta name="robots" content="all" />
+<meta name="author" content="w3school.com.cn" />
+<link rel="stylesheet" type="text/css" href="/c5.css" />
+<link rel="icon" type="image/png" sizes="16x16" href="/ui2019/w3_16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/ui2019/w3_32x32.png">
+<link rel="icon" type="image/png" sizes="48x48" href="/ui2019/logo-48-red.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/ui2019/logo-96-red.png">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/ui2017/logo-180.png">
+
+
+<title>PHP ²âÑé</title>
+
+</head>
+
+<body class="serverscripting">
+
+<div id="wrapper">
+
+<div id="header">
+<a href="/index.html" title="w3school ÔÚÏß½Ì³Ì" style="float:left;">w3school ÔÚÏß½Ì³Ì</a>
+<div id="ad_head">
+<script type="text/javascript"><!--
+google_ad_client = "pub-3381531532877742";
+/* 728x90, ´´½¨ÓÚ 08-12-1 */
+google_ad_slot = "7423315034";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+</div>
+
+<div id="navfirst">
+<ul id="menu">
+<li id="h"><a href="/h.asp" title="HTML ÏµÁÐ½Ì³Ì">HTML ÏµÁÐ½Ì³Ì</a></li>
+<li id="b"><a href="/b.asp" title="ä¯ÀÀÆ÷½Å±¾½Ì³Ì">ä¯ÀÀÆ÷½Å±¾</a></li>
+<li id="s"><a href="/s.asp" title="·þÎñÆ÷½Å±¾½Ì³Ì">·þÎñÆ÷½Å±¾</a></li>
+<li id="d"><a href="/d.asp" title="ASP.NET ½Ì³Ì">ASP.NET ½Ì³Ì</a></li>
+<li id="x"><a href="/x.asp" title="XML ÏµÁÐ½Ì³Ì">XML ÏµÁÐ½Ì³Ì</a></li>
+<li id="ws"><a href="/ws.asp" title="Web Services ÏµÁÐ½Ì³Ì">Web Services ÏµÁÐ½Ì³Ì</a></li>
+<li id="w"><a href="/w.asp" title="½¨Õ¾ÊÖ²á">½¨Õ¾ÊÖ²á</a></li>
+</ul>
+</div>
+
+<div id="navsecond">
+
+<div id="course"><h2>PHP »ù´¡½Ì³Ì</h2>
+<ul>
+<li><a href="/php/index.asp" title="PHP ½Ì³Ì">PHP ½Ì³Ì</a></li>
+<li><a href="/php/php_intro.asp" title="PHP ¼ò½é">PHP ¼ò½é</a></li>
+<li><a href="/php/php_install.asp" title="PHP °²×°">PHP °²×°</a></li>
+<li><a href="/php/php_syntax.asp" title="PHP Óï·¨">PHP Óï·¨</a></li>
+<li><a href="/php/php_variables.asp" title="PHP ±äÁ¿">PHP ±äÁ¿</a></li>
+<li><a href="/php/php_echo_print.asp" title="PHP Echo ºÍ Print Óï¾ä">PHP Echo / Print</a></li>
+<li><a href="/php/php_datatypes.asp" title="PHP Êý¾ÝÀàÐÍ">PHP Êý¾ÝÀàÐÍ</a></li>
+<li><a href="/php/php_string.asp" title="PHP ×Ö·û´®º¯Êý">PHP ×Ö·û´®º¯Êý</a></li>
+<li><a href="/php/php_constants.asp" title="PHP ³£Á¿">PHP ³£Á¿</a></li>
+<li><a href="/php/php_operators.asp" title="PHP ÔËËã·û">PHP ÔËËã·û</a></li>
+<li><a href="/php/php_if_else.asp" title="PHP If...Else Óï¾ä">PHP If...Else</a></li>
+<li><a href="/php/php_switch.asp" title="PHP Switch Óï¾ä">PHP Switch</a></li>
+<li><a href="/php/php_looping.asp" title="PHP while Ñ­»·">PHP While Ñ­»·</a></li>
+<li><a href="/php/php_looping_for.asp" title="PHP for Ñ­»·">PHP For Ñ­»·</a></li>
+<li><a href="/php/php_functions.asp" title="PHP º¯Êý">PHP º¯Êý</a></li>
+<li><a href="/php/php_arrays.asp" title="PHP Êý×é">PHP Êý×é</a></li>
+<li><a href="/php/php_arrays_sort.asp" title="PHP Êý×éÅÅÐò">PHP Êý×éÅÅÐò</a></li>
+<li><a href="/php/php_superglobals.asp" title="PHP ³¬È«¾Ö±äÁ¿">PHP ³¬È«¾Ö</a></li>
+</ul>
+<h2>PHP ±íµ¥</h2>
+<ul>
+<li><a href="/php/php_forms.asp" title="PHP Date()">PHP ±íµ¥´¦Àí</a></li>
+<li><a href="/php/php_form_validation.asp" title="PHP Include ÎÄ¼þ">PHP ±íµ¥ÑéÖ¤</a></li>
+<li><a href="/php/php_form_required.asp" title="PHP ÎÄ¼þ´¦Àí">PHP ±íµ¥±ØÌî</a></li>
+<li><a href="/php/php_form_url_email.asp" title="PHP ÎÄ¼þÉÏ´«">PHP ±íµ¥ URL/E-mail</a></li>
+<li><a href="/php/php_form_complete.asp" title="PHP Cookies">PHP ±íµ¥Íê³É</a></li>
+</ul>
+<h2>PHP ¸ß¼¶½Ì³Ì</h2>
+<ul>
+<li><a href="/php/php_arrays_multi.asp" title="PHP ¶àÎ¬Êý×é">PHP ¶àÎ¬Êý×é</a></li>
+<li><a href="/php/php_date.asp" title="PHP Date()">PHP ÈÕÆÚ</a></li>
+<li><a href="/php/php_includes.asp" title="PHP Include ÎÄ¼þ">PHP Include</a></li>
+<li><a href="/php/php_file.asp" title="PHP ÎÄ¼þ´¦Àí">PHP ÎÄ¼þ</a></li>
+<li><a href="/php/php_file_open.asp" title="PHP ÎÄ¼þÉÏ´«">PHP ÎÄ¼þ´ò¿ª/¶ÁÈ¡</a></li>
+<li><a href="/php/php_file_create.asp" title="PHP ÎÄ¼þÉÏ´«">PHP ÎÄ¼þ´´½¨/Ð´Èë</a></li>
+<li><a href="/php/php_file_upload.asp" title="PHP ÎÄ¼þÉÏ´«">PHP ÎÄ¼þÉÏ´«</a></li>
+<li><a href="/php/php_cookies.asp" title="PHP Cookies">PHP Cookies</a></li>
+<li><a href="/php/php_sessions.asp" title="PHP Sessions">PHP Sessions</a></li>
+<li><a href="/php/php_mail.asp" title="PHP ·¢ËÍµç×ÓÓÊ¼þ">PHP E-mail</a></li>
+<li><a href="/php/php_secure_mail.asp" title="PHP °²È«µÄµç×ÓÓÊ¼þ">PHP °²È« E-mail</a></li>
+<li><a href="/php/php_error.asp" title="PHP ´íÎó´¦Àí">PHP Error</a></li>
+<li><a href="/php/php_exception.asp" title="PHP Òì³£´¦Àí">PHP Exception</a></li>
+<li><a href="/php/php_filter.asp" title="PHP ¹ýÂËÆ÷£¨Filter£©">PHP Filter</a></li>
+</ul>
+<h2>PHP Êý¾Ý¿â</h2>
+<ul>
+<li><a href="/php/php_mysql_intro.asp" title="MySQL ¼ò½é">MySQL ¼ò½é</a></li>
+<li><a href="/php/php_mysql_connect.asp" title="PHP MySQL Á¬½ÓÊý¾Ý¿â">MySQL Connect</a></li>
+<li><a href="/php/php_mysql_create.asp" title="PHP MySQL ´´½¨Êý¾Ý¿âºÍ±í">MySQL Create</a></li>
+<li><a href="/php/php_mysql_insert.asp" title="PHP MySQL Insert Into">MySQL Insert</a></li>
+<li><a href="/php/php_mysql_select.asp" title="PHP MySQL Select">MySQL Select</a></li>
+<li><a href="/php/php_mysql_where.asp" title="PHP MySQL Where ×Ó¾ä">MySQL Where</a></li>
+<li><a href="/php/php_mysql_order_by.asp" title="PHP MySQL Order By ¹Ø¼ü´Ê">MySQL Order By</a></li>
+<li><a href="/php/php_mysql_update.asp" title="PHP MySQL Update">MySQL Update</a></li>
+<li><a href="/php/php_mysql_delete.asp" title="PHP MySQL Delete From">MySQL Delete</a></li>
+<li><a href="/php/php_db_odbc.asp" title="PHP Database ODBC">PHP ODBC</a></li>
+</ul>
+<h2>PHP XML</h2>
+<ul>
+<li><a href="/php/php_xml_parser_expat.asp" title="PHP XML Expat ½âÎöÆ÷">XML Expat Parser</a></li>
+<li><a href="/php/php_xml_dom.asp" title="PHP XML DOM">XML DOM</a></li>
+<li><a href="/php/php_xml_simplexml.asp" title="PHP SimpleXML">XML SimpleXML</a></li>
+</ul>
+<h2>PHP ºÍ AJAX</h2>
+<ul>
+<li><a href="/php/php_ajax_intro.asp" title="AJAX XMLHttpRequest">AJAX ¼ò½é</a></li>
+<li><a href="/php/php_ajax_xmlhttprequest.asp" title="AJAX XMLHttpRequest">XMLHttpRequest</a></li>
+<li><a href="/php/php_ajax_suggest.asp" title="PHP ºÍ AJAX ÇëÇó">AJAX Suggest</a></li>
+<li><a href="/php/php_ajax_xml.asp" title="PHP ºÍ AJAX XML ÊµÀý">AJAX XML</a></li>
+<li><a href="/php/php_ajax_database.asp" title="PHP ºÍ AJAX MySQL Êý¾Ý¿âÊµÀý">AJAX Database</a></li>
+<li><a href="/php/php_ajax_responsexml.asp" title="PHP ºÍ AJAX responseXML ÊµÀý">AJAX responseXML</a></li>
+<li><a href="/php/php_ajax_livesearch.asp" title="PHP ºÍ AJAX Live Search">AJAX Live Search</a></li>
+<li><a href="/php/php_ajax_rss_reader.asp" title="PHP ºÍ AJAX RSS ÔÄ¶ÁÆ÷">AJAX RSS Reader</a></li>
+<li><a href="/php/php_ajax_poll.asp" title="PHP ºÍ AJAX Í¶Æ±">AJAX Poll</a></li>
+</ul>
+<h2>PHP ²Î¿¼ÊÖ²á</h2>
+<ul>
+<li><a href="/php/php_ref_array.asp" title="PHP Array º¯Êý">PHP Array</a></li>
+<li><a href="/php/php_ref_calendar.asp" title="PHP Calendar º¯Êý">PHP Calendar</a></li>
+<li><a href="/php/php_ref_date.asp" title="PHP Date / Time º¯Êý">PHP Date</a></li>
+<li><a href="/php/php_ref_directory.asp" title="PHP Directory º¯Êý">PHP Directory</a></li>
+<li><a href="/php/php_ref_error.asp" title="PHP Error ºÍ Logging º¯Êý">PHP Error</a></li>
+<li><a href="/php/php_ref_filesystem.asp" title="PHP Filesystem º¯Êý">PHP Filesystem</a></li>
+<li><a href="/php/php_ref_filter.asp" title="PHP Filter º¯Êý">PHP Filter</a></li>
+<li><a href="/php/php_ref_ftp.asp" title="PHP FTP º¯Êý">PHP FTP</a></li>
+<li><a href="/php/php_ref_http.asp" title="PHP HTTP º¯Êý">PHP HTTP</a></li>
+<li><a href="/php/php_ref_libxml.asp" title="PHP LibXML º¯Êý">PHP LibXML</a></li>
+<li><a href="/php/php_ref_mail.asp" title="PHP Mail º¯Êý">PHP Mail</a></li>
+<li><a href="/php/php_ref_math.asp" title="PHP Math º¯Êý">PHP Math</a></li>
+<li><a href="/php/php_ref_mysql.asp" title="PHP MySQL º¯Êý">PHP MySQL</a></li>
+<li><a href="/php/php_ref_mysqli.asp" title="PHP 5 MySQLi º¯Êý">PHP MySQLi</a></li>
+<li><a href="/php/php_ref_simplexml.asp" title="PHP SimpleXML º¯Êý">PHP SimpleXML</a></li>
+<li><a href="/php/php_ref_string.asp" title="PHP String º¯Êý">PHP String</a></li>
+<li><a href="/php/php_ref_xml.asp" title="PHP XML Parser º¯Êý">PHP XML</a></li>
+<li><a href="/php/php_ref_zip.asp" title="PHP Zip File º¯Êý">PHP Zip</a></li>
+<li><a href="/php/php_ref_misc.asp" title="PHP ÔÓÏîº¯Êý">PHP ÔÓÏî</a></li>
+<li><a href="/php/php_ref_timezones.asp" title="PHP Ê±Çø">PHP Ê±Çø</a></li>
+</ul>
+<h2>PHP ²âÑé</h2>
+<ul>
+<li class="currentLink"><a href="/php/php_quiz.asp" title="PHP ²âÑé">PHP ²âÑé</a></li>
+</ul>
+</div><div id="selected">
+<h2>½¨Õ¾ÊÖ²á</h2>
+<ul>
+<li><a href="/site/index.asp" title="ÍøÕ¾¹¹½¨">ÍøÕ¾¹¹½¨</a></li>
+<li><a href="/w3c/index.asp" title="ÍòÎ¬ÍøÁªÃË (W3C)">ÍòÎ¬ÍøÁªÃË (W3C)</a></li>
+<li><a href="/browsers/index.asp" title="ä¯ÀÀÆ÷ÐÅÏ¢">ä¯ÀÀÆ÷ÐÅÏ¢</a></li>
+<li><a href="/quality/index.asp" title="ÍøÕ¾Æ·ÖÊ">ÍøÕ¾Æ·ÖÊ</a></li>
+<li><a href="/semweb/index.asp" title="ÓïÒåÍø">ÓïÒåÍø</a></li>
+<li><a href="/careers/index.asp" title="Ö°Òµ¹æ»®">Ö°Òµ¹æ»®</a></li>
+<li><a href="/hosting/index.asp" title="ÍøÕ¾Ö÷»ú">ÍøÕ¾Ö÷»ú</a></li>
+</ul>
+
+<h2 id="link_about"><a href="/about/index.asp" title="¹ØÓÚ W3School" target="_blank">¹ØÓÚ W3School</a></h2>
+<h2 id="link_help"><a href="/about/about_helping.asp" title="°ïÖú W3School" target="_blank">°ïÖú W3School</a></h2>
+<h2 id="link_help"><a href="/ad.html" title="W3School ¹ã¸æ¿¯Àý" target="_blank">¹ã¸æ¿¯Àý</a></h2>
+
+
+</div>
+
+</div>
+
+<div id="maincontent">
+
+<h1>PHP ²âÑé</h1>
+
+<div  id="tpn">
+<ul class="prenext">
+<li class="pre"><a href="/php/php_ref_timezones.asp" title="PHP Ê±Çø">PHP Ê±Çø</a></li>
+<li class="next"><a href="/php/index.asp" title="PHP ½Ì³Ì">PHP ½Ì³Ì</a></li>
+</ul>
+</div>
+
+<div id="intro">
+<p><strong>Äú¿ÉÒÔÍ¨¹ý W3SCHOOL µÄ²âÑé³ÌÐòÀ´²âÊÔÄúµÄ PHP ¼¼ÄÜ¡£</strong></p>
+</div>
+
+<div>
+<h2>¹ØÓÚ±¾²âÑé</h2>
+<p>±¾²âÑé°üº¬ 20 µÀÌâ£¬Ã¿µÀÌâµÄ×î³¤´ðÌâÊ±¼äÊÇ 20 ·ÖÖÓ£¨ÕâÊÇÓÉÓÚÃ¿¸ö session µÄÄ¬ÈÏÓÐÐ§Ê±¼äÊÇ20ÖÓ£©¡£</p>
+<p>±¾²âÑéÊÇ·Ç¹Ù·½µÄ²âÊÔ£¬Ëü½ö½öÌá¹©ÁËÒ»¸öÁË½âÄú¶Ô PHP µÄÕÆÎÕ³Ì¶ÈµÄ¹¤¾ß¡£</p>
+</div>
+
+<div>
+<h2>²âÑé»á±»¼Ç·Ö</h2>
+<p>Ã¿µÀÌâµÄ·ÖÖµÊÇ 1 ·Ö¡£ÔÚÄúÍê³ÉÈ«²¿µÄ 20 µÀÌâÖ®ºó£¬ÏµÍ³»áÎªÄúµÄ²âÑé´ò·Ö£¬²¢Ìá¹©Äú×ö´íµÄÌâÄ¿µÄÕýÈ·´ð°¸¡£ÆäÖÐ£¬ÂÌÉ«ÎªÕýÈ·´ð°¸£¬¶øºìÉ«Îª´íÎó´ð°¸¡£</p>
+<p><a href="/quiz/quiz.asp?quiz=php">ÏÖÔÚ¾Í¿ªÊ¼²âÑé</a>£¡×£ÄúºÃÔË¡£</p>
+</div>	
+
+<div  id="bpn">
+<ul class="prenext">
+<li class="pre"><a href="/php/php_ref_timezones.asp" title="PHP Ê±Çø">PHP Ê±Çø</a></li>
+<li class="next"><a href="/php/index.asp" title="PHP ½Ì³Ì">PHP ½Ì³Ì</a></li>
+</ul>
+</div>
+
+<div style="background-color:#fcfdf8; padding:0;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- W3School ÕýÎÄµ×²¿¹ã¸æÎ» -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:800px;height:250px"
+     data-ad-client="ca-pub-3381531532877742"
+     data-ad-slot="9384069314"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+</div>
+<!-- maincontent end -->
+
+<div id="sidebar">
+
+<div id="tools">
+<h5 id="tools_reference"><a href="/php/php_ref.asp">PHP ²Î¿¼ÊÖ²á</a></h5>
+<h5 id="tools_quiz"><a href="/php/php_quiz.asp">PHP ²âÑé</a></h5>
+</div>
+
+<div id="ad">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-3381531532877742";
+/* sidebar-160x600 */
+google_ad_slot = "3772569310";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+</div>
+
+<div id="footer">
+<p id="p1">
+W3School ¼òÌåÖÐÎÄ°æÌá¹©µÄÄÚÈÝ½öÓÃÓÚÅàÑµºÍ²âÊÔ£¬²»±£Ö¤ÄÚÈÝµÄÕýÈ·ÐÔ¡£Í¨¹ýÊ¹ÓÃ±¾Õ¾ÄÚÈÝËæÖ®¶øÀ´µÄ·çÏÕÓë±¾Õ¾ÎÞ¹Ø¡£
+</p>
+
+<p id="p2">
+Ê¹ÓÃÌõ¿îºÍÒþË½Ìõ¿î¡£°æÈ¨ËùÓÐ£¬±£ÁôÒ»ÇÐÈ¨Àû¡£
+ÔÞÖúÉÌ£º<a href="http://www.ykinvestment.com/">ÉÏº£Ó®¿ÆÍ¶×ÊÓÐÏÞ¹«Ë¾</a>¡£
+<a target="_blank" href="http://www.miitbeian.gov.cn/">ÃÉICP±¸06004630ºÅ</a>
+<a style="color: #000; margin-left: 20px;" href="/ad.html" target="_blank" title="W3School ¹ã¸æ¿¯Àý">¹ã¸æ¿¯Àý</a>
+</p>
+</div>
+
+
+</div>
+<!-- wrapper end -->
+
+</body>
+
+</html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<meta name="robots" content="all" />
+
+<meta name="author" content="w3school.com.cn" />
+<meta name="Copyright" content="Copyright W3school.com.cn All Rights Reserved." />
+<meta name="MSSmartTagsPreventParsing" content="true" />
+<meta http-equiv="imagetoolbar" content="false" />
+
+<link rel="stylesheet" type="text/css" href="/c5.css" />
+
+<title>HTML ISO-8859-1 åèæå</title>
+</head>
+
+<body class="html">
+
+<div id="wrapper">
+
+<div id="header"><a href="/index.html" title="w3school å¨çº¿æç¨">w3school å¨çº¿æç¨</a></div>
+
+<div id="navfirst">
+<ul id="menu">
+<li id="h"><a href="/h.asp" title="HTML ç³»åæç¨">HTML ç³»åæç¨</a></li>
+<li id="b"><a href="/b.asp" title="æµè§å¨èæ¬æç¨">æµè§å¨èæ¬</a></li>
+<li id="s"><a href="/s.asp" title="æå¡å¨èæ¬æç¨">æå¡å¨èæ¬</a></li>
+<li id="d"><a href="/d.asp" title="ASP.NET æç¨">ASP.NET æç¨</a></li>
+<li id="x"><a href="/x.asp" title="XML ç³»åæç¨">XML ç³»åæç¨</a></li>
+<li id="m"><a href="/ws.asp" title="Web Services ç³»åæç¨">Web Services ç³»åæç¨</a></li>
+<li id="w"><a href="/w.asp" title="å»ºç«æå">å»ºç«æå</a></li>
+</ul>
+</div>
+
+<div id="navsecond">
+
+<div id="course">
+<h2>åèæå</h2>
+<ul>
+<li><a href="/tags/index.asp" title="HTML 4.01 / XHTML 1.0 åèæå">æ ç­¾åè¡¨ï¼å­æ¯æåºï¼</a></li>
+<li><a href="/tags/html_ref_byfunc.asp" title="HTML 4.01 / XHTML 1.0 åèæå">æ ç­¾åè¡¨ï¼åè½æåºï¼</a></li>
+<li><a href="/tags/html_ref_standardattributes.asp" title="HTML æ åå±æ§">HTML å±æ§</a></li>
+<li><a href="/tags/html_ref_eventattributes.asp" title="HTML äºä»¶å±æ§">HTML äºä»¶</a></li>
+<li><a href="/tags/html_ref_dtd.asp" title="HTML åç´ ä¸åæ³ç Doctype">HTML åæ³ DTD</a></li>
+<li><a href="/tags/html_ref_colornames.asp" title="HTML é¢è²å">HTML é¢è²å</a></li>
+<li><a href="/tags/html_ref_charactersets.asp" title="HTML å­ç¬¦é">HTML å­ç¬¦é</a></li>
+<li><a href="/tags/html_ref_ascii.asp" title="HTML 7 æ¯ç¹ ASCII ä»£ç  åèæå">HTML ASCII</a></li>
+<li class="currentLink"><a href="/tags/html_ref_entities.html" title="HTML ISO-8859-1 åèæå">HTML ISO-8859-1</a></li>
+<li><a href="/tags/html_ref_symbols.html" title="HTML ç¬¦å·å®ä½">HTML ç¬¦å·</a></li>
+<li><a href="/tags/html_ref_urlencode.html" title="HTML URL ç¼ç ">HTML URL ç¼ç </a></li>
+<li><a href="/tags/html_ref_language_codes.asp" title="HTML è¯­è¨ä»£ç åèæå">HTML è¯­è¨ä»£ç </a></li>
+<li><a href="/tags/html_ref_httpmessages.asp" title="HTTP ç¶ææ¶æ¯">HTTP æ¶æ¯</a></li>
+<li><a href="/tags/html_ref_httpmessages.asp" title="HTTP æ¹æ³ï¼GET å¯¹æ¯ POST">HTTP æ¹æ³</a></li>
+</ul>
+
+
+<h2>HTML æ ç­¾</h2>
+
+
+<ul>
+
+
+<li>
+<a href="tag_comment.asp">
+&lt;!--&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_doctype.asp">
+&lt;!DOCTYPE&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_a.asp">
+&lt;a&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_abbr.asp">
+&lt;abbr&gt;
+</a>
+
+</li>
+
+
+
+<li>
+<a href="tag_acronym.asp">
+&lt;acronym&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_address.asp">
+&lt;address&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_applet.asp">
+&lt;applet&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_area.asp">
+&lt;area&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_font_style.asp">
+&lt;b&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_base.asp">
+&lt;base&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_basefont.asp">
+&lt;basefont&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_bdo.asp">
+&lt;bdo&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_font_style.asp">
+&lt;big&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_blockquote.asp">
+&lt;blockquote&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_body.asp">
+&lt;body&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_br.asp">
+&lt;br&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_button.asp">
+&lt;button&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_caption.asp">
+&lt;caption&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_center.asp">
+&lt;center&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_phrase_elements.asp">
+&lt;cite&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_phrase_elements.asp">
+&lt;code&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_col.asp">
+&lt;col&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_colgroup.asp">
+&lt;colgroup&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_dd.asp">
+&lt;dd&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_del.asp">
+&lt;del&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_phrase_elements.asp">
+&lt;dfn&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_dir.asp">
+&lt;dir&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_div.asp">
+&lt;div&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_dl.asp">
+&lt;dl&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_dt.asp">
+&lt;dt&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_phrase_elements.asp">
+&lt;em&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_fieldset.asp">
+&lt;fieldset&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_font.asp">
+&lt;font&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_form.asp">
+&lt;form&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_frame.asp">
+&lt;frame&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_frameset.asp">
+&lt;frameset&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_head.asp">
+&lt;head&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_hn.asp">
+&lt;h1&gt; - &lt;h6&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_hr.asp">
+&lt;hr&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_html.asp">
+&lt;html&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_font_style.asp">
+&lt;i&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_iframe.asp">
+&lt;iframe&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_img.asp">
+&lt;img&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_input.asp">
+&lt;input&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_ins.asp">
+&lt;ins&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_phrase_elements.asp">
+&lt;kbd&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_label.asp">
+&lt;label&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_legend.asp">
+&lt;legend&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_li.asp">
+&lt;li&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_link.asp">
+&lt;link&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_map.asp">
+&lt;map&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_menu.asp">
+&lt;menu&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_meta.asp">
+&lt;meta&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_noframes.asp">
+&lt;noframes&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_noscript.asp">
+&lt;noscript&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_object.asp">
+&lt;object&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_ol.asp">
+&lt;ol&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_optgroup.asp">
+&lt;optgroup&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_option.asp">
+&lt;option&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_p.asp">
+&lt;p&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_param.asp">
+&lt;param&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_pre.asp">
+&lt;pre&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_q.asp">
+&lt;q&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_s.asp">
+&lt;s&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_phrase_elements.asp">
+&lt;samp&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_script.asp">
+&lt;script&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_select.asp">
+&lt;select&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_font_style.asp">
+&lt;small&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_span.asp">
+&lt;span&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_strike.asp">
+&lt;strike&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_phrase_elements.asp">
+&lt;strong&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_style.asp">
+&lt;style&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_sub.asp">
+&lt;sub&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_sup.asp">
+&lt;sup&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_table.asp">
+&lt;table&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_tbody.asp">
+&lt;tbody&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_td.asp">
+&lt;td&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_textarea.asp">
+&lt;textarea&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_tfoot.asp">
+&lt;tfoot&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_th.asp">
+&lt;th&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_thead.asp">
+&lt;thead&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_title.asp">
+&lt;title&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_tr.asp">
+&lt;tr&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_font_style.asp">
+&lt;tt&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_u.asp">
+&lt;u&gt;
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_ul.asp">
+&lt;ul&gt;
+
+</a>
+</li>
+
+
+
+<li>
+<a href="tag_phrase_elements.asp">
+&lt;var&gt;
+</a>
+</li>
+
+
+</ul>
+
+</div>
+
+<div id="selected">
+<h2>å»ºç«æå</h2>
+<ul>
+<li><a href="/site/index.asp" title="ç½ç«æå»º">ç½ç«æå»º</a></li>
+<li><a href="/w3c/index.asp" title="ä¸ç»´ç½èçï¼W3Cï¼">ä¸ç»´ç½èç</a></li>
+<li><a href="/browsers/index.asp" title="æµè§å¨ä¿¡æ¯">æµè§å¨ä¿¡æ¯</a></li>
+<li><a href="/quality/index.asp" title="ç½ç«åè´¨">ç½ç«åè´¨</a></li>
+<li><a href="/semweb/index.asp" title="è¯­ä¹ç½">è¯­ä¹ç½</a></li>
+<li><a href="/careers/index.asp" title="èä¸è§å">èä¸è§å</a></li>
+<li><a href="/hosting/index.asp" title="ç½ç«ä¸»æºæç¨">ç½ç«ä¸»æº</a></li>
+</ul>
+
+<h2><a href="/about/about_helping.asp" title="" style="color:#AE4141">å¸®å© W3School</a></h2>
+</div>
+
+</div>
+
+<div id="maincontent">
+
+<h1 style="font-family:'å¾®è½¯éé»'">HTML ISO-8859-1 åèæå</h1>
+
+<div id="tpn">
+<ul class="prenext">
+<li class="pre"><a href="/tags/html_ref_ascii.asp">Previous Page</a></li>
+<li class="next"><a href="/tags/html_ref_symbols.html">Next Page</a></li>
+</ul>
+</div>
+
+<div>
+<p>HTML 4.01 æ¯æ ISO 8859-1 (Latin-1) å­ç¬¦éã</p>
+
+<p>ISO-8859-1 çè¾ä½é¨åï¼ä» 1 å° 127 ä¹é´çä»£ç ï¼æ¯æåç 7 æ¯ç¹ ASCIIã</p>
+
+<p>ISO-8859-1 çè¾é«é¨åï¼ä» 160 å° 255 ä¹é´çä»£ç ï¼å¨é½æå®ä½åç§°ã</p>
+
+<p>è¿äºç¬¦å·ä¸­çå¤§å¤æ°é½å¯ä»¥å¨ä¸è¿è¡å®ä½å¼ç¨çæåµä¸ä½¿ç¨ï¼ä½æ¯å®ä½åç§°æå®ä½ç¼å·ä¸ºé£äºä¸å®¹æéè¿é®çé®å¥çç¬¦å·æä¾äºè¡¨è¾¾çæ¹æ³ã</p>
+
+<p class="note"><span>æ³¨éï¼</span>å®ä½åç§°å¯¹å¤§å°åææã</p>
+</div>
+
+<div>
+<h2>å¸¦æå®ä½åç§°ç ASCII å®ä½</h2>
+
+<table class="dataintable">
+    <tr>
+      <th style="width:10%">ç»æ</th>
+      <th style="width:50%">æè¿°</th>
+      <th style="width:20%">å®ä½åç§°</th>
+      <th style="width:20%">å®ä½ç¼å·</th>
+    </tr>
+    <tr>
+      <td>&quot;</td>
+      <td>quotation mark</td>
+      <td>&amp;quot;</td>
+      <td>&amp;#34;</td>
+    </tr>
+    <tr>
+      <td>'</td>
+      <td>apostrophe&nbsp;</td>
+
+      <td>&amp;apos;</td>
+      <td>&amp;#39;</td>
+    </tr>
+    <tr>
+      <td>&amp;</td>
+      <td>ampersand</td>
+      <td>&amp;amp;</td>
+
+      <td>&amp;#38;</td>
+    </tr>
+    <tr>
+      <td>&lt;</td>
+      <td>less-than</td>
+      <td>&amp;lt;</td>
+      <td>&amp;#60;</td>
+
+    </tr>
+    <tr>
+      <td>&#62;</td>
+      <td>greater-than</td>
+      <td>&amp;gt;</td>
+      <td>&amp;#62;</td>
+    </tr>
+
+</table>
+</div>
+
+
+<div>
+<h2>ISO 8859-1 ç¬¦å·å®ä½</h2>
+
+<table class="dataintable">
+    <tr>
+      <th style="width:10%">ç»æ</th>
+      <th style="width:50%">æè¿°</th>
+      <th style="width:20%">å®ä½åç§°</th>
+      <th style="width:20%">å®ä½ç¼å·</th>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>non-breaking space</td>
+      <td>&amp;nbsp;</td>
+      <td>&amp;#160;</td>
+
+    </tr>
+    <tr>
+      <td>&iexcl;</td>
+      <td>inverted exclamation mark</td>
+      <td>&amp;iexcl;</td>
+      <td>&amp;#161;</td>
+    </tr>
+
+    <tr>
+      <td>Â¢</td>
+      <td>cent</td>
+      <td>&amp;cent;</td>
+      <td>&amp;#162;</td>
+    </tr>
+    <tr>
+
+      <td>Â£</td>
+      <td>pound</td>
+      <td>&amp;pound;</td>
+      <td>&amp;#163;</td>
+    </tr>
+    <tr>
+      <td>Â¤</td>
+
+      <td>currency</td>
+      <td>&amp;curren;</td>
+      <td>&amp;#164;</td>
+    </tr>
+    <tr>
+      <td>Â¥</td>
+      <td>yen</td>
+
+      <td>&amp;yen;</td>
+      <td>&amp;#165;</td>
+    </tr>
+    <tr>
+      <td>&brvbar;</td>
+      <td>broken vertical bar</td>
+      <td>&amp;brvbar;</td>
+
+      <td>&amp;#166;</td>
+    </tr>
+    <tr>
+      <td>Â§</td>
+      <td>section</td>
+      <td>&amp;sect;</td>
+      <td>&amp;#167;</td>
+
+    </tr>
+    <tr>
+      <td>Â¨</td>
+      <td>spacing diaeresis</td>
+      <td>&amp;uml;</td>
+      <td>&amp;#168;</td>
+    </tr>
+
+    <tr>
+      <td>&copy;</td>
+      <td>copyright</td>
+      <td>&amp;copy;</td>
+      <td>&amp;#169;</td>
+    </tr>
+    <tr>
+
+      <td>Âª</td>
+      <td>feminine ordinal indicator</td>
+      <td>&amp;ordf;</td>
+      <td>&amp;#170;</td>
+    </tr>
+    <tr>
+      <td>&laquo;</td>
+
+      <td>angle quotation mark (left)</td>
+      <td>&amp;laquo;</td>
+      <td>&amp;#171;</td>
+    </tr>
+    <tr>
+      <td>Â¬</td>
+      <td>negation</td>
+
+      <td>&amp;not;</td>
+      <td>&amp;#172;</td>
+    </tr>
+    <tr>
+      <td>Â­</td>
+      <td>soft hyphen</td>
+      <td>&amp;shy;</td>
+
+      <td>&amp;#173;</td>
+    </tr>
+    <tr>
+      <td>&#174;</td>
+      <td>registered trademark</td>
+      <td>&amp;reg;</td>
+      <td>&amp;#174;</td>
+
+    </tr>
+    <tr>
+      <td>Â¯</td>
+      <td>spacing macron</td>
+      <td>&amp;macr;</td>
+      <td>&amp;#175;</td>
+    </tr>
+
+    <tr>
+      <td>Â°</td>
+      <td>degree</td>
+      <td>&amp;deg;</td>
+      <td>&amp;#176;</td>
+    </tr>
+    <tr>
+
+      <td>Â±</td>
+      <td>plus-or-minus&nbsp;</td>
+      <td>&amp;plusmn;</td>
+      <td>&amp;#177;</td>
+    </tr>
+    <tr>
+      <td>Â²</td>
+
+      <td>superscript 2</td>
+      <td>&amp;sup2;</td>
+      <td>&amp;#178;</td>
+    </tr>
+    <tr>
+      <td>Â³</td>
+      <td>superscript 3</td>
+
+      <td>&amp;sup3;</td>
+      <td>&amp;#179;</td>
+    </tr>
+    <tr>
+      <td>Â´</td>
+      <td>spacing acute</td>
+      <td>&amp;acute;</td>
+
+      <td>&amp;#180;</td>
+    </tr>
+    <tr>
+      <td>Âµ</td>
+      <td>micro</td>
+      <td>&amp;micro;</td>
+      <td>&amp;#181;</td>
+
+    </tr>
+    <tr>
+      <td>Â¶</td>
+      <td>paragraph</td>
+      <td>&amp;para;</td>
+      <td>&amp;#182;</td>
+    </tr>
+
+    <tr>
+      <td>Â·</td>
+      <td>middle dot</td>
+      <td>&amp;middot;</td>
+      <td>&amp;#183;</td>
+    </tr>
+    <tr>
+
+      <td>Â¸</td>
+      <td>spacing cedilla</td>
+      <td>&amp;cedil;</td>
+      <td>&amp;#184;</td>
+    </tr>
+    <tr>
+      <td>Â¹</td>
+
+      <td>superscript 1</td>
+      <td>&amp;sup1;</td>
+      <td>&amp;#185;</td>
+    </tr>
+    <tr>
+      <td>Âº</td>
+      <td>masculine ordinal indicator</td>
+
+      <td>&amp;ordm;</td>
+      <td>&amp;#186;</td>
+    </tr>
+    <tr>
+      <td>&raquo;</td>
+      <td>angle quotation mark (right)</td>
+      <td>&amp;raquo;</td>
+
+      <td>&amp;#187;</td>
+    </tr>
+    <tr>
+      <td>Â¼</td>
+      <td>fraction 1/4</td>
+      <td>&amp;frac14;</td>
+      <td>&amp;#188;</td>
+
+    </tr>
+    <tr>
+      <td>Â½</td>
+      <td>fraction 1/2</td>
+      <td>&amp;frac12;</td>
+      <td>&amp;#189;</td>
+    </tr>
+
+    <tr>
+      <td>Â¾</td>
+      <td>fraction 3/4</td>
+      <td>&amp;frac34;</td>
+      <td>&amp;#190;</td>
+    </tr>
+    <tr>
+
+      <td>Â¿</td>
+      <td>inverted question mark</td>
+      <td>&amp;iquest;</td>
+      <td>&amp;#191;</td>
+    </tr>
+    <tr>
+      <td>Ã</td>
+
+      <td>multiplication</td>
+      <td>&amp;times;</td>
+      <td>&amp;#215;</td>
+    </tr>
+    <tr>
+      <td>Ã·</td>
+      <td>division</td>
+
+      <td>&amp;divide;</td>
+      <td>&amp;#247;</td>
+    </tr>
+</table>
+</div>
+
+<div>
+<h2>ISO 8859-1 å­ç¬¦å®ä½</h2>
+
+<table class="dataintable">
+    <tr>
+      <th style="width:10%">ç»æ</th>
+      <th style="width:50%">æè¿°</th>
+      <th style="width:20%">å®ä½åç§°</th>
+      <th style="width:20%">å®ä½ç¼å·</th>
+    </tr>
+    <tr>
+      <td>&Agrave;</td>
+
+      <td>capital a, grave accent</td>
+      <td>&amp;Agrave;</td>
+      <td>&amp;#192;</td>
+    </tr>
+    <tr>
+      <td>&Aacute;</td>
+      <td>capital a, acute accent</td>
+
+      <td>&amp;Aacute;</td>
+      <td>&amp;#193;</td>
+    </tr>
+    <tr>
+      <td>&Acirc;</td>
+      <td>capital a, circumflex accent</td>
+      <td>&amp;Acirc;</td>
+
+      <td>&amp;#194;</td>
+    </tr>
+    <tr>
+      <td>&Atilde;</td>
+      <td>capital a, tilde</td>
+      <td>&amp;Atilde;</td>
+      <td>&amp;#195;</td>
+
+    </tr>
+    <tr>
+      <td>&Auml;</td>
+      <td>capital a, umlaut mark</td>
+      <td>&amp;Auml;</td>
+      <td>&amp;#196;</td>
+    </tr>
+
+    <tr>
+      <td>&Aring;</td>
+      <td>capital a, ring</td>
+      <td>&amp;Aring;</td>
+      <td>&amp;#197;</td>
+    </tr>
+    <tr>
+
+      <td>&AElig;</td>
+      <td>capital ae</td>
+      <td>&amp;AElig;</td>
+      <td>&amp;#198;</td>
+    </tr>
+    <tr>
+      <td>&Ccedil;</td>
+
+      <td>capital c, cedilla</td>
+      <td>&amp;Ccedil;</td>
+      <td>&amp;#199;</td>
+    </tr>
+    <tr>
+      <td>&Egrave;</td>
+      <td>capital e, grave accent</td>
+
+      <td>&amp;Egrave;</td>
+      <td>&amp;#200;</td>
+    </tr>
+    <tr>
+      <td>&Eacute;</td>
+      <td>capital e, acute accent</td>
+      <td>&amp;Eacute;</td>
+
+      <td>&amp;#201;</td>
+    </tr>
+    <tr>
+      <td>&Ecirc;</td>
+      <td>capital e, circumflex accent</td>
+      <td>&amp;Ecirc;</td>
+      <td>&amp;#202;</td>
+
+    </tr>
+    <tr>
+      <td>&Euml;</td>
+      <td>capital e, umlaut mark</td>
+      <td>&amp;Euml;</td>
+      <td>&amp;#203;</td>
+    </tr>
+
+    <tr>
+      <td>&Igrave;</td>
+      <td>capital i, grave accent</td>
+      <td>&amp;Igrave;</td>
+      <td>&amp;#204;</td>
+    </tr>
+    <tr>
+
+      <td>&Iacute;</td>
+      <td>capital i, acute accent</td>
+      <td>&amp;Iacute;</td>
+      <td>&amp;#205;</td>
+    </tr>
+    <tr>
+      <td>&Icirc;</td>
+
+      <td>capital i, circumflex accent</td>
+      <td>&amp;Icirc;</td>
+      <td>&amp;#206;</td>
+    </tr>
+    <tr>
+      <td>&Iuml;</td>
+      <td>capital i, umlaut mark</td>
+
+      <td>&amp;Iuml;</td>
+      <td>&amp;#207;</td>
+    </tr>
+    <tr>
+      <td>&ETH;</td>
+      <td>capital eth, Icelandic</td>
+      <td>&amp;ETH;</td>
+
+      <td>&amp;#208;</td>
+    </tr>
+    <tr>
+      <td>&Ntilde;</td>
+      <td>capital n, tilde</td>
+      <td>&amp;Ntilde;</td>
+      <td>&amp;#209;</td>
+
+    </tr>
+    <tr>
+      <td>&Ograve;</td>
+      <td>capital o, grave accent</td>
+      <td>&amp;Ograve;</td>
+      <td>&amp;#210;</td>
+    </tr>
+
+    <tr>
+      <td>&Oacute;</td>
+      <td>capital o, acute accent</td>
+      <td>&amp;Oacute;</td>
+      <td>&amp;#211;</td>
+    </tr>
+    <tr>
+
+      <td>&Ocirc;</td>
+      <td>capital o, circumflex accent</td>
+      <td>&amp;Ocirc;</td>
+      <td>&amp;#212;</td>
+    </tr>
+    <tr>
+      <td>&Otilde;</td>
+
+      <td>capital o, tilde</td>
+      <td>&amp;Otilde;</td>
+      <td>&amp;#213;</td>
+    </tr>
+    <tr>
+      <td>&Ouml;</td>
+      <td>capital o, umlaut mark</td>
+
+      <td>&amp;Ouml;</td>
+      <td>&amp;#214;</td>
+    </tr>
+    <tr>
+      <td>&Oslash;</td>
+      <td>capital o, slash</td>
+      <td>&amp;Oslash;</td>
+
+      <td>&amp;#216;</td>
+    </tr>
+    <tr>
+      <td>Ã</td>
+      <td>capital u, grave accent</td>
+      <td>&amp;Ugrave;</td>
+      <td>&amp;#217;</td>
+
+    </tr>
+    <tr>
+      <td>Ã</td>
+      <td>capital u, acute accent</td>
+      <td>&amp;Uacute;</td>
+      <td>&amp;#218;</td>
+    </tr>
+
+    <tr>
+      <td>Ã</td>
+      <td>capital u, circumflex accent</td>
+      <td>&amp;Ucirc;</td>
+      <td>&amp;#219;</td>
+    </tr>
+    <tr>
+
+      <td>Ã</td>
+      <td>capital u, umlaut mark</td>
+      <td>&amp;Uuml;</td>
+      <td>&amp;#220;</td>
+    </tr>
+    <tr>
+      <td>Ã</td>
+
+      <td>capital y, acute accent</td>
+      <td>&amp;Yacute;</td>
+      <td>&amp;#221;</td>
+    </tr>
+    <tr>
+      <td>Ã</td>
+      <td>capital THORN, Icelandic</td>
+
+      <td>&amp;THORN;</td>
+      <td>&amp;#222;</td>
+    </tr>
+    <tr>
+      <td>Ã</td>
+      <td>small sharp s, German</td>
+      <td>&amp;szlig;</td>
+
+      <td>&amp;#223;</td>
+    </tr>
+    <tr>
+      <td>Ã </td>
+      <td>small a, grave accent</td>
+      <td>&amp;agrave;</td>
+      <td>&amp;#224;</td>
+
+    </tr>
+    <tr>
+      <td>Ã¡</td>
+      <td>small a, acute accent</td>
+      <td>&amp;aacute;</td>
+      <td>&amp;#225;</td>
+    </tr>
+
+    <tr>
+      <td>Ã¢</td>
+      <td>small a, circumflex accent</td>
+      <td>&amp;acirc;</td>
+      <td>&amp;#226;</td>
+    </tr>
+    <tr>
+
+      <td>Ã£</td>
+      <td>small a, tilde</td>
+      <td>&amp;atilde;</td>
+      <td>&amp;#227;</td>
+    </tr>
+    <tr>
+      <td>Ã¤</td>
+
+      <td>small a, umlaut mark</td>
+      <td>&amp;auml;</td>
+      <td>&amp;#228;</td>
+    </tr>
+    <tr>
+      <td>Ã¥</td>
+      <td>small a, ring</td>
+
+      <td>&amp;aring;</td>
+      <td>&amp;#229;</td>
+    </tr>
+    <tr>
+      <td>Ã¦</td>
+      <td>small ae</td>
+      <td>&amp;aelig;</td>
+
+      <td>&amp;#230;</td>
+    </tr>
+    <tr>
+      <td>Ã§</td>
+      <td>small c, cedilla</td>
+      <td>&amp;ccedil;</td>
+      <td>&amp;#231;</td>
+
+    </tr>
+    <tr>
+      <td>Ã¨</td>
+      <td>small e, grave accent</td>
+      <td>&amp;egrave;</td>
+      <td>&amp;#232;</td>
+    </tr>
+
+    <tr>
+      <td>Ã©</td>
+      <td>small e, acute accent</td>
+      <td>&amp;eacute;</td>
+      <td>&amp;#233;</td>
+    </tr>
+    <tr>
+
+      <td>Ãª</td>
+      <td>small e, circumflex accent</td>
+      <td>&amp;ecirc;</td>
+      <td>&amp;#234;</td>
+    </tr>
+    <tr>
+      <td>Ã«</td>
+
+      <td>small e, umlaut mark</td>
+      <td>&amp;euml;</td>
+      <td>&amp;#235;</td>
+    </tr>
+    <tr>
+      <td>Ã¬</td>
+      <td>small i, grave accent</td>
+
+      <td>&amp;igrave;</td>
+      <td>&amp;#236;</td>
+    </tr>
+    <tr>
+      <td>Ã­</td>
+      <td>small i, acute accent</td>
+      <td>&amp;iacute;</td>
+
+      <td>&amp;#237;</td>
+    </tr>
+    <tr>
+      <td>Ã®</td>
+      <td>small i, circumflex accent</td>
+      <td>&amp;icirc;</td>
+      <td>&amp;#238;</td>
+
+    </tr>
+    <tr>
+      <td>Ã¯</td>
+      <td>small i, umlaut mark</td>
+      <td>&amp;iuml;</td>
+      <td>&amp;#239;</td>
+    </tr>
+
+    <tr>
+      <td>Ã°</td>
+      <td>small eth, Icelandic</td>
+      <td>&amp;eth;</td>
+      <td>&amp;#240;</td>
+    </tr>
+    <tr>
+
+      <td>Ã±</td>
+      <td>small n, tilde</td>
+      <td>&amp;ntilde;</td>
+      <td>&amp;#241;</td>
+    </tr>
+    <tr>
+      <td>Ã²</td>
+
+      <td>small o, grave accent</td>
+      <td>&amp;ograve;</td>
+      <td>&amp;#242;</td>
+    </tr>
+    <tr>
+      <td>Ã³</td>
+      <td>small o, acute accent</td>
+
+      <td>&amp;oacute;</td>
+      <td>&amp;#243;</td>
+    </tr>
+    <tr>
+      <td>Ã´</td>
+      <td>small o, circumflex accent</td>
+      <td>&amp;ocirc;</td>
+
+      <td>&amp;#244;</td>
+    </tr>
+    <tr>
+      <td>Ãµ</td>
+      <td>small o, tilde</td>
+      <td>&amp;otilde;</td>
+      <td>&amp;#245;</td>
+
+    </tr>
+    <tr>
+      <td>Ã¶</td>
+      <td>small o, umlaut mark</td>
+      <td>&amp;ouml;</td>
+      <td>&amp;#246;</td>
+    </tr>
+
+    <tr>
+      <td>Ã¸</td>
+      <td>small o, slash</td>
+      <td>&amp;oslash;</td>
+      <td>&amp;#248;</td>
+    </tr>
+    <tr>
+
+      <td>Ã¹</td>
+      <td>small u, grave accent</td>
+      <td>&amp;ugrave;</td>
+      <td>&amp;#249;</td>
+    </tr>
+    <tr>
+      <td>Ãº</td>
+
+      <td>small u, acute accent</td>
+      <td>&amp;uacute;</td>
+      <td>&amp;#250;</td>
+    </tr>
+    <tr>
+      <td>Ã»</td>
+      <td>small u, circumflex accent</td>
+
+      <td>&amp;ucirc;</td>
+      <td>&amp;#251;</td>
+    </tr>
+    <tr>
+      <td>Ã¼</td>
+      <td>small u, umlaut mark</td>
+      <td>&amp;uuml;</td>
+
+      <td>&amp;#252;</td>
+    </tr>
+    <tr>
+      <td>Ã½</td>
+      <td>small y, acute accent</td>
+      <td>&amp;yacute;</td>
+      <td>&amp;#253;</td>
+
+    </tr>
+    <tr>
+      <td>Ã¾</td>
+      <td>small thorn, Icelandic</td>
+      <td>&amp;thorn;</td>
+      <td>&amp;#254;</td>
+    </tr>
+
+    <tr>
+      <td>Ã¿</td>
+      <td>small y, umlaut mark</td>
+      <td>&amp;yuml;</td>
+      <td>&amp;#255;</td>
+    </tr>
+</table>
+
+
+</div>
+
+<div  id="bpn">
+<ul class="prenext">
+<li class="pre"><a href="/tags/html_ref_ascii.asp">Previous Page</a></li>
+<li class="next"><a href="/tags/html_ref_symbols.html">Next Page</a></li>
+</ul>
+</div>
+
+</div>
+
+<div id="sidebar">
+
+<div id="searchui">
+<form method="get" id="searchform" action="http://www.google.com/search">
+<p><label for="searched_content">Search:</label></p>
+<p><input type="hidden" name="sitesearch" value="www.w3school.com.cn" /></p>
+<p>
+<input type="text" name="as_q" class="box"  id="searched_content" title="å¨æ­¤è¾å¥æç´¢åå®¹ã" />
+<input type="submit" value="Go" class="button" title="æç´¢ï¼" />
+</p>
+</form>
+</div>
+
+<div id="tools">
+<h5 id="tools_reference"><a href="/tags/index.asp">HTML åèæå</a></h5>
+<h5 id="tools_example"><a href="/example/html_examples.asp">HTML å®ä¾</a></h5>
+<h5 id="tools_quiz"><a href="/html/html_quiz.asp">HTML æµéª</a></h5>
+</div>
+
+<div id="ad"></div>
+</div>
+
+<div id="footer">
+<p>W3Schoolæä¾çåå®¹ä»ç¨äºå¹è®­ãæä»¬ä¸ä¿è¯åå®¹çæ­£ç¡®æ§ãéè¿ä½¿ç¨æ¬ç«åå®¹éä¹èæ¥çé£é©ä¸æ¬ç«æ å³ãå½ä½¿ç¨æ¬ç«æ¶ï¼ä»£è¡¨æ¨å·²æ¥åäºæ¬ç«çä½¿ç¨æ¡æ¬¾åéç§æ¡æ¬¾ã</p>
+<p>çæææï¼ä¿çä¸åæå©ãæªç»ä¹¦é¢è®¸å¯ï¼ä¸å¾è½¬è½½ãW3School(s)ç®ä½ä¸­æçææä¸æµ·èä¿¡ç½ç»ç§ææéå¬å¸å¨ä¸­åäººæ°å±åå½è¿è¥ã</p>
+</div>
+</div>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-878633-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-878633-1');
+</script>
+
+<meta charset="gbk" />
+<meta name="robots" content="all" />
+<meta name="author" content="w3school.com.cn" />
+<link rel="stylesheet" type="text/css" href="/c5.css" />
+<link rel="icon" type="image/png" sizes="16x16" href="/ui2019/w3_16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/ui2019/w3_32x32.png">
+<link rel="icon" type="image/png" sizes="48x48" href="/ui2019/logo-48-red.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/ui2019/logo-96-red.png">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/ui2017/logo-180.png">
+
+
+<title>Schema ½Ì³Ì</title>
+
+</head>
+
+<body class="xml">
+
+<div id="wrapper">
+
+<div id="header">
+<a href="/index.html" title="w3school ÔÚÏß½Ì³Ì" style="float:left;">w3school ÔÚÏß½Ì³Ì</a>
+<div id="ad_head">
+<script type="text/javascript"><!--
+google_ad_client = "pub-3381531532877742";
+/* 728x90, ´´½¨ÓÚ 08-12-1 */
+google_ad_slot = "7423315034";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+</div>
+
+<div id="navfirst">
+<ul id="menu">
+<li id="h"><a href="/h.asp" title="HTML ÏµÁÐ½Ì³Ì">HTML ÏµÁÐ½Ì³Ì</a></li>
+<li id="b"><a href="/b.asp" title="ä¯ÀÀÆ÷½Å±¾½Ì³Ì">ä¯ÀÀÆ÷½Å±¾</a></li>
+<li id="s"><a href="/s.asp" title="·þÎñÆ÷½Å±¾½Ì³Ì">·þÎñÆ÷½Å±¾</a></li>
+<li id="d"><a href="/d.asp" title="ASP.NET ½Ì³Ì">ASP.NET ½Ì³Ì</a></li>
+<li id="x"><a href="/x.asp" title="XML ÏµÁÐ½Ì³Ì">XML ÏµÁÐ½Ì³Ì</a></li>
+<li id="ws"><a href="/ws.asp" title="Web Services ÏµÁÐ½Ì³Ì">Web Services ÏµÁÐ½Ì³Ì</a></li>
+<li id="w"><a href="/w.asp" title="½¨Õ¾ÊÖ²á">½¨Õ¾ÊÖ²á</a></li>
+</ul>
+</div>
+
+<div id="navsecond">
+
+<div id="course"><h2>Schema ½Ì³Ì</h2>
+<ul>
+<li class="currentLink"><a href="/schema/index.asp" title="XSD ½Ì³Ì">XSD ½Ì³Ì</a></li>
+<li><a href="/schema/schema_intro.asp" title="XSD ¼ò½é">XSD ¼ò½é</a></li>
+<li><a href="/schema/schema_why.asp" title="ÎªÊ²Ã´ÒªÊ¹ÓÃ XML Schemas£¿">XSD ÎªºÎÊ¹ÓÃ</a></li>
+<li><a href="/schema/schema_howto.asp" title="ÈçºÎÊ¹ÓÃ XSD£¿">XSD ÈçºÎÊ¹ÓÃ</a></li>
+<li><a href="/schema/schema_schema.asp" title="XSD - &lt;schema&gt; ÔªËØ">XSD &lt;schema&gt;</a></li>
+</ul>
+<h2>¼òµ¥µÄÀàÐÍ</h2>
+<ul>
+<li><a href="/schema/schema_simple.asp" title="XSD ¼òÒ×ÔªËØ">XSD ÔªËØ</a></li>
+<li><a href="/schema/schema_simple_attributes.asp" title="XSD ÊôÐÔ">XSD ÊôÐÔ</a></li>
+<li><a href="/schema/schema_facets.asp" title="XSD ÏÞ¶¨/Facets">XSD ÏÞ¶¨</a></li>
+</ul>
+<h2>¸´ÔÓµÄÀàÐÍ</h2>
+<ul>
+<li><a href="/schema/schema_complex.asp" title="XSD ¸´ºÏÔªËØ">XSD ÔªËØ</a></li>
+<li><a href="/schema/schema_complex_empty.asp" title="XSD ¸´ºÏ¿ÕÔªËØ">XSD ¿ÕÔªËØ</a></li>
+<li><a href="/schema/schema_complex_elements.asp" title="XSD ¸´ºÏÀàÐÍ - ½öº¬ÔªËØ">XSD ½öº¬ÔªËØ</a></li>
+<li><a href="/schema/schema_complex_text.asp" title="XSD ½öº¬ÎÄ±¾¸´ºÏÔªËØ">XSD ½öº¬ÎÄ±¾</a></li>
+<li><a href="/schema/schema_complex_mixed.asp" title="XSD ´øÓÐ»ìºÏÄÚÈÝµÄ¸´ºÏÀàÐÍ">XSD »ìºÏÄÚÈÝ</a></li>
+<li><a href="/schema/schema_complex_indicators.asp" title="XSD ¸´ºÏÀàÐÍÖ¸Ê¾Æ÷">XSD Ö¸Ê¾Æ÷</a></li>
+<li><a href="/schema/schema_complex_any.asp" title="XSD &lt;any&gt; ÔªËØ">XSD &lt;any&gt;</a></li>
+<li><a href="/schema/schema_complex_anyattribute.asp" title="XSD &lt;anyAttribute&gt; ÔªËØ">XSD &lt;anyAttribute&gt;</a></li>
+<li><a href="/schema/schema_complex_subst.asp" title="XSD ÔªËØÌæ»»£¨Element Substitution£©">XSD ÔªËØÌæ»»</a></li>
+<li><a href="/schema/schema_example.asp" title="Ò»¸ö XSD ÊµÀý">XSD ÊµÀý</a></li>
+</ul>
+<h2>Êý¾ÝÀàÐÍ</h2>
+<ul>
+<li><a href="/schema/schema_dtypes_string.asp" title="XSD ×Ö·û´®Êý¾ÝÀàÐÍ">XSD ×Ö·û´®</a></li>
+<li><a href="/schema/schema_dtypes_date.asp" title="XSD ÈÕÆÚ¼°Ê±¼äÊý¾ÝÀàÐÍ">XSD ÈÕÆÚ</a></li>
+<li><a href="/schema/schema_dtypes_numeric.asp" title="XSD ÊýÖµÊý¾ÝÀàÐÍ">XSD ÊýÖµ</a></li>
+<li><a href="/schema/schema_dtypes_misc.asp" title="XSD ÔÓÏîÊý¾ÝÀàÐÍ">XSD ÔÓÏî</a></li>
+<li><a href="/schema/schema_summary.asp" title="ÄúÒÑ¾­Ñ§Ï°ÁË XML Schema£¬ÏÂÒ»²½Ñ§Ï°Ê²Ã´ÄØ£¿">XSD ×Ü½á</a></li>
+</ul>
+<h2>²Î¿¼ÊÖ²á</h2>
+<ul>
+<li><a href="/schema/schema_elements_ref.asp" title="XSD ²Î¿¼ÊÖ²á">XSD ²Î¿¼ÊÖ²á</a></li>
+<li><a href="http://www.w3.org/2001/03/webdata/xsv" title="XML Schema (REC (20010502) version, as amended) Checking Service">XSD ÑéÖ¤Æ÷</a></li>
+</ul>
+</div><div id="selected">
+<h2>½¨Õ¾ÊÖ²á</h2>
+<ul>
+<li><a href="/site/index.asp" title="ÍøÕ¾¹¹½¨">ÍøÕ¾¹¹½¨</a></li>
+<li><a href="/w3c/index.asp" title="ÍòÎ¬ÍøÁªÃË (W3C)">ÍòÎ¬ÍøÁªÃË (W3C)</a></li>
+<li><a href="/browsers/index.asp" title="ä¯ÀÀÆ÷ÐÅÏ¢">ä¯ÀÀÆ÷ÐÅÏ¢</a></li>
+<li><a href="/quality/index.asp" title="ÍøÕ¾Æ·ÖÊ">ÍøÕ¾Æ·ÖÊ</a></li>
+<li><a href="/semweb/index.asp" title="ÓïÒåÍø">ÓïÒåÍø</a></li>
+<li><a href="/careers/index.asp" title="Ö°Òµ¹æ»®">Ö°Òµ¹æ»®</a></li>
+<li><a href="/hosting/index.asp" title="ÍøÕ¾Ö÷»ú">ÍøÕ¾Ö÷»ú</a></li>
+</ul>
+
+<h2 id="link_about"><a href="/about/index.asp" title="¹ØÓÚ W3School" target="_blank">¹ØÓÚ W3School</a></h2>
+<h2 id="link_help"><a href="/about/about_helping.asp" title="°ïÖú W3School" target="_blank">°ïÖú W3School</a></h2>
+<h2 id="link_help"><a href="/ad.html" title="W3School ¹ã¸æ¿¯Àý" target="_blank">¹ã¸æ¿¯Àý</a></h2>
+
+
+</div>
+
+</div>
+
+<div id="maincontent">
+
+<h1>Schema ½Ì³Ì</h1>
+
+<div id="tpn">
+<ul class="prenext">
+<li class="pre"><a href="/schema/index.asp" title="XSD ½Ì³Ì">XSD ½Ì³Ì</a></li>
+<li class="next"><a href="/schema/schema_intro.asp" title="XSD ¼ò½é">XSD ¼ò½é</a></li>
+</ul>
+</div>
+
+<div id="intro">
+<p><strong>XML Schema ÊÇ»ùÓÚ XML µÄ DTD Ìæ´úÕß¡£</strong></p>
+<p><strong>XML Schema ÃèÊö XML ÎÄµµµÄ½á¹¹¡£</strong></p>
+<p><strong>XML Schema ÓïÑÔÒ²³Æ×÷ XML Schema ¶¨Òå£¨XML Schema Definition£¬XSD£©¡£</strong></p>
+<p><strong>ÔÚ´Ë½Ì³ÌÖÐ£¬Äã½«Ñ§Ï°ÈçºÎÔÚÓ¦ÓÃ³ÌÐòÖÐ¶ÁÈ¡ºÍ´´½¨ XML Schema ÓïÑÔ£¬XML Schema ÎªºÎ±È DTD ¸ü¼ÓÇ¿´ó£¬ÒÔ¼°ÈçºÎÔÚÄúµÄÓ¦ÓÃ³ÌÐòÖÐÊ¹ÓÃ XML Schema¡£</strong></p>
+<p><a href="/schema/schema_intro.asp" title="Schema ¼ò½é">¿ªÊ¼Ñ§Ï° XML Schema</a> £¡</p>
+</div>
+
+<div>
+<h2>XML Schema ²Î¿¼ÊÖ²á</h2>
+<p>ÔÚ W3School£¬ÎÒÃÇÌá¹©ÍêÕûµÄÓÐÐ§µÄ XML Schema ÔªËØ¡£</p>
+<p><a href="/schema/schema_elements_ref.asp" title="XML Schema ²Î¿¼ÊÖ²á">XML Schema ²Î¿¼ÊÖ²á</a></p>
+</div>
+
+<div  id="bpn">
+<ul class="prenext">
+<li class="pre"><a href="/schema/index.asp" title="XSD ½Ì³Ì">XSD ½Ì³Ì</a></li>
+<li class="next"><a href="/schema/schema_intro.asp" title="XSD ¼ò½é">XSD ¼ò½é</a></li>
+</ul>
+</div>
+
+<div style="background-color:#fcfdf8; padding:0;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- W3School ÕýÎÄµ×²¿¹ã¸æÎ» -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:800px;height:250px"
+     data-ad-client="ca-pub-3381531532877742"
+     data-ad-slot="9384069314"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+</div>
+<!-- maincontent end -->
+
+<div id="sidebar">
+
+<div id="tools">
+<h5 id="tools_reference"><a href="/schema/schema_elements_ref.asp">XML Schema ²Î¿¼ÊÖ²á</a></h5>
+</div>
+
+<div id="ad">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-3381531532877742";
+/* sidebar-160x600 */
+google_ad_slot = "3772569310";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+</div>
+
+<div id="footer">
+<p id="p1">
+W3School ¼òÌåÖÐÎÄ°æÌá¹©µÄÄÚÈÝ½öÓÃÓÚÅàÑµºÍ²âÊÔ£¬²»±£Ö¤ÄÚÈÝµÄÕýÈ·ÐÔ¡£Í¨¹ýÊ¹ÓÃ±¾Õ¾ÄÚÈÝËæÖ®¶øÀ´µÄ·çÏÕÓë±¾Õ¾ÎÞ¹Ø¡£
+</p>
+
+<p id="p2">
+Ê¹ÓÃÌõ¿îºÍÒþË½Ìõ¿î¡£°æÈ¨ËùÓÐ£¬±£ÁôÒ»ÇÐÈ¨Àû¡£
+ÔÞÖúÉÌ£º<a href="http://www.ykinvestment.com/">ÉÏº£Ó®¿ÆÍ¶×ÊÓÐÏÞ¹«Ë¾</a>¡£
+<a target="_blank" href="http://www.miitbeian.gov.cn/">ÃÉICP±¸06004630ºÅ</a>
+<a style="color: #000; margin-left: 20px;" href="/ad.html" target="_blank" title="W3School ¹ã¸æ¿¯Àý">¹ã¸æ¿¯Àý</a>
+</p>
+</div>
+
+
+</div>
+<!-- wrapper end -->
+
+</body>
+
+</html>

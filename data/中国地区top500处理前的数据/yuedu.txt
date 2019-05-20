@@ -1,0 +1,2597 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<title>逍遥神医：我的霸道女总裁-就爱吃海椒-电子书-在线阅读-国风中文网</title>
+	<meta name="Keywords" content="逍遥神医：我的霸道女总裁，就爱吃海椒，都市，都市生活，最新章节，全文阅读，在线阅读">
+	<meta name="Description" content="逍遥神医：我的霸道女总裁，上班第一天就和23岁的女老板发生了关系，她发誓要让我跪下唱征服，不择手段要把我拴在身边。
+为了挽回一个男人的尊严，我拼了！">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<meta content="yes" name="apple-mobile-web-app-capable">
+	<meta content="black" name="apple-mobile-web-app-status-bar-style">
+	<meta content="no-cache" http-equiv="Pragma">
+	<link rel="shortcut icon" href="//yuedust.yuedu.126.net/favicon.ico?a7500236" />
+	<link rel="stylesheet" type="text/css" href="//yuedust.yuedu.126.net/css/header.css?727b7a97" />
+	<link href="/js/reader/dist/book/reader.min.css?$CSS_V" type="text/css" rel="stylesheet"/>
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-25074971-1'],['_setLocalGifPath', '/UA-25074971-1/__utm.gif'],['_setLocalRemoteServerMode']);
+		_gaq.push(['_addOrganic','baidu','word']);
+		_gaq.push(['_addOrganic','soso','w']);
+		_gaq.push(['_addOrganic','youdao','q']);
+		_gaq.push(['_addOrganic','sogou','query']);
+		_gaq.push(['_addOrganic','so.360.cn','q']);
+		_gaq.push(['_trackPageview']);
+		_gaq.push(['_trackPageLoadTime']);
+		(function() {
+			var ga = document.createElement('script'); 
+				ga.type = 'text/javascript'; 
+				ga.async = true;
+				ga.src = 'https://wr.da.netease.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; 
+				s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+	<!-- 哈勃打点 -->
+	<script type="text/javascript">
+		(function(document,datracker,root){function loadJsSDK(){var script,first_script;script=document.createElement("script");script.type="text/javascript";script.async=true;script.src="https://hubble-js-bucket.nosdn.127.net/DATracker.globals.1.6.9.js";first_script=document.getElementsByTagName("script")[0];first_script.parentNode.insertBefore(script,first_script)}if(!datracker["__SV"]){var win=window;var gen_fn,functions,i,lib_name="DATracker";window[lib_name]=datracker;datracker["_i"]=[];datracker["init"]=function(token,config,name){var target=datracker;if(typeof(name)!=="undefined"){target=datracker[name]=[]}else{name=lib_name}target["people"]=target["people"]||[];target["abtest"]=target["abtest"]||[];target["toString"]=function(no_stub){var str=lib_name;if(name!==lib_name){str+="."+name}if(!no_stub){str+=" (stub)"}return str};target["people"]["toString"]=function(){return target.toString(1)+".people (stub)"};function _set_and_defer(target,fn){var split=fn.split(".");if(split.length==2){target=target[split[0]];fn=split[1]}target[fn]=function(){target.push([fn].concat(Array.prototype.slice.call(arguments,0)))}}functions="get_user_id track_heatmap register_attributes register_attributes_once clear_attributes unregister_attributes current_attributes single_pageview disable time_event get_appStatus track set_userId track_pageview track_links track_forms register register_once alias unregister identify login logout signup name_tag set_config reset people.set people.set_once people.set_realname people.set_country people.set_province people.set_city people.set_age people.set_gender people.increment people.append people.union people.track_charge people.clear_charges people.delete_user people.set_populationWithAccount  people.set_location people.set_birthday people.set_region people.set_account abtest.get_variation abtest.async_get_variable".split(" ");for(i=0;i<functions.length;i++){_set_and_defer(target,functions[i])}datracker["_i"].push([token,config,name])};datracker["__SV"]=1.6;loadJsSDK()}})(document,window["DATracker"]||[],window);
+		// 初始化
+		// 注意： 在Hubble平台创建一个类型为`Web`应用，复制对应的appkey，替换下面的 `88888888`
+		// truncateLength:上报数据字段的长度设置
+		// persistence: 存储到本地的方式
+		// cross_subdomain_cookie : 若是存储到cookie，是否支持跨二级域
+		DATracker.init('MA-891C-BF35BECB05C1', {truncateLength: 255,persistence: "localStorage",cross_subdomain_cookie: false});
+		window.hubbleLogYd = function () {
+			var _arguements = Array.prototype.slice.apply(arguments)
+			var evetId = _arguements[0]
+			var props = {
+				category: _arguements[1]
+			}
+			var regkey = /^[^\s:]+/
+			var regValue = /^[^\s:]+:/
+			for(var j = 2,len=_arguements.length; j < len; j++) {
+				var _argument = _arguements[j]
+				var keyMatch = _argument.match(regkey)
+				if (keyMatch) {
+					props[keyMatch[0]] = _argument.replace(regValue, '')
+				}
+			}
+			console.log(props)
+			DATracker.track(evetId, props)
+		}
+	</script>
+
+</head>
+<body>
+	<div id="J_Player" class="player-container">
+		<div class="aside" id="J_Aside"></div>
+		<div class="panel" id="J_Panel">
+			<div id="adTopBanner"></div>
+			<div class="chapter-title" id="J_ChapterTitle"></div>
+			<ul class="panel-list" id="J_BookPanel">
+				<li class="word-trigger">
+					<a href="javascript:;" id="J_WordTrigger" title="word模式">Word模式</a>
+					<div class="J_GuideDemo_1 J_GuideDemo_2"><em></em>切换Word模式与经典模式</div>
+				</li>
+				<li class="cata-trigger"><a id="J_CatalogueTrigger" title="目录">目录</a><div class="J_GuideDemo_1 J_GuideDemo_2"><em></em>目录</div></li>
+				<li class="model-trigger"><a id="J_TurnModelTrigger" title="阅读方式">阅读方式</a><div class="J_GuideDemo_1 J_GuideDemo_2"><em></em>阅读方式</div></li>
+				<li class="jump-trigger"><a id="J_JumpPageTrigger" title="跳转">跳转</a>
+					<div class="J_GuideDemo_1 J_GuideDemo_2"><em></em>阅读进度</div>
+				</li>
+				<li class="font-trigger"><a id="J_FontSizeTrigger" title="字号">字号</a>
+					<div class="J_GuideDemo_1 J_GuideDemo_2"><em></em>字体大小</div>
+				</li>
+				<li class="help-trigger"><a id="J_HelpTipsTrigger" title="帮助">帮助</a></li>
+				<li class="bookmark-trigger"><a id="J_BookMarkTrigger" title="书签">书签</a><div class="J_GuideDemo_1 J_GuideDemo_2"><em></em>书签</div></li>
+				<li class="home-trigger"><a id="J_GoHomeTrigger" title="返回">返回</a>
+					<div class="J_GuideDemo_1 J_GuideDemo_2"><em></em>频道首页</div>
+				</li>
+			</ul>
+			<div class="catalogue r-hide" id="J_Catalogue"></div>
+			<div class="bookmark r-hide" id="J_BookMark">
+				<i class="angle"></i>
+				<i class="close J_Close"></i>
+				<div class="add J_Add"><a href="#">将本页加入书签</a></div>
+				<ul class="list J_BookmarkList"></ul>
+				<div class="J_Pager"></div>
+			</div>
+			<div class="jumppage r-hide" id="J_JumpPage">
+				<i class="angle"></i>
+				<p>到<input type="text" name=""/><span>%</span><a href="#">确定</a></p>
+			</div>
+			<div class="font r-hide" id="J_Font">
+				<i class="angle"></i>
+				<ul>
+					<li class="font16"><a href="#">14号</a></li>
+					<li class="font18"><a href="#">16号</a></li>
+					<li class="font20"><a href="#">18号</a></li>
+					<li class="font24"><a href="#">22号</a></li>
+				</ul>
+			</div>
+			<div id="J_Help" class="help">
+				<dl class="J_GuideDemo_1">
+					<dt>快捷键</dt>
+					<dd>
+						<ul>
+							<li><span class="key-name">全屏阅读</span><span class="key-icon f11">f11</span></li>
+							<li><span class="key-name">翻页</span><span class="key-icon prev">向前</span><span class="key-icon next">向后</span></li>
+						</ul>
+						<div><a href="#" class="close J_Close">我知道了</a></div>
+					</dd>
+				</dl>
+				<dl class="J_GuideDemo_2">
+					<dt>快捷键</dt>
+					<dd>
+						<ul>
+							<li><span class="key-name">全屏阅读</span><span class="key-icon f11">f11</span></li>
+							<li><span class="key-name">上下滚动</span><span class="key-icon down">向下</span><span class="key-icon up">向上</span></li>
+							<li><span class="key-name">上下翻页</span><span class="key-icon pagedown">pagedown</span><span class="key-icon pageup">pageup</span></li>
+						</ul>
+						<div><a href="#" class="close J_Close">我知道了</a></div>
+					</dd>
+				</dl>
+				<i class="angle"></i>
+			</div>
+		</div>
+		<div class="unsupported" id="J_Unsupported">
+			<div>该书暂不支持在电脑端阅读。请<a href="/client">下载安装客户端</a>
+				<p><a href="/download" target="_blank" class="code" onclick="_gaq.push(['_trackEvent', 'download', 'mid2codedownload','bookreader']);"></a></p>
+			</div>
+		</div>
+		<div class="horizontal-player" id="J_Horizontal">
+			<div class="prev-turn J_PrevTurn"><a href="javascript:void(0)" hidefocus="true"></a></div>
+			<div class="article-wrap">
+			<div class="article J_Article">
+				<div class="article-content">
+					<div class="horizontal-page-box J_HorizontalMoveBox"></div>
+				</div>
+				<div class="page-percent J_Percent"></div>
+			</div>
+			</div>
+			<div class="next-turn J_NextTurn"><a href="javascript:void(0)" hidefocus="true"></a></div>
+		</div>
+		<div class="portrait-player" id="J_Portrait">
+			<div class="page-style">
+				<div class="top-stone"></div>
+				<div class="article J_Article">
+				<div class="portrait-page-box J_PortraitMoveBox"></div>
+				</div>
+			</div>
+		</div>
+		<div class="book-recommand" id="J_BookRecommand"></div>
+	</div>
+	
+	<div class="word" id="J_Word">
+	<div class="word-hd">
+		<div class="top-bar"></div>
+		<div class="hd-section">
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_05.png?49d6aae2" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_06.png?fcb2c5a2" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_07.png?223acaca" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_08.png?3bb2a614" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_09.png?31c54620" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_10.png?a16d18d7" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_11.png?319f833d" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_12.png?56111b36" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_13.png?33fded48" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_14.png?203a702a" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_15.png?ec48b253" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_16.png?1417db67" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_17.png?08a7554a" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_18.png?ff6a41ab" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_19.png?b48c6018" />
+			<a href="#" class="word-btn J_CancelWord"><img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_04.png?555f6eaa" /></a>
+		</div>
+	</div>
+	<div class="word-ft">
+		<div class="ft-sec-1"><img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_20.png?bb879ac4" /></div>
+		<div class="ft-sec-2"><img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_21.png?5cba65c3" /></div>
+	</div>
+	</div>
+	<div id="login-layer" class="m-login-layer m-login-layer-wy" style="display: none;">
+	    <div class="lytt yy"><a class="lyclose j-close" style="display:block;">关闭</a>
+	        <h4>网易邮箱登录</h4></div>
+	    <div class="content">
+	        <div class="m-loginwrap">
+	            <div class="m-login" id="login-container">
+	                
+	            </div>
+	            <div class="m-loginswitch">
+	                <h6>其他帐号登录：</h6>
+	                <ul>
+	                    <li class="sj"><a><span class="login-icon"></span><div>手机号</div></a></li>
+	                    <li class="xl xllogin"><a><span class="login-icon"></span><div>新浪微博</div></a></li>
+	                    <li class="wx wxlogin"><a><span class="login-icon"></span><div>微信</div></a></li>
+	                </ul>
+	            </div>
+	        </div>
+	    </div>
+	</div>
+	
+	<div id="blacklistcmtTip" class="m-newlayer m-newlayer-s2" style="display:none;">
+		<h2><span>提示</span><a href="javascript:void(0)" class="j-close"></a></h2>
+		<div class="inner">
+			<div class="content">
+				<p>您的帐号因发表不适宜的言论，评论已被禁止。</p>
+				<p>如有任何问题请邮件至reader@188.com反馈给我们。谢谢~</p>
+				<div class="f-cb">
+					<a class="j-close btn-cmt btn-primary-cmt">确定</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="J-readerLogPop" class="m-modal m-modal-middle" style="display:none;">
+		<h2><span>提示</span><a href="javascript:void(0)" class="j-close"></a></h2>
+		<div class="inner">
+			<div class="content"></div>
+			<div class="footer f-cb">
+				<div class="btn-groups">
+					<a class="nbtn nbtn-confirm j-confirm">确定</a>
+					<a class="j-close nbtn">取消</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="J-bookmarkSyncPop" class="m-modal m-modal-middle m-modal-img" style="display:none;">
+		<h2><span>提示</span><a href="javascript:void(0)" class="j-close"></a></h2>
+		<div class="inner">
+			<div class="content">
+				<h3>书签已同步至云端！</h3>
+				<p>您可在iPhone、iPad、Android、WP多平台同步阅读</p>
+				<div class="img"></div>
+			</div>
+			<div class="footer f-cb">
+				<a class="j-close nbtn nbtn-confirm nbtn-full">确定</a>
+			</div>
+		</div>
+	</div>
+	<div id="J-yqdPop" class="m-pop m-pop-yqd j-pop-yqd" style="display:none;">
+		<img src="https://easyread.nosdn.127.net/web/trunk/1494816499069/yqd-layer.png">
+		<a class="j-close close"></a>
+	</div>
+	<div class="m-mask"></div>
+	<!-- 阅读进度同步模板 -->
+	<script id="tmpl-readerLogPop" type="text/html">
+		<p>您在服务端保留的阅读进度<em><%= curServerPercent %>%</em>，章节名是<em>【<%= curServerChapterTitle %>】</em>,是否跳转？</p>
+	</script>
+	<!-- 目录模板 -->
+ 	<script id="tmpl-catalogue" type="text/template">
+		<div class="catainner J_CataInner">
+		<i class="angle"></i>
+		<i class="close J_Close"></i>
+		<div class="hd"><h2>目录</h2></div>
+		<div class="bd">
+			<% if(obj[0].grade == 0){ %>
+				<dl>
+				<% for(var i=0; i < obj.length; i++) { %>
+					<% if(obj[i].grade == 0){ %>
+					<dt><i class="bar"></i><a href="#" data-charindex="<%= i+1 %>"><%= obj[i].title.length>30? obj[i].title.substring(0,30) + '...' : obj[i].title %></a><% if(obj[i].needPay){ %><span class="vip"></span><% } %></dt>
+					<dd>
+						<ul class="chapter-list">
+					<% }else{ %>
+							<li <% if(obj[i].grade == 2){ %>class="article-item"<% } %>><a href="#" data-charindex="<%= i+1 %>" <% if(obj[i].needPay && !obj[i].isPaid){ %> class="unpaid" <% } %>><%= obj[i].title.length>30? obj[i].title.substring(0,30) + '...' : obj[i].title %></a><% if(obj[i].needPay){ %><span class="vip"></span><% } %></li>
+					<% } %>
+					<% if(obj[i+1] && obj[i+1].grade == 0){ %>
+						</ul>
+					</dd>
+					<% } %>
+				<% } %>
+				</dl>
+			<% }else{ %>
+				<ul class="chapter-list">
+				<% for(var i=0; i < obj.length; i++) { %>
+					<li><a href="#" data-charindex="<%= i+1 %>" <% if(obj[i].needPay && !obj[i].isPaid){ %> class="unpaid" <% } %>><%= obj[i].title %></a><% if(obj[i].needPay){ %><span class="vip"></span><% } %></li>
+				<% } %>
+				</ul>
+			<% } %>
+		</div> 
+		</div>
+	</script>
+	<!-- 书签模板 -->
+	<script id="tmpl-bookmark" type="text/template">
+		<% if(obj.length){ %>
+			<% _.each(obj, function(bookmark, idx){ %>
+				<li>
+					<div class="tit"><h4><%= bookmark.articleTitle %></h4><span><%= bookmark.percent %>%&nbsp;&nbsp;&nbsp;&nbsp;<%= bookmark.formatDate %></span></div>
+					<div class="desc"></div>
+					<i class="flag"></i>
+					<a class="delete">删除</a>
+				</li>
+			<% }) %>
+		<% } %>
+	</script>
+	<!-- 翻页控件模板 -->
+	<script id="tmpl-pager" type="text/template">
+		<% if(obj.totalPage <= 1) return; %>
+		<div class="pager">
+		<% if(obj.totalPage > 5 && obj.curPageIndex > 3){ %>
+			<a href="#" data-page="1" class="txt">首页</a>
+			<a href="#" data-page="<%= obj.curPageIndex - 1 %>" class="txt">上一页</a>
+		<% } %>
+		<% if(obj.totalPage <= 5){ for(var i = 1; i <= obj.totalPage; i++){ %>
+			<a href="#" data-page="<%= i %>" <% if(i === obj.curPageIndex){ %> class="cur" <% } %>><%= i %></a>
+		<% }} %>
+		<% if(obj.totalPage > 5){ %>
+			<% if(obj.curPageIndex <= 2){ for(var i = 1; i <= 5; i++){ %>
+				<a href="#" data-page="<%= i %>" <% if(i === obj.curPageIndex){ %> class="cur" <% } %>><%= i %></a>
+			<% }}else if(obj.curPageIndex >= obj.totalPage - 2){ for(var i = obj.totalPage - 4; i <= obj.totalPage; i++){ %>
+				<a href="#" data-page="<%= i %>" <% if(i === obj.curPageIndex){ %> class="cur" <% } %>><%= i %></a>
+			<% }}else{ for(var i = obj.curPageIndex - 2; i <= obj.curPageIndex + 2; i++){ %>
+				<a href="#" data-page="<%= i %>" <% if(i === obj.curPageIndex){ %> class="cur" <% } %>><%= i %></a>
+			<% }} %>
+		<% } %>
+		<% if(obj.totalPage > 5 && obj.curPageIndex < obj.totalPage - 2){ %>
+			<a href="#" data-page="<%= obj.curPageIndex + 1 %>" class="txt">下一页</a>
+			<a href="#" data-page="<%= obj.totalPage %>" class="txt">尾页</a>
+		<% } %>
+		</div>
+	</script>
+	<!-- 侧边栏模板 -->
+	<script id="tmpl-aside" type="text/template">
+		<div class="booktitle">
+			<h1><a href="/source/<%= id %>" target="_blank" title="<%= title %>"><% if(title.length > 14){ %><%= title.substring(0, 14) %>...<% }else{ %><%= title %><% } %></a></h1>
+			<div class="pic"><a href="/source/<%= id %>" target="_blank"><img src="<%= coverImg %>?imageView&thumbnail=90x0&quality=90" srcset="<%= coverImg %>?imageView&thumbnail=180x0&quality=90 2x" alt="<%= title %>"/></a></div>
+		</div>
+		<% if(payType && !isPaid || !isOnShelf && typeof forbidGetBook == 'undefined'){ %>
+			<ul class="getbook">
+				<% if(typeof cutPrice !== 'undefined' && 0 === cutPrice && !isPaid){ %>
+					<li class="ebook-get j-getbook"><a href="#" class="btn-red">免费领取</a></li>
+				<% }else{ %>
+					<% if(payType && !isPaid && canBuy){ %>
+						<li class="ebook-buy j-getbook"><a href="#" class="btn-red">购买</a></li>
+					<% } %>
+					<% if(!isOnShelf){ %><li class="put-shelf j-getbook"><a href="#" class="btn-gray">放入书架</a></li><% } %>
+				<% } %>
+				<% if(typeof paperBookPurchaseLink !== 'undefined'){ %>
+				<li>
+					<a id="asidePaperBuy" href="<%= paperBookPurchaseLink %>" target="_blank" class="btn-gray paper-buy paper-buy-aside">
+						购买纸质书
+					</a>
+				</li>
+				<% } %>
+			</ul>
+		<% }else{ %>
+			<% if(typeof paperBookPurchaseLink !== 'undefined'){ %>
+			<ul class="getbook">
+				<li>
+					<a id="asidePaperBuy" href="<%= paperBookPurchaseLink %>" target="_blank" class="btn-gray paper-buy paper-buy-aside">
+						购买纸质书
+					</a>
+				</li>
+			</ul>
+			<% } %>
+		<% } %>
+		<ul class="userop">
+			<% if(shieldComment == 0){ %>
+			<li class="review-trigger"><i></i><a href="#">评论<% if(commentsSize){ %>（<span class="J_CommentSize"><%= commentsSize %></span>）<% } %></a></li>
+			<% } %>
+			<li class="share-trigger"><i></i><a href="#">分享</a></li>
+			<% if(audioBookUrl) {%>
+				<li class="music-trigger"><a href="<%= audioBookUrl%>" class="anchor-out">小说有声版</a></li>
+			<%}%>
+			<% if(manHuaBookUrl) {%>
+				<li class="manhua-trigger"><a href="<%= manHuaBookUrl%>" class="anchor-out">小说漫画版</a></li>
+			<%}%>
+			<% if(canBePresented){ %>
+			<li class="present-trigger"><i></i><a target="_blank" href="/source/<%= id %>#tipAnchor">打赏</a></li>
+			<% } %>
+			<% if(canBeVoted){ %>
+			<li class="monthly-trigger"><i></i><a target="_blank" href="/source/<%= id %>?defaultAction=setMonthlyTicketTip">投月票</a></li>
+			<% } %>
+		</ul>
+		<ul class="other-plat">
+			<!--<li class="mobile"><i></i><a target="_blank" href="/client">手机上阅读</a></li>-->
+			<% if(venderUrl){ %>
+			<li class="rbook-buy-trigger"><i></i><a target="_blank" href="<%= venderUrl %>">购买实体书</a></li>
+			<% } %>
+			<li class="theme-trigger"><i class="icon"></i><a href="#">主题模式</a><i class="angle"></i></li>
+			<li class="scan-code"><a href="/client?act=rdbookreader_20130924_02" target="_blank" onclick="_gaq.push(['_trackEvent', 'download', 'right_2codedownload','bookreader']);"></a></li>
+		</ul>
+		<div id="J_AddShelfPop" class="shelf-pop">
+			<i class="close">关闭</i>
+			<p>是否把本书放入书架</p>
+			<p><a href="#" class="add">放入书架</a><a href="#" class="cancel">取消</a></p>
+		</div>
+		<div class="aside-trigger"><a class="open" id="J_AsideTrigger"></a></div>
+		<div id="J_Forward" class="share r-hide">
+			<div class="inner">
+				<div class="topbar">
+					<h5>顺便说几句</h5><a id="J_CmtSwitch" class="j-close"></a><span class="wrap"><span id="J_Words">0</span> / 140</span>
+				</div>
+				<form id="publishForm" action="/weibo.do" method="post">
+				<div class="txt-input">
+					<textarea id="J_ForTxt" name="message"></textarea>
+				</div>
+				<div class="botbar">
+					<span class="zf">分享至：</span>
+					<ul>
+						<li class="sns1">
+							<input name="site" value="2" type="checkbox" />
+							<span class="mask"></span>
+						</li>
+						<li class="sns2">
+							<input name="site" value="1" type="checkbox" />
+							<span class="mask"></span>
+						</li>
+						<li class="sns3">
+							<input name="site" value="4" type="checkbox" />
+							<span class="mask"></span>
+						</li>
+						<li class="sns4">
+							<input name="site" value="3" type="checkbox" />
+							<span class="mask"></span>
+						</li>
+						<li class="sns6">
+							<input name="site" value="6" type="checkbox" />
+							<span class="mask"></span>
+						</li>
+					</ul>
+					<a class="send">分享</a>
+				</div>
+				</form>
+				<input type="hidden" id="J_GoWhere" />
+				<div id="J_AtrLayer" style="display:none;" class="atr">
+					<p>你的微博尚未得到授权，<a id="J_AtrGo">去授权&gt;&gt;</a></p>
+					<a class="j-close-1"></a>
+				</div>
+			</div>
+		</div>
+		<div id="J_Theme" class="theme r-hide">
+			<a href="#" class="J_Word" data-theme="1005">Word模式（按F2）</a>
+			<a href="#" class="J_Light" data-theme="1000">日间模式</a>
+			<a href="#" class="J_Dark" data-theme="1004">夜间模式</a>
+			<a href="#" class="J_Normal" data-theme="1001">经典模式</a>
+			<a href="#" class="J_Green" data-theme="1003">护眼模式</a>
+			<a href="#" class="J_Pink" data-theme="1002">女性模式</a>
+			<i></i>
+		</div>
+	</script>
+
+	<!-- 书籍推荐(cms) -->
+	<script id="tmpl-editorrecommand" type="text/template">
+		<dl>
+			<dt>编辑推荐</dt>
+			<dd>
+				<ul class="editorrecommend">
+					<% _.each(obj, function(book){ %>
+					<li>
+						<h5><a target="_blank" href="<%= book.sourceUrl %>" title="<%= book.title %>"><%= book.title %></a></h5>
+						<div class="price"><%= book.author %></div>
+						<div class="cover"><a target="_blank" href="<%= book.sourceUrl %>" title="<%= book.title %>"><img src="<%= book.bookDefaultImg %>" alt="<%= book.title %>"/></a></div>
+					</li>
+					<% }) %>
+				</ul>
+			</dd>
+		</dl>
+		<div class="recommand-trigger"><a class="open" id="J_RecommandTrigger"></a></div>
+	</script>
+	<!-- 书籍推荐(server) -->
+	<script id="tmpl-recommand" type="text/template">
+		<dl>
+			<dt>用户还喜欢</dt>
+			<dd>
+				<ul>
+					<% _.each(obj, function(book){ %>
+					<li>
+						<h5><a target="_blank" href="/source/<%= book.sourceUuid %>" title="<%= book.title %>"><%= book.title %></a></h5>
+						<div class="price"><% if(book.free4LimitedTime){ %>限免<% }else if(book.payType == 0){ %>免费<% }else if(book.payType == 1){ if(book.bookType == 5){%>按话付费<%}else if(book.payType == 7){%><%= book.formattedVipPrice %>元/章<%} else{%><%= book.formattedPrice %>元/千字<% }}else if(book.payType == 2){ %><span>￥</span><%= book.formattedVipPrice %><% } %></div>
+						<div class="star-panel"><div class="star-<%= book.star %>"></div></div>
+						<div class="cover"><a target="_blank" href="/source/<%= book.sourceUuid %>" title="<%= book.title %>"><img src="<%= book.coverImage %>" alt="<%= book.title %>"/></a><% if(book.free4LimitedTime){ %><i class="badge-timefree"></i><% }else if(book.bookStatus == 0){ %><i class="badge-serial"></i><% }else if(book.sample){ %><i class="badge-sample"></i><% }else{ %><i class="badge-complete"></i><% } %></div>
+					</li>
+					<% }) %>
+				</ul>
+			</dd>
+		</dl>
+		<div class="recommand-trigger"><a class="open" id="J_RecommandTrigger"></a></div>
+	</script>
+
+	<script id="tmpl-chapterbuy" type="text/template">
+		<% if(isTimeFree){ %>
+		<p class="tip-title"><span class="hot">限时免费</span> <span class="cool">结束时间：<%= discountEndTime %></span></p>
+		<div class="button"><a href="#" class="btn-red ok J_FreeGet">免费领取</a></div>
+		<% }else{ %>
+			<% if(payType === 1){ %>
+				<div class="orig-buy">
+					<div class="wallet">
+						<% if(isLogined){ %>
+							账户余额：<span><%= virtualMoney %></span>阅点&nbsp;&nbsp;
+							<% if(badHongBaoBalance != 0){ %>
+							当前可用红包：<span><%= hongBaoBalance %></span>阅点（您还有<span><%= badHongBaoBalance %></span>阅点红包仅限客户端使用）
+							<% } else if(hongBaoBalance != 0) {%>
+							当前可用红包：<span><%= hongBaoBalance %>阅点</span><% if(badHongBaoBalance != 0){ %>（您还有<span><%= badHongBaoBalance %></span>阅点红包仅限客户端使用）<% } %>
+							<% } %>
+							<% if(chapterPrice > (virtualMoney + hongBaoBalance)){ %>
+								<span>余额不足</span><a href="/recharge.do?operation=form&v_required=<%= chapterPrice %>" target="_blank" class="J_ToRecharge">去充值</a>
+							<% } %>
+						<% }else{ %>
+							未登录，<a href="#" class="J_Login">点击登录</a>
+						<% } %>
+					</div>
+					<div class="orig-buy-option-1">
+						<p>此章节为收费章节，需<span class="hot"><%= chapterPrice %></span>阅点(<%= (chapterPrice/100).toFixed(2) %>元)</p>
+						<div class="button"><a href="#" class="btn-red ok J_Done">购买本章</a><% if(chapterPrice > (virtualMoney + hongBaoBalance) && (chapterPrice - virtualMoney - hongBaoBalance) <= avaliableCredit){ %><a href="#" class="btn-red ok J_CreditPay">信用支付</a><% } %></div>
+					</div>
+					<div class="orig-buy-option-2">
+						<p>还有<%= leaveVipChaptersCount %>章可购买<br/>（不包含作者未发布章节）</p>
+						<p><a href="/source.do?operation=articleSelect&source_uuid=<%= bookid %>" class="J_MultiBuy" target="_blank">批量购买</a></p>
+					</div>
+					<div class="orig-buy-option-3">
+						<p>当阅读到收费章节时，将自动为您购买</p>
+						<p><% if(autoPurchase){ %><span style="color:#999">自动订阅已开启</span><% }else{ %><a href="#" class="J_OpenAutoSub">开启自动订阅</a><% } %></p>
+					</div>
+				</div>
+			<% }else if(payType === 2){ %>
+				<% if(cutPrice){ %>
+					<p class="tip-title">优惠价：<span class="hot"><%= cutPrice %></span>阅点<del style="font-size:12px; color:#666;">（<%= bookPrice %>）</del></p>
+					<p style="text-align: center;">结束时间：<%= discountEndTime %></p>
+				<% }else{ %>
+				<p class="tip-title">此书籍为收费书籍，需<span class="hot"><%= bookPrice %></span>阅点(<%= (bookPrice/100).toFixed(2) %>元)</p>
+				<% } %>
+				<div class="button">
+					<a href="#" class="btn-red ok J_Done">购买</a>
+					<% if(typeof paperBookPurchaseLink !== 'undefined'){ %>
+					<a id="chargePaperBuy" href="<%= paperBookPurchaseLink %>" target="_blank" class="btn-gray goon paper-buy" style="margin-right:10px;position:relative;">
+						购买纸质书
+					</a>
+					<% } %>
+					<a href="#" class="btn-gray goon J_LeaveHere">跳转至可读章节</a>
+				</div>
+			<% } %>
+			<% if(showBooksAward){ %>
+				<div class="newyear-gift-tip clearfix"><div class="display-inline tip-content"><i class="gift-icon"></i><span class="tip-txt">一次购买出版图书满1元，即可参加抽奖！<a href="/promotion/show_books/" target="_blank">活动详情&gt;&gt;</a></span></div></div>
+			<% } %>
+		<% } %>
+			<div class="hongbao-info">
+				<div class="inner" style="width:400px;left:128px;">
+					<p>点击或扫描二维码下载客户端，在手机上阅读</p>
+					<p><a href="/download" target="_blank" class="code" onclick="_gaq.push(['_trackEvent', 'download', 'mid2codedownload','bookreader']);"></a></p>
+				</div>
+			</div>
+	</script>
+
+	<script id="tmpl-autosub" type="text/template">
+		<div class="hd">自动订阅<a href="#" class="close J_Cancel">关闭</a></div>
+		<div class="bd">
+			<p class="tip-title">确定开启自动订阅？</p>
+			<p class="pay-info cool">开启之后若想关闭，请前往“个人中心”的“自动订阅”进行操作</p>
+			<div class="button">
+				<a href="#" class="btn-red ok J_Done">确定</a><a href="#" class="btn-gray cancel J_Cancel">取消</a>
+			</div>
+		</div>
+	</script>
+
+	<!-- 整本或单章购买 -->
+	<script id="tmpl-buypop" type="text/template">
+		<div class="hd">购买<a href="#" class="close J_Cancel">关闭</a></div>
+		<div class="bd">
+			<form action="/trade.do" method="post">
+				<input type="hidden" name="operation" value="purchase" />
+	    		<input type="hidden" name="source_uuid" value="<%= bookid %>" />
+	    		<input type="hidden" name="pay_type" value="<%= payType %>" />
+				<input type="hidden" name="article_uuid" value="<% if(payType === 1){ %><%= id %><% } %>" />
+				<div>
+					<% if(isTimeFree){ %>
+						<p class="tip-title"><span class="hot">限时免费</span> <span class="cool">结束时间：<%= discountEndTime %></span> </p>
+					<% }else{ %>
+						<% if(payType === 1){ %>
+							<p class="tip-title">"<%= title %>"</p>
+						<% }else if(payType === 2){ %>
+							<p class="tip-title"><%= booktitle %></p>
+						<% } %>
+						<% if(cutPrice){ %>
+							<p class="pay-info hot">优惠价：<%= cutPrice %> 阅点（<%= (cutPrice/100).toFixed(2) %>元）</p>
+							<p class="pay-info">网易价：<del><%= price %></del> 阅点（<%= (price/100).toFixed(2) %>元）</p>
+							<% if(badHongBaoBalance != 0){ %>
+								<p class="pay-info">当前可用红包：<span class="hot"><%= hongBaoBalance %>阅点</span>（您还有<span class="hot"><%= badHongBaoBalance %>阅点</span>红包仅限客户端使用）</p>
+								<p class="pay-info">还需支付<span class="hot"><%= needWalletCount %>阅点</span></p>
+							<% } else if(hongBaoBalance != 0) {%>
+								<p class="pay-info">当前可用红包：<span class="hot"><%= hongBaoBalance %>阅点</span><% if(badHongBaoBalance != 0){ %>（您还有<span class="hot"><%= badHongBaoBalance %>阅点</span>红包仅限客户端使用）<% } %></p>
+								<p class="pay-info">还需支付<span class="hot"><%= needWalletCount %>阅点</span></p>
+							<% } %>
+							<p class="pay-info gray-b">账户余额：<%= wallet %> 阅点<% if(isNeedRecharge){ %><span class="J_StopTip hot"><em class="stop-tip"></em><span class="hot">余额不足</span> <a href="/recharge.do?operation=form&v_required=<%= cutPrice %>" target="_blank" class="J_ToRecharge">去充值</a></span><% } %></p>
+						<% }else{ %>
+							<p class="pay-info">共需消费：<span class="hot"><%= price %> 阅点</span><span class="cool">（<%= (price/100).toFixed(2) %>元）</span></p>
+							<% if(badHongBaoBalance != 0){ %>
+								<p class="pay-info">当前可用红包：<span class="hot"><%= hongBaoBalance %>阅点</span>（您还有<span class="hot"><%= badHongBaoBalance %>阅点</span>红包仅限客户端使用）</p>
+								<p class="pay-info">还需支付<span class="hot"><%= needWalletCount %>阅点</span></p>
+							<% } else if(hongBaoBalance != 0) {%>
+								<p class="pay-info">当前可用红包：<span class="hot"><%= hongBaoBalance %>阅点</span><% if(badHongBaoBalance != 0){ %>（您还有<span class="hot"><%= badHongBaoBalance %>阅点</span>红包仅限客户端使用）<% } %></p>
+								<p class="pay-info">还需支付<span class="hot"><%= needWalletCount %>阅点</span></p>
+							<% } %>
+							<p class="pay-info gray-b">账户余额：<%= wallet %> 阅点<% if(isNeedRecharge){ %><span class="J_StopTip hot"><em class="stop-tip"></em><span class="hot">余额不足</span> <a href="/recharge.do?operation=form&v_required=<%= price %>" target="_blank" class="J_ToRecharge">去充值</a></span><% } %></p>
+						<% } %>
+					<% } %>
+				</div>
+				<div class="button">
+					<% if(isTimeFree){ %>
+					<a href="#" class="btn-red ok J_Done">免费领取</a>
+					<% }else{ %>
+					<a href="#" class="btn-red ok J_Done <% if(isNeedRecharge){ %> btn-red-disabled <% } %>">购买</a><a href="#" class="btn-gray cancel J_Cancel">取消</a>
+					<% } %>
+				</div>
+				<% if(payType === 1){ %>
+					<!--
+				<div class="auto-sub">
+					<span class="J_AutoSub"><span class="check <% if(autoSub){ %>check-on<% }else{ %>check-off<% } %>"><input type="checkbox" name="auto_sub" value="true" <% if(autoSub){ %>checked="checked"<% } %>></span>自动订阅<span class="cool">（阅读后续收费章节时将自动购买，可退订）</span></span>
+				</div>
+				-->
+				<% } %>
+			</form>
+		</div>
+	</script>
+
+	<script id="tmpl-creditpay" type="text/template">
+		<div class="hd">信用支付<a href="#" class="close J_Cancel">关闭</a></div>
+		<div class="bd">
+			<form>
+			<input type="hidden" name="operation" value="purchase" />
+    		<input type="hidden" name="source_uuid" value="<%= bookid %>" />
+    		<input type="hidden" name="pay_type" value="<%= payType %>" />
+			<input type="hidden" name="article_uuid" value="<% if(payType === 1){ %><%= id %><% } %>" />
+			<input type="hidden" name="credit_pay" value="true" />
+			<input type="hidden" name="v_credit" value="<%= price - wallet - hongBaoBalance %>" />
+			<p class="pay-info" style="margin-top:20px;">确定透支<span class="hot"><%= price - wallet - hongBaoBalance %></span>阅点？当前可透支额度还有<span class="hot"><%= avaliableCredit %></span>阅点</p>
+			<p class="pay-info">请查看<a href="https://epay.163.com/creditPay/orderCreditList.htm" target="_blank">《网易云阅读信用支付协议》</a></p>
+			<div class="button">
+				<a href="#" class="btn-red ok J_Done">同意协议并支付</a>
+				<a href="#" class="btn-gray J_Cancel">取消</a>
+			</div>
+			</form>
+		</div>
+	</script>
+
+	<!-- 评论 -->
+	<script id="tmpl-review" type="text/template">
+		<div class="hd"><h3><i></i><span>评论：<%= title.substring(0, 20) %><% if(commentsSize){ %><span class="comment-size">（<em class="J_CommentSize"><%= commentsSize %></em>条）</span><% } %></span></h3><a href="#" title="关闭" class="J_Close close"></a></div>
+		<div class="bd J_Bd">
+			<div class="review-tab J_ReviewTab">
+				<div class="clearfix for-review J_ReviewBread" style="display:none;"><a href="#" class="comment-btn J_ToggleToReview"><i class="crt"></i>评论</a><a href="#" class="J_ToggleToGentie"><i></i>历史跟贴</a></div>
+			</div>
+			<div class="review-content J_ReviewContent">
+				<div class="yuedu-review J_YueduReview">
+					<div class="static-comment-box J_SCommentBox"></div>
+					<ul></ul>
+					<div class="J_Pager"></div>
+				</div>
+				<div class="gentie-review J_GentieReview">
+					<dl class="J_HotReviewList">
+						<dt>热门评论</dt>
+						<dd></dd>
+					</dl>
+					<dl class="J_LastReviewList">
+						<dt>最新评论</dt>
+						<dd></dd>
+					</dl>
+					<div class="J_Pager"></div>
+				</div>
+			</div>
+		</div>
+	</script>
+
+	<script id="tmpl-reviewlist" type="text/template">
+		<% for(var i = 0; i < obj.length; i++){ %>
+			<li class="J_ItemLi">
+				<div class="head-pic"><% if(typeof obj[i].link != 'undefined'){ %><a href="<%= obj[i].link %>" target="_blank"><% } %><img src="<% if(typeof obj[i].avatar == 'undefined'){ %>https://easyread.nosdn.127.net/web/trunk/1492150697494/txdefault.png<% }else{ %><%= obj[i].avatar %><% } %>" /><% if(typeof obj[i].link != 'undefined'){ %></a><% } %><% if(obj[i].auth){ %><i></i><% } %></div>
+				<p class="info"><cite><% if(obj[i].isTop){ %><span class="top-icon" title="置顶评论"></span><% } %><% if(typeof obj[i].link != 'undefined'){ %><a href="<%= obj[i].link %>" target="_blank"><% } %><%= obj[i].username %><% if(typeof obj[i].link != 'undefined'){ %></a><% } %><% if(obj[i].self){ %><span>（本书作者）</span><% } %></cite><span class="time"><%= obj[i].posttime %> 发表</span></p>
+				<blockquote><% if(obj[i].replied){ %>回复 <% if(obj[i].replied.link){ %><a href="<%= obj[i].replied.link %>" target="_blank" ><%= obj[i].replied.username %></a><% }else{ %><span><%= obj[i].replied.username %></span><% } %>：<% } %><%= obj[i].text.replace('成功打赏[em]', '<p>成功打赏<em>').replace('[/em]阅点', '</em>阅点</p>') %></blockquote>
+				<p class="opt">
+					<input type="hidden" name="cid" value="<%= obj[i].commentId %>" />
+					<input type="hidden" name="tipstr" value="<%= obj[i].username %>" />
+					<% if(obj[i].userSelf){ %><a href="#" class="J_Delete">删除</a><% } %>
+					<a href="#" class="J_Reply">回复</a>
+				</p>
+				<div class="reply-box-wrap"></div>
+			</li>
+		<% } %>
+	</script>
+
+	<script id="tmpl-gentielist" type="text/template">
+		<% function makeFloor(floorObj, index){ %>
+			<div class="floor">
+				<% if(!floorObj.isRenderAll && floorObj.floorTotal > 10 && index != 1){
+					makeFloor(floorObj, 1) %>
+					<div class="open-floor J_OpenFloor">已经隐藏重复盖楼<a href="#">[点击展开]</a></div>
+				<% }else{ %>
+					<% if(floorObj.floorTotal > 20 && floorObj.floorTotal - index > 9 && index > 9){ %>
+						<% 
+							makeFloor(floorObj, 9);
+							for(var i = 10; i<index; i++){ 
+						%>
+							<div class="inner-floor J_Floor">
+								<div class="floor-info"><cite><%= floorObj[i]['f'] %></cite><span><%= i %></span></div>
+								<blockquote><%= floorObj[i]['b'] %></blockquote>
+							</div>
+						<% } %>
+							<div class="floor-wrap J_Floor">
+							<div class="floor-info"><cite><%= floorObj[index]['f'] %></cite><span><%= index %></span></div>
+							<blockquote><%= floorObj[index]['b'] %></blockquote>
+							</div>
+					<% }else{ %>
+						<% if(floorObj[index-1]) makeFloor(floorObj, index-1) %>
+						<div class="floor-wrap J_Floor">
+						<div class="floor-info"><cite><%= floorObj[index]['f'] %></cite><span><%= index %></span></div>
+						<blockquote><%= floorObj[index]['b'] %></blockquote>
+						</div>
+					<% } %>
+				<% } %>
+			</div>
+		<% } %>
+		<% _.each(obj, function(floorObj, index){
+			var floorTotal = 1;
+			while(floorObj[floorTotal+1]) floorTotal++;
+			floorObj.floorTotal = floorTotal;
+		%>
+			<div class="tie" data-index="<%= index %>">
+				<div class="floor-info"><cite><%= floorObj[floorTotal]['f'] %></cite><span><%= floorObj[floorTotal]['t'] %>&nbsp;发表</span></div>
+				<% if(floorObj[floorTotal-1]) makeFloor(floorObj, floorTotal-1) %>
+				<blockquote><%= floorObj[floorTotal]['b'] %></blockquote>
+			</div>
+		<% }) %>
+	</script>
+
+	<script id="tmpl-replybox" type="text/template">
+		<% if(typeof hideAngle == 'undefined'){ %><i class="angle" <% if(typeof leftOffset != 'undefined'){ %>style="left:<%= leftOffset %>px"<% } %>></i><% } %>
+		<form>
+		<input type="hidden" name="id" value="<%= id %>" />
+		<input type="hidden" name="type" value="<%= type %>" />
+		<% if(typeof cid != 'undefined'){ %><input type="hidden" name="cid" value="<%= cid %>" /><% } %>
+		<div class="contentwrap"><textarea name="content" placeholder="<%= tipstr %>"></textarea></div>
+		<div class="bottombar">
+			<p class="size-leave J_SizeLeave">还能输入500字</p>
+			<p class="btn"><% if(typeof hideAngle == 'undefined'){ %><a class="J_Back ui-default">取消</a><% } %><a class="J_Send replaybtn"><% if(addType == 1){ %>评论<% } else { %>回复<% } %></a></p>
+		</div>
+		</form>
+	</script>
+
+	<script id="tmpl-annotation" type="text/template">
+		<div class="J_Content scroll-container"></div>
+		<div class="angle"></div>
+		<svg width="16px" height="8px" viewBox="0 0 16 8" class="svg-angle" xmlns="https://www.w3.org/2000/svg" version="1.1">
+		  	<polygon fill="black" points="0,0 16,0 8,8" />
+		</svg>
+	</script>
+	<script id="tmpl-sharemodal" type="text/template">
+		<div class="modal-cover">
+		</div>
+		<div class="modal-section lastpage-modal" id="J-lastpage-modal">
+			<span class="modal-close"></span>
+			<% if (end == 1){%>
+				<div class="modal-title">全文完，感谢您的阅读</div>
+			<%}else{%>
+				<div class="modal-title">未完待续，作者努力码字中。。。</div>
+			<%}%>
+			<div class="modal-body">
+				<div class="modal-item">
+					<% if(audioBookUrl) {%>
+						<a href="<%= audioBookUrl%>" class="anchor-out">小说有声版</a>
+					<%}%>
+					<% if(manHuaBookUrl) {%>
+						<a href="<%= manHuaBookUrl%>" class="anchor-out">小说漫画版</a>
+					<%}%>
+					<a href="javascript:;" class="anchor-out j-popo-comment">评论</a>
+					<a href="javascript:;" class="anchor-out j-share">分享</a>
+					<% if(createBy == 1) {%>
+						<a target="_blank" href="/source/<%= id %>#tipAnchor" class="u-reward">打赏</a>
+					<%}%>
+					<% if(typeof paperBookPurchaseLink !== 'undefined'){ %>
+					<div>读完后是不是很喜欢这本书呢，不如买一本纸质书好好收藏吧 <a id="endPaperBuy" href="<%= paperBookPurchaseLink %>" target="_blank" class="paper-buy paper-by-end">购买纸质书</a></div>
+					<%}%>
+				</div>
+				<div class="modal-item modal-divider">
+					<div class="modal-guess">
+						<span class="guess-title">猜你喜欢</span>
+					</div>
+					<ul class="modal-guess-list">
+						<% for(var i in guessData){%>
+							<li class="list-item">
+								<a href="/source/<%= guessData[i].sourceUuid%>" target="_blank" title="<%= guessData[i].title%>">
+									<img src="<%= guessData[i].coverImage%>" width="84" height="116">
+									<span class="list-title"><%= guessData[i].title%></span>
+								</a>
+							</li>
+						<%}%>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="modal-section share-modal" id="J-share-modal">
+			<span class="modal-close"></span>
+			<ul class="share-body">
+				<li class="share-item" data-index="0">
+					<img src="https://easyread.nosdn.127.net/web/trunk/1469527220411/timeline_03.png" width="79" height="79">
+					<span class="share-title">微信朋友圈</span>
+				</li>
+				<li class="share-item" data-index="0">
+					<img src="https://easyread.nosdn.127.net/web/trunk/1469587219417/friend_05.png" width="79" height="79">
+					<span class="share-title">微信好友</span>
+				</li>
+				<li class="share-item" data-index="1">
+					<img src="https://easyread.nosdn.127.net/web/trunk/1469587281815/yixin_07.png" width="79" height="79">
+					<span class="share-title">易信朋友圈</span>
+				</li>
+				<li class="share-item" data-index="3">
+					<img src="https://easyread.nosdn.127.net/web/trunk/1469587479211/sixin_12.png" width="79" height="79">
+					<span class="share-title">私信</span>
+				</li>
+				<li class="share-item" data-index="4">
+					<img src="https://easyread.nosdn.127.net/web/trunk/1469587533240/sina_13.png" width="79" height="79">
+					<span class="share-title">新浪微博</span>
+				</li>
+				<li class="share-item" data-index="5">
+					<img src="https://easyread.nosdn.127.net/web/trunk/1469587563004/tencent_15.png" width="79" height="79">
+					<span class="share-title">腾讯微博</span>
+				</li>
+			</ul>
+		</div>
+	</script>
+	<script type="text/template" id="tmpl-wordpopo">
+		<div class="modal-container">
+			<div class="modal-section">
+				<span class="modal-close"></span>
+				<div class="modal-title">设计师特意弄了个word模式。<br/>再也不担心上班看书被老板逮着啦！</div>
+				<div class="modal-body">
+					<span id="J-remain">15</span>秒
+				</div>
+				<div class="modal-footer">
+					<button class="modal-btn" id="J-word-trigger">立刻尝试word模式</button>
+					<p class="modal-detail">点击键盘上的F2也可以自由切换word模式与经典模式</p>
+				</div>
+			</div>
+			
+		</div>
+	</script>
+	<script src="//yuedust.yuedu.126.net/js/aes.js?b9608029"></script>
+	<script src="/js/reader/sea-modules/seajs/seajs/2.0.0/sea.js?$JS_V" data-main="/js/reader/dist/book/2.0.5/reader.js" data-fixed="true"></script>
+	<script>  
+	    (function(i,s,ob,g,r,a,m)  
+	    {  
+	        i['AnalyticsObject']=r;   
+
+	        i[r] = i[r] || function()  
+	        {  
+	            (i[r].ops = i[r].ops || []).push(arguments);  
+	        }  
+	          
+	        a = s.createElement(ob);  
+	        a.type = "text/javascript";  
+	        m = s.getElementsByTagName(ob)[0];  
+	        a.async=false; // 1 asynchronous  
+	        a.src=g;  
+	        m.parentNode.insertBefore(a,m);  
+	    })(window, document, 'script', '//rev.da.netease.com/da.js?t='+ parseInt((new Date().getTime())/1000000), '_dapush');  
+	    _dapush('create','DA-A888-A990E152BA01'); 
+	    _dapush('page_view');
+	</script>
+</body>
+</html>
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<title>逍遥神医：我的霸道女总裁-就爱吃海椒-电子书-在线阅读-国风中文网</title>
+	<meta name="Keywords" content="逍遥神医：我的霸道女总裁，就爱吃海椒，都市，都市生活，最新章节，全文阅读，在线阅读">
+	<meta name="Description" content="逍遥神医：我的霸道女总裁，上班第一天就和23岁的女老板发生了关系，她发誓要让我跪下唱征服，不择手段要把我拴在身边。
+为了挽回一个男人的尊严，我拼了！">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<meta content="yes" name="apple-mobile-web-app-capable">
+	<meta content="black" name="apple-mobile-web-app-status-bar-style">
+	<meta content="no-cache" http-equiv="Pragma">
+	<link rel="shortcut icon" href="//yuedust.yuedu.126.net/favicon.ico?a7500236" />
+	<link rel="stylesheet" type="text/css" href="//yuedust.yuedu.126.net/css/header.css?727b7a97" />
+	<link href="/js/reader/dist/book/reader.min.css?$CSS_V" type="text/css" rel="stylesheet"/>
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-25074971-1'],['_setLocalGifPath', '/UA-25074971-1/__utm.gif'],['_setLocalRemoteServerMode']);
+		_gaq.push(['_addOrganic','baidu','word']);
+		_gaq.push(['_addOrganic','soso','w']);
+		_gaq.push(['_addOrganic','youdao','q']);
+		_gaq.push(['_addOrganic','sogou','query']);
+		_gaq.push(['_addOrganic','so.360.cn','q']);
+		_gaq.push(['_trackPageview']);
+		_gaq.push(['_trackPageLoadTime']);
+		(function() {
+			var ga = document.createElement('script'); 
+				ga.type = 'text/javascript'; 
+				ga.async = true;
+				ga.src = 'https://wr.da.netease.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; 
+				s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+	<!-- 哈勃打点 -->
+	<script type="text/javascript">
+		(function(document,datracker,root){function loadJsSDK(){var script,first_script;script=document.createElement("script");script.type="text/javascript";script.async=true;script.src="https://hubble-js-bucket.nosdn.127.net/DATracker.globals.1.6.9.js";first_script=document.getElementsByTagName("script")[0];first_script.parentNode.insertBefore(script,first_script)}if(!datracker["__SV"]){var win=window;var gen_fn,functions,i,lib_name="DATracker";window[lib_name]=datracker;datracker["_i"]=[];datracker["init"]=function(token,config,name){var target=datracker;if(typeof(name)!=="undefined"){target=datracker[name]=[]}else{name=lib_name}target["people"]=target["people"]||[];target["abtest"]=target["abtest"]||[];target["toString"]=function(no_stub){var str=lib_name;if(name!==lib_name){str+="."+name}if(!no_stub){str+=" (stub)"}return str};target["people"]["toString"]=function(){return target.toString(1)+".people (stub)"};function _set_and_defer(target,fn){var split=fn.split(".");if(split.length==2){target=target[split[0]];fn=split[1]}target[fn]=function(){target.push([fn].concat(Array.prototype.slice.call(arguments,0)))}}functions="get_user_id track_heatmap register_attributes register_attributes_once clear_attributes unregister_attributes current_attributes single_pageview disable time_event get_appStatus track set_userId track_pageview track_links track_forms register register_once alias unregister identify login logout signup name_tag set_config reset people.set people.set_once people.set_realname people.set_country people.set_province people.set_city people.set_age people.set_gender people.increment people.append people.union people.track_charge people.clear_charges people.delete_user people.set_populationWithAccount  people.set_location people.set_birthday people.set_region people.set_account abtest.get_variation abtest.async_get_variable".split(" ");for(i=0;i<functions.length;i++){_set_and_defer(target,functions[i])}datracker["_i"].push([token,config,name])};datracker["__SV"]=1.6;loadJsSDK()}})(document,window["DATracker"]||[],window);
+		// 初始化
+		// 注意： 在Hubble平台创建一个类型为`Web`应用，复制对应的appkey，替换下面的 `88888888`
+		// truncateLength:上报数据字段的长度设置
+		// persistence: 存储到本地的方式
+		// cross_subdomain_cookie : 若是存储到cookie，是否支持跨二级域
+		DATracker.init('MA-891C-BF35BECB05C1', {truncateLength: 255,persistence: "localStorage",cross_subdomain_cookie: false});
+		window.hubbleLogYd = function () {
+			var _arguements = Array.prototype.slice.apply(arguments)
+			var evetId = _arguements[0]
+			var props = {
+				category: _arguements[1]
+			}
+			var regkey = /^[^\s:]+/
+			var regValue = /^[^\s:]+:/
+			for(var j = 2,len=_arguements.length; j < len; j++) {
+				var _argument = _arguements[j]
+				var keyMatch = _argument.match(regkey)
+				if (keyMatch) {
+					props[keyMatch[0]] = _argument.replace(regValue, '')
+				}
+			}
+			console.log(props)
+			DATracker.track(evetId, props)
+		}
+	</script>
+
+</head>
+<body>
+	<div id="J_Player" class="player-container">
+		<div class="aside" id="J_Aside"></div>
+		<div class="panel" id="J_Panel">
+			<div id="adTopBanner"></div>
+			<div class="chapter-title" id="J_ChapterTitle"></div>
+			<ul class="panel-list" id="J_BookPanel">
+				<li class="word-trigger">
+					<a href="javascript:;" id="J_WordTrigger" title="word模式">Word模式</a>
+					<div class="J_GuideDemo_1 J_GuideDemo_2"><em></em>切换Word模式与经典模式</div>
+				</li>
+				<li class="cata-trigger"><a id="J_CatalogueTrigger" title="目录">目录</a><div class="J_GuideDemo_1 J_GuideDemo_2"><em></em>目录</div></li>
+				<li class="model-trigger"><a id="J_TurnModelTrigger" title="阅读方式">阅读方式</a><div class="J_GuideDemo_1 J_GuideDemo_2"><em></em>阅读方式</div></li>
+				<li class="jump-trigger"><a id="J_JumpPageTrigger" title="跳转">跳转</a>
+					<div class="J_GuideDemo_1 J_GuideDemo_2"><em></em>阅读进度</div>
+				</li>
+				<li class="font-trigger"><a id="J_FontSizeTrigger" title="字号">字号</a>
+					<div class="J_GuideDemo_1 J_GuideDemo_2"><em></em>字体大小</div>
+				</li>
+				<li class="help-trigger"><a id="J_HelpTipsTrigger" title="帮助">帮助</a></li>
+				<li class="bookmark-trigger"><a id="J_BookMarkTrigger" title="书签">书签</a><div class="J_GuideDemo_1 J_GuideDemo_2"><em></em>书签</div></li>
+				<li class="home-trigger"><a id="J_GoHomeTrigger" title="返回">返回</a>
+					<div class="J_GuideDemo_1 J_GuideDemo_2"><em></em>频道首页</div>
+				</li>
+			</ul>
+			<div class="catalogue r-hide" id="J_Catalogue"></div>
+			<div class="bookmark r-hide" id="J_BookMark">
+				<i class="angle"></i>
+				<i class="close J_Close"></i>
+				<div class="add J_Add"><a href="#">将本页加入书签</a></div>
+				<ul class="list J_BookmarkList"></ul>
+				<div class="J_Pager"></div>
+			</div>
+			<div class="jumppage r-hide" id="J_JumpPage">
+				<i class="angle"></i>
+				<p>到<input type="text" name=""/><span>%</span><a href="#">确定</a></p>
+			</div>
+			<div class="font r-hide" id="J_Font">
+				<i class="angle"></i>
+				<ul>
+					<li class="font16"><a href="#">14号</a></li>
+					<li class="font18"><a href="#">16号</a></li>
+					<li class="font20"><a href="#">18号</a></li>
+					<li class="font24"><a href="#">22号</a></li>
+				</ul>
+			</div>
+			<div id="J_Help" class="help">
+				<dl class="J_GuideDemo_1">
+					<dt>快捷键</dt>
+					<dd>
+						<ul>
+							<li><span class="key-name">全屏阅读</span><span class="key-icon f11">f11</span></li>
+							<li><span class="key-name">翻页</span><span class="key-icon prev">向前</span><span class="key-icon next">向后</span></li>
+						</ul>
+						<div><a href="#" class="close J_Close">我知道了</a></div>
+					</dd>
+				</dl>
+				<dl class="J_GuideDemo_2">
+					<dt>快捷键</dt>
+					<dd>
+						<ul>
+							<li><span class="key-name">全屏阅读</span><span class="key-icon f11">f11</span></li>
+							<li><span class="key-name">上下滚动</span><span class="key-icon down">向下</span><span class="key-icon up">向上</span></li>
+							<li><span class="key-name">上下翻页</span><span class="key-icon pagedown">pagedown</span><span class="key-icon pageup">pageup</span></li>
+						</ul>
+						<div><a href="#" class="close J_Close">我知道了</a></div>
+					</dd>
+				</dl>
+				<i class="angle"></i>
+			</div>
+		</div>
+		<div class="unsupported" id="J_Unsupported">
+			<div>该书暂不支持在电脑端阅读。请<a href="/client">下载安装客户端</a>
+				<p><a href="/download" target="_blank" class="code" onclick="_gaq.push(['_trackEvent', 'download', 'mid2codedownload','bookreader']);"></a></p>
+			</div>
+		</div>
+		<div class="horizontal-player" id="J_Horizontal">
+			<div class="prev-turn J_PrevTurn"><a href="javascript:void(0)" hidefocus="true"></a></div>
+			<div class="article-wrap">
+			<div class="article J_Article">
+				<div class="article-content">
+					<div class="horizontal-page-box J_HorizontalMoveBox"></div>
+				</div>
+				<div class="page-percent J_Percent"></div>
+			</div>
+			</div>
+			<div class="next-turn J_NextTurn"><a href="javascript:void(0)" hidefocus="true"></a></div>
+		</div>
+		<div class="portrait-player" id="J_Portrait">
+			<div class="page-style">
+				<div class="top-stone"></div>
+				<div class="article J_Article">
+				<div class="portrait-page-box J_PortraitMoveBox"></div>
+				</div>
+			</div>
+		</div>
+		<div class="book-recommand" id="J_BookRecommand"></div>
+	</div>
+	
+	<div class="word" id="J_Word">
+	<div class="word-hd">
+		<div class="top-bar"></div>
+		<div class="hd-section">
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_05.png?49d6aae2" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_06.png?fcb2c5a2" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_07.png?223acaca" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_08.png?3bb2a614" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_09.png?31c54620" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_10.png?a16d18d7" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_11.png?319f833d" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_12.png?56111b36" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_13.png?33fded48" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_14.png?203a702a" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_15.png?ec48b253" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_16.png?1417db67" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_17.png?08a7554a" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_18.png?ff6a41ab" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_19.png?b48c6018" />
+			<a href="#" class="word-btn J_CancelWord"><img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_04.png?555f6eaa" /></a>
+		</div>
+	</div>
+	<div class="word-ft">
+		<div class="ft-sec-1"><img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_20.png?bb879ac4" /></div>
+		<div class="ft-sec-2"><img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_21.png?5cba65c3" /></div>
+	</div>
+	</div>
+	<div id="login-layer" class="m-login-layer m-login-layer-wy" style="display: none;">
+	    <div class="lytt yy"><a class="lyclose j-close" style="display:block;">关闭</a>
+	        <h4>网易邮箱登录</h4></div>
+	    <div class="content">
+	        <div class="m-loginwrap">
+	            <div class="m-login" id="login-container">
+	                
+	            </div>
+	            <div class="m-loginswitch">
+	                <h6>其他帐号登录：</h6>
+	                <ul>
+	                    <li class="sj"><a><span class="login-icon"></span><div>手机号</div></a></li>
+	                    <li class="xl xllogin"><a><span class="login-icon"></span><div>新浪微博</div></a></li>
+	                    <li class="wx wxlogin"><a><span class="login-icon"></span><div>微信</div></a></li>
+	                </ul>
+	            </div>
+	        </div>
+	    </div>
+	</div>
+	
+	<div id="blacklistcmtTip" class="m-newlayer m-newlayer-s2" style="display:none;">
+		<h2><span>提示</span><a href="javascript:void(0)" class="j-close"></a></h2>
+		<div class="inner">
+			<div class="content">
+				<p>您的帐号因发表不适宜的言论，评论已被禁止。</p>
+				<p>如有任何问题请邮件至reader@188.com反馈给我们。谢谢~</p>
+				<div class="f-cb">
+					<a class="j-close btn-cmt btn-primary-cmt">确定</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="J-readerLogPop" class="m-modal m-modal-middle" style="display:none;">
+		<h2><span>提示</span><a href="javascript:void(0)" class="j-close"></a></h2>
+		<div class="inner">
+			<div class="content"></div>
+			<div class="footer f-cb">
+				<div class="btn-groups">
+					<a class="nbtn nbtn-confirm j-confirm">确定</a>
+					<a class="j-close nbtn">取消</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="J-bookmarkSyncPop" class="m-modal m-modal-middle m-modal-img" style="display:none;">
+		<h2><span>提示</span><a href="javascript:void(0)" class="j-close"></a></h2>
+		<div class="inner">
+			<div class="content">
+				<h3>书签已同步至云端！</h3>
+				<p>您可在iPhone、iPad、Android、WP多平台同步阅读</p>
+				<div class="img"></div>
+			</div>
+			<div class="footer f-cb">
+				<a class="j-close nbtn nbtn-confirm nbtn-full">确定</a>
+			</div>
+		</div>
+	</div>
+	<div id="J-yqdPop" class="m-pop m-pop-yqd j-pop-yqd" style="display:none;">
+		<img src="https://easyread.nosdn.127.net/web/trunk/1494816499069/yqd-layer.png">
+		<a class="j-close close"></a>
+	</div>
+	<div class="m-mask"></div>
+	<!-- 阅读进度同步模板 -->
+	<script id="tmpl-readerLogPop" type="text/html">
+		<p>您在服务端保留的阅读进度<em><%= curServerPercent %>%</em>，章节名是<em>【<%= curServerChapterTitle %>】</em>,是否跳转？</p>
+	</script>
+	<!-- 目录模板 -->
+ 	<script id="tmpl-catalogue" type="text/template">
+		<div class="catainner J_CataInner">
+		<i class="angle"></i>
+		<i class="close J_Close"></i>
+		<div class="hd"><h2>目录</h2></div>
+		<div class="bd">
+			<% if(obj[0].grade == 0){ %>
+				<dl>
+				<% for(var i=0; i < obj.length; i++) { %>
+					<% if(obj[i].grade == 0){ %>
+					<dt><i class="bar"></i><a href="#" data-charindex="<%= i+1 %>"><%= obj[i].title.length>30? obj[i].title.substring(0,30) + '...' : obj[i].title %></a><% if(obj[i].needPay){ %><span class="vip"></span><% } %></dt>
+					<dd>
+						<ul class="chapter-list">
+					<% }else{ %>
+							<li <% if(obj[i].grade == 2){ %>class="article-item"<% } %>><a href="#" data-charindex="<%= i+1 %>" <% if(obj[i].needPay && !obj[i].isPaid){ %> class="unpaid" <% } %>><%= obj[i].title.length>30? obj[i].title.substring(0,30) + '...' : obj[i].title %></a><% if(obj[i].needPay){ %><span class="vip"></span><% } %></li>
+					<% } %>
+					<% if(obj[i+1] && obj[i+1].grade == 0){ %>
+						</ul>
+					</dd>
+					<% } %>
+				<% } %>
+				</dl>
+			<% }else{ %>
+				<ul class="chapter-list">
+				<% for(var i=0; i < obj.length; i++) { %>
+					<li><a href="#" data-charindex="<%= i+1 %>" <% if(obj[i].needPay && !obj[i].isPaid){ %> class="unpaid" <% } %>><%= obj[i].title %></a><% if(obj[i].needPay){ %><span class="vip"></span><% } %></li>
+				<% } %>
+				</ul>
+			<% } %>
+		</div> 
+		</div>
+	</script>
+	<!-- 书签模板 -->
+	<script id="tmpl-bookmark" type="text/template">
+		<% if(obj.length){ %>
+			<% _.each(obj, function(bookmark, idx){ %>
+				<li>
+					<div class="tit"><h4><%= bookmark.articleTitle %></h4><span><%= bookmark.percent %>%&nbsp;&nbsp;&nbsp;&nbsp;<%= bookmark.formatDate %></span></div>
+					<div class="desc"></div>
+					<i class="flag"></i>
+					<a class="delete">删除</a>
+				</li>
+			<% }) %>
+		<% } %>
+	</script>
+	<!-- 翻页控件模板 -->
+	<script id="tmpl-pager" type="text/template">
+		<% if(obj.totalPage <= 1) return; %>
+		<div class="pager">
+		<% if(obj.totalPage > 5 && obj.curPageIndex > 3){ %>
+			<a href="#" data-page="1" class="txt">首页</a>
+			<a href="#" data-page="<%= obj.curPageIndex - 1 %>" class="txt">上一页</a>
+		<% } %>
+		<% if(obj.totalPage <= 5){ for(var i = 1; i <= obj.totalPage; i++){ %>
+			<a href="#" data-page="<%= i %>" <% if(i === obj.curPageIndex){ %> class="cur" <% } %>><%= i %></a>
+		<% }} %>
+		<% if(obj.totalPage > 5){ %>
+			<% if(obj.curPageIndex <= 2){ for(var i = 1; i <= 5; i++){ %>
+				<a href="#" data-page="<%= i %>" <% if(i === obj.curPageIndex){ %> class="cur" <% } %>><%= i %></a>
+			<% }}else if(obj.curPageIndex >= obj.totalPage - 2){ for(var i = obj.totalPage - 4; i <= obj.totalPage; i++){ %>
+				<a href="#" data-page="<%= i %>" <% if(i === obj.curPageIndex){ %> class="cur" <% } %>><%= i %></a>
+			<% }}else{ for(var i = obj.curPageIndex - 2; i <= obj.curPageIndex + 2; i++){ %>
+				<a href="#" data-page="<%= i %>" <% if(i === obj.curPageIndex){ %> class="cur" <% } %>><%= i %></a>
+			<% }} %>
+		<% } %>
+		<% if(obj.totalPage > 5 && obj.curPageIndex < obj.totalPage - 2){ %>
+			<a href="#" data-page="<%= obj.curPageIndex + 1 %>" class="txt">下一页</a>
+			<a href="#" data-page="<%= obj.totalPage %>" class="txt">尾页</a>
+		<% } %>
+		</div>
+	</script>
+	<!-- 侧边栏模板 -->
+	<script id="tmpl-aside" type="text/template">
+		<div class="booktitle">
+			<h1><a href="/source/<%= id %>" target="_blank" title="<%= title %>"><% if(title.length > 14){ %><%= title.substring(0, 14) %>...<% }else{ %><%= title %><% } %></a></h1>
+			<div class="pic"><a href="/source/<%= id %>" target="_blank"><img src="<%= coverImg %>?imageView&thumbnail=90x0&quality=90" srcset="<%= coverImg %>?imageView&thumbnail=180x0&quality=90 2x" alt="<%= title %>"/></a></div>
+		</div>
+		<% if(payType && !isPaid || !isOnShelf && typeof forbidGetBook == 'undefined'){ %>
+			<ul class="getbook">
+				<% if(typeof cutPrice !== 'undefined' && 0 === cutPrice && !isPaid){ %>
+					<li class="ebook-get j-getbook"><a href="#" class="btn-red">免费领取</a></li>
+				<% }else{ %>
+					<% if(payType && !isPaid && canBuy){ %>
+						<li class="ebook-buy j-getbook"><a href="#" class="btn-red">购买</a></li>
+					<% } %>
+					<% if(!isOnShelf){ %><li class="put-shelf j-getbook"><a href="#" class="btn-gray">放入书架</a></li><% } %>
+				<% } %>
+				<% if(typeof paperBookPurchaseLink !== 'undefined'){ %>
+				<li>
+					<a id="asidePaperBuy" href="<%= paperBookPurchaseLink %>" target="_blank" class="btn-gray paper-buy paper-buy-aside">
+						购买纸质书
+					</a>
+				</li>
+				<% } %>
+			</ul>
+		<% }else{ %>
+			<% if(typeof paperBookPurchaseLink !== 'undefined'){ %>
+			<ul class="getbook">
+				<li>
+					<a id="asidePaperBuy" href="<%= paperBookPurchaseLink %>" target="_blank" class="btn-gray paper-buy paper-buy-aside">
+						购买纸质书
+					</a>
+				</li>
+			</ul>
+			<% } %>
+		<% } %>
+		<ul class="userop">
+			<% if(shieldComment == 0){ %>
+			<li class="review-trigger"><i></i><a href="#">评论<% if(commentsSize){ %>（<span class="J_CommentSize"><%= commentsSize %></span>）<% } %></a></li>
+			<% } %>
+			<li class="share-trigger"><i></i><a href="#">分享</a></li>
+			<% if(audioBookUrl) {%>
+				<li class="music-trigger"><a href="<%= audioBookUrl%>" class="anchor-out">小说有声版</a></li>
+			<%}%>
+			<% if(manHuaBookUrl) {%>
+				<li class="manhua-trigger"><a href="<%= manHuaBookUrl%>" class="anchor-out">小说漫画版</a></li>
+			<%}%>
+			<% if(canBePresented){ %>
+			<li class="present-trigger"><i></i><a target="_blank" href="/source/<%= id %>#tipAnchor">打赏</a></li>
+			<% } %>
+			<% if(canBeVoted){ %>
+			<li class="monthly-trigger"><i></i><a target="_blank" href="/source/<%= id %>?defaultAction=setMonthlyTicketTip">投月票</a></li>
+			<% } %>
+		</ul>
+		<ul class="other-plat">
+			<!--<li class="mobile"><i></i><a target="_blank" href="/client">手机上阅读</a></li>-->
+			<% if(venderUrl){ %>
+			<li class="rbook-buy-trigger"><i></i><a target="_blank" href="<%= venderUrl %>">购买实体书</a></li>
+			<% } %>
+			<li class="theme-trigger"><i class="icon"></i><a href="#">主题模式</a><i class="angle"></i></li>
+			<li class="scan-code"><a href="/client?act=rdbookreader_20130924_02" target="_blank" onclick="_gaq.push(['_trackEvent', 'download', 'right_2codedownload','bookreader']);"></a></li>
+		</ul>
+		<div id="J_AddShelfPop" class="shelf-pop">
+			<i class="close">关闭</i>
+			<p>是否把本书放入书架</p>
+			<p><a href="#" class="add">放入书架</a><a href="#" class="cancel">取消</a></p>
+		</div>
+		<div class="aside-trigger"><a class="open" id="J_AsideTrigger"></a></div>
+		<div id="J_Forward" class="share r-hide">
+			<div class="inner">
+				<div class="topbar">
+					<h5>顺便说几句</h5><a id="J_CmtSwitch" class="j-close"></a><span class="wrap"><span id="J_Words">0</span> / 140</span>
+				</div>
+				<form id="publishForm" action="/weibo.do" method="post">
+				<div class="txt-input">
+					<textarea id="J_ForTxt" name="message"></textarea>
+				</div>
+				<div class="botbar">
+					<span class="zf">分享至：</span>
+					<ul>
+						<li class="sns1">
+							<input name="site" value="2" type="checkbox" />
+							<span class="mask"></span>
+						</li>
+						<li class="sns2">
+							<input name="site" value="1" type="checkbox" />
+							<span class="mask"></span>
+						</li>
+						<li class="sns3">
+							<input name="site" value="4" type="checkbox" />
+							<span class="mask"></span>
+						</li>
+						<li class="sns4">
+							<input name="site" value="3" type="checkbox" />
+							<span class="mask"></span>
+						</li>
+						<li class="sns6">
+							<input name="site" value="6" type="checkbox" />
+							<span class="mask"></span>
+						</li>
+					</ul>
+					<a class="send">分享</a>
+				</div>
+				</form>
+				<input type="hidden" id="J_GoWhere" />
+				<div id="J_AtrLayer" style="display:none;" class="atr">
+					<p>你的微博尚未得到授权，<a id="J_AtrGo">去授权&gt;&gt;</a></p>
+					<a class="j-close-1"></a>
+				</div>
+			</div>
+		</div>
+		<div id="J_Theme" class="theme r-hide">
+			<a href="#" class="J_Word" data-theme="1005">Word模式（按F2）</a>
+			<a href="#" class="J_Light" data-theme="1000">日间模式</a>
+			<a href="#" class="J_Dark" data-theme="1004">夜间模式</a>
+			<a href="#" class="J_Normal" data-theme="1001">经典模式</a>
+			<a href="#" class="J_Green" data-theme="1003">护眼模式</a>
+			<a href="#" class="J_Pink" data-theme="1002">女性模式</a>
+			<i></i>
+		</div>
+	</script>
+
+	<!-- 书籍推荐(cms) -->
+	<script id="tmpl-editorrecommand" type="text/template">
+		<dl>
+			<dt>编辑推荐</dt>
+			<dd>
+				<ul class="editorrecommend">
+					<% _.each(obj, function(book){ %>
+					<li>
+						<h5><a target="_blank" href="<%= book.sourceUrl %>" title="<%= book.title %>"><%= book.title %></a></h5>
+						<div class="price"><%= book.author %></div>
+						<div class="cover"><a target="_blank" href="<%= book.sourceUrl %>" title="<%= book.title %>"><img src="<%= book.bookDefaultImg %>" alt="<%= book.title %>"/></a></div>
+					</li>
+					<% }) %>
+				</ul>
+			</dd>
+		</dl>
+		<div class="recommand-trigger"><a class="open" id="J_RecommandTrigger"></a></div>
+	</script>
+	<!-- 书籍推荐(server) -->
+	<script id="tmpl-recommand" type="text/template">
+		<dl>
+			<dt>用户还喜欢</dt>
+			<dd>
+				<ul>
+					<% _.each(obj, function(book){ %>
+					<li>
+						<h5><a target="_blank" href="/source/<%= book.sourceUuid %>" title="<%= book.title %>"><%= book.title %></a></h5>
+						<div class="price"><% if(book.free4LimitedTime){ %>限免<% }else if(book.payType == 0){ %>免费<% }else if(book.payType == 1){ if(book.bookType == 5){%>按话付费<%}else if(book.payType == 7){%><%= book.formattedVipPrice %>元/章<%} else{%><%= book.formattedPrice %>元/千字<% }}else if(book.payType == 2){ %><span>￥</span><%= book.formattedVipPrice %><% } %></div>
+						<div class="star-panel"><div class="star-<%= book.star %>"></div></div>
+						<div class="cover"><a target="_blank" href="/source/<%= book.sourceUuid %>" title="<%= book.title %>"><img src="<%= book.coverImage %>" alt="<%= book.title %>"/></a><% if(book.free4LimitedTime){ %><i class="badge-timefree"></i><% }else if(book.bookStatus == 0){ %><i class="badge-serial"></i><% }else if(book.sample){ %><i class="badge-sample"></i><% }else{ %><i class="badge-complete"></i><% } %></div>
+					</li>
+					<% }) %>
+				</ul>
+			</dd>
+		</dl>
+		<div class="recommand-trigger"><a class="open" id="J_RecommandTrigger"></a></div>
+	</script>
+
+	<script id="tmpl-chapterbuy" type="text/template">
+		<% if(isTimeFree){ %>
+		<p class="tip-title"><span class="hot">限时免费</span> <span class="cool">结束时间：<%= discountEndTime %></span></p>
+		<div class="button"><a href="#" class="btn-red ok J_FreeGet">免费领取</a></div>
+		<% }else{ %>
+			<% if(payType === 1){ %>
+				<div class="orig-buy">
+					<div class="wallet">
+						<% if(isLogined){ %>
+							账户余额：<span><%= virtualMoney %></span>阅点&nbsp;&nbsp;
+							<% if(badHongBaoBalance != 0){ %>
+							当前可用红包：<span><%= hongBaoBalance %></span>阅点（您还有<span><%= badHongBaoBalance %></span>阅点红包仅限客户端使用）
+							<% } else if(hongBaoBalance != 0) {%>
+							当前可用红包：<span><%= hongBaoBalance %>阅点</span><% if(badHongBaoBalance != 0){ %>（您还有<span><%= badHongBaoBalance %></span>阅点红包仅限客户端使用）<% } %>
+							<% } %>
+							<% if(chapterPrice > (virtualMoney + hongBaoBalance)){ %>
+								<span>余额不足</span><a href="/recharge.do?operation=form&v_required=<%= chapterPrice %>" target="_blank" class="J_ToRecharge">去充值</a>
+							<% } %>
+						<% }else{ %>
+							未登录，<a href="#" class="J_Login">点击登录</a>
+						<% } %>
+					</div>
+					<div class="orig-buy-option-1">
+						<p>此章节为收费章节，需<span class="hot"><%= chapterPrice %></span>阅点(<%= (chapterPrice/100).toFixed(2) %>元)</p>
+						<div class="button"><a href="#" class="btn-red ok J_Done">购买本章</a><% if(chapterPrice > (virtualMoney + hongBaoBalance) && (chapterPrice - virtualMoney - hongBaoBalance) <= avaliableCredit){ %><a href="#" class="btn-red ok J_CreditPay">信用支付</a><% } %></div>
+					</div>
+					<div class="orig-buy-option-2">
+						<p>还有<%= leaveVipChaptersCount %>章可购买<br/>（不包含作者未发布章节）</p>
+						<p><a href="/source.do?operation=articleSelect&source_uuid=<%= bookid %>" class="J_MultiBuy" target="_blank">批量购买</a></p>
+					</div>
+					<div class="orig-buy-option-3">
+						<p>当阅读到收费章节时，将自动为您购买</p>
+						<p><% if(autoPurchase){ %><span style="color:#999">自动订阅已开启</span><% }else{ %><a href="#" class="J_OpenAutoSub">开启自动订阅</a><% } %></p>
+					</div>
+				</div>
+			<% }else if(payType === 2){ %>
+				<% if(cutPrice){ %>
+					<p class="tip-title">优惠价：<span class="hot"><%= cutPrice %></span>阅点<del style="font-size:12px; color:#666;">（<%= bookPrice %>）</del></p>
+					<p style="text-align: center;">结束时间：<%= discountEndTime %></p>
+				<% }else{ %>
+				<p class="tip-title">此书籍为收费书籍，需<span class="hot"><%= bookPrice %></span>阅点(<%= (bookPrice/100).toFixed(2) %>元)</p>
+				<% } %>
+				<div class="button">
+					<a href="#" class="btn-red ok J_Done">购买</a>
+					<% if(typeof paperBookPurchaseLink !== 'undefined'){ %>
+					<a id="chargePaperBuy" href="<%= paperBookPurchaseLink %>" target="_blank" class="btn-gray goon paper-buy" style="margin-right:10px;position:relative;">
+						购买纸质书
+					</a>
+					<% } %>
+					<a href="#" class="btn-gray goon J_LeaveHere">跳转至可读章节</a>
+				</div>
+			<% } %>
+			<% if(showBooksAward){ %>
+				<div class="newyear-gift-tip clearfix"><div class="display-inline tip-content"><i class="gift-icon"></i><span class="tip-txt">一次购买出版图书满1元，即可参加抽奖！<a href="/promotion/show_books/" target="_blank">活动详情&gt;&gt;</a></span></div></div>
+			<% } %>
+		<% } %>
+			<div class="hongbao-info">
+				<div class="inner" style="width:400px;left:128px;">
+					<p>点击或扫描二维码下载客户端，在手机上阅读</p>
+					<p><a href="/download" target="_blank" class="code" onclick="_gaq.push(['_trackEvent', 'download', 'mid2codedownload','bookreader']);"></a></p>
+				</div>
+			</div>
+	</script>
+
+	<script id="tmpl-autosub" type="text/template">
+		<div class="hd">自动订阅<a href="#" class="close J_Cancel">关闭</a></div>
+		<div class="bd">
+			<p class="tip-title">确定开启自动订阅？</p>
+			<p class="pay-info cool">开启之后若想关闭，请前往“个人中心”的“自动订阅”进行操作</p>
+			<div class="button">
+				<a href="#" class="btn-red ok J_Done">确定</a><a href="#" class="btn-gray cancel J_Cancel">取消</a>
+			</div>
+		</div>
+	</script>
+
+	<!-- 整本或单章购买 -->
+	<script id="tmpl-buypop" type="text/template">
+		<div class="hd">购买<a href="#" class="close J_Cancel">关闭</a></div>
+		<div class="bd">
+			<form action="/trade.do" method="post">
+				<input type="hidden" name="operation" value="purchase" />
+	    		<input type="hidden" name="source_uuid" value="<%= bookid %>" />
+	    		<input type="hidden" name="pay_type" value="<%= payType %>" />
+				<input type="hidden" name="article_uuid" value="<% if(payType === 1){ %><%= id %><% } %>" />
+				<div>
+					<% if(isTimeFree){ %>
+						<p class="tip-title"><span class="hot">限时免费</span> <span class="cool">结束时间：<%= discountEndTime %></span> </p>
+					<% }else{ %>
+						<% if(payType === 1){ %>
+							<p class="tip-title">"<%= title %>"</p>
+						<% }else if(payType === 2){ %>
+							<p class="tip-title"><%= booktitle %></p>
+						<% } %>
+						<% if(cutPrice){ %>
+							<p class="pay-info hot">优惠价：<%= cutPrice %> 阅点（<%= (cutPrice/100).toFixed(2) %>元）</p>
+							<p class="pay-info">网易价：<del><%= price %></del> 阅点（<%= (price/100).toFixed(2) %>元）</p>
+							<% if(badHongBaoBalance != 0){ %>
+								<p class="pay-info">当前可用红包：<span class="hot"><%= hongBaoBalance %>阅点</span>（您还有<span class="hot"><%= badHongBaoBalance %>阅点</span>红包仅限客户端使用）</p>
+								<p class="pay-info">还需支付<span class="hot"><%= needWalletCount %>阅点</span></p>
+							<% } else if(hongBaoBalance != 0) {%>
+								<p class="pay-info">当前可用红包：<span class="hot"><%= hongBaoBalance %>阅点</span><% if(badHongBaoBalance != 0){ %>（您还有<span class="hot"><%= badHongBaoBalance %>阅点</span>红包仅限客户端使用）<% } %></p>
+								<p class="pay-info">还需支付<span class="hot"><%= needWalletCount %>阅点</span></p>
+							<% } %>
+							<p class="pay-info gray-b">账户余额：<%= wallet %> 阅点<% if(isNeedRecharge){ %><span class="J_StopTip hot"><em class="stop-tip"></em><span class="hot">余额不足</span> <a href="/recharge.do?operation=form&v_required=<%= cutPrice %>" target="_blank" class="J_ToRecharge">去充值</a></span><% } %></p>
+						<% }else{ %>
+							<p class="pay-info">共需消费：<span class="hot"><%= price %> 阅点</span><span class="cool">（<%= (price/100).toFixed(2) %>元）</span></p>
+							<% if(badHongBaoBalance != 0){ %>
+								<p class="pay-info">当前可用红包：<span class="hot"><%= hongBaoBalance %>阅点</span>（您还有<span class="hot"><%= badHongBaoBalance %>阅点</span>红包仅限客户端使用）</p>
+								<p class="pay-info">还需支付<span class="hot"><%= needWalletCount %>阅点</span></p>
+							<% } else if(hongBaoBalance != 0) {%>
+								<p class="pay-info">当前可用红包：<span class="hot"><%= hongBaoBalance %>阅点</span><% if(badHongBaoBalance != 0){ %>（您还有<span class="hot"><%= badHongBaoBalance %>阅点</span>红包仅限客户端使用）<% } %></p>
+								<p class="pay-info">还需支付<span class="hot"><%= needWalletCount %>阅点</span></p>
+							<% } %>
+							<p class="pay-info gray-b">账户余额：<%= wallet %> 阅点<% if(isNeedRecharge){ %><span class="J_StopTip hot"><em class="stop-tip"></em><span class="hot">余额不足</span> <a href="/recharge.do?operation=form&v_required=<%= price %>" target="_blank" class="J_ToRecharge">去充值</a></span><% } %></p>
+						<% } %>
+					<% } %>
+				</div>
+				<div class="button">
+					<% if(isTimeFree){ %>
+					<a href="#" class="btn-red ok J_Done">免费领取</a>
+					<% }else{ %>
+					<a href="#" class="btn-red ok J_Done <% if(isNeedRecharge){ %> btn-red-disabled <% } %>">购买</a><a href="#" class="btn-gray cancel J_Cancel">取消</a>
+					<% } %>
+				</div>
+				<% if(payType === 1){ %>
+					<!--
+				<div class="auto-sub">
+					<span class="J_AutoSub"><span class="check <% if(autoSub){ %>check-on<% }else{ %>check-off<% } %>"><input type="checkbox" name="auto_sub" value="true" <% if(autoSub){ %>checked="checked"<% } %>></span>自动订阅<span class="cool">（阅读后续收费章节时将自动购买，可退订）</span></span>
+				</div>
+				-->
+				<% } %>
+			</form>
+		</div>
+	</script>
+
+	<script id="tmpl-creditpay" type="text/template">
+		<div class="hd">信用支付<a href="#" class="close J_Cancel">关闭</a></div>
+		<div class="bd">
+			<form>
+			<input type="hidden" name="operation" value="purchase" />
+    		<input type="hidden" name="source_uuid" value="<%= bookid %>" />
+    		<input type="hidden" name="pay_type" value="<%= payType %>" />
+			<input type="hidden" name="article_uuid" value="<% if(payType === 1){ %><%= id %><% } %>" />
+			<input type="hidden" name="credit_pay" value="true" />
+			<input type="hidden" name="v_credit" value="<%= price - wallet - hongBaoBalance %>" />
+			<p class="pay-info" style="margin-top:20px;">确定透支<span class="hot"><%= price - wallet - hongBaoBalance %></span>阅点？当前可透支额度还有<span class="hot"><%= avaliableCredit %></span>阅点</p>
+			<p class="pay-info">请查看<a href="https://epay.163.com/creditPay/orderCreditList.htm" target="_blank">《网易云阅读信用支付协议》</a></p>
+			<div class="button">
+				<a href="#" class="btn-red ok J_Done">同意协议并支付</a>
+				<a href="#" class="btn-gray J_Cancel">取消</a>
+			</div>
+			</form>
+		</div>
+	</script>
+
+	<!-- 评论 -->
+	<script id="tmpl-review" type="text/template">
+		<div class="hd"><h3><i></i><span>评论：<%= title.substring(0, 20) %><% if(commentsSize){ %><span class="comment-size">（<em class="J_CommentSize"><%= commentsSize %></em>条）</span><% } %></span></h3><a href="#" title="关闭" class="J_Close close"></a></div>
+		<div class="bd J_Bd">
+			<div class="review-tab J_ReviewTab">
+				<div class="clearfix for-review J_ReviewBread" style="display:none;"><a href="#" class="comment-btn J_ToggleToReview"><i class="crt"></i>评论</a><a href="#" class="J_ToggleToGentie"><i></i>历史跟贴</a></div>
+			</div>
+			<div class="review-content J_ReviewContent">
+				<div class="yuedu-review J_YueduReview">
+					<div class="static-comment-box J_SCommentBox"></div>
+					<ul></ul>
+					<div class="J_Pager"></div>
+				</div>
+				<div class="gentie-review J_GentieReview">
+					<dl class="J_HotReviewList">
+						<dt>热门评论</dt>
+						<dd></dd>
+					</dl>
+					<dl class="J_LastReviewList">
+						<dt>最新评论</dt>
+						<dd></dd>
+					</dl>
+					<div class="J_Pager"></div>
+				</div>
+			</div>
+		</div>
+	</script>
+
+	<script id="tmpl-reviewlist" type="text/template">
+		<% for(var i = 0; i < obj.length; i++){ %>
+			<li class="J_ItemLi">
+				<div class="head-pic"><% if(typeof obj[i].link != 'undefined'){ %><a href="<%= obj[i].link %>" target="_blank"><% } %><img src="<% if(typeof obj[i].avatar == 'undefined'){ %>https://easyread.nosdn.127.net/web/trunk/1492150697494/txdefault.png<% }else{ %><%= obj[i].avatar %><% } %>" /><% if(typeof obj[i].link != 'undefined'){ %></a><% } %><% if(obj[i].auth){ %><i></i><% } %></div>
+				<p class="info"><cite><% if(obj[i].isTop){ %><span class="top-icon" title="置顶评论"></span><% } %><% if(typeof obj[i].link != 'undefined'){ %><a href="<%= obj[i].link %>" target="_blank"><% } %><%= obj[i].username %><% if(typeof obj[i].link != 'undefined'){ %></a><% } %><% if(obj[i].self){ %><span>（本书作者）</span><% } %></cite><span class="time"><%= obj[i].posttime %> 发表</span></p>
+				<blockquote><% if(obj[i].replied){ %>回复 <% if(obj[i].replied.link){ %><a href="<%= obj[i].replied.link %>" target="_blank" ><%= obj[i].replied.username %></a><% }else{ %><span><%= obj[i].replied.username %></span><% } %>：<% } %><%= obj[i].text.replace('成功打赏[em]', '<p>成功打赏<em>').replace('[/em]阅点', '</em>阅点</p>') %></blockquote>
+				<p class="opt">
+					<input type="hidden" name="cid" value="<%= obj[i].commentId %>" />
+					<input type="hidden" name="tipstr" value="<%= obj[i].username %>" />
+					<% if(obj[i].userSelf){ %><a href="#" class="J_Delete">删除</a><% } %>
+					<a href="#" class="J_Reply">回复</a>
+				</p>
+				<div class="reply-box-wrap"></div>
+			</li>
+		<% } %>
+	</script>
+
+	<script id="tmpl-gentielist" type="text/template">
+		<% function makeFloor(floorObj, index){ %>
+			<div class="floor">
+				<% if(!floorObj.isRenderAll && floorObj.floorTotal > 10 && index != 1){
+					makeFloor(floorObj, 1) %>
+					<div class="open-floor J_OpenFloor">已经隐藏重复盖楼<a href="#">[点击展开]</a></div>
+				<% }else{ %>
+					<% if(floorObj.floorTotal > 20 && floorObj.floorTotal - index > 9 && index > 9){ %>
+						<% 
+							makeFloor(floorObj, 9);
+							for(var i = 10; i<index; i++){ 
+						%>
+							<div class="inner-floor J_Floor">
+								<div class="floor-info"><cite><%= floorObj[i]['f'] %></cite><span><%= i %></span></div>
+								<blockquote><%= floorObj[i]['b'] %></blockquote>
+							</div>
+						<% } %>
+							<div class="floor-wrap J_Floor">
+							<div class="floor-info"><cite><%= floorObj[index]['f'] %></cite><span><%= index %></span></div>
+							<blockquote><%= floorObj[index]['b'] %></blockquote>
+							</div>
+					<% }else{ %>
+						<% if(floorObj[index-1]) makeFloor(floorObj, index-1) %>
+						<div class="floor-wrap J_Floor">
+						<div class="floor-info"><cite><%= floorObj[index]['f'] %></cite><span><%= index %></span></div>
+						<blockquote><%= floorObj[index]['b'] %></blockquote>
+						</div>
+					<% } %>
+				<% } %>
+			</div>
+		<% } %>
+		<% _.each(obj, function(floorObj, index){
+			var floorTotal = 1;
+			while(floorObj[floorTotal+1]) floorTotal++;
+			floorObj.floorTotal = floorTotal;
+		%>
+			<div class="tie" data-index="<%= index %>">
+				<div class="floor-info"><cite><%= floorObj[floorTotal]['f'] %></cite><span><%= floorObj[floorTotal]['t'] %>&nbsp;发表</span></div>
+				<% if(floorObj[floorTotal-1]) makeFloor(floorObj, floorTotal-1) %>
+				<blockquote><%= floorObj[floorTotal]['b'] %></blockquote>
+			</div>
+		<% }) %>
+	</script>
+
+	<script id="tmpl-replybox" type="text/template">
+		<% if(typeof hideAngle == 'undefined'){ %><i class="angle" <% if(typeof leftOffset != 'undefined'){ %>style="left:<%= leftOffset %>px"<% } %>></i><% } %>
+		<form>
+		<input type="hidden" name="id" value="<%= id %>" />
+		<input type="hidden" name="type" value="<%= type %>" />
+		<% if(typeof cid != 'undefined'){ %><input type="hidden" name="cid" value="<%= cid %>" /><% } %>
+		<div class="contentwrap"><textarea name="content" placeholder="<%= tipstr %>"></textarea></div>
+		<div class="bottombar">
+			<p class="size-leave J_SizeLeave">还能输入500字</p>
+			<p class="btn"><% if(typeof hideAngle == 'undefined'){ %><a class="J_Back ui-default">取消</a><% } %><a class="J_Send replaybtn"><% if(addType == 1){ %>评论<% } else { %>回复<% } %></a></p>
+		</div>
+		</form>
+	</script>
+
+	<script id="tmpl-annotation" type="text/template">
+		<div class="J_Content scroll-container"></div>
+		<div class="angle"></div>
+		<svg width="16px" height="8px" viewBox="0 0 16 8" class="svg-angle" xmlns="https://www.w3.org/2000/svg" version="1.1">
+		  	<polygon fill="black" points="0,0 16,0 8,8" />
+		</svg>
+	</script>
+	<script id="tmpl-sharemodal" type="text/template">
+		<div class="modal-cover">
+		</div>
+		<div class="modal-section lastpage-modal" id="J-lastpage-modal">
+			<span class="modal-close"></span>
+			<% if (end == 1){%>
+				<div class="modal-title">全文完，感谢您的阅读</div>
+			<%}else{%>
+				<div class="modal-title">未完待续，作者努力码字中。。。</div>
+			<%}%>
+			<div class="modal-body">
+				<div class="modal-item">
+					<% if(audioBookUrl) {%>
+						<a href="<%= audioBookUrl%>" class="anchor-out">小说有声版</a>
+					<%}%>
+					<% if(manHuaBookUrl) {%>
+						<a href="<%= manHuaBookUrl%>" class="anchor-out">小说漫画版</a>
+					<%}%>
+					<a href="javascript:;" class="anchor-out j-popo-comment">评论</a>
+					<a href="javascript:;" class="anchor-out j-share">分享</a>
+					<% if(createBy == 1) {%>
+						<a target="_blank" href="/source/<%= id %>#tipAnchor" class="u-reward">打赏</a>
+					<%}%>
+					<% if(typeof paperBookPurchaseLink !== 'undefined'){ %>
+					<div>读完后是不是很喜欢这本书呢，不如买一本纸质书好好收藏吧 <a id="endPaperBuy" href="<%= paperBookPurchaseLink %>" target="_blank" class="paper-buy paper-by-end">购买纸质书</a></div>
+					<%}%>
+				</div>
+				<div class="modal-item modal-divider">
+					<div class="modal-guess">
+						<span class="guess-title">猜你喜欢</span>
+					</div>
+					<ul class="modal-guess-list">
+						<% for(var i in guessData){%>
+							<li class="list-item">
+								<a href="/source/<%= guessData[i].sourceUuid%>" target="_blank" title="<%= guessData[i].title%>">
+									<img src="<%= guessData[i].coverImage%>" width="84" height="116">
+									<span class="list-title"><%= guessData[i].title%></span>
+								</a>
+							</li>
+						<%}%>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="modal-section share-modal" id="J-share-modal">
+			<span class="modal-close"></span>
+			<ul class="share-body">
+				<li class="share-item" data-index="0">
+					<img src="https://easyread.nosdn.127.net/web/trunk/1469527220411/timeline_03.png" width="79" height="79">
+					<span class="share-title">微信朋友圈</span>
+				</li>
+				<li class="share-item" data-index="0">
+					<img src="https://easyread.nosdn.127.net/web/trunk/1469587219417/friend_05.png" width="79" height="79">
+					<span class="share-title">微信好友</span>
+				</li>
+				<li class="share-item" data-index="1">
+					<img src="https://easyread.nosdn.127.net/web/trunk/1469587281815/yixin_07.png" width="79" height="79">
+					<span class="share-title">易信朋友圈</span>
+				</li>
+				<li class="share-item" data-index="3">
+					<img src="https://easyread.nosdn.127.net/web/trunk/1469587479211/sixin_12.png" width="79" height="79">
+					<span class="share-title">私信</span>
+				</li>
+				<li class="share-item" data-index="4">
+					<img src="https://easyread.nosdn.127.net/web/trunk/1469587533240/sina_13.png" width="79" height="79">
+					<span class="share-title">新浪微博</span>
+				</li>
+				<li class="share-item" data-index="5">
+					<img src="https://easyread.nosdn.127.net/web/trunk/1469587563004/tencent_15.png" width="79" height="79">
+					<span class="share-title">腾讯微博</span>
+				</li>
+			</ul>
+		</div>
+	</script>
+	<script type="text/template" id="tmpl-wordpopo">
+		<div class="modal-container">
+			<div class="modal-section">
+				<span class="modal-close"></span>
+				<div class="modal-title">设计师特意弄了个word模式。<br/>再也不担心上班看书被老板逮着啦！</div>
+				<div class="modal-body">
+					<span id="J-remain">15</span>秒
+				</div>
+				<div class="modal-footer">
+					<button class="modal-btn" id="J-word-trigger">立刻尝试word模式</button>
+					<p class="modal-detail">点击键盘上的F2也可以自由切换word模式与经典模式</p>
+				</div>
+			</div>
+			
+		</div>
+	</script>
+	<script src="//yuedust.yuedu.126.net/js/aes.js?b9608029"></script>
+	<script src="/js/reader/sea-modules/seajs/seajs/2.0.0/sea.js?$JS_V" data-main="/js/reader/dist/book/2.0.5/reader.js" data-fixed="true"></script>
+	<script>  
+	    (function(i,s,ob,g,r,a,m)  
+	    {  
+	        i['AnalyticsObject']=r;   
+
+	        i[r] = i[r] || function()  
+	        {  
+	            (i[r].ops = i[r].ops || []).push(arguments);  
+	        }  
+	          
+	        a = s.createElement(ob);  
+	        a.type = "text/javascript";  
+	        m = s.getElementsByTagName(ob)[0];  
+	        a.async=false; // 1 asynchronous  
+	        a.src=g;  
+	        m.parentNode.insertBefore(a,m);  
+	    })(window, document, 'script', '//rev.da.netease.com/da.js?t='+ parseInt((new Date().getTime())/1000000), '_dapush');  
+	    _dapush('create','DA-A888-A990E152BA01'); 
+	    _dapush('page_view');
+	</script>
+</body>
+</html>
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<title>绝世高手-我自对天笑-电子书-在线阅读-国风中文网</title>
+	<meta name="Keywords" content="绝世高手，我自对天笑，都市，都市生活,热血,爽文，最新章节，全文阅读，在线阅读">
+	<meta name="Description" content="绝世高手，&lt;p&gt;雇佣兵王陈扬回归都市，只为保护战友的女神妹妹。繁华都市里，陈扬如鱼得水，逍遥自在。且看一代兵王如何用铁拳和智慧打下一片商业帝国……欲了解四帝更多故事，请微信公众号搜索天道盟。&lt;/p&gt;">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<meta content="yes" name="apple-mobile-web-app-capable">
+	<meta content="black" name="apple-mobile-web-app-status-bar-style">
+	<meta content="no-cache" http-equiv="Pragma">
+	<link rel="shortcut icon" href="//yuedust.yuedu.126.net/favicon.ico?a7500236" />
+	<link rel="stylesheet" type="text/css" href="//yuedust.yuedu.126.net/css/header.css?727b7a97" />
+	<link href="/js/reader/dist/book/reader.min.css?$CSS_V" type="text/css" rel="stylesheet"/>
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-25074971-1'],['_setLocalGifPath', '/UA-25074971-1/__utm.gif'],['_setLocalRemoteServerMode']);
+		_gaq.push(['_addOrganic','baidu','word']);
+		_gaq.push(['_addOrganic','soso','w']);
+		_gaq.push(['_addOrganic','youdao','q']);
+		_gaq.push(['_addOrganic','sogou','query']);
+		_gaq.push(['_addOrganic','so.360.cn','q']);
+		_gaq.push(['_trackPageview']);
+		_gaq.push(['_trackPageLoadTime']);
+		(function() {
+			var ga = document.createElement('script'); 
+				ga.type = 'text/javascript'; 
+				ga.async = true;
+				ga.src = 'https://wr.da.netease.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; 
+				s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+	<!-- 哈勃打点 -->
+	<script type="text/javascript">
+		(function(document,datracker,root){function loadJsSDK(){var script,first_script;script=document.createElement("script");script.type="text/javascript";script.async=true;script.src="https://hubble-js-bucket.nosdn.127.net/DATracker.globals.1.6.9.js";first_script=document.getElementsByTagName("script")[0];first_script.parentNode.insertBefore(script,first_script)}if(!datracker["__SV"]){var win=window;var gen_fn,functions,i,lib_name="DATracker";window[lib_name]=datracker;datracker["_i"]=[];datracker["init"]=function(token,config,name){var target=datracker;if(typeof(name)!=="undefined"){target=datracker[name]=[]}else{name=lib_name}target["people"]=target["people"]||[];target["abtest"]=target["abtest"]||[];target["toString"]=function(no_stub){var str=lib_name;if(name!==lib_name){str+="."+name}if(!no_stub){str+=" (stub)"}return str};target["people"]["toString"]=function(){return target.toString(1)+".people (stub)"};function _set_and_defer(target,fn){var split=fn.split(".");if(split.length==2){target=target[split[0]];fn=split[1]}target[fn]=function(){target.push([fn].concat(Array.prototype.slice.call(arguments,0)))}}functions="get_user_id track_heatmap register_attributes register_attributes_once clear_attributes unregister_attributes current_attributes single_pageview disable time_event get_appStatus track set_userId track_pageview track_links track_forms register register_once alias unregister identify login logout signup name_tag set_config reset people.set people.set_once people.set_realname people.set_country people.set_province people.set_city people.set_age people.set_gender people.increment people.append people.union people.track_charge people.clear_charges people.delete_user people.set_populationWithAccount  people.set_location people.set_birthday people.set_region people.set_account abtest.get_variation abtest.async_get_variable".split(" ");for(i=0;i<functions.length;i++){_set_and_defer(target,functions[i])}datracker["_i"].push([token,config,name])};datracker["__SV"]=1.6;loadJsSDK()}})(document,window["DATracker"]||[],window);
+		// 初始化
+		// 注意： 在Hubble平台创建一个类型为`Web`应用，复制对应的appkey，替换下面的 `88888888`
+		// truncateLength:上报数据字段的长度设置
+		// persistence: 存储到本地的方式
+		// cross_subdomain_cookie : 若是存储到cookie，是否支持跨二级域
+		DATracker.init('MA-891C-BF35BECB05C1', {truncateLength: 255,persistence: "localStorage",cross_subdomain_cookie: false});
+		window.hubbleLogYd = function () {
+			var _arguements = Array.prototype.slice.apply(arguments)
+			var evetId = _arguements[0]
+			var props = {
+				category: _arguements[1]
+			}
+			var regkey = /^[^\s:]+/
+			var regValue = /^[^\s:]+:/
+			for(var j = 2,len=_arguements.length; j < len; j++) {
+				var _argument = _arguements[j]
+				var keyMatch = _argument.match(regkey)
+				if (keyMatch) {
+					props[keyMatch[0]] = _argument.replace(regValue, '')
+				}
+			}
+			console.log(props)
+			DATracker.track(evetId, props)
+		}
+	</script>
+
+</head>
+<body>
+	<div id="J_Player" class="player-container">
+		<div class="aside" id="J_Aside"></div>
+		<div class="panel" id="J_Panel">
+			<div id="adTopBanner"></div>
+			<div class="chapter-title" id="J_ChapterTitle"></div>
+			<ul class="panel-list" id="J_BookPanel">
+				<li class="word-trigger">
+					<a href="javascript:;" id="J_WordTrigger" title="word模式">Word模式</a>
+					<div class="J_GuideDemo_1 J_GuideDemo_2"><em></em>切换Word模式与经典模式</div>
+				</li>
+				<li class="cata-trigger"><a id="J_CatalogueTrigger" title="目录">目录</a><div class="J_GuideDemo_1 J_GuideDemo_2"><em></em>目录</div></li>
+				<li class="model-trigger"><a id="J_TurnModelTrigger" title="阅读方式">阅读方式</a><div class="J_GuideDemo_1 J_GuideDemo_2"><em></em>阅读方式</div></li>
+				<li class="jump-trigger"><a id="J_JumpPageTrigger" title="跳转">跳转</a>
+					<div class="J_GuideDemo_1 J_GuideDemo_2"><em></em>阅读进度</div>
+				</li>
+				<li class="font-trigger"><a id="J_FontSizeTrigger" title="字号">字号</a>
+					<div class="J_GuideDemo_1 J_GuideDemo_2"><em></em>字体大小</div>
+				</li>
+				<li class="help-trigger"><a id="J_HelpTipsTrigger" title="帮助">帮助</a></li>
+				<li class="bookmark-trigger"><a id="J_BookMarkTrigger" title="书签">书签</a><div class="J_GuideDemo_1 J_GuideDemo_2"><em></em>书签</div></li>
+				<li class="home-trigger"><a id="J_GoHomeTrigger" title="返回">返回</a>
+					<div class="J_GuideDemo_1 J_GuideDemo_2"><em></em>频道首页</div>
+				</li>
+			</ul>
+			<div class="catalogue r-hide" id="J_Catalogue"></div>
+			<div class="bookmark r-hide" id="J_BookMark">
+				<i class="angle"></i>
+				<i class="close J_Close"></i>
+				<div class="add J_Add"><a href="#">将本页加入书签</a></div>
+				<ul class="list J_BookmarkList"></ul>
+				<div class="J_Pager"></div>
+			</div>
+			<div class="jumppage r-hide" id="J_JumpPage">
+				<i class="angle"></i>
+				<p>到<input type="text" name=""/><span>%</span><a href="#">确定</a></p>
+			</div>
+			<div class="font r-hide" id="J_Font">
+				<i class="angle"></i>
+				<ul>
+					<li class="font16"><a href="#">14号</a></li>
+					<li class="font18"><a href="#">16号</a></li>
+					<li class="font20"><a href="#">18号</a></li>
+					<li class="font24"><a href="#">22号</a></li>
+				</ul>
+			</div>
+			<div id="J_Help" class="help">
+				<dl class="J_GuideDemo_1">
+					<dt>快捷键</dt>
+					<dd>
+						<ul>
+							<li><span class="key-name">全屏阅读</span><span class="key-icon f11">f11</span></li>
+							<li><span class="key-name">翻页</span><span class="key-icon prev">向前</span><span class="key-icon next">向后</span></li>
+						</ul>
+						<div><a href="#" class="close J_Close">我知道了</a></div>
+					</dd>
+				</dl>
+				<dl class="J_GuideDemo_2">
+					<dt>快捷键</dt>
+					<dd>
+						<ul>
+							<li><span class="key-name">全屏阅读</span><span class="key-icon f11">f11</span></li>
+							<li><span class="key-name">上下滚动</span><span class="key-icon down">向下</span><span class="key-icon up">向上</span></li>
+							<li><span class="key-name">上下翻页</span><span class="key-icon pagedown">pagedown</span><span class="key-icon pageup">pageup</span></li>
+						</ul>
+						<div><a href="#" class="close J_Close">我知道了</a></div>
+					</dd>
+				</dl>
+				<i class="angle"></i>
+			</div>
+		</div>
+		<div class="unsupported" id="J_Unsupported">
+			<div>该书暂不支持在电脑端阅读。请<a href="/client">下载安装客户端</a>
+				<p><a href="/download" target="_blank" class="code" onclick="_gaq.push(['_trackEvent', 'download', 'mid2codedownload','bookreader']);"></a></p>
+			</div>
+		</div>
+		<div class="horizontal-player" id="J_Horizontal">
+			<div class="prev-turn J_PrevTurn"><a href="javascript:void(0)" hidefocus="true"></a></div>
+			<div class="article-wrap">
+			<div class="article J_Article">
+				<div class="article-content">
+					<div class="horizontal-page-box J_HorizontalMoveBox"></div>
+				</div>
+				<div class="page-percent J_Percent"></div>
+			</div>
+			</div>
+			<div class="next-turn J_NextTurn"><a href="javascript:void(0)" hidefocus="true"></a></div>
+		</div>
+		<div class="portrait-player" id="J_Portrait">
+			<div class="page-style">
+				<div class="top-stone"></div>
+				<div class="article J_Article">
+				<div class="portrait-page-box J_PortraitMoveBox"></div>
+				</div>
+			</div>
+		</div>
+		<div class="book-recommand" id="J_BookRecommand"></div>
+	</div>
+	
+	<div class="word" id="J_Word">
+	<div class="word-hd">
+		<div class="top-bar"></div>
+		<div class="hd-section">
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_05.png?49d6aae2" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_06.png?fcb2c5a2" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_07.png?223acaca" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_08.png?3bb2a614" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_09.png?31c54620" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_10.png?a16d18d7" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_11.png?319f833d" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_12.png?56111b36" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_13.png?33fded48" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_14.png?203a702a" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_15.png?ec48b253" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_16.png?1417db67" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_17.png?08a7554a" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_18.png?ff6a41ab" />
+			<img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_19.png?b48c6018" />
+			<a href="#" class="word-btn J_CancelWord"><img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_04.png?555f6eaa" /></a>
+		</div>
+	</div>
+	<div class="word-ft">
+		<div class="ft-sec-1"><img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_20.png?bb879ac4" /></div>
+		<div class="ft-sec-2"><img src="//yuedust.yuedu.126.net/js/reader/images/word/bg_21.png?5cba65c3" /></div>
+	</div>
+	</div>
+	<div id="login-layer" class="m-login-layer m-login-layer-wy" style="display: none;">
+	    <div class="lytt yy"><a class="lyclose j-close" style="display:block;">关闭</a>
+	        <h4>网易邮箱登录</h4></div>
+	    <div class="content">
+	        <div class="m-loginwrap">
+	            <div class="m-login" id="login-container">
+	                
+	            </div>
+	            <div class="m-loginswitch">
+	                <h6>其他帐号登录：</h6>
+	                <ul>
+	                    <li class="sj"><a><span class="login-icon"></span><div>手机号</div></a></li>
+	                    <li class="xl xllogin"><a><span class="login-icon"></span><div>新浪微博</div></a></li>
+	                    <li class="wx wxlogin"><a><span class="login-icon"></span><div>微信</div></a></li>
+	                </ul>
+	            </div>
+	        </div>
+	    </div>
+	</div>
+	
+	<div id="blacklistcmtTip" class="m-newlayer m-newlayer-s2" style="display:none;">
+		<h2><span>提示</span><a href="javascript:void(0)" class="j-close"></a></h2>
+		<div class="inner">
+			<div class="content">
+				<p>您的帐号因发表不适宜的言论，评论已被禁止。</p>
+				<p>如有任何问题请邮件至reader@188.com反馈给我们。谢谢~</p>
+				<div class="f-cb">
+					<a class="j-close btn-cmt btn-primary-cmt">确定</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="J-readerLogPop" class="m-modal m-modal-middle" style="display:none;">
+		<h2><span>提示</span><a href="javascript:void(0)" class="j-close"></a></h2>
+		<div class="inner">
+			<div class="content"></div>
+			<div class="footer f-cb">
+				<div class="btn-groups">
+					<a class="nbtn nbtn-confirm j-confirm">确定</a>
+					<a class="j-close nbtn">取消</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="J-bookmarkSyncPop" class="m-modal m-modal-middle m-modal-img" style="display:none;">
+		<h2><span>提示</span><a href="javascript:void(0)" class="j-close"></a></h2>
+		<div class="inner">
+			<div class="content">
+				<h3>书签已同步至云端！</h3>
+				<p>您可在iPhone、iPad、Android、WP多平台同步阅读</p>
+				<div class="img"></div>
+			</div>
+			<div class="footer f-cb">
+				<a class="j-close nbtn nbtn-confirm nbtn-full">确定</a>
+			</div>
+		</div>
+	</div>
+	<div id="J-yqdPop" class="m-pop m-pop-yqd j-pop-yqd" style="display:none;">
+		<img src="https://easyread.nosdn.127.net/web/trunk/1494816499069/yqd-layer.png">
+		<a class="j-close close"></a>
+	</div>
+	<div class="m-mask"></div>
+	<!-- 阅读进度同步模板 -->
+	<script id="tmpl-readerLogPop" type="text/html">
+		<p>您在服务端保留的阅读进度<em><%= curServerPercent %>%</em>，章节名是<em>【<%= curServerChapterTitle %>】</em>,是否跳转？</p>
+	</script>
+	<!-- 目录模板 -->
+ 	<script id="tmpl-catalogue" type="text/template">
+		<div class="catainner J_CataInner">
+		<i class="angle"></i>
+		<i class="close J_Close"></i>
+		<div class="hd"><h2>目录</h2></div>
+		<div class="bd">
+			<% if(obj[0].grade == 0){ %>
+				<dl>
+				<% for(var i=0; i < obj.length; i++) { %>
+					<% if(obj[i].grade == 0){ %>
+					<dt><i class="bar"></i><a href="#" data-charindex="<%= i+1 %>"><%= obj[i].title.length>30? obj[i].title.substring(0,30) + '...' : obj[i].title %></a><% if(obj[i].needPay){ %><span class="vip"></span><% } %></dt>
+					<dd>
+						<ul class="chapter-list">
+					<% }else{ %>
+							<li <% if(obj[i].grade == 2){ %>class="article-item"<% } %>><a href="#" data-charindex="<%= i+1 %>" <% if(obj[i].needPay && !obj[i].isPaid){ %> class="unpaid" <% } %>><%= obj[i].title.length>30? obj[i].title.substring(0,30) + '...' : obj[i].title %></a><% if(obj[i].needPay){ %><span class="vip"></span><% } %></li>
+					<% } %>
+					<% if(obj[i+1] && obj[i+1].grade == 0){ %>
+						</ul>
+					</dd>
+					<% } %>
+				<% } %>
+				</dl>
+			<% }else{ %>
+				<ul class="chapter-list">
+				<% for(var i=0; i < obj.length; i++) { %>
+					<li><a href="#" data-charindex="<%= i+1 %>" <% if(obj[i].needPay && !obj[i].isPaid){ %> class="unpaid" <% } %>><%= obj[i].title %></a><% if(obj[i].needPay){ %><span class="vip"></span><% } %></li>
+				<% } %>
+				</ul>
+			<% } %>
+		</div> 
+		</div>
+	</script>
+	<!-- 书签模板 -->
+	<script id="tmpl-bookmark" type="text/template">
+		<% if(obj.length){ %>
+			<% _.each(obj, function(bookmark, idx){ %>
+				<li>
+					<div class="tit"><h4><%= bookmark.articleTitle %></h4><span><%= bookmark.percent %>%&nbsp;&nbsp;&nbsp;&nbsp;<%= bookmark.formatDate %></span></div>
+					<div class="desc"></div>
+					<i class="flag"></i>
+					<a class="delete">删除</a>
+				</li>
+			<% }) %>
+		<% } %>
+	</script>
+	<!-- 翻页控件模板 -->
+	<script id="tmpl-pager" type="text/template">
+		<% if(obj.totalPage <= 1) return; %>
+		<div class="pager">
+		<% if(obj.totalPage > 5 && obj.curPageIndex > 3){ %>
+			<a href="#" data-page="1" class="txt">首页</a>
+			<a href="#" data-page="<%= obj.curPageIndex - 1 %>" class="txt">上一页</a>
+		<% } %>
+		<% if(obj.totalPage <= 5){ for(var i = 1; i <= obj.totalPage; i++){ %>
+			<a href="#" data-page="<%= i %>" <% if(i === obj.curPageIndex){ %> class="cur" <% } %>><%= i %></a>
+		<% }} %>
+		<% if(obj.totalPage > 5){ %>
+			<% if(obj.curPageIndex <= 2){ for(var i = 1; i <= 5; i++){ %>
+				<a href="#" data-page="<%= i %>" <% if(i === obj.curPageIndex){ %> class="cur" <% } %>><%= i %></a>
+			<% }}else if(obj.curPageIndex >= obj.totalPage - 2){ for(var i = obj.totalPage - 4; i <= obj.totalPage; i++){ %>
+				<a href="#" data-page="<%= i %>" <% if(i === obj.curPageIndex){ %> class="cur" <% } %>><%= i %></a>
+			<% }}else{ for(var i = obj.curPageIndex - 2; i <= obj.curPageIndex + 2; i++){ %>
+				<a href="#" data-page="<%= i %>" <% if(i === obj.curPageIndex){ %> class="cur" <% } %>><%= i %></a>
+			<% }} %>
+		<% } %>
+		<% if(obj.totalPage > 5 && obj.curPageIndex < obj.totalPage - 2){ %>
+			<a href="#" data-page="<%= obj.curPageIndex + 1 %>" class="txt">下一页</a>
+			<a href="#" data-page="<%= obj.totalPage %>" class="txt">尾页</a>
+		<% } %>
+		</div>
+	</script>
+	<!-- 侧边栏模板 -->
+	<script id="tmpl-aside" type="text/template">
+		<div class="booktitle">
+			<h1><a href="/source/<%= id %>" target="_blank" title="<%= title %>"><% if(title.length > 14){ %><%= title.substring(0, 14) %>...<% }else{ %><%= title %><% } %></a></h1>
+			<div class="pic"><a href="/source/<%= id %>" target="_blank"><img src="<%= coverImg %>?imageView&thumbnail=90x0&quality=90" srcset="<%= coverImg %>?imageView&thumbnail=180x0&quality=90 2x" alt="<%= title %>"/></a></div>
+		</div>
+		<% if(payType && !isPaid || !isOnShelf && typeof forbidGetBook == 'undefined'){ %>
+			<ul class="getbook">
+				<% if(typeof cutPrice !== 'undefined' && 0 === cutPrice && !isPaid){ %>
+					<li class="ebook-get j-getbook"><a href="#" class="btn-red">免费领取</a></li>
+				<% }else{ %>
+					<% if(payType && !isPaid && canBuy){ %>
+						<li class="ebook-buy j-getbook"><a href="#" class="btn-red">购买</a></li>
+					<% } %>
+					<% if(!isOnShelf){ %><li class="put-shelf j-getbook"><a href="#" class="btn-gray">放入书架</a></li><% } %>
+				<% } %>
+				<% if(typeof paperBookPurchaseLink !== 'undefined'){ %>
+				<li>
+					<a id="asidePaperBuy" href="<%= paperBookPurchaseLink %>" target="_blank" class="btn-gray paper-buy paper-buy-aside">
+						购买纸质书
+					</a>
+				</li>
+				<% } %>
+			</ul>
+		<% }else{ %>
+			<% if(typeof paperBookPurchaseLink !== 'undefined'){ %>
+			<ul class="getbook">
+				<li>
+					<a id="asidePaperBuy" href="<%= paperBookPurchaseLink %>" target="_blank" class="btn-gray paper-buy paper-buy-aside">
+						购买纸质书
+					</a>
+				</li>
+			</ul>
+			<% } %>
+		<% } %>
+		<ul class="userop">
+			<% if(shieldComment == 0){ %>
+			<li class="review-trigger"><i></i><a href="#">评论<% if(commentsSize){ %>（<span class="J_CommentSize"><%= commentsSize %></span>）<% } %></a></li>
+			<% } %>
+			<li class="share-trigger"><i></i><a href="#">分享</a></li>
+			<% if(audioBookUrl) {%>
+				<li class="music-trigger"><a href="<%= audioBookUrl%>" class="anchor-out">小说有声版</a></li>
+			<%}%>
+			<% if(manHuaBookUrl) {%>
+				<li class="manhua-trigger"><a href="<%= manHuaBookUrl%>" class="anchor-out">小说漫画版</a></li>
+			<%}%>
+			<% if(canBePresented){ %>
+			<li class="present-trigger"><i></i><a target="_blank" href="/source/<%= id %>#tipAnchor">打赏</a></li>
+			<% } %>
+			<% if(canBeVoted){ %>
+			<li class="monthly-trigger"><i></i><a target="_blank" href="/source/<%= id %>?defaultAction=setMonthlyTicketTip">投月票</a></li>
+			<% } %>
+		</ul>
+		<ul class="other-plat">
+			<!--<li class="mobile"><i></i><a target="_blank" href="/client">手机上阅读</a></li>-->
+			<% if(venderUrl){ %>
+			<li class="rbook-buy-trigger"><i></i><a target="_blank" href="<%= venderUrl %>">购买实体书</a></li>
+			<% } %>
+			<li class="theme-trigger"><i class="icon"></i><a href="#">主题模式</a><i class="angle"></i></li>
+			<li class="scan-code"><a href="/client?act=rdbookreader_20130924_02" target="_blank" onclick="_gaq.push(['_trackEvent', 'download', 'right_2codedownload','bookreader']);"></a></li>
+		</ul>
+		<div id="J_AddShelfPop" class="shelf-pop">
+			<i class="close">关闭</i>
+			<p>是否把本书放入书架</p>
+			<p><a href="#" class="add">放入书架</a><a href="#" class="cancel">取消</a></p>
+		</div>
+		<div class="aside-trigger"><a class="open" id="J_AsideTrigger"></a></div>
+		<div id="J_Forward" class="share r-hide">
+			<div class="inner">
+				<div class="topbar">
+					<h5>顺便说几句</h5><a id="J_CmtSwitch" class="j-close"></a><span class="wrap"><span id="J_Words">0</span> / 140</span>
+				</div>
+				<form id="publishForm" action="/weibo.do" method="post">
+				<div class="txt-input">
+					<textarea id="J_ForTxt" name="message"></textarea>
+				</div>
+				<div class="botbar">
+					<span class="zf">分享至：</span>
+					<ul>
+						<li class="sns1">
+							<input name="site" value="2" type="checkbox" />
+							<span class="mask"></span>
+						</li>
+						<li class="sns2">
+							<input name="site" value="1" type="checkbox" />
+							<span class="mask"></span>
+						</li>
+						<li class="sns3">
+							<input name="site" value="4" type="checkbox" />
+							<span class="mask"></span>
+						</li>
+						<li class="sns4">
+							<input name="site" value="3" type="checkbox" />
+							<span class="mask"></span>
+						</li>
+						<li class="sns6">
+							<input name="site" value="6" type="checkbox" />
+							<span class="mask"></span>
+						</li>
+					</ul>
+					<a class="send">分享</a>
+				</div>
+				</form>
+				<input type="hidden" id="J_GoWhere" />
+				<div id="J_AtrLayer" style="display:none;" class="atr">
+					<p>你的微博尚未得到授权，<a id="J_AtrGo">去授权&gt;&gt;</a></p>
+					<a class="j-close-1"></a>
+				</div>
+			</div>
+		</div>
+		<div id="J_Theme" class="theme r-hide">
+			<a href="#" class="J_Word" data-theme="1005">Word模式（按F2）</a>
+			<a href="#" class="J_Light" data-theme="1000">日间模式</a>
+			<a href="#" class="J_Dark" data-theme="1004">夜间模式</a>
+			<a href="#" class="J_Normal" data-theme="1001">经典模式</a>
+			<a href="#" class="J_Green" data-theme="1003">护眼模式</a>
+			<a href="#" class="J_Pink" data-theme="1002">女性模式</a>
+			<i></i>
+		</div>
+	</script>
+
+	<!-- 书籍推荐(cms) -->
+	<script id="tmpl-editorrecommand" type="text/template">
+		<dl>
+			<dt>编辑推荐</dt>
+			<dd>
+				<ul class="editorrecommend">
+					<% _.each(obj, function(book){ %>
+					<li>
+						<h5><a target="_blank" href="<%= book.sourceUrl %>" title="<%= book.title %>"><%= book.title %></a></h5>
+						<div class="price"><%= book.author %></div>
+						<div class="cover"><a target="_blank" href="<%= book.sourceUrl %>" title="<%= book.title %>"><img src="<%= book.bookDefaultImg %>" alt="<%= book.title %>"/></a></div>
+					</li>
+					<% }) %>
+				</ul>
+			</dd>
+		</dl>
+		<div class="recommand-trigger"><a class="open" id="J_RecommandTrigger"></a></div>
+	</script>
+	<!-- 书籍推荐(server) -->
+	<script id="tmpl-recommand" type="text/template">
+		<dl>
+			<dt>用户还喜欢</dt>
+			<dd>
+				<ul>
+					<% _.each(obj, function(book){ %>
+					<li>
+						<h5><a target="_blank" href="/source/<%= book.sourceUuid %>" title="<%= book.title %>"><%= book.title %></a></h5>
+						<div class="price"><% if(book.free4LimitedTime){ %>限免<% }else if(book.payType == 0){ %>免费<% }else if(book.payType == 1){ if(book.bookType == 5){%>按话付费<%}else if(book.payType == 7){%><%= book.formattedVipPrice %>元/章<%} else{%><%= book.formattedPrice %>元/千字<% }}else if(book.payType == 2){ %><span>￥</span><%= book.formattedVipPrice %><% } %></div>
+						<div class="star-panel"><div class="star-<%= book.star %>"></div></div>
+						<div class="cover"><a target="_blank" href="/source/<%= book.sourceUuid %>" title="<%= book.title %>"><img src="<%= book.coverImage %>" alt="<%= book.title %>"/></a><% if(book.free4LimitedTime){ %><i class="badge-timefree"></i><% }else if(book.bookStatus == 0){ %><i class="badge-serial"></i><% }else if(book.sample){ %><i class="badge-sample"></i><% }else{ %><i class="badge-complete"></i><% } %></div>
+					</li>
+					<% }) %>
+				</ul>
+			</dd>
+		</dl>
+		<div class="recommand-trigger"><a class="open" id="J_RecommandTrigger"></a></div>
+	</script>
+
+	<script id="tmpl-chapterbuy" type="text/template">
+		<% if(isTimeFree){ %>
+		<p class="tip-title"><span class="hot">限时免费</span> <span class="cool">结束时间：<%= discountEndTime %></span></p>
+		<div class="button"><a href="#" class="btn-red ok J_FreeGet">免费领取</a></div>
+		<% }else{ %>
+			<% if(payType === 1){ %>
+				<div class="orig-buy">
+					<div class="wallet">
+						<% if(isLogined){ %>
+							账户余额：<span><%= virtualMoney %></span>阅点&nbsp;&nbsp;
+							<% if(badHongBaoBalance != 0){ %>
+							当前可用红包：<span><%= hongBaoBalance %></span>阅点（您还有<span><%= badHongBaoBalance %></span>阅点红包仅限客户端使用）
+							<% } else if(hongBaoBalance != 0) {%>
+							当前可用红包：<span><%= hongBaoBalance %>阅点</span><% if(badHongBaoBalance != 0){ %>（您还有<span><%= badHongBaoBalance %></span>阅点红包仅限客户端使用）<% } %>
+							<% } %>
+							<% if(chapterPrice > (virtualMoney + hongBaoBalance)){ %>
+								<span>余额不足</span><a href="/recharge.do?operation=form&v_required=<%= chapterPrice %>" target="_blank" class="J_ToRecharge">去充值</a>
+							<% } %>
+						<% }else{ %>
+							未登录，<a href="#" class="J_Login">点击登录</a>
+						<% } %>
+					</div>
+					<div class="orig-buy-option-1">
+						<p>此章节为收费章节，需<span class="hot"><%= chapterPrice %></span>阅点(<%= (chapterPrice/100).toFixed(2) %>元)</p>
+						<div class="button"><a href="#" class="btn-red ok J_Done">购买本章</a><% if(chapterPrice > (virtualMoney + hongBaoBalance) && (chapterPrice - virtualMoney - hongBaoBalance) <= avaliableCredit){ %><a href="#" class="btn-red ok J_CreditPay">信用支付</a><% } %></div>
+					</div>
+					<div class="orig-buy-option-2">
+						<p>还有<%= leaveVipChaptersCount %>章可购买<br/>（不包含作者未发布章节）</p>
+						<p><a href="/source.do?operation=articleSelect&source_uuid=<%= bookid %>" class="J_MultiBuy" target="_blank">批量购买</a></p>
+					</div>
+					<div class="orig-buy-option-3">
+						<p>当阅读到收费章节时，将自动为您购买</p>
+						<p><% if(autoPurchase){ %><span style="color:#999">自动订阅已开启</span><% }else{ %><a href="#" class="J_OpenAutoSub">开启自动订阅</a><% } %></p>
+					</div>
+				</div>
+			<% }else if(payType === 2){ %>
+				<% if(cutPrice){ %>
+					<p class="tip-title">优惠价：<span class="hot"><%= cutPrice %></span>阅点<del style="font-size:12px; color:#666;">（<%= bookPrice %>）</del></p>
+					<p style="text-align: center;">结束时间：<%= discountEndTime %></p>
+				<% }else{ %>
+				<p class="tip-title">此书籍为收费书籍，需<span class="hot"><%= bookPrice %></span>阅点(<%= (bookPrice/100).toFixed(2) %>元)</p>
+				<% } %>
+				<div class="button">
+					<a href="#" class="btn-red ok J_Done">购买</a>
+					<% if(typeof paperBookPurchaseLink !== 'undefined'){ %>
+					<a id="chargePaperBuy" href="<%= paperBookPurchaseLink %>" target="_blank" class="btn-gray goon paper-buy" style="margin-right:10px;position:relative;">
+						购买纸质书
+					</a>
+					<% } %>
+					<a href="#" class="btn-gray goon J_LeaveHere">跳转至可读章节</a>
+				</div>
+			<% } %>
+			<% if(showBooksAward){ %>
+				<div class="newyear-gift-tip clearfix"><div class="display-inline tip-content"><i class="gift-icon"></i><span class="tip-txt">一次购买出版图书满1元，即可参加抽奖！<a href="/promotion/show_books/" target="_blank">活动详情&gt;&gt;</a></span></div></div>
+			<% } %>
+		<% } %>
+			<div class="hongbao-info">
+				<div class="inner" style="width:400px;left:128px;">
+					<p>点击或扫描二维码下载客户端，在手机上阅读</p>
+					<p><a href="/download" target="_blank" class="code" onclick="_gaq.push(['_trackEvent', 'download', 'mid2codedownload','bookreader']);"></a></p>
+				</div>
+			</div>
+	</script>
+
+	<script id="tmpl-autosub" type="text/template">
+		<div class="hd">自动订阅<a href="#" class="close J_Cancel">关闭</a></div>
+		<div class="bd">
+			<p class="tip-title">确定开启自动订阅？</p>
+			<p class="pay-info cool">开启之后若想关闭，请前往“个人中心”的“自动订阅”进行操作</p>
+			<div class="button">
+				<a href="#" class="btn-red ok J_Done">确定</a><a href="#" class="btn-gray cancel J_Cancel">取消</a>
+			</div>
+		</div>
+	</script>
+
+	<!-- 整本或单章购买 -->
+	<script id="tmpl-buypop" type="text/template">
+		<div class="hd">购买<a href="#" class="close J_Cancel">关闭</a></div>
+		<div class="bd">
+			<form action="/trade.do" method="post">
+				<input type="hidden" name="operation" value="purchase" />
+	    		<input type="hidden" name="source_uuid" value="<%= bookid %>" />
+	    		<input type="hidden" name="pay_type" value="<%= payType %>" />
+				<input type="hidden" name="article_uuid" value="<% if(payType === 1){ %><%= id %><% } %>" />
+				<div>
+					<% if(isTimeFree){ %>
+						<p class="tip-title"><span class="hot">限时免费</span> <span class="cool">结束时间：<%= discountEndTime %></span> </p>
+					<% }else{ %>
+						<% if(payType === 1){ %>
+							<p class="tip-title">"<%= title %>"</p>
+						<% }else if(payType === 2){ %>
+							<p class="tip-title"><%= booktitle %></p>
+						<% } %>
+						<% if(cutPrice){ %>
+							<p class="pay-info hot">优惠价：<%= cutPrice %> 阅点（<%= (cutPrice/100).toFixed(2) %>元）</p>
+							<p class="pay-info">网易价：<del><%= price %></del> 阅点（<%= (price/100).toFixed(2) %>元）</p>
+							<% if(badHongBaoBalance != 0){ %>
+								<p class="pay-info">当前可用红包：<span class="hot"><%= hongBaoBalance %>阅点</span>（您还有<span class="hot"><%= badHongBaoBalance %>阅点</span>红包仅限客户端使用）</p>
+								<p class="pay-info">还需支付<span class="hot"><%= needWalletCount %>阅点</span></p>
+							<% } else if(hongBaoBalance != 0) {%>
+								<p class="pay-info">当前可用红包：<span class="hot"><%= hongBaoBalance %>阅点</span><% if(badHongBaoBalance != 0){ %>（您还有<span class="hot"><%= badHongBaoBalance %>阅点</span>红包仅限客户端使用）<% } %></p>
+								<p class="pay-info">还需支付<span class="hot"><%= needWalletCount %>阅点</span></p>
+							<% } %>
+							<p class="pay-info gray-b">账户余额：<%= wallet %> 阅点<% if(isNeedRecharge){ %><span class="J_StopTip hot"><em class="stop-tip"></em><span class="hot">余额不足</span> <a href="/recharge.do?operation=form&v_required=<%= cutPrice %>" target="_blank" class="J_ToRecharge">去充值</a></span><% } %></p>
+						<% }else{ %>
+							<p class="pay-info">共需消费：<span class="hot"><%= price %> 阅点</span><span class="cool">（<%= (price/100).toFixed(2) %>元）</span></p>
+							<% if(badHongBaoBalance != 0){ %>
+								<p class="pay-info">当前可用红包：<span class="hot"><%= hongBaoBalance %>阅点</span>（您还有<span class="hot"><%= badHongBaoBalance %>阅点</span>红包仅限客户端使用）</p>
+								<p class="pay-info">还需支付<span class="hot"><%= needWalletCount %>阅点</span></p>
+							<% } else if(hongBaoBalance != 0) {%>
+								<p class="pay-info">当前可用红包：<span class="hot"><%= hongBaoBalance %>阅点</span><% if(badHongBaoBalance != 0){ %>（您还有<span class="hot"><%= badHongBaoBalance %>阅点</span>红包仅限客户端使用）<% } %></p>
+								<p class="pay-info">还需支付<span class="hot"><%= needWalletCount %>阅点</span></p>
+							<% } %>
+							<p class="pay-info gray-b">账户余额：<%= wallet %> 阅点<% if(isNeedRecharge){ %><span class="J_StopTip hot"><em class="stop-tip"></em><span class="hot">余额不足</span> <a href="/recharge.do?operation=form&v_required=<%= price %>" target="_blank" class="J_ToRecharge">去充值</a></span><% } %></p>
+						<% } %>
+					<% } %>
+				</div>
+				<div class="button">
+					<% if(isTimeFree){ %>
+					<a href="#" class="btn-red ok J_Done">免费领取</a>
+					<% }else{ %>
+					<a href="#" class="btn-red ok J_Done <% if(isNeedRecharge){ %> btn-red-disabled <% } %>">购买</a><a href="#" class="btn-gray cancel J_Cancel">取消</a>
+					<% } %>
+				</div>
+				<% if(payType === 1){ %>
+					<!--
+				<div class="auto-sub">
+					<span class="J_AutoSub"><span class="check <% if(autoSub){ %>check-on<% }else{ %>check-off<% } %>"><input type="checkbox" name="auto_sub" value="true" <% if(autoSub){ %>checked="checked"<% } %>></span>自动订阅<span class="cool">（阅读后续收费章节时将自动购买，可退订）</span></span>
+				</div>
+				-->
+				<% } %>
+			</form>
+		</div>
+	</script>
+
+	<script id="tmpl-creditpay" type="text/template">
+		<div class="hd">信用支付<a href="#" class="close J_Cancel">关闭</a></div>
+		<div class="bd">
+			<form>
+			<input type="hidden" name="operation" value="purchase" />
+    		<input type="hidden" name="source_uuid" value="<%= bookid %>" />
+    		<input type="hidden" name="pay_type" value="<%= payType %>" />
+			<input type="hidden" name="article_uuid" value="<% if(payType === 1){ %><%= id %><% } %>" />
+			<input type="hidden" name="credit_pay" value="true" />
+			<input type="hidden" name="v_credit" value="<%= price - wallet - hongBaoBalance %>" />
+			<p class="pay-info" style="margin-top:20px;">确定透支<span class="hot"><%= price - wallet - hongBaoBalance %></span>阅点？当前可透支额度还有<span class="hot"><%= avaliableCredit %></span>阅点</p>
+			<p class="pay-info">请查看<a href="https://epay.163.com/creditPay/orderCreditList.htm" target="_blank">《网易云阅读信用支付协议》</a></p>
+			<div class="button">
+				<a href="#" class="btn-red ok J_Done">同意协议并支付</a>
+				<a href="#" class="btn-gray J_Cancel">取消</a>
+			</div>
+			</form>
+		</div>
+	</script>
+
+	<!-- 评论 -->
+	<script id="tmpl-review" type="text/template">
+		<div class="hd"><h3><i></i><span>评论：<%= title.substring(0, 20) %><% if(commentsSize){ %><span class="comment-size">（<em class="J_CommentSize"><%= commentsSize %></em>条）</span><% } %></span></h3><a href="#" title="关闭" class="J_Close close"></a></div>
+		<div class="bd J_Bd">
+			<div class="review-tab J_ReviewTab">
+				<div class="clearfix for-review J_ReviewBread" style="display:none;"><a href="#" class="comment-btn J_ToggleToReview"><i class="crt"></i>评论</a><a href="#" class="J_ToggleToGentie"><i></i>历史跟贴</a></div>
+			</div>
+			<div class="review-content J_ReviewContent">
+				<div class="yuedu-review J_YueduReview">
+					<div class="static-comment-box J_SCommentBox"></div>
+					<ul></ul>
+					<div class="J_Pager"></div>
+				</div>
+				<div class="gentie-review J_GentieReview">
+					<dl class="J_HotReviewList">
+						<dt>热门评论</dt>
+						<dd></dd>
+					</dl>
+					<dl class="J_LastReviewList">
+						<dt>最新评论</dt>
+						<dd></dd>
+					</dl>
+					<div class="J_Pager"></div>
+				</div>
+			</div>
+		</div>
+	</script>
+
+	<script id="tmpl-reviewlist" type="text/template">
+		<% for(var i = 0; i < obj.length; i++){ %>
+			<li class="J_ItemLi">
+				<div class="head-pic"><% if(typeof obj[i].link != 'undefined'){ %><a href="<%= obj[i].link %>" target="_blank"><% } %><img src="<% if(typeof obj[i].avatar == 'undefined'){ %>https://easyread.nosdn.127.net/web/trunk/1492150697494/txdefault.png<% }else{ %><%= obj[i].avatar %><% } %>" /><% if(typeof obj[i].link != 'undefined'){ %></a><% } %><% if(obj[i].auth){ %><i></i><% } %></div>
+				<p class="info"><cite><% if(obj[i].isTop){ %><span class="top-icon" title="置顶评论"></span><% } %><% if(typeof obj[i].link != 'undefined'){ %><a href="<%= obj[i].link %>" target="_blank"><% } %><%= obj[i].username %><% if(typeof obj[i].link != 'undefined'){ %></a><% } %><% if(obj[i].self){ %><span>（本书作者）</span><% } %></cite><span class="time"><%= obj[i].posttime %> 发表</span></p>
+				<blockquote><% if(obj[i].replied){ %>回复 <% if(obj[i].replied.link){ %><a href="<%= obj[i].replied.link %>" target="_blank" ><%= obj[i].replied.username %></a><% }else{ %><span><%= obj[i].replied.username %></span><% } %>：<% } %><%= obj[i].text.replace('成功打赏[em]', '<p>成功打赏<em>').replace('[/em]阅点', '</em>阅点</p>') %></blockquote>
+				<p class="opt">
+					<input type="hidden" name="cid" value="<%= obj[i].commentId %>" />
+					<input type="hidden" name="tipstr" value="<%= obj[i].username %>" />
+					<% if(obj[i].userSelf){ %><a href="#" class="J_Delete">删除</a><% } %>
+					<a href="#" class="J_Reply">回复</a>
+				</p>
+				<div class="reply-box-wrap"></div>
+			</li>
+		<% } %>
+	</script>
+
+	<script id="tmpl-gentielist" type="text/template">
+		<% function makeFloor(floorObj, index){ %>
+			<div class="floor">
+				<% if(!floorObj.isRenderAll && floorObj.floorTotal > 10 && index != 1){
+					makeFloor(floorObj, 1) %>
+					<div class="open-floor J_OpenFloor">已经隐藏重复盖楼<a href="#">[点击展开]</a></div>
+				<% }else{ %>
+					<% if(floorObj.floorTotal > 20 && floorObj.floorTotal - index > 9 && index > 9){ %>
+						<% 
+							makeFloor(floorObj, 9);
+							for(var i = 10; i<index; i++){ 
+						%>
+							<div class="inner-floor J_Floor">
+								<div class="floor-info"><cite><%= floorObj[i]['f'] %></cite><span><%= i %></span></div>
+								<blockquote><%= floorObj[i]['b'] %></blockquote>
+							</div>
+						<% } %>
+							<div class="floor-wrap J_Floor">
+							<div class="floor-info"><cite><%= floorObj[index]['f'] %></cite><span><%= index %></span></div>
+							<blockquote><%= floorObj[index]['b'] %></blockquote>
+							</div>
+					<% }else{ %>
+						<% if(floorObj[index-1]) makeFloor(floorObj, index-1) %>
+						<div class="floor-wrap J_Floor">
+						<div class="floor-info"><cite><%= floorObj[index]['f'] %></cite><span><%= index %></span></div>
+						<blockquote><%= floorObj[index]['b'] %></blockquote>
+						</div>
+					<% } %>
+				<% } %>
+			</div>
+		<% } %>
+		<% _.each(obj, function(floorObj, index){
+			var floorTotal = 1;
+			while(floorObj[floorTotal+1]) floorTotal++;
+			floorObj.floorTotal = floorTotal;
+		%>
+			<div class="tie" data-index="<%= index %>">
+				<div class="floor-info"><cite><%= floorObj[floorTotal]['f'] %></cite><span><%= floorObj[floorTotal]['t'] %>&nbsp;发表</span></div>
+				<% if(floorObj[floorTotal-1]) makeFloor(floorObj, floorTotal-1) %>
+				<blockquote><%= floorObj[floorTotal]['b'] %></blockquote>
+			</div>
+		<% }) %>
+	</script>
+
+	<script id="tmpl-replybox" type="text/template">
+		<% if(typeof hideAngle == 'undefined'){ %><i class="angle" <% if(typeof leftOffset != 'undefined'){ %>style="left:<%= leftOffset %>px"<% } %>></i><% } %>
+		<form>
+		<input type="hidden" name="id" value="<%= id %>" />
+		<input type="hidden" name="type" value="<%= type %>" />
+		<% if(typeof cid != 'undefined'){ %><input type="hidden" name="cid" value="<%= cid %>" /><% } %>
+		<div class="contentwrap"><textarea name="content" placeholder="<%= tipstr %>"></textarea></div>
+		<div class="bottombar">
+			<p class="size-leave J_SizeLeave">还能输入500字</p>
+			<p class="btn"><% if(typeof hideAngle == 'undefined'){ %><a class="J_Back ui-default">取消</a><% } %><a class="J_Send replaybtn"><% if(addType == 1){ %>评论<% } else { %>回复<% } %></a></p>
+		</div>
+		</form>
+	</script>
+
+	<script id="tmpl-annotation" type="text/template">
+		<div class="J_Content scroll-container"></div>
+		<div class="angle"></div>
+		<svg width="16px" height="8px" viewBox="0 0 16 8" class="svg-angle" xmlns="https://www.w3.org/2000/svg" version="1.1">
+		  	<polygon fill="black" points="0,0 16,0 8,8" />
+		</svg>
+	</script>
+	<script id="tmpl-sharemodal" type="text/template">
+		<div class="modal-cover">
+		</div>
+		<div class="modal-section lastpage-modal" id="J-lastpage-modal">
+			<span class="modal-close"></span>
+			<% if (end == 1){%>
+				<div class="modal-title">全文完，感谢您的阅读</div>
+			<%}else{%>
+				<div class="modal-title">未完待续，作者努力码字中。。。</div>
+			<%}%>
+			<div class="modal-body">
+				<div class="modal-item">
+					<% if(audioBookUrl) {%>
+						<a href="<%= audioBookUrl%>" class="anchor-out">小说有声版</a>
+					<%}%>
+					<% if(manHuaBookUrl) {%>
+						<a href="<%= manHuaBookUrl%>" class="anchor-out">小说漫画版</a>
+					<%}%>
+					<a href="javascript:;" class="anchor-out j-popo-comment">评论</a>
+					<a href="javascript:;" class="anchor-out j-share">分享</a>
+					<% if(createBy == 1) {%>
+						<a target="_blank" href="/source/<%= id %>#tipAnchor" class="u-reward">打赏</a>
+					<%}%>
+					<% if(typeof paperBookPurchaseLink !== 'undefined'){ %>
+					<div>读完后是不是很喜欢这本书呢，不如买一本纸质书好好收藏吧 <a id="endPaperBuy" href="<%= paperBookPurchaseLink %>" target="_blank" class="paper-buy paper-by-end">购买纸质书</a></div>
+					<%}%>
+				</div>
+				<div class="modal-item modal-divider">
+					<div class="modal-guess">
+						<span class="guess-title">猜你喜欢</span>
+					</div>
+					<ul class="modal-guess-list">
+						<% for(var i in guessData){%>
+							<li class="list-item">
+								<a href="/source/<%= guessData[i].sourceUuid%>" target="_blank" title="<%= guessData[i].title%>">
+									<img src="<%= guessData[i].coverImage%>" width="84" height="116">
+									<span class="list-title"><%= guessData[i].title%></span>
+								</a>
+							</li>
+						<%}%>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="modal-section share-modal" id="J-share-modal">
+			<span class="modal-close"></span>
+			<ul class="share-body">
+				<li class="share-item" data-index="0">
+					<img src="https://easyread.nosdn.127.net/web/trunk/1469527220411/timeline_03.png" width="79" height="79">
+					<span class="share-title">微信朋友圈</span>
+				</li>
+				<li class="share-item" data-index="0">
+					<img src="https://easyread.nosdn.127.net/web/trunk/1469587219417/friend_05.png" width="79" height="79">
+					<span class="share-title">微信好友</span>
+				</li>
+				<li class="share-item" data-index="1">
+					<img src="https://easyread.nosdn.127.net/web/trunk/1469587281815/yixin_07.png" width="79" height="79">
+					<span class="share-title">易信朋友圈</span>
+				</li>
+				<li class="share-item" data-index="3">
+					<img src="https://easyread.nosdn.127.net/web/trunk/1469587479211/sixin_12.png" width="79" height="79">
+					<span class="share-title">私信</span>
+				</li>
+				<li class="share-item" data-index="4">
+					<img src="https://easyread.nosdn.127.net/web/trunk/1469587533240/sina_13.png" width="79" height="79">
+					<span class="share-title">新浪微博</span>
+				</li>
+				<li class="share-item" data-index="5">
+					<img src="https://easyread.nosdn.127.net/web/trunk/1469587563004/tencent_15.png" width="79" height="79">
+					<span class="share-title">腾讯微博</span>
+				</li>
+			</ul>
+		</div>
+	</script>
+	<script type="text/template" id="tmpl-wordpopo">
+		<div class="modal-container">
+			<div class="modal-section">
+				<span class="modal-close"></span>
+				<div class="modal-title">设计师特意弄了个word模式。<br/>再也不担心上班看书被老板逮着啦！</div>
+				<div class="modal-body">
+					<span id="J-remain">15</span>秒
+				</div>
+				<div class="modal-footer">
+					<button class="modal-btn" id="J-word-trigger">立刻尝试word模式</button>
+					<p class="modal-detail">点击键盘上的F2也可以自由切换word模式与经典模式</p>
+				</div>
+			</div>
+			
+		</div>
+	</script>
+	<script src="//yuedust.yuedu.126.net/js/aes.js?b9608029"></script>
+	<script src="/js/reader/sea-modules/seajs/seajs/2.0.0/sea.js?$JS_V" data-main="/js/reader/dist/book/2.0.5/reader.js" data-fixed="true"></script>
+	<script>  
+	    (function(i,s,ob,g,r,a,m)  
+	    {  
+	        i['AnalyticsObject']=r;   
+
+	        i[r] = i[r] || function()  
+	        {  
+	            (i[r].ops = i[r].ops || []).push(arguments);  
+	        }  
+	          
+	        a = s.createElement(ob);  
+	        a.type = "text/javascript";  
+	        m = s.getElementsByTagName(ob)[0];  
+	        a.async=false; // 1 asynchronous  
+	        a.src=g;  
+	        m.parentNode.insertBefore(a,m);  
+	    })(window, document, 'script', '//rev.da.netease.com/da.js?t='+ parseInt((new Date().getTime())/1000000), '_dapush');  
+	    _dapush('create','DA-A888-A990E152BA01'); 
+	    _dapush('page_view');
+	</script>
+</body>
+</html>

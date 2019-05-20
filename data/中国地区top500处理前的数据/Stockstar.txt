@@ -1,0 +1,132 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta http-equiv=refresh content=10;url=http://www.stockstar.com/nav/map.html>
+<title>ÎÞ·¨ÕÒµ½¸ÃÒ³Ãæ</title>
+<style type="text/css">
+body{ margin:0px; font-size:12px; color:#666666;}
+a:link {color:#124A9D; text-decoration: underline;}
+a:active {color: #124A9D; text-decoration: underline;}
+a:visited {color: #124A9D; text-decoration: underline;}
+a:hover {color: #739BDD; text-decoration: none;}
+
+#table{ width:100%;}
+#bg{ width:508px; height:312px; margin:100px auto; position:relative; background-image:url(http://www.stockstar.com/public/error404.gif);}
+#error {
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #666666;
+	position:absolute;
+	left:150px;
+	top:60px;
+	width:300px;
+	padding-top:5px;
+	line-height:130%;
+}
+#error span{ font-weight:bold;color:#D10000;}
+#nav{
+	position:absolute;
+	left:32px;
+	top:153px;
+	width:420px;
+	padding:10px;
+	line-height:24px;
+	border: 1px solid #EEEEEE;
+}
+#bottom{
+	position:absolute;
+	left:32px;
+	top:270px;
+	width:420px;
+	padding:10px;
+}
+</style>
+</head>
+
+<body>
+<div id="table">
+<div id="bg">
+	<div id="error">
+	  <p><span>HTTP ´íÎó 404</span>:ÄúÕýÔÚËÑË÷µÄÒ³Ãæ¿ÉÄÜÒÑ¾­É¾³ý¡¢¸üÃû»òÔÝÊ±²»¿ÉÓÃ¡£<br>
+		<br>
+	  ¸ÃÒ³½«ÔÚ10ÃëºóÌø×ªµ½£º<a href="http://www.stockstar.com/nav/map.html">Ö¤È¯Ö®ÐÇÍøÕ¾µ¼º½</a></p>
+	</div>
+	<div id="nav">Äú»¹¿ÉÒÔÖ±½Ó½øÈë¡ú<br>
+	  <a href="http://www.stockstar.com">Ê×Ò³</a> - <a href="http://quote.stockstar.com/">ÐÐÇé</a> - <a href="http://resource.stockstar.com/">Êý¾Ý</a> - <a href="http://daily.stockstar.com/">±Ø¶Á</a> - <a href="http://finance.stockstar.com/">²Æ¾­</a> - <a href="http://stock.stockstar.com/">¹ÉÆ±</a> - <a href="http://fund.stockstar.com/">»ù½ð</a> - <a href="http://futures.stockstar.com/">ÆÚ»õ</a> - <a href="http://money.stockstar.com/">Àí²Æ</a> - <a href="http://school.stockstar.com/">Ñ§ÌÃ</a>
+	<br>
+	<a href="http://my.stockstar.com/">»áÔ±</a> - <a href="http://www.bida24.com/">¿ìÑ¶</a> - <a href="http://video.stockstar.com/">ÊÓÆµ</a> - <a href="http://survey.stockstar.com/">Ð¡µ÷²é</a> - <a href="http://test.stockstar.com/">Ð¡²âÊÔ</a> - <a href="http://wap.stockstar.com/">ÊÖ»ú°æ</a>
+<!--      <a href="http://bar.stockstar.com/">ÐÇ°É</a> - <a href="http://blog.stockstar.com/">²©¿Í</a> - <a href="http://t.stockstar.com">Î¢²©</a> - <a href="http://survey.stockstar.com/">µ÷²é</a> - <a href="http://download.stockstar.com/">ÏÂÔØ</a> - <a href="http://sales.stockstar.com/">ÉÌ³Ç</a> - <a href="http://3g.stockstar.com/">ÊÖ»ú°æ</a>
+-->	</div>
+	<div id="bottom" align="center">Copyright &copy;  www.stockstar.com All rights reserved.</div>
+</div>
+</div>
+</body>
+</html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta http-equiv=refresh content=10;url=http://www.stockstar.com/nav/map.html>
+<title>ÎÞ·¨ÕÒµ½¸ÃÒ³Ãæ</title>
+<style type="text/css">
+body{ margin:0px; font-size:12px; color:#666666;}
+a:link {color:#124A9D; text-decoration: underline;}
+a:active {color: #124A9D; text-decoration: underline;}
+a:visited {color: #124A9D; text-decoration: underline;}
+a:hover {color: #739BDD; text-decoration: none;}
+
+#table{ width:100%;}
+#bg{ width:508px; height:312px; margin:100px auto; position:relative; background-image:url(http://www.stockstar.com/public/error404.gif);}
+#error {
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #666666;
+	position:absolute;
+	left:150px;
+	top:60px;
+	width:300px;
+	padding-top:5px;
+	line-height:130%;
+}
+#error span{ font-weight:bold;color:#D10000;}
+#nav{
+	position:absolute;
+	left:32px;
+	top:153px;
+	width:420px;
+	padding:10px;
+	line-height:24px;
+	border: 1px solid #EEEEEE;
+}
+#bottom{
+	position:absolute;
+	left:32px;
+	top:270px;
+	width:420px;
+	padding:10px;
+}
+</style>
+</head>
+
+<body>
+<div id="table">
+<div id="bg">
+	<div id="error">
+	  <p><span>HTTP ´íÎó 404</span>:ÄúÕýÔÚËÑË÷µÄÒ³Ãæ¿ÉÄÜÒÑ¾­É¾³ý¡¢¸üÃû»òÔÝÊ±²»¿ÉÓÃ¡£<br>
+		<br>
+	  ¸ÃÒ³½«ÔÚ10ÃëºóÌø×ªµ½£º<a href="http://www.stockstar.com/nav/map.html">Ö¤È¯Ö®ÐÇÍøÕ¾µ¼º½</a></p>
+	</div>
+	<div id="nav">Äú»¹¿ÉÒÔÖ±½Ó½øÈë¡ú<br>
+	  <a href="http://www.stockstar.com">Ê×Ò³</a> - <a href="http://quote.stockstar.com/">ÐÐÇé</a> - <a href="http://resource.stockstar.com/">Êý¾Ý</a> - <a href="http://daily.stockstar.com/">±Ø¶Á</a> - <a href="http://finance.stockstar.com/">²Æ¾­</a> - <a href="http://stock.stockstar.com/">¹ÉÆ±</a> - <a href="http://fund.stockstar.com/">»ù½ð</a> - <a href="http://futures.stockstar.com/">ÆÚ»õ</a> - <a href="http://money.stockstar.com/">Àí²Æ</a> - <a href="http://school.stockstar.com/">Ñ§ÌÃ</a>
+	<br>
+	<a href="http://my.stockstar.com/">»áÔ±</a> - <a href="http://www.bida24.com/">¿ìÑ¶</a> - <a href="http://video.stockstar.com/">ÊÓÆµ</a> - <a href="http://survey.stockstar.com/">Ð¡µ÷²é</a> - <a href="http://test.stockstar.com/">Ð¡²âÊÔ</a> - <a href="http://wap.stockstar.com/">ÊÖ»ú°æ</a>
+<!--      <a href="http://bar.stockstar.com/">ÐÇ°É</a> - <a href="http://blog.stockstar.com/">²©¿Í</a> - <a href="http://t.stockstar.com">Î¢²©</a> - <a href="http://survey.stockstar.com/">µ÷²é</a> - <a href="http://download.stockstar.com/">ÏÂÔØ</a> - <a href="http://sales.stockstar.com/">ÉÌ³Ç</a> - <a href="http://3g.stockstar.com/">ÊÖ»ú°æ</a>
+-->	</div>
+	<div id="bottom" align="center">Copyright &copy;  www.stockstar.com All rights reserved.</div>
+</div>
+</div>
+</body>
+</html>
+

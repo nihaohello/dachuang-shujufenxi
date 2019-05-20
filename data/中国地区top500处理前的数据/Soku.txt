@@ -1,0 +1,285 @@
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="data-spm" content="a2h0k">
+<title>搜库-专找视频</title>
+<link type="text/css" rel="stylesheet" href="//static.soku.com/v1.0.0934/soku/inthesky-aone/giantstar/css/s_comm.css" />
+<script type="text/javascript" src="//static.soku.com/v1.0.0934/soku/inthesky-aone/giantstar/js/jquery.js"></script>
+<script type="text/javascript">
+function doIndexQuery(f){
+	if($.trim(f.q.value)==''){
+		f.q.value='';	
+		alert('关键词不能为空');
+		f.q.focus();
+		return false;
+	}
+	var q=f.q.value;
+    q=(null  == q ? "" : q.replace(/\</g, "&lt;").replace(/\>/g, "&gt;").replace(/\&/g, "&amp;").replace(/"/g, "&quot;").replace(/'/g, "&#39;").replace(/\\/g, "").replace(/\//g,""));
+	var url = "/search_video/q_"+encodeURIComponent(q);
+	if(f.q.getAttribute("class") == "sotxt default"){
+		url += "?f=5";
+	}
+	location.href=url;
+	return false;
+}
+
+
+</script>
+</head>
+<body class="page_index" data-spm="8191388"><script>
+with(document)with(body)with(insertBefore(createElement("script"),firstChild))setAttribute("exparams","userid=&aplus&sidx=tpVpBeWn4lwAAAAAPb6eyHUNqcjRnGeM&ckx=wwwsokucom|",id="beacon-aplus",src="//g.alicdn.com/alilog/mlog/aplus_o.js")
+</script>
+
+<div class="sk_container">
+	<div class="core">
+		<div class="bgwall" id="wall"></div>
+		<div class="foreso">
+			<div class="logobox"><h1 class="ico ico_indxlogo">SOKU搜库</h1></div>
+			<div class="toolbox">
+				<div class="sk_search">
+					<div class="sotool">
+						<div class="socore">
+							<form onsubmit="return doIndexQuery(this);" action="" method="get">
+	                            <input class="sotxt" type="text" name="q" value="" autocomplete="off" id="headq" x-webkit-speech x-webkit-grammar="builtin:translate"/>
+	                            <button class="btn btn_search" type="submit">搜索</button>
+	                        </form>
+						</div>			
+					</div>
+				</div>
+			</div>
+			<div class="navbox">
+				<!--
+				<a class="gorank" href="/newtop/all.html" target="_blank"><span class="ico24 ico_rank"></span><p>排行榜</p></a>
+				<a class="gocata" href="/channel/index______1.html" target="_blank"><span class="ico24 ico_cata"></span><p>影视大全</p></a>
+				-->
+				<!--
+				<a class="gomovie" href="//z.youku.com/" target="_blank"><span class="ico24 ico_crowdfund"></span><p>优酷众筹</p></a>
+				<a class="goplay" href="//wan.youku.com/landing/c2hvcnQ4NQ==" target="_blank"><span class="ico24 ico_game"></span><p>游戏中心</p></a>
+				<a class="recom" href="//www.soku.com/app/" target="_blank"><span class="ico24 ico_app"></span><p>搜库视频APP</p></a>-->
+			</div>
+		</div>
+	</div>
+	<ul class="service">
+		<li>
+			<span class="ico24 ico_tv"></span>
+			<span class="slogan">专业的影视综艺搜索引擎</span>
+		</li>
+		<li>
+			<span class="ico24 ico_heart"></span>
+			<span class="slogan">根据亿万用户行为优化的搜索结果</span>
+		</li>
+		<li>
+			<span class="ico24 ico_time"></span>
+			<span class="slogan">收录播放速度快的优质视频</span>
+		</li>
+	</ul>
+</div>
+
+
+
+<div class="sk_footer">
+    <div class="about">
+        <a href="//c.youku.com/aboutcn/youtu" target="_blank">优酷土豆集团</a>
+        <span class="split">|</span>
+        <a href="//mobile.youku.com/index/wireless" target="_blank">优酷APP</a>
+        <!--
+        <span class="split">|</span>
+        <a href="//mobile.tudou.com/" target="_blank">土豆APP</a>
+        <span class="split">|</span>
+        <a href="//www.soku.com/service/agreement.html" target="_blank">免责声明</a>
+        <span class="split">|</span>
+        <a href="//www.soku.com/service/protocol.html" target="_blank">开放协议</a>
+        -->
+    </div>
+    <div class="copyright">
+        <span>Copyright&copy;2019</span>
+        <span>soku.com版权所有</span>
+        <span>京ICP证060288号</span>
+    </div>
+</div>
+<input type="hidden" id="log_param_soku" _accesslog="" cd="0" uuid="" direct_size="" plain_size="" curpage="0" pn="" keyword="" site="1" shield="" cor_size="" rel_size="" />
+</body>
+<script type="text/javascript" src="//static.soku.com/v1.0.0934/soku/inthesky-aone/giantstar/js/so/sotool.js"></script>
+<script type="text/javascript" src="//static.soku.com/v1.0.0934/soku/inthesky-aone/giantstar/js/sk-box.js"></script>
+
+<script type="text/javascript">
+    document.getElementById("headq").focus();
+    XBox.init({"site":2});
+//	VideoWall.init('/img/videowall');
+	CoreControl.init();
+</script>
+
+<script type="text/javascript">
+window.soku_logExt = "&soku=0|0";
+</script>
+<script type="text/javascript" src="//static.soku.com/v1.0.0934/soku/inthesky-aone/giantstar/js/aplus-log.js"></script>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>搜库-专找视频</title>
+    <link type="text/css" rel="stylesheet" href="//static.soku.com/v1.0.0934/soku/inthesky-aone/giantstar/css/s_comm.css">
+    <link type="text/css" rel="stylesheet" href="//static.soku.com/v1.0.0934/soku/inthesky-aone/giantstar/css/s_rank.css">
+    
+    <script type="text/javascript" src="//static.soku.com/v1.0.0934/soku/inthesky-aone/giantstar/js/jquery.js"></script>
+    <script type="text/javascript" src="//static.soku.com/v1.0.0934/soku/inthesky-aone/giantstar/js/iku.js"></script>
+</head>
+
+<body class=""><script>
+with(document)with(body)with(insertBefore(createElement("script"),firstChild))setAttribute("exparams","userid=&aplus&sidx=tpVpBfKn4lwAAAAAapAqRkDIo7MHW+OM&ckx=wwwsokucomnewtopallhtml|",id="beacon-aplus",src="//g.alicdn.com/alilog/mlog/aplus_o.js")
+</script>
+
+    
+<script type="text/javascript">
+    var body = $(document.body);
+    if(body.attr('class').indexOf('for_iku') < 0){
+        var width = parseInt($(window).width());
+        if(width >= 1230){
+            body.addClass('sk_1190').removeClass('sk_970');
+        }else{
+            body.addClass('sk_970').removeClass('sk_1190');
+        }
+    }
+</script>
+
+
+
+<script type="text/javascript">
+    //tools里拷出来的，需要在这里就用到
+    function readWebCookie(name){
+        var cookieValue = "";
+        var search = name + "=";
+        if(document.cookie.length > 0){
+            offset = document.cookie.indexOf(search);
+            if (offset != -1){
+                offset += search.length;
+                end = document.cookie.indexOf(";", offset);
+                if (end == -1) end = document.cookie.length;
+                cookieValue = unescape(document.cookie.substring(offset, end))
+            }
+        }
+        return cookieValue;
+    }
+    if(readWebCookie("iku_skin")=="black"){
+        document.write('<link type="text/css" rel="stylesheet" href="//static.soku.com/v1.0.0934/soku/inthesky-aone/giantstar/css/s_black.css" />');
+    }
+</script>
+
+<div class="sk_masthead">
+    <div class="sk_wrap">
+        <div class="links">
+            <a href="//www.youku.com" target="_blank">优酷</a>
+            <a href="//www.tudou.com" target="_blank">土豆</a>
+            <a target="_blank" href="//www.soku.com/channel/index______1.html">影视大全</a>
+            <a target="_blank" href="//www.soku.com/newtop/all.html">排行榜</a>
+        </div>
+        <div class="txts" id="y-auto">
+        </div>
+
+        <div class="sk_login">
+        </div>
+    </div>
+</div>
+
+<div class="sk_header sk_header_w">
+    <div class="sk_wrap">
+        <h1 class="logo">
+            <a class="ico ico_logo" href="/">搜库</a>
+        </h1>
+ 		<div class="sk_weather weather_hidden" id="y-weather"></div>
+        <div class="sk_search">
+            <div class="sotool">
+                <form onsubmit="return donewsearch(this);" action="" method="get">
+                    <input class="sotxt" type="text" name="keyword" id="headq" accesskey="s" autocomplete="off" value="" maxlength="200" x-webkit-speech x-webkit-grammar="builtin:translate" />
+                    <button class="btn btn_search" type="submit">搜索</button>
+                </form>
+            </div>
+        </div>
+
+        <div class="sk_promotion">
+            <div class="code" id="y-bar_small"></div>
+        </div>
+        <div class="sk_ads">
+            <div class="ads_box" id="y-bar"></div>
+        </div>
+    </div>
+    <input type="hidden" id="STATIC_SERVER_NEW" value="//static.soku.com/v1.0.0934/soku/inthesky-aone/giantstar">
+</div>
+<script type="text/javascript" src="/search/ad.html?ac=y-weather,y-bar,y-auto"></script>
+
+
+
+
+</body>
+
+<script type="text/javascript">
+    Iku.Interface.addDisableDom($("div.items div.rh a"));
+    Iku.init();
+</script>
+<script type="text/javascript" src="//static.soku.com/v1.0.0934/soku/inthesky-aone/giantstar/js/so/sotool.js"></script>
+<script type="text/javascript" src="//static.soku.com/v1.0.0934/soku/inthesky-aone/giantstar/js/sk-plugins.js"></script>
+
+<script type="text/javascript">
+    $.account.init({
+        "loginId":"loginId",
+        "logoutId":"logoutId",
+        "registerId":"registerId",
+        "success":function(userinfo){
+            if(userinfo.success && userinfo.login){
+                var userLink = '//i.youku.com/i/'+userinfo.user.encodeUid;
+                $(".sk_login").html('<a href="'+ userLink +'" target="_blank"><span class="face"><img src="'+ userinfo.user.profile_image_url.small +'"/></span><span class="name" title="' + userinfo.user.name +'">'+ userinfo.user.name +'</span></a><span class="split">|</span><a id="logoutId" href="#">退出</a>');
+            }else{
+                $(".sk_login").html('<a href="#" id="loginId" _log_type="71"><span>登录</span></a><span class="split">|</span><a href="#" id="registerId" _log_type="72">注册</a>');
+            }
+        }
+    });
+</script>
+
+
+
+<script type="text/javascript">
+	$(function() {
+		$("#sideBar").feedback();
+	});
+</script>
+
+
+
+<script type="text/javascript">
+window.soku_logExt = "&soku=0|0";
+</script>
+ 
+<script type="text/javascript" src="/search/ad.html?ac=y-001"></script>
+<script type="text/javascript" src="//static.soku.com/v1.0.0934/soku/inthesky-aone/giantstar/js/sk-box.js"></script>
+<script type="text/javascript">
+	XBox.init({"site":2});
+</script>
+
+
+<script type="text/javascript" src="//static.soku.com/v1.0.0934/soku/inthesky-aone/giantstar/js/sk-common.js"></script>
+<script type="text/javascript">
+	HeaderControl.init();
+</script>
+<script type="text/javascript" src="//static.soku.com/v1.0.0934/soku/inthesky-aone/giantstar/js/aplus-log.js"></script>
+</html>
+
+

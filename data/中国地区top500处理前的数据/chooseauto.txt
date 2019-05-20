@@ -1,0 +1,1514 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="gb2312">
+<meta http-equiv="X-UA-Compatible" content="IE=11; IE=10; IE=9; IE=8; IE=EDGE">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="renderer" content="webkit">
+<title>
+9ËÙ¸³ÄÜ 2019±ð¿Ë9ATÏÞÊ±ÓÎÏ·ÌüÈ«ËÙ³ö»÷
+_Ñ¡³µÍø</title>
+<meta name="keywords" content=",Ñ¡³µÍø,Æû³µ">
+<meta name="Description" content="9ËÙ¸³ÄÜ£¬È«ËÙ³ö»÷£¡½üÈÕ£¬2019±ð¿Ë9ATÏÞÊ±ÓÎÏ·ÌüÏÖÉíÉîÛÚÒæÌï¼ÙÈÕ¹ã³¡ºÍ¹ãÖÝÌìºÓ³Ç£¬¸÷Â·µç¾º´ïÈË¼°ÒþÊÀ¸ßÊÖ¼¯¾ÛÒ»ÌÃ£¬ÌôÕ½ÕæÊµÈü³µ¾ºËÙÓÎÏ·£¡´Ë´Î9ATÏÞÊ±ÓÎÏ·Ìü¼¯È«ÐÂ±ð¿Ë¾ýÔ½¡¢±ð¿Ë¾ýÍþ¼°¾ýÍþGS×é³ÉµÄ9AT³¬Ç¿Õ½¶Ó£¬ÔÚÄ£Äâ×¨ÒµÈüµÀÉÏ½øÐÐÕæÊµ²Ù¿Ø£¬¼¯¼«ËÙÊÔ¼ÝÓëÓÎÏ·¾º¼¼ÓÚÒ»Ìå£¬ÒÔÎÞ¿ÉÆ¥µÐµÄ³Á½þÊ½¾ºËÙÌåÑé¡¢¾«²Ê¾øÂ×µÄÈ«¸Ð¹ÙÊ¢Ñç£¬´øÄãÁìÂÔ9AT´øÀ´µÄ³¬È¼¼Ý¿ØÐÔÄÜ£¡
+
+
+_Ñ¡³µÍø" >
+<link rel="stylesheet" type="text/css" href="/index2016/css/reset.css">
+<link rel="stylesheet" type="text/css" href="/index2016/css/swiper.css">
+<link rel="stylesheet" type="text/css" href="/index2016/css/index_style.css">
+<link rel="stylesheet" type="text/css" href="/index2016/css/wz_pc_style.css">
+<link rel="stylesheet" type="text/css" href="/index2016/css/sub_header_footer.css">
+<script src="/library/js/jquery-1.11.3.min.js"></script>
+<script src="/library/js/qrcode.min.js"></script>
+<script src="/index2016/js/swiper.min.js"></script>
+<script src="/index2016/js/jquery.cxscroll.min.js"></script>
+<script src="/index2016/js/cursor.js"></script>
+<script src="/index2016/js/wz_pc_photo.js"></script>
+<script src="/index2016/js/wz_global.js"></script>
+<script src="/index2016/js/comment.js"></script>
+<script src="/library/js/browser.js"></script>
+<script>
+browserRedirect('http://m.chooseauto.com.cn/zixun/changshang/294200.shtml');
+//browserRedirect('http://m.chooseauto.com.cn/XinWen.shtml?NewsId=294200')
+</script>
+<!--[if IE 6]>
+  <script src="/index2016/js/png.js"></script>
+  <script>
+      DD_belatedPNG.fix('*');
+  </script>
+<![endif]-->
+</head><body>
+<!---------------------ÓÃ»§×¢²áµÇÂ½ ¿ªÊ¼---------------------->
+<a name="top"></a> 
+<!---------------------Ò³Í·---------------------->
+<div class="head">
+  <div class="head_wrap">
+    <div class="head_left">
+      <div class="login_wrap" id='li_login'> <a href="http://www.chooseauto.com.cn/User/reg.shtml" target="_blank" class="reg">×¢²á</a><a href="http://www.chooseauto.com.cn/User/login.shtml" target="_blank" class="login">µÇÂ¼</a> </div>
+      <div class="exit" style="display:none" id="li_exit">
+        <div class="exit_btn_group" style="display:none;"> <a href="http://user.chooseauto.com.cn/" target="_blank">¸öÈËÖÐÐÄ</a> <a href="#" target="_blank">ÍË³öµÇÂ¼</a> <span class="xiao_arrow"></span> </div>
+      </div>
+      <div class="circle_btn bg_red"> 
+      <div class="img_pos"><img src="/index2016/images/weibo_icon.png" width="24" height="70" class="img_icon" alt=""/></div>
+        <div class="wb_ewm ewm_box_show ewm_box_change" style="display:none;">
+          <p style="color:#808080;">µã»÷¹Ø×¢Ñ¡³µÍøÎ¢²©</p>
+          <p><a href="http://weibo.com/chooseauto?is_hot=1" target="_blank">@Ñ¡³µÍø</a></p>
+          <span class="xiao_arrow"></span></div>
+      </div>
+      <div class="circle_btn bg_gre"> 
+      <div class="img_pos"><img src="/index2016/images/weixin_icon.png" width="24" height="70" class="img_icon" alt=""/></div>
+        <div class="wx_ewm ewm_box_show ewm_box_hide" style="display:none;">
+          <p>¹Ø×¢Ñ¡³µÍøÎ¢ÐÅ</p>
+          <img src="/index2016/images/weixin_ewm.jpg" width="100" height="100" alt=""/><span class="xiao_arrow"></span></div>
+      </div>
+      <div class="circle_btn bg_yel"> 
+      <div class="img_pos"><img src="/index2016/images/wap_icon.png" width="24" height="70" class="img_icon" alt=""/></div>
+        <div class="wp_ewm ewm_box_show ewm_box_hide" style="display:none;">
+          <p>Ñ¡³µÍøÊÖ»ú¶Ë</p>
+          <img src="/index2016/images/wap_ewm.png" width="100" height="100" alt=""/><span class="xiao_arrow"></span></div>
+      </div>
+      <!--div class="circle_btn bg_blu"> 
+      <div class="img_pos"><img src="/index2016/images/app_icon.png" width="24" height="70" class="img_icon" alt=""/></div>
+        <div class="ap_ewm ewm_box_show ewm_box_change" style="display:none;"> <a href="javascript:void(0);" class="click_ios" target="_blank" style="background:url(/index2016/images/ap_logo.png) no-repeat 9px 5px;">Á¢¼´ÏÂÔØ³µ¶Î×Ó</a> <a href="javascript:void(0);" class="click_ios" target="_blank" style="background:url(/index2016/images/an_logo.png) no-repeat 9px 5px; border-top:1px solid #979797;">Á¢¼´ÏÂÔØ³µ¶Î×Ó</a> <span class="xiao_arrow"></span> </div>
+      </div-->
+      <div class="clear"></div>
+    </div>
+    <div class="head_right"><a href="/about.shtml" target="_blank">ÁªÏµÎÒÃÇ</a><a href="/mytoutiao/default.shtml" target="_blank">ÎÒµÄÍ·Ìõ</a><a href="/mynews/" target="_blank">ÐÂÎÅ»ã×Ü</a></div>
+    <div class="clear"></div>
+  </div>
+</div>
+<script>
+var public_userid="0";
+var public_username="";
+var public_nickname="";
+var public_avatarurl="";
+$(document).ready(function() {
+    $(".circle_btn").each(function() {
+        $(this).mouseenter(function() {
+            $(this).children().children(".img_icon").stop().animate({
+                "top": "-41px"
+            },
+            250);
+            $(this).children(".ewm_box_show").show(500);
+        }).mouseleave(function() {
+            $(this).children().children(".img_icon").stop().animate({
+                "top": "-6px"
+            },
+            250);
+            $(this).children(".ewm_box_hide").hide();
+        });
+    });
+    $(".ewm_box_change").mouseleave(function() {
+        $(this).hide();
+    });
+    $(".bg_gre,.bg_yel").mouseenter(function() {
+        $(".ewm_box_change").hide();
+    });
+    $(".nav_wrap").mouseenter(function() {
+        $(".ewm_box_change").hide();
+    });
+    $(".exit").click(function() {
+        $(".exit_btn_group").show();
+    });
+    $(".exit_btn_group").mouseleave(function() {
+        $(this).hide();
+    });
+
+    $.ajax({
+        type: "get",
+        async: false,
+        url: "http://comment.chooseauto.com.cn/chooseauto/testlogin.aspx",
+        dataType: "jsonp",
+        jsonp: "callback",
+        success: function(json) {
+            if (json.message == "ok") {
+                 public_userid=json.items[0].uid;
+                 public_username=json.items[0].username;
+                 public_nickname=json.items[0].nickname;
+                 public_avatarurl=json.items[0].avatarurl;
+                //--------------------------------------------------------------------------
+                var UserName = json.items[0].username;
+                if (json.items[0].nickname != "") {
+                    UserName = json.items[0].nickname;
+                }
+
+                if (UserName.length > 18) {
+                    UserName = UserName.substr(0, 18);
+                }
+                var LoginCon = "<a>" + UserName + "</a><a href='javascript:void(0)' onclick='User_Exit()' >&nbsp;ÍË³ö</a><div class='exit_btn_group' style='display:none;'> <a href='http://user.chooseauto.com.cn/' target='_blank' class='user_info'>¸öÈËÖÐÐÄ</a><a href='javascript:void(0)' onclick='User_Exit()' class='user_info'>ÍË³ö</a> <span class='xiao_arrow'></span> </div>";
+                $("#li_exit").html(LoginCon);
+                $("#li_login").hide();
+                $("#li_exit").show();
+            }
+        }
+    });
+
+});
+local_login_url=window.location.href;
+</script> 
+<!---------------------Ò³Í·----------------------> 
+<script>
+	
+	function User_Exit(){
+            $.ajax({  
+                 type : "get",  
+                 async:false,  
+                 url : "http://comment.chooseauto.com.cn/chooseauto/exitlogin.aspx",  
+                 dataType : "jsonp",  
+                 jsonp:"callback", 
+                 success : function(json){ 
+			 if (json.message=="ok"){
+			        $("#li_login").show();
+			        $("#li_exit").hide();
+                                //window.location.href="http://www.chooseauto.com.cn/"; 
+window.location.reload();
+			 }
+                 } 
+            });  
+	} 
+</script>
+<!---------------------ÓÃ»§×¢²áµÇÂ½ ½áÊø---------------------->
+<!---------------------µ¼º½ ¿ªÊ¼---------------------->
+<!---------------------µ¼º½---------------------->
+<div class="nav_wrap">
+  <div class="nav_con"><a class="home_page" href="http://www.chooseauto.com.cn">Ñ¡³µÍøÊ×Ò³</a><span></span><a href="/xlph/" target="_blank">ÏúÁ¿</a><span></span><a href="/shipin/index.shtml" target="_blank">ÊÓÆµ</a><span></span><a href="/shownews/" target="_blank">ÈËÎï</a><span></span><a href="/zixun/" target="_blank">×ÊÑ¶</a><span></span><a href="/xinche/default.shtml" target="_blank">ÐÂ³µ</a><span></span><a href="/dsjph/index.shtml" target="_blank">´óÊý¾Ý</a><span></span><a href="/shijia/default.shtml" target="_blank">ÆÀ²â</a><span></span><a href="/zhuanlan/default.shtml" target="_blank">×¨À¸</a><span></span><a href="/xinnengyuan/default.shtml" target="_blank">ÐÂÄÜÔ´</a><span></span><a href="/zt/default.shtml" target="_blank">×¨Ìâ</a></div>
+</div>
+<!---------------------µ¼º½½áÊø---------------------->
+<!---------------------µ¼º½ ½áÊø---------------------->
+<!---------------------·µ»Ø¶¥²¿---------------------->
+
+
+<link rel="stylesheet" type="text/css" href="/user/css/reset.css">
+<link rel="stylesheet" type="text/css" href="/user/css/header_footer.css">
+<link rel="stylesheet" type="text/css" href="/user/css/reg.css">
+<link type="text/css" rel="stylesheet" href="/user/css/wee.css" />
+<script>
+     local_login_url=window.location.href;
+	if(window.top !== window.self){ window.top.location = window.location;}
+</script>
+<script type="text/javascript" src="/user/js/jquery-browser.js"></script>
+<script type="text/javascript" src="/user/js/bgiframe.js"></script>
+<script type="text/javascript" src="/user/js/weebox.js"></script>
+<script type="text/javascript" src="/user/js/login.js"></script>
+<!--[if IE 6]>
+  <script src="js/png.js"></script>
+  <script>
+      DD_belatedPNG.fix('*');
+  </script>
+<![endif]-->
+<!---------------------µ¯´°---------------------->
+<div class="layer_bg">
+  <div class="layer_wrap">
+    <div class="slide_position">
+      <div class="layer_close">¡Á</div>
+    </div>
+    <h2>Ñ¡³µÍøÓÃ»§µÇÂ¼</h2>
+    <div class="form_list">
+      <div class="item">
+        <label class="txt_label">ÕËºÅ£º</label>
+        <input type="text" placeholder="ÓÊÏä/ÊÖ»úºÅ" id="user_name" class="txt_input" onBlur="userName()">
+        <i></i>
+        <div class="clear"></div>
+      </div>
+      <div class="item">
+        <label class="txt_label">ÃÜÂë£º</label>
+        <input type="password" placeholder="ÇëÊäÈëÃÜÂë" id="password" class="txt_input" onBlur="pass()">
+        <i></i>
+        <div class="clear"></div>
+      </div>
+      <div class="item">
+        <label class="txt_label">ÑéÖ¤Âë£º</label>
+        <input type="text" placeholder="ÑéÖ¤Âë" id="picCode" class="txt_input_s" onBlur="sCode()">
+        <div class="yzm"><img id="code-pic" src="" width="86" height="28"><span onClick="getsessionCode()" class="line">»»Ò»»»</span></div>
+         <i></i>
+        <div class="clear"></div>
+      </div>
+      <div class="item">
+        <input type="button" value="µÇ&nbsp;Â¼" class="login_btn" id="userLogin_btn">
+        <a href="/user/find.shtml" target="_blank" class="forget_p">Íü¼ÇÃÜÂë£¿</a><a href="/user/reg.shtml" target="_blank" class="reg_link">×¢²á</a></div>
+    </div>
+    <div class="slide_wrap">
+    	<p class="sp_item">µÚÈý·½µÇÂ¼£º</p>
+		<p class="item"><a href="javascript:void(0);" class="wb_btn"  onClick="login_weibo()"></a></p>
+		<p class="item"><a href="javascript:void(0);" class="qzone_btn"  onClick="login_qq()"></a></p>
+		<p class="item"><a href="/user/login_p.shtml" class="phone_btn"></a></p>
+        <div class="clear"></div>
+      </div>
+  </div>
+</div>
+
+
+
+<div class="wz_back_top">
+  <div class="wz_back_wrap">
+    <div class="wz_bt_ewm">
+      <div class="wz_hide_ewm"> 
+        <div id="qrcodeTable" style="width:90px; height:90px;"></div>
+        <div class="wap_tit">ÊÖ»ú¼ÌÐø¿´</div>
+      </div>
+    </div>
+    <a href="#top">
+    <div class="wz_bt_btn"></div>
+    </a> </div>
+</div>
+<!----------------¶þÎ¬ÂëÉú³É----------------->
+<script type="text/javascript">
+var qrcode = new QRCode(document.getElementById("qrcodeTable"), {
+	width : 90,
+	height : 90
+});
+function makeCode () {		
+	var elText = document.location.href;	
+	qrcode.makeCode(elText);
+}
+makeCode();
+</script>
+<!----------------main_content----------------->
+<div class="main_content">
+  <div class="wz_nav">
+    <div class="wz_position">µ±Ç°Î»ÖÃ£º<a href="http://www.chooseauto.com.cn/" target="_blank">Ê×Ò³</a>
+       > <a href="/zixun/default.shtml" target=_blank>×ÊÑ¶</a> > <a href="/zixun/changshang/default.shtml" target=_blank>³§ÉÌÐÂÎÅ</a>
+    </div>
+    	  <div class="wz_search">
+        <div class="change_item">ÐÂÎÅ</div>
+        <div class="item_c" style="display:none;">ÊÓÆµ</div>
+		<form  method="get" enctype="multipart/form-data" name="Tsearch"   id="Tsearch"   accept-charset="gb2312" onSubmit="document.charset='gb2312';return submitsearch();" target="_blank">
+		<input id="p" name="p" type="hidden" value="1" />
+		<input id="t" name="t"   type="text" class="search_txt">
+		<input  type="submit"  class="search_btn" value="ËÑË÷">
+		</form>	  
+        <div class="clear"></div>
+      </div>
+	<script>
+	   function submitsearch(){
+		   var Stype = $(".change_item").text();
+		   var Skeyword = $(".search_txt").val();
+
+		   if (Skeyword==""){
+		       alert("ÇëÊäÈëËÑË÷¹Ø¼ü×Ö");
+		       return false;
+		   }
+		   if (Stype!="ÐÂÎÅ"){
+		          $("#Tsearch").attr("action","http://www.chooseauto.com.cn/search/shipin/?");
+				  
+		   }else{
+		          $("#Tsearch").attr("action","http://www.chooseauto.com.cn/search/?");
+		   }
+		}
+	</script>
+
+    <div class="clear"></div>
+  </div>
+<!-- content_title star -->
+
+
+<!-- content_title end -->
+
+  <div class="wz_left">
+    <!-----------ÎÄÕÂÍ¼¿â------------>
+    <div class="wz_main">
+      <div class="article">
+        <h1>
+          9ËÙ¸³ÄÜ 2019±ð¿Ë9ATÏÞÊ±ÓÎÏ·ÌüÈ«ËÙ³ö»÷
+        </h1>
+        <div class="wz_info"> <span class="wz_time">
+          2019-5-20 13:20:00
+          </span> <span class="wz_link">
+          Ñ¡³µÍø
+          </span> <span class="wz_name">
+          
+          </span> 
+<span class="wz_collect"><a href="javascript:void(0);" onClick="setfavorites(294200)">ÊÕ²Ø</a></span> 
+<span class="wz_share">
+                   <!-- JiaThis Button BEGIN -->
+          <div class="jiathis_style"> <a class="jiathis_button_qzone"></a> <a class="jiathis_button_tsina"></a> <a class="jiathis_button_tqq"></a> <a class="jiathis_button_weixin"></a> <a class="jiathis_button_renren"></a> <a class="jiathis_button_xiaoyou"></a> <a href="http://www.jiathis.com/share" class="jiathis jiathis_txt jtico jtico_jiathis" target="_blank"></a> <a class="jiathis_counter_style"></a> </div>
+          <script type="text/javascript" src="http://v3.jiathis.com/code/jia.js" charset="utf-8"></script>
+          <!-- JiaThis Button END -->
+          </span>
+          <div class="clear"></div>
+        </div>
+        <div id="div_CurrentPage">
+          <P>9ËÙ¸³ÄÜ£¬È«ËÙ³ö»÷£¡½üÈÕ£¬2019±ð¿Ë9ATÏÞÊ±ÓÎÏ·ÌüÏÖÉíÉîÛÚÒæÌï¼ÙÈÕ¹ã³¡ºÍ¹ãÖÝÌìºÓ³Ç£¬¸÷Â·µç¾º´ïÈË¼°ÒþÊÀ¸ßÊÖ¼¯¾ÛÒ»ÌÃ£¬ÌôÕ½ÕæÊµÈü³µ¾ºËÙÓÎÏ·£¡´Ë´Î9ATÏÞÊ±ÓÎÏ·Ìü¼¯È«ÐÂ±ð¿Ë¾ýÔ½¡¢±ð¿Ë¾ýÍþ¼°¾ýÍþGS×é³ÉµÄ9AT³¬Ç¿Õ½¶Ó£¬ÔÚÄ£Äâ×¨ÒµÈüµÀÉÏ½øÐÐÕæÊµ²Ù¿Ø£¬¼¯¼«ËÙÊÔ¼ÝÓëÓÎÏ·¾º¼¼ÓÚÒ»Ìå£¬ÒÔÎÞ¿ÉÆ¥µÐµÄ³Á½þÊ½¾ºËÙÌåÑé¡¢¾«²Ê¾øÂ×µÄÈ«¸Ð¹ÙÊ¢Ñç£¬´øÄãÁìÂÔ9AT´øÀ´µÄ³¬È¼¼Ý¿ØÐÔÄÜ£¡</P>
+<P align=center><IMG alt="" src="/zixun/changshang/images/2019/5/20/2019520AD898331E1B746F187EA11C937154817.png" _src="/zixun/changshang/images/2019/5/20/2019520AD898331E1B746F187EA11C937154817.png"></P>
+<P>±ð¿Ë9ATÏÞÊ±ÓÎÏ·Ìü´òÔì¸Ð¹Ù³Á½þÊ½¾ºËÙÌåÑé</P>
+<P>ÁÁµãÒ»£º</P>
+<P>±ð¿Ë9ATÕ½¶Ó¼¯½á£¬Éý¼¶ËÄ³µ¶ÔÕ½°æ</P>
+<P align=center><IMG alt="" src="/zixun/changshang/images/2019/5/20/201952047B0519AB99C4298910BDBCECD3A14C1.png" _src="/zixun/changshang/images/2019/5/20/201952047B0519AB99C4298910BDBCECD3A14C1.png"></P>
+<P>ËÄ³µ¶ÔÕ½£¬2019±ð¿Ë9ATÏÞÊ±ÓÎÏ·ÌüÍæ·¨Éý¼¶</P>
+<P>È«ÐÂ¾ýÔ½µÄ¼ÓÈëÁî2019±ð¿Ë9ATÕ½¶ÓµÄÕ½¶·Á¦´ó·ùì­Éý¡£È«ÐÂ¾ýÔ½´îÔØÍ¨ÓÃÆû³µµÚ°Ë´úEcotecÏµÁÐ2.0T¿É±ä¸×ÎÐÂÖÔöÑ¹·¢¶¯»úÓë 9ËÙ HYDRA-MATICÖÇÄÜ±äËÙÏä£¬´øÀ´177Ç§ÍßµÄ×î´ó¹¦ÂÊ£¬²¢¿ÉÔÚ1500-4000rpmµÄ¿í¹ã×ªËÙ·¶Î§ÄÚÊµÏÖ350Å£¡¤Ã××î´óÅ¤¾Ø¡£ÕâÒâÎ¶×ÅÕâ¿îÕ½³µÔÚÆð²½½×¶Î¾ÍÓÐºÜºÃµÄÅ¤¾Ø±íÏÖ£¬ÅäºÏ³äÅæµÄ¶¯Á¦Êä³ö¡¢9AT¶Ô¼ÝÊ»ÒâÍ¼µÄ¶´Ï¤Óë¾«×¼·´À¡£¬ÈÃÍæ¼ÒÄÜ¹»ÇáËÉÇ¿ÊÆ¿Ø³¡£¬¾¡ÏíÈË³µºÏÒ»µÄ¼Ý¿Ø÷ÈÁ¦¡£</P>
+<P>ÁÁµã¶þ£º×¨Òµ¾º¼¼ÈüµÀ</P>
+<P align=center><IMG alt="" src="/zixun/changshang/images/2019/5/20/201952079FFD103AFDA4FC399A5C9698C14832F.png" _src="/zixun/changshang/images/2019/5/20/201952079FFD103AFDA4FC399A5C9698C14832F.png"></P>
+<P align=center><IMG alt="" src="/zixun/changshang/images/2019/5/20/20195209A29F7275C1F49A3BE220F6EE78FDE52.png" _src="/zixun/changshang/images/2019/5/20/20195209A29F7275C1F49A3BE220F6EE78FDE52.png"></P>
+<P>2019±ð¿Ë9ATÏÞÊ±ÓÎÏ·ÌüÄ£ÄâÊÀ½ç¼¶×¨ÒµÈüµÀ£¬ÌåÑé±ÆÕæÈü³µÀÖÈ¤</P>
+<P>2019±ð¿Ë9ATÏÞÊ±ÓÎÏ·ÌüÒýÈëÁËÊÀ½çÖªÃûµÄÁ½Ìõ³ÇÊÐÈüµÀ¡ª¡ªÄ¦ÄÉ¸çºÍÐÂ¼ÓÆÂÈüµÀ¡£¾­¹ýÌØ±ðÓÅ»¯£¬ÈüµÀÅÔµÄ³ÇÊÐ½Ö¾°ÓëÑ¤ÀÃµÄ³µµÆÁ÷Ó°ÏàµÃÒæÕÃ£¬ÈÃÍæ¼ÒµÄ¸ß¶Ë²Ù×÷¸üÏÔìÅ¿á¶áÄ¿¡£¸÷ÖÖ¸´ÔÓ¶à±äµÄ²»Í¬ÍäµÀ³äÂúÀÖÈ¤£¬Ê±¿ÌÌôÕ½Íæ¼ÒµÄ²Ù¿Ø¼¼ÇÉ¡£</P>
+<P>ÁÁµãÈý£ºÁ½ÖÖÈüÖÆÌåÑé</P>
+<P align=center><IMG alt="" src="/zixun/changshang/images/2019/5/20/2019520BF2DC99045AD4C69AF31ACABB5DB7D9F.png" _src="/zixun/changshang/images/2019/5/20/2019520BF2DC99045AD4C69AF31ACABB5DB7D9F.png"></P>
+<P>Íæ¼Ò¿ÉÑ¡µ¥ÈË¼ÆÊ±Èü»òË«ÈËPKÈüÁ½ÖÖ¾º¼¼·½Ê½</P>
+<P align=center><IMG alt="" src="/zixun/changshang/images/2019/5/20/2019520B00BDE3A8A21424B89F51071CDFBB82D.png" _src="/zixun/changshang/images/2019/5/20/2019520B00BDE3A8A21424B89F51071CDFBB82D.png"></P>
+<P>Ë«ÈËPKÄ£Ê½¼ÓÈëÐè¶ã±ÜµÄNPC³µÁ¾£¬²¢¿ÉÊµÊ±¿´µ½¶Ô·½³µÁ¾Î»ÖÃ</P>
+<P>³ýÁËÄ£ÄâÊÀ½çÖªÃûµÄ×¨ÒµÈüµÀ£¬½ñÄêµÄ9ATÏÞÊ±ÓÎÏ·Ìü»¹²îÒì»¯Ìá¹©Á½ÖÖÈüÖÆ£¬ÒìÑù´Ì¼¤£¬Í¬Ñù¾«²Ê¡£×ø½øÕæÊµµÄ¼ÝÊ»²ÕÄÚ£¬Íæ¼ÒÃÇ¿ÉÑ¡Ôñµ¥ÈË¼ÆÊ±Èü£¬ÔÚ¼«¾ßÕæÊµ¸ÐµÄ»ð±¬³¡¾°ÀïÊµÏÖ×Ô¼º¡°¿ñì­Í»½ø¡±µÄËÙ¶ÈÓë¼¤Çé£»Ò²¿ÉÑ¡Ôñ¡°×½¶ÔØËÉ±¡±£¬ÔÚË«ÈËPKÈüÖÐÏíÊÜ¼¤ÁÒBattleµÄ¾º¼¼ÀÖÈ¤¡£Í¬Ê±£¬±ÈÈüÖÐ¿É¿´µ½¶Ô·½³µÁ¾µÄÊµÊ±Î»ÖÃ£¬ÕâÖÖ¡°ÌùÉíÈâ²«¡±¾ø¶ÔÄÜÈÃÍæ¼ÒÉöÉÏÏÙËØì­Éý¡£</P>
+<P>ÉÏ·ÖÃØ¼®</P>
+<P align=center><IMG alt="" src="/zixun/changshang/images/2019/5/20/2019520432F9BB83D964E97939E7B7FABE60A3D.png" _src="/zixun/changshang/images/2019/5/20/2019520432F9BB83D964E97939E7B7FABE60A3D.png"></P>
+<P>µ±µµÎ»´ïµ½9µ²Ê±£¬ÈüµÀÖÐ½«³öÏÖ¡°9ËÙBUFF¡±£¬»ñµÃ¼´¿É¼ÓËÙ</P>
+<P>Èç¹ûÄãÊÇÈüµÀ¸ßÊÖ£¬ÄÇÃ´Ò»Ì×¡°É²³µ¡¢½µµµ¡¢ÓÍÃÅ¡¢¸ßËÙ¹ýÍä¡±µÄ²Ù×÷¼´¿ÉÔÚÍäµÀÃëÉ±¾¢µÐ¡£²»¹ýË×»°Ëµ¡°²Ù×÷ÃÍÈç»¢£¬²»ÈçÓÐBUFF¡±¡£ÎÞÂÛÊÇ¸ßÍæÍõÕß£¬»¹ÊÇÃÈÐÂÇàÍ­£¬Õ¹ÏÖÄãµÄ¼Ý¿Ø¼¼ÇÉÇ¿Á¦¼ÓËÙÉýÖÁ9µµ£¬´ò¿ª¡°9ËÙHYDRA-MATIC¡±¼±ËÙÊ±¿Ì£¬²»Òª´í¹ý³öÏÖµÄÈÎºÎÒ»Ã¶9ËÙBUFF£¬¾ÍÈÃ¶ÔÊÖÍû³¾Äª¼°¡£</P>
+<P align=center><IMG alt="" src="/zixun/changshang/images/2019/5/20/2019520A81228F08E4940D99278D0EE469F540F.png" _src="/zixun/changshang/images/2019/5/20/2019520A81228F08E4940D99278D0EE469F540F.png"></P>
+<P>±ð¿Ë9ATÏÞÊ±ÓÎÏ·ÌüµÈÄãÀ´Õ½£¡</P>
+<P>ÉîÛÚ¡¢¹ãÖÝ¡¢³É¶¼¡¢ÇàµºÕ¾Ö®ºó£¬2019±ð¿Ë9ATÏÞÊ±ÓÎÏ·Ìü»¹½«Ï¯¾í±±¾©¡¢ÄÏ¾©¡¢ÉÏº£µÈ¸÷´ó³ÇÊÐ¡£·éÑÌÔÙÆð£¬ÈºÐÛ½«ÖÁ£¬9ËÙÍæ¼ÒÃÇ£¬µÈÄãÀ´Õ½£¡</P>
+        </div>
+<!-- 
+Ã»Àí½âÓÃÍ¾£¬ÏÈ×¢ÊÍµô
+       <div id="div_OtherContent" style=" display:none" >
+          <div id="div_AllPageContent"></div>
+          <div class="the_pages1" >
+            <div style="margin-top:10px;"><a href="">±¾Ò³ÔÄ¶ÁÈ«ÎÄ</a></div>
+          </div>
+        </div>
+        <div id="div_Temp"   style="display:none; "></div>
+-->
+      </div>
+      <div class="wz_pages" id="div_page">
+        <span class='wz_page_btn preview_off'>&lt;&lt; ÉÏÒ»Ò³</span><a class='linknow'>1</a><span class='wz_page_btn preview_on'>ÏÂÒ»Ò³&gt;&gt;</span>
+        <script>
+window.onload = function() {
+    document.onkeydown = keyDown; //js»ñÈ¡°´¼ükeycodeÖµ 
+}
+
+function keyDown(evt) {
+    evt = evt || window.event;
+    var key = evt.which || evt.keyCode;
+    if (key == 37 && '' != "") location = ''
+    if (key == 39 && '' != "") location = ''
+
+}
+
+function pageDoc() {
+    $("#div_page").css("display", "block");
+    $("#div_Keyword").css("display", "block");
+    $("#div_CurrentPage").css("display", "block");
+    $("#div_OtherContent").css("display", "none");
+}
+</script>
+        <span class="wz_read_all"><a href="/zixun/changshang/294200_all.shtml#p1">±¾Ò³ÔÄ¶ÁÈ«ÎÄ</a></span> </div>
+      <div class="the_pages_keyboard" id="div_Keyword">°´¼üÅÌÉÏµÄ"¡û ¡ú"¼üÒ²ÄÜ·­Ò³</div>
+      <div class="wz_bottom_share">
+        <div class="wz_keywords">
+          <div class="wz_key_l">¹Ø¼ü´Ê£º
+            
+          </div>
+          <div class="wz_key_r">ÔðÈÎ±à¼­£º
+            yaojia
+          </div>
+          <div class="clear"></div>
+        </div>
+        <div class="wz_b_share">
+          <div class="wz_share_tip" style ="display :none">·ÖÏí¸øºÃÓÑ£º</div>
+          <div class="wz_jiathis">
+            <!-- JiaThis Button BEGIN -->
+            <div class="jiathis_style_24x24"> <a class="jiathis_button_qzone"></a> <a class="jiathis_button_tsina"></a> <a class="jiathis_button_tqq"></a> <a class="jiathis_button_weixin"></a> <a class="jiathis_button_renren"></a> <a class="jiathis_button_xiaoyou"></a> <a href="http://www.jiathis.com/share" class="jiathis jiathis_txt jtico jtico_jiathis" target="_blank"></a> <a class="jiathis_counter_style"></a> </div>
+            <script type="text/javascript" src="http://v3.jiathis.com/code/jia.js" charset="utf-8"></script>
+            <!-- JiaThis Button END -->
+          </div>
+          <!---------------------ÓÐ½±¾À´í ¿ªÊ¼---------------------->
+          <div class="wz_erro"> <a>ÓÐ½±¾À´í</a> </div>
+          <div class="erro_layer" style="display:none;">
+            <div class="erro_layer_wrap"> <span class="erro_lw_close">¡Á</span>
+              <p class="erro_lw_tit">ÓÐ½±¾À´í</p>
+              <p class="erro_tips">Èç¹ûÄú·¢ÏÖ±¾ÎÄÓÐÈÎºÎ´íÎó£¨´í×Ö»ò²¡¾ä£©£¬Çë²»Áß¸«Õý¡£</p>
+              <p class="erro_tips">Èç¹ûÇé¿öÊôÊµ£¬ÎÒÃÇ½«ÓÐ¾«ÃÀÐ¡ÀñÆ··îÉÏ£¡</p>
+              <p class="erro_tips">Çë¹Ø×¢ÄúµÄÓÃ»§ÖÐÐÄ¡£</p>
+              <div class="erro_item"><span class="erro_txt chose">¶ÎÂä</span> | <span class="erro_pic">Í¼Æ¬</span></div>
+              <div class="erro_con erro_con_txt" style="display:block;">
+                <div class="erro_position" id="err_w">ÎÄÖÐµÚ<input id="C_Duan" type="text">¶Î£¬µÚ<input id="C_Hang" type="text">ÐÐ£»</div>
+              </div>
+			  <div class="erro_con erro_con_pic" style="display:none;">
+                <div class="erro_position">ÎÄÖÐµÚ<input id="C_Pic" type="text">ÕÅÍ¼Æ¬£»</div>
+              </div>
+			<div class="erro_inpt">
+				<div class="erro_des"><textarea name="wz_com" id="wz_com" class="wz_com" cols="" rows="" onKeyDown="countChar(this);" onKeyUp="countChar(this);" onFocus="errof(this);" onBlur="errob(this);">´íÎóÃèÊö£º</textarea>
+				  <div class="wz_com_num"><span class="wz_com_now">0</span>/300</div>
+				</div>
+				<div class="erro_btn">
+				</div>
+			</div>
+            </div>
+          </div>
+
+          <!---------------------ÓÐ½±¾À´í ½áÊø---------------------->
+          <div class="clear"></div>
+        </div>
+      </div>
+    </div>
+    <!-----------ÎÄÕÂÆÀÂÛ  ¿ªÊ¼------------>
+    <div class="wz_comment">
+      <div class="wz_com_tit">
+        ÍøÓÑÆÀÂÛ<span class="wz_little">ÎÄÃ÷ÉÏÍø ÀíÐÔ·¢ÑÔ</span><span class="now_com_user" style="display:none;"><b>ÍõÄ¾Ä¾</b><i onClick="nClose(this);"></i></span>
+      </div>
+      <div class="wz_com_wrap">
+        <div id="cpl"></div>
+      </div>
+	  <div class="wz_com_list">
+        <div class="wz_com_ltit"> <span>È«²¿ÆÀÂÛ<i id="huifushu">£¨£©</i></span>
+        </div>
+        <ul id="showhuifu">
+        </ul>
+        <div class="wz_load_more"><a href="/zixun/changshang/294200_c.shtml" target="_blank">¼ÓÔØ¸ü¶à</a></div>
+      </div>
+    </div>
+    <!-----------ÎÄÕÂÆÀÂÛ  ½áÊø------------>
+	<!-- ÎÄÕÂÄÚÍ¼Æ¬Ô¤ÀÀÏà²á ¿ªÊ¼ -->
+    <div class="shade_layer" style="display:none;"></div>
+    <div class="pic_slide_wrap" style="display:none;">
+      <div class="art_tit"></div>
+      <div class=" slide_pc_wrap">
+        <div class="swiper-container">
+          <div class="swiper-wrapper"></div>
+        </div>
+        <a class="arrow-left"></a> <a class="arrow-right"></a> </div>
+      <div class="status_num"><span class="tk_close">¡Á</span><span class="active_num"></span>/<span class="sum_num"></span></div>
+    </div>
+	<!-- ÎÄÕÂÄÚÍ¼Æ¬Ô¤ÀÀÏà²á ¿ªÊ¼ -->
+  </div>
+  <div class="wz_right">
+    <!---------------------Æû³µÊÓÆµ ¿ªÊ¼---------------------->
+    <div class="wz_shipin_wrap">
+      <div class="wz_r_tit bg01">Æû³µÊÓÆµ</div>
+      <div id="wz_pic_1" class="scroll_vertical">
+        <div class="box">
+          <ul class="list">
+              <li> <a href="/shipin/guanlaoshi/294108.shtml" target="_blank"><img src="/image7/2019/5/17/BAD596B69A6F4587A5F8F72A6E37B3FE.jpg" width="225" height="150" alt="³µÀÐµÀ£º×ÔÖ÷Æ·ÅÆÊÇÈíÊÁ×Ó£¿"/><span class="play_btn" style="display:none;"></span></a>       <p class="jrjj_list_tit"><a href="/shipin/guanlaoshi/294108.shtml" target="_blank">³µÀÐµÀ£º×ÔÖ÷Æ·ÅÆÊÇÈíÊÁ×Ó£¿</a></p>   </li>  <li> <a href="/shipin/guanlaoshi/293836.shtml" target="_blank"><img src="/image1/2019/5/10/E00C6C02104C46188C698FDC8D3234B1.jpg" width="225" height="150" alt="µç¶¯³µÄÃÖ±Ïß¼ÓËÙËµÊÂ¶ù ÕæÊµÁ¦»¹ÊÇÓû¸ÇÃÖÕÃ£¿"/><span class="play_btn" style="display:none;"></span></a>       <p class="jrjj_list_tit"><a href="/shipin/guanlaoshi/293836.shtml" target="_blank">µç¶¯³µÄÃÖ±Ïß¼ÓËÙËµÊÂ¶ù&nbsp;ÕæÊµÁ¦»¹ÊÇÓû¸ÇÃÖ</a></p>   </li>  <li> <a href="/shipin/siche/293702.shtml" target="_blank"><img src="/image3/2019/5/6/71146A0CAC7B4AE8B1DAA357D4345B91.jpg" width="225" height="150" alt="3.0T£«48VÇá»ìÕæÏã£¿´ó¸¶ÊÔÈ«ÐÂ±¼³ÛGLE"/><span class="play_btn" style="display:none;"></span></a>       <p class="jrjj_list_tit"><a href="/shipin/siche/293702.shtml" target="_blank">3.0T£«48VÇá»ìÕæÏã£¿´ó¸¶ÊÔÈ«ÐÂ±¼³ÛGLE</a></p>   </li>
+          </ul>
+        </div>
+      </div>
+    </div> 
+    <!---------------------Æû³µÊÓÆµ ½áÊø---------------------->
+    <!---------------------½ñÈÕ¾Û½¹ ¿ªÊ¼---------------------->
+    <div class="wz_jujiao_wrap">
+  <div class="wz_r_tit bg02">½ñÈÕ¾Û½¹
+    <ul>
+      <li class="wz_tab_bg">1</li>
+      <li>2</li>
+      <li>3</li>
+      <div class="clear"></div>
+    </ul>
+  </div>
+  <ul class="wz_jj_list" style="display:block;"><li><div class="wz_li_l"><a href="/zixun/hangye/283760.shtml" target="_blank"><img src="/image1/2018/6/7/6301CBB7C2934DD2BE16B2B7899F338D.jpg" width="116" height="82" alt="" class="zoom"/></a></div><div class="wz_li_r"> <h2><a href="/zixun/hangye/283760.shtml" target="_blank">6ÔÂ6ÈÕ£¬É½³ÇÖØÇì£¬2018£¨µÚ¾Å½ì£©È«...</a></h2><div class="wz_wz_time">2018-6-6</div></div><div class="clear"></div></li><li><div class="wz_li_l"><a href="/zixun/changshang/283542.shtml" target="_blank"><img src="/image8/2018/5/31/211BBEAF8002414CB29909C77ED48B8B.jpg" width="116" height="82" alt="" class="zoom"/></a></div><div class="wz_li_r"> <h2><a href="/zixun/changshang/283542.shtml" target="_blank">ÐÂÊ±´ú¡¢ÐÂ¼¼Êõ±³¾°Ö®ÏÂ£¬ÐíÐí¶à¶àÐÂ...</a></h2><div class="wz_wz_time">2018-5-31</div></div><div class="clear"></div></li><li><div class="wz_li_l"><a href="/xinche/guonei/283448.shtml" target="_blank"><img src="/image1/2018/5/30/EF9AB300C9564A50B9F05B5A1D3E5883.jpg" width="116" height="82" alt="" class="zoom"/></a></div><div class="wz_li_r"> <h2><a href="/xinche/guonei/283448.shtml" target="_blank">À×¿ËÈøË¹È«ÐÂESÓÐÍû2018Äê7ÔÂÕýÊ½ÉÏÊÐ...</a></h2><div class="wz_wz_time">2018-5-30</div></div><div class="clear"></div></li><li><div class="wz_li_l"><a href="/xinche/guowai/283399.shtml" target="_blank"><img src="/image4/2018/5/29/88A513EAFFC6487C890B3A6D8AB4C0C2.jpg" width="116" height="82" alt="" class="zoom"/></a></div><div class="wz_li_r"> <h2><a href="/xinche/guowai/283399.shtml" target="_blank">½üÈÕ£¬º£ÍâÃ½Ìå±¨µÀ³Æ£¬±¼³ÛGLBÒÑ¾­ÔÚ...</a></h2><div class="wz_wz_time">2018-5-29</div></div><div class="clear"></div></li></ul><ul class="wz_jj_list" style="display:none;"><li><div class="wz_li_l"><a href="/xinche/guonei/283391.shtml" target="_blank"><img src="/image2/2018/5/29/7FFFDC6444FF421D98D087BDA5A7103E.jpg" width="116" height="82" alt="" class="zoom"/></a></div><div class="wz_li_r"> <h2><a href="/xinche/guonei/283391.shtml" target="_blank">2018Äê5ÔÂ28ÈÕ£¬ÔÚÒ»Æû-´óÖÚ»ª¶«»ùµØ...</a></h2><div class="wz_wz_time">2018-5-29</div></div><div class="clear"></div></li><li><div class="wz_li_l"><a href="/xinche/guonei/283384.shtml" target="_blank"><img src="/image7/2018/5/29/EC54D1B3C0CA44FAB4A8FD6512EE6BD0.jpg" width="116" height="82" alt="" class="zoom"/></a></div><div class="wz_li_r"> <h2><a href="/xinche/guonei/283384.shtml" target="_blank">5ÔÂ28ÈÕ£¬¼ªÀû¿Æ¼¼ÖÇ»ìÐÂÆì½¢²©ÈðGEÕý...</a></h2><div class="wz_wz_time">2018-5-29</div></div><div class="clear"></div></li><li><div class="wz_li_l"><a href="/xinche/guonei/283295.shtml" target="_blank"><img src="/image1/2018/5/28/4C8304803537482AA3D98D4F43FF2E5A.jpg" width="116" height="82" alt="" class="zoom"/></a></div><div class="wz_li_r"> <h2><a href="/xinche/guonei/283295.shtml" target="_blank">2018Äê5ÔÂ26ÈÕ£¬¡°Ô¦¼ûÃÀºÃ¡±Ò»Æû±¼ÌÚ...</a></h2><div class="wz_wz_time">2018-5-26</div></div><div class="clear"></div></li><li><div class="wz_li_l"><a href="/zixun/hangye/283289.shtml" target="_blank"><img src="/image6/2018/5/26/700F7B712C15465CB10E980163D6B586.jpg" width="116" height="82" alt="" class="zoom"/></a></div><div class="wz_li_r"> <h2><a href="/zixun/hangye/283289.shtml" target="_blank">5ÔÂ25ÈÕ£¬È«ÐÂ¹þ¸¥H6ºÀ»ªÐÍ¼°³¬ºÀÐÍÕý...</a></h2><div class="wz_wz_time">2018-5-26</div></div><div class="clear"></div></li></ul><ul class="wz_jj_list" style="display:none;"><li><div class="wz_li_l"><a href="/xinche/guonei/283280.shtml" target="_blank"><img src="/image8/2018/5/25/BE3819DD827E43BA926CD75AB7377461.jpg" width="116" height="82" alt="" class="zoom"/></a></div><div class="wz_li_r"> <h2><a href="/xinche/guonei/283280.shtml" target="_blank">2018Äê5ÔÂ25ÈÕ£¬ÉÏÆû´óÖÚÈ«ÐÂÒ»´úÀÊÒÝ...</a></h2><div class="wz_wz_time">2018-5-25</div></div><div class="clear"></div></li><li><div class="wz_li_l"><a href="/shijia/ceshi/283276.shtml" target="_blank"><img src="/image6/2018/5/25/2BBCD0D1E4824338A7DB9DD22FC9FF81.jpg" width="116" height="82" alt="" class="zoom"/></a></div><div class="wz_li_r"> <h2><a href="/shijia/ceshi/283276.shtml" target="_blank">µ±Ïû·ÑËßÇóÖð²½ÏòÄêÇá»¯¡¢ÔË¶¯»¯¡¢ÖÇ...</a></h2><div class="wz_wz_time">2018-5-25</div></div><div class="clear"></div></li><li><div class="wz_li_l"><a href="/xinche/guonei/283215.shtml" target="_blank"><img src="/image5/2018/5/25/8E2A144239354385BE4BE8BEB8A2174E.jpg" width="116" height="82" alt="" class="zoom"/></a></div><div class="wz_li_r"> <h2><a href="/xinche/guonei/283215.shtml" target="_blank">½üÈÕ£¬ÉÏÆû´óÖÚ¹Ù·½Ðû²¼ÆäÈ«ÐÂ½ô´ÕÐÍ...</a></h2><div class="wz_wz_time">2018-5-25</div></div><div class="clear"></div></li><li><div class="wz_li_l"><a href="/xinche/guonei/283160.shtml" target="_blank"><img src="/image8/2018/5/23/5CE441618C03446795C21578589E871F.jpg" width="116" height="82" alt="" class="zoom"/></a></div><div class="wz_li_r"> <h2><a href="/xinche/guonei/283160.shtml" target="_blank">5ÔÂ23ÈÕ£¬ÁÔ±ªÆû³µÆìÏÂµÄÈ«ÐÂ½ô´Õ¼¶S...</a></h2><div class="wz_wz_time">2018-5-23</div></div><div class="clear"></div></li></ul>
+</div>
+ 
+    <!---------------------½ñÈÕ¾Û½¹ ½áÊø---------------------->
+    <!---------------------ÐÂÎÅÈËÎï ¿ªÊ¼---------------------->
+    <div class="wz_renwu_wrap">
+      <div class="wz_r_tit bg03">ÐÂÎÅÈËÎï</div>
+      <div id="wz_pic_2" class="scroll_vertical">
+        <div class="box">
+          <ul class="list">
+                <li> <a href="/shownews/293905.shtml" target="_blank"><img src="/image1/2019/5/13/494544DEA34E41E49CC41257B1CF208A.jpg" width="220" height="154" alt="ËûÆÈÊ¹ÖÐÃÀÆû³µÒµ¼ÓËÙÈÚºÏ"></a>      <p class="jrjj_list_tit"><a href="/shownews/293905.shtml" target="_blank">ËûÆÈÊ¹ÖÐÃÀÆû³µÒµ¼ÓËÙÈÚºÏ</a></p>    </li>    <li> <a href="/shownews/293700.shtml" target="_blank"><img src="/image7/2019/5/6/4557B5C1E44A4644B572668DC8A5EFA1.jpg" width="220" height="154" alt="¼Ç×¡Õâ¸öÂä¾®Ö®ÈË"></a>      <p class="jrjj_list_tit"><a href="/shownews/293700.shtml" target="_blank">¼Ç×¡Õâ¸öÂä¾®Ö®ÈË</a></p>    </li>    <li> <a href="/shownews/293231.shtml" target="_blank"><img src="/image4/2019/4/22/319614658D8C4763B9AD81D4E3C08721.jpg" width="220" height="154" alt="Àî±óµÄ³µÕ¹¾ø³ª£¿"></a>      <p class="jrjj_list_tit"><a href="/shownews/293231.shtml" target="_blank">Àî±óµÄ³µÕ¹¾ø³ª£¿</a></p>    </li> 
+          </ul>
+        </div>
+      </div>
+    </div>
+ 
+    <!---------------------ÐÂÎÅÈËÎï ½áÊø---------------------->
+    <!---------------------ÊµÓÃ¹¤¾ß ¿ªÊ¼---------------------->
+        <div class="wz_gongju_wrap">
+      <div class="wz_r_tit bg04">ÊµÓÃ¹¤¾ß</div>
+      <div class="wz_tool_group">
+        <div class="wz_tool_item tool_01"><a href="http://data.chooseauto.com.cn/selectcar/" target="_blank"></a></div>
+        <div class="wz_tool_item tool_02"><a href="http://data.chooseauto.com.cn/Contrast/index.shtml" target="_blank"></a></div>
+        <div class="wz_tool_item tool_03"><a href="/xlph/" target="_blank"></a></div>
+        <div class="wz_tool_item tool_04"><a href="/ncap/" target="_blank"></a></div>
+        <div class="wz_tool_item tool_05"><a href="/loancar/index.shtml" target="_blank"></a></div>
+        <div class="wz_tool_item tool_06"><a href="http://data.chooseauto.com.cn/tuku.shtml" target="_blank"></a></div>
+        <div class="clear"></div>
+      </div>
+    </div>
+  
+    <!---------------------ÊµÓÃ¹¤¾ß ½áÊø---------------------->
+  </div>
+  <div class="clear"></div>
+</div>
+<!---------------------Ò³½Å ¿ªÊ¼---------------------->
+<div class="foot_wrap">
+  <div class="foot_con">
+    <div class="foot_left">
+      <p>·þÎñÈÈÏß£º</p>
+      <p>ÖÜÒ»ÖÁÖÜÎå 9:00-18:00</p>
+      <p class="tel">010-5171 0701</p>
+      <div class="mtpt"> <a href="http://weibo.com/chooseauto?is_hot=1" target="_blank"><span class="wibo" style="background:url(/index2016/images/weibo.png) no-repeat top center;">¹Ù·½Î¢²©</span></a> <span class="weixin" style="background:url(/index2016/images/weixin.png) no-repeat top center;">¹«ÖÚºÅ</span> <span class="wap" style="background:url(/index2016/images/wap.png) no-repeat top center;">ÊÖ»ú¶Ë</span> <!--span class="ios" style="background:url(/index2016/images/ios.png) no-repeat top center;">³µ¶Î×ÓIOS</span--> <!--span class="android" style="background:url(/index2016/images/android.png) no-repeat top center;">³µ¶Î×Ó°²×¿</span-->
+        <div class="clear"></div>
+        <div class="wx_ew" style="display:none;"><img src="/index2016/images/weixin_ewm.jpg" width="90" height="90" alt=""/></div>
+        <div class="wp_ew" style="display:none;"><img src="/index2016/images/wap_ewm.png" width="90" height="90" alt=""/></div>
+        <!--div class="io_ew" style="display:none;"><img src="/index2016/images/ios_ewm.png" width="90" height="90" alt=""/></div-->
+        <!--div class="an_ew" style="display:none;"><img src="/index2016/images/android_ewm.png" width="90" height="90" alt=""/></div-->
+      </div>
+    </div>
+    <div class="foot_center"> <a href="/about.shtml" target="_blank">¹ØÓÚÎÒÃÇ</a> <a href="/about.shtml" target="_blank">ÃâÔðÉùÃ÷</a> <a href="/sitemap.shtml" target="_blank">ÍøÕ¾µØÍ¼</a> </div>
+    <div class="foot_right">
+      <p style="line-height:25px;">Ñ¡³µÍø ¡¤ ±±¾©ÕýÔòÑô¹âÎÄ»¯´«²¥ÓÐÏÞ¹«Ë¾<br>
+        Copyright 2015 chooseauto.com.cn  All Rights Reserved</p>
+      <p style="line-height:50px;">¹«Ë¾µØÖ·:±±¾©ÊÐÎ÷³ÇÇø¹ãÍâ´ó½Ö248ºÅ»úÐµ´óÏÃ1003/1009ÊÒ</p>
+      <p style="line-height:25px;">¾©ICP±¸12003842ºÅ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;¾©ICPÖ¤100662ºÅ<br>
+        ±±¾©ÊÐ³¯Ñô·Ö¾ÖÍø°²±¸°¸±àºÅ£º110105002796<br>¹ã²¥µçÊÓ½ÚÄ¿ÖÆ×÷¾­ÓªÐí¿ÉÖ¤£º£¨¾©£©×ÖµÚ05971ºÅ</p>
+    </div>
+    <div class="clear"></div>
+  </div>
+  <div class="bottom_bar"></div>
+</div>
+<div class="ewm-alert" style="display:none;">
+	<h2>·ÖÏíµ½Î¢ÐÅ</h2>
+	<div id="ewmTable"></div>
+	<span onClick="closeEwm(this)">¹Ø±Õ</span>
+</div>
+<script type="text/template" id="tpl-share">
+<div class="share-list"> <a class="side-sina" onclick="shareTo('sina')" href="javascript:void(0);"><i></i>ÐÂÀËÎ¢²©</a> <a class="side-wechat" onclick="shareTo('wechat')" href="javascript:void(0);"><i></i>Î¢ÐÅ</a> <a class="side-qq" onclick="shareTo('qq')" href="javascript:void(0);"><i></i>QQ</a> <a class="side-qzone" onclick="shareTo('qzone')" href="javascript:void(0);"><i></i>QQ¿Õ¼ä</a> </div>
+</script>
+<script>
+$(document).ready(function() {
+    $(".weixin").mouseenter(function(){$(".wx_ew").show();}).mouseleave(function(){$(".wx_ew").hide();});
+	$(".wap").mouseenter(function(){$(".wp_ew").show();}).mouseleave(function(){$(".wp_ew").hide();});
+	$(".ios").mouseenter(function(){$(".io_ew").show();}).mouseleave(function(){$(".io_ew").hide();});
+	$(".android").mouseenter(function(){$(".an_ew").show();}).mouseleave(function(){$(".an_ew").hide();});
+	$(".wz_share").empty().append($("#tpl-share").html());
+	$(".wz_share").click(function(){
+		$(".share-list").slideDown(500);
+	});
+	$(".share-list").mouseleave(function(){
+		$(".share-list").slideUp();
+	});
+	//¶þÎ¬ÂëÉú³É
+	var ewm = new QRCode(document.getElementById("ewmTable"), {
+		width : 150,
+		height : 150
+	});
+	function makeCode () {		
+		var elText = document.location.href;	
+		ewm.makeCode(elText);
+	}
+	makeCode();
+});
+function closeEwm(obj){
+	$(obj).parent(".ewm-alert").fadeOut(500);
+}
+function shareTo(stype){
+    var shareTit = document.title;
+    var shareLink = document.URL;
+	var shareDesc = document.getElementsByTagName("meta")[name="Description"].getAttribute("content");
+    var sharePic = '';
+	var imgUrl = '';
+    //»ñÈ¡ÍøÒ³ÖÐÄÚÈÝµÄµÚÒ»ÕÅÍ¼Æ¬£¬µ±ÄÚÈÝÖÐÃ»ÓÐÍ¼Æ¬Ê±£¬ÉèÖÃ·ÖÏíÍ¼Æ¬ÎªÍøÕ¾logo
+    imgUrl = $('#div_CurrentPage img').eq(0).attr('src');
+    if(typeof imgUrl == 'undefined'){
+        sharePic='http://www.chooseauto.com.cn/index2018/images/logo.png';
+    }
+    //Èç¹ûÊÇÏà¶ÔÂ·¾¶Ôò½øÐÐ¾ø¶ÔÂ·¾¶Æ´½Ó
+    if(typeof imgUrl != 'undefined' && imgUrl.indexOf('chooseauto') == -1) {
+        sharePic = 'http://www.chooseauto.com.cn'+imgUrl;
+    }
+    //qq¿Õ¼ä½Ó¿ÚµÄ´«²Î
+    if(stype=='qzone'){
+		console.log(shareTit,shareLink,imgUrl,sharePic,shareDesc);
+        window.open('https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url='+shareLink+'?sharesource=qzone&title='+encodeURI(shareTit)+'&pics='+encodeURI(sharePic)+'&summary='+ encodeURI(shareDesc));
+    }
+    //ÐÂÀËÎ¢²©½Ó¿ÚµÄ´«²Î
+    if(stype=='sina'){
+		var wb_appkey = "",
+			wb_ralateUid = "1877395085",
+			wb_language	= "zh_cn";
+        window.open("http://service.weibo.com/share/share.php?url="+shareTit+"&appkey="+wb_appkey+"&title="+shareTit+"&pic="+sharePic+"&ralateUid="+wb_ralateUid+"&language="+wb_language+"");
+    }
+    //qqºÃÓÑ½Ó¿ÚµÄ´«²Î
+    if(stype == 'qq'){
+		console.log(shareTit,shareLink,imgUrl,sharePic);
+		window.open('http://connect.qq.com/widget/shareqq/index.html?url=' + shareLink + '&sharesource=qzone&title='+ encodeURI(shareTit) +'&pics='+ encodeURI(sharePic) +'&summary=' + encodeURI(shareDesc));
+    }
+    //Éú³É¶þÎ¬Âë¸øÎ¢ÐÅÉ¨Ãè·ÖÏí
+    if(stype == 'wechat'){
+        $(".ewm-alert").fadeIn(500);
+    }
+}
+</script>
+<div style="display:none"> 
+  <script type="text/javascript" src="http://js.users.51.la/2275806.js"></script> 
+</div>
+<!---------------------Ò³½Å ½áÊø---------------------->
+<!---------------------¼à²â´úÂë---------------------->
+<div style="display:none">
+  <script type="text/javascript" src="http://js.users.51.la/2275806.js"></script>
+</div>
+<!--µ×²¿ÎÄ¼þ½áÊø-->
+<script type="text/javascript">var Tjid="294200";var Tjtitle="9%CB%D9%B8%B3%C4%DC%202019%B1%F0%BF%CB9AT%CF%DE%CA%B1%D3%CE%CF%B7%CC%FC%C8%AB%CB%D9%B3%F6%BB%F7";var Tjchannelname="%B3%A7%C9%CC%D0%C2%CE%C5";var Tjchannelid="3606";var Tjurl="/zixun/changshang/294200.shtml";var Sourceurl="%D1%A1%B3%B5%CD%F8";var aTAGstr="";var sWidth=screen.width;var sHeight=screen.height;var zuozhe="";var publishdate="2019-5-20%2013:20:00";var carpinpaiid="0";var carchangjiaid="";var carxilieid="";var searchword="";getpinglunid(294200);commentlist(294200,1,1);</script><script type="text/javascript" src="http://api.chooseauto.com.cn/js/chooseauto_public.js"></script>
+</body>
+</html>
+
+
+<!-- Copyright 2007-2011 CHOOSEAUTO ,2019-5-20 13:25:34,WWW.CHOOSEAUTO.COM.CN-->
+<!doctype html>
+<html>
+<head>
+<meta charset="gb2312">
+<meta http-equiv="X-UA-Compatible" content="IE=11; IE=10; IE=9; IE=8; IE=EDGE">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="renderer" content="webkit">
+<title>
+¡°Ð¡ÐÐÐÇ¡±ÂäµØ ¼ªÀûÐÇÔ½Ã÷ÈÕÕýÊ½ÉÏÊÐ
+_Ñ¡³µÍø</title>
+<meta name="keywords" content="¼ªÀûÆû³µ ÐÇÔ½ ½ÎÅÜSUV,Ñ¡³µÍø,Æû³µ">
+<meta name="Description" content="¡¶Ñ¡³µÍø¡·»ñÏ¤£¬ÒÔÐ¡ÐÐÐÇÃüÃûµÄ¼ªÀûÐÇÔ½½«ÓÚÃ÷ÈÕ£¨5ÔÂ10ÈÕ£©ÕýÊ½ÉÏÊÐ¡£¼ªÀûÐÇÔ½²»½öÓµÓÐÒ»¸öÃÎ»ÃµÄÃû×Ö£¬¸üÊÇ¼ªÀûÆ·ÅÆÊ×¿î»ùÓÚCMAÄ£¿é¼Ü¹¹´òÔìµÄ½ÎÅÜÐÍSUV£¬´ú±í×Å¼ªÀûÆ·ÅÆÄ¿Ç°×î¸ß¶ËºÍÏÈ½øµÄ¼¼Êõ£¬ÊÇÒ»¿î¹Ø×¢¶È·Ç³£¸ßµÄ³µÐÍ£¬Ä¿Ç°µÄ¹Ù·½Ô¤ÊÛ¼ÛÎª12.98Íò-17.78Íò¡£
+_Ñ¡³µÍø" >
+<link rel="stylesheet" type="text/css" href="/index2016/css/reset.css">
+<link rel="stylesheet" type="text/css" href="/index2016/css/swiper.css">
+<link rel="stylesheet" type="text/css" href="/index2016/css/index_style.css">
+<link rel="stylesheet" type="text/css" href="/index2016/css/wz_pc_style.css">
+<link rel="stylesheet" type="text/css" href="/index2016/css/sub_header_footer.css">
+<script src="/library/js/jquery-1.11.3.min.js"></script>
+<script src="/library/js/qrcode.min.js"></script>
+<script src="/index2016/js/swiper.min.js"></script>
+<script src="/index2016/js/jquery.cxscroll.min.js"></script>
+<script src="/index2016/js/cursor.js"></script>
+<script src="/index2016/js/wz_pc_photo.js"></script>
+<script src="/index2016/js/wz_global.js"></script>
+<script src="/index2016/js/comment.js"></script>
+<script src="/library/js/browser.js"></script>
+<script>
+browserRedirect('http://m.chooseauto.com.cn/xinche/guonei/293822.shtml');
+//browserRedirect('http://m.chooseauto.com.cn/XinWen.shtml?NewsId=293822')
+</script>
+<!--[if IE 6]>
+  <script src="/index2016/js/png.js"></script>
+  <script>
+      DD_belatedPNG.fix('*');
+  </script>
+<![endif]-->
+</head><body>
+<!---------------------ÓÃ»§×¢²áµÇÂ½ ¿ªÊ¼---------------------->
+<a name="top"></a> 
+<!---------------------Ò³Í·---------------------->
+<div class="head">
+  <div class="head_wrap">
+    <div class="head_left">
+      <div class="login_wrap" id='li_login'> <a href="http://www.chooseauto.com.cn/User/reg.shtml" target="_blank" class="reg">×¢²á</a><a href="http://www.chooseauto.com.cn/User/login.shtml" target="_blank" class="login">µÇÂ¼</a> </div>
+      <div class="exit" style="display:none" id="li_exit">
+        <div class="exit_btn_group" style="display:none;"> <a href="http://user.chooseauto.com.cn/" target="_blank">¸öÈËÖÐÐÄ</a> <a href="#" target="_blank">ÍË³öµÇÂ¼</a> <span class="xiao_arrow"></span> </div>
+      </div>
+      <div class="circle_btn bg_red"> 
+      <div class="img_pos"><img src="/index2016/images/weibo_icon.png" width="24" height="70" class="img_icon" alt=""/></div>
+        <div class="wb_ewm ewm_box_show ewm_box_change" style="display:none;">
+          <p style="color:#808080;">µã»÷¹Ø×¢Ñ¡³µÍøÎ¢²©</p>
+          <p><a href="http://weibo.com/chooseauto?is_hot=1" target="_blank">@Ñ¡³µÍø</a></p>
+          <span class="xiao_arrow"></span></div>
+      </div>
+      <div class="circle_btn bg_gre"> 
+      <div class="img_pos"><img src="/index2016/images/weixin_icon.png" width="24" height="70" class="img_icon" alt=""/></div>
+        <div class="wx_ewm ewm_box_show ewm_box_hide" style="display:none;">
+          <p>¹Ø×¢Ñ¡³µÍøÎ¢ÐÅ</p>
+          <img src="/index2016/images/weixin_ewm.jpg" width="100" height="100" alt=""/><span class="xiao_arrow"></span></div>
+      </div>
+      <div class="circle_btn bg_yel"> 
+      <div class="img_pos"><img src="/index2016/images/wap_icon.png" width="24" height="70" class="img_icon" alt=""/></div>
+        <div class="wp_ewm ewm_box_show ewm_box_hide" style="display:none;">
+          <p>Ñ¡³µÍøÊÖ»ú¶Ë</p>
+          <img src="/index2016/images/wap_ewm.png" width="100" height="100" alt=""/><span class="xiao_arrow"></span></div>
+      </div>
+      <!--div class="circle_btn bg_blu"> 
+      <div class="img_pos"><img src="/index2016/images/app_icon.png" width="24" height="70" class="img_icon" alt=""/></div>
+        <div class="ap_ewm ewm_box_show ewm_box_change" style="display:none;"> <a href="javascript:void(0);" class="click_ios" target="_blank" style="background:url(/index2016/images/ap_logo.png) no-repeat 9px 5px;">Á¢¼´ÏÂÔØ³µ¶Î×Ó</a> <a href="javascript:void(0);" class="click_ios" target="_blank" style="background:url(/index2016/images/an_logo.png) no-repeat 9px 5px; border-top:1px solid #979797;">Á¢¼´ÏÂÔØ³µ¶Î×Ó</a> <span class="xiao_arrow"></span> </div>
+      </div-->
+      <div class="clear"></div>
+    </div>
+    <div class="head_right"><a href="/about.shtml" target="_blank">ÁªÏµÎÒÃÇ</a><a href="/mytoutiao/default.shtml" target="_blank">ÎÒµÄÍ·Ìõ</a><a href="/mynews/" target="_blank">ÐÂÎÅ»ã×Ü</a></div>
+    <div class="clear"></div>
+  </div>
+</div>
+<script>
+var public_userid="0";
+var public_username="";
+var public_nickname="";
+var public_avatarurl="";
+$(document).ready(function() {
+    $(".circle_btn").each(function() {
+        $(this).mouseenter(function() {
+            $(this).children().children(".img_icon").stop().animate({
+                "top": "-41px"
+            },
+            250);
+            $(this).children(".ewm_box_show").show(500);
+        }).mouseleave(function() {
+            $(this).children().children(".img_icon").stop().animate({
+                "top": "-6px"
+            },
+            250);
+            $(this).children(".ewm_box_hide").hide();
+        });
+    });
+    $(".ewm_box_change").mouseleave(function() {
+        $(this).hide();
+    });
+    $(".bg_gre,.bg_yel").mouseenter(function() {
+        $(".ewm_box_change").hide();
+    });
+    $(".nav_wrap").mouseenter(function() {
+        $(".ewm_box_change").hide();
+    });
+    $(".exit").click(function() {
+        $(".exit_btn_group").show();
+    });
+    $(".exit_btn_group").mouseleave(function() {
+        $(this).hide();
+    });
+
+    $.ajax({
+        type: "get",
+        async: false,
+        url: "http://comment.chooseauto.com.cn/chooseauto/testlogin.aspx",
+        dataType: "jsonp",
+        jsonp: "callback",
+        success: function(json) {
+            if (json.message == "ok") {
+                 public_userid=json.items[0].uid;
+                 public_username=json.items[0].username;
+                 public_nickname=json.items[0].nickname;
+                 public_avatarurl=json.items[0].avatarurl;
+                //--------------------------------------------------------------------------
+                var UserName = json.items[0].username;
+                if (json.items[0].nickname != "") {
+                    UserName = json.items[0].nickname;
+                }
+
+                if (UserName.length > 18) {
+                    UserName = UserName.substr(0, 18);
+                }
+                var LoginCon = "<a>" + UserName + "</a><a href='javascript:void(0)' onclick='User_Exit()' >&nbsp;ÍË³ö</a><div class='exit_btn_group' style='display:none;'> <a href='http://user.chooseauto.com.cn/' target='_blank' class='user_info'>¸öÈËÖÐÐÄ</a><a href='javascript:void(0)' onclick='User_Exit()' class='user_info'>ÍË³ö</a> <span class='xiao_arrow'></span> </div>";
+                $("#li_exit").html(LoginCon);
+                $("#li_login").hide();
+                $("#li_exit").show();
+            }
+        }
+    });
+
+});
+local_login_url=window.location.href;
+</script> 
+<!---------------------Ò³Í·----------------------> 
+<script>
+	
+	function User_Exit(){
+            $.ajax({  
+                 type : "get",  
+                 async:false,  
+                 url : "http://comment.chooseauto.com.cn/chooseauto/exitlogin.aspx",  
+                 dataType : "jsonp",  
+                 jsonp:"callback", 
+                 success : function(json){ 
+			 if (json.message=="ok"){
+			        $("#li_login").show();
+			        $("#li_exit").hide();
+                                //window.location.href="http://www.chooseauto.com.cn/"; 
+window.location.reload();
+			 }
+                 } 
+            });  
+	} 
+</script>
+<!---------------------ÓÃ»§×¢²áµÇÂ½ ½áÊø---------------------->
+<!---------------------µ¼º½ ¿ªÊ¼---------------------->
+<!---------------------µ¼º½---------------------->
+<div class="nav_wrap">
+  <div class="nav_con"><a class="home_page" href="http://www.chooseauto.com.cn">Ñ¡³µÍøÊ×Ò³</a><span></span><a href="/xlph/" target="_blank">ÏúÁ¿</a><span></span><a href="/shipin/index.shtml" target="_blank">ÊÓÆµ</a><span></span><a href="/shownews/" target="_blank">ÈËÎï</a><span></span><a href="/zixun/" target="_blank">×ÊÑ¶</a><span></span><a href="/xinche/default.shtml" target="_blank">ÐÂ³µ</a><span></span><a href="/dsjph/index.shtml" target="_blank">´óÊý¾Ý</a><span></span><a href="/shijia/default.shtml" target="_blank">ÆÀ²â</a><span></span><a href="/zhuanlan/default.shtml" target="_blank">×¨À¸</a><span></span><a href="/xinnengyuan/default.shtml" target="_blank">ÐÂÄÜÔ´</a><span></span><a href="/zt/default.shtml" target="_blank">×¨Ìâ</a></div>
+</div>
+<!---------------------µ¼º½½áÊø---------------------->
+<!---------------------µ¼º½ ½áÊø---------------------->
+<!---------------------·µ»Ø¶¥²¿---------------------->
+
+
+<link rel="stylesheet" type="text/css" href="/user/css/reset.css">
+<link rel="stylesheet" type="text/css" href="/user/css/header_footer.css">
+<link rel="stylesheet" type="text/css" href="/user/css/reg.css">
+<link type="text/css" rel="stylesheet" href="/user/css/wee.css" />
+<script>
+     local_login_url=window.location.href;
+	if(window.top !== window.self){ window.top.location = window.location;}
+</script>
+<script type="text/javascript" src="/user/js/jquery-browser.js"></script>
+<script type="text/javascript" src="/user/js/bgiframe.js"></script>
+<script type="text/javascript" src="/user/js/weebox.js"></script>
+<script type="text/javascript" src="/user/js/login.js"></script>
+<!--[if IE 6]>
+  <script src="js/png.js"></script>
+  <script>
+      DD_belatedPNG.fix('*');
+  </script>
+<![endif]-->
+<!---------------------µ¯´°---------------------->
+<div class="layer_bg">
+  <div class="layer_wrap">
+    <div class="slide_position">
+      <div class="layer_close">¡Á</div>
+    </div>
+    <h2>Ñ¡³µÍøÓÃ»§µÇÂ¼</h2>
+    <div class="form_list">
+      <div class="item">
+        <label class="txt_label">ÕËºÅ£º</label>
+        <input type="text" placeholder="ÓÊÏä/ÊÖ»úºÅ" id="user_name" class="txt_input" onBlur="userName()">
+        <i></i>
+        <div class="clear"></div>
+      </div>
+      <div class="item">
+        <label class="txt_label">ÃÜÂë£º</label>
+        <input type="password" placeholder="ÇëÊäÈëÃÜÂë" id="password" class="txt_input" onBlur="pass()">
+        <i></i>
+        <div class="clear"></div>
+      </div>
+      <div class="item">
+        <label class="txt_label">ÑéÖ¤Âë£º</label>
+        <input type="text" placeholder="ÑéÖ¤Âë" id="picCode" class="txt_input_s" onBlur="sCode()">
+        <div class="yzm"><img id="code-pic" src="" width="86" height="28"><span onClick="getsessionCode()" class="line">»»Ò»»»</span></div>
+         <i></i>
+        <div class="clear"></div>
+      </div>
+      <div class="item">
+        <input type="button" value="µÇ&nbsp;Â¼" class="login_btn" id="userLogin_btn">
+        <a href="/user/find.shtml" target="_blank" class="forget_p">Íü¼ÇÃÜÂë£¿</a><a href="/user/reg.shtml" target="_blank" class="reg_link">×¢²á</a></div>
+    </div>
+    <div class="slide_wrap">
+    	<p class="sp_item">µÚÈý·½µÇÂ¼£º</p>
+		<p class="item"><a href="javascript:void(0);" class="wb_btn"  onClick="login_weibo()"></a></p>
+		<p class="item"><a href="javascript:void(0);" class="qzone_btn"  onClick="login_qq()"></a></p>
+		<p class="item"><a href="/user/login_p.shtml" class="phone_btn"></a></p>
+        <div class="clear"></div>
+      </div>
+  </div>
+</div>
+
+
+
+<div class="wz_back_top">
+  <div class="wz_back_wrap">
+    <div class="wz_bt_ewm">
+      <div class="wz_hide_ewm"> 
+        <div id="qrcodeTable" style="width:90px; height:90px;"></div>
+        <div class="wap_tit">ÊÖ»ú¼ÌÐø¿´</div>
+      </div>
+    </div>
+    <a href="#top">
+    <div class="wz_bt_btn"></div>
+    </a> </div>
+</div>
+<!----------------¶þÎ¬ÂëÉú³É----------------->
+<script type="text/javascript">
+var qrcode = new QRCode(document.getElementById("qrcodeTable"), {
+	width : 90,
+	height : 90
+});
+function makeCode () {		
+	var elText = document.location.href;	
+	qrcode.makeCode(elText);
+}
+makeCode();
+</script>
+<!----------------main_content----------------->
+<div class="main_content">
+  <div class="wz_nav">
+    <div class="wz_position">µ±Ç°Î»ÖÃ£º<a href="http://www.chooseauto.com.cn/" target="_blank">Ê×Ò³</a>
+       > <a href="/xinche/default.shtml" target=_blank>ÐÂ³µ</a> > <a href="/xinche/guonei/default.shtml" target=_blank>¹úÄÚÐÂ³µ</a>
+    </div>
+    	  <div class="wz_search">
+        <div class="change_item">ÐÂÎÅ</div>
+        <div class="item_c" style="display:none;">ÊÓÆµ</div>
+		<form  method="get" enctype="multipart/form-data" name="Tsearch"   id="Tsearch"   accept-charset="gb2312" onSubmit="document.charset='gb2312';return submitsearch();" target="_blank">
+		<input id="p" name="p" type="hidden" value="1" />
+		<input id="t" name="t"   type="text" class="search_txt">
+		<input  type="submit"  class="search_btn" value="ËÑË÷">
+		</form>	  
+        <div class="clear"></div>
+      </div>
+	<script>
+	   function submitsearch(){
+		   var Stype = $(".change_item").text();
+		   var Skeyword = $(".search_txt").val();
+
+		   if (Skeyword==""){
+		       alert("ÇëÊäÈëËÑË÷¹Ø¼ü×Ö");
+		       return false;
+		   }
+		   if (Stype!="ÐÂÎÅ"){
+		          $("#Tsearch").attr("action","http://www.chooseauto.com.cn/search/shipin/?");
+				  
+		   }else{
+		          $("#Tsearch").attr("action","http://www.chooseauto.com.cn/search/?");
+		   }
+		}
+	</script>
+
+    <div class="clear"></div>
+  </div>
+<!-- content_title star -->
+
+
+<!-- content_title end -->
+
+  <div class="wz_left">
+    <!-----------ÎÄÕÂÍ¼¿â------------>
+    <div class="wz_main">
+      <div class="article">
+        <h1>
+          ¡°Ð¡ÐÐÐÇ¡±ÂäµØ ¼ªÀûÐÇÔ½Ã÷ÈÕÕýÊ½ÉÏÊÐ
+        </h1>
+        <div class="wz_info"> <span class="wz_time">
+          2019-5-9 0:01:00
+          </span> <span class="wz_link">
+          Ñ¡³µÍø
+          </span> <span class="wz_name">
+          ÖÜÓî
+          </span> 
+<span class="wz_collect"><a href="javascript:void(0);" onClick="setfavorites(293822)">ÊÕ²Ø</a></span> 
+<span class="wz_share">
+                   <!-- JiaThis Button BEGIN -->
+          <div class="jiathis_style"> <a class="jiathis_button_qzone"></a> <a class="jiathis_button_tsina"></a> <a class="jiathis_button_tqq"></a> <a class="jiathis_button_weixin"></a> <a class="jiathis_button_renren"></a> <a class="jiathis_button_xiaoyou"></a> <a href="http://www.jiathis.com/share" class="jiathis jiathis_txt jtico jtico_jiathis" target="_blank"></a> <a class="jiathis_counter_style"></a> </div>
+          <script type="text/javascript" src="http://v3.jiathis.com/code/jia.js" charset="utf-8"></script>
+          <!-- JiaThis Button END -->
+          </span>
+          <div class="clear"></div>
+        </div>
+        <div id="div_CurrentPage">
+          <P>¡¶Ñ¡³µÍø¡·»ñÏ¤£¬ÒÔÐ¡ÐÐÐÇÃüÃûµÄ¼ªÀûÐÇÔ½½«ÓÚÃ÷ÈÕ£¨5ÔÂ10ÈÕ£©ÕýÊ½ÉÏÊÐ¡£¼ªÀûÐÇÔ½²»½öÓµÓÐÒ»¸öÃÎ»ÃµÄÃû×Ö£¬¸üÊÇ¼ªÀûÆ·ÅÆÊ×¿î»ùÓÚCMAÄ£¿é¼Ü¹¹´òÔìµÄ½ÎÅÜÐÍSUV£¬´ú±í×Å¼ªÀûÆ·ÅÆÄ¿Ç°×î¸ß¶ËºÍÏÈ½øµÄ¼¼Êõ£¬ÊÇÒ»¿î¹Ø×¢¶È·Ç³£¸ßµÄ³µÐÍ£¬Ä¿Ç°µÄ¹Ù·½Ô¤ÊÛ¼ÛÎª12.98Íò-17.78Íò¡£</P>
+<P align=center><IMG border=0 alt="¡°Ð¡ÐÐÐÇ¡±ÂäµØ ¼ªÀûÐÇÔ½Ã÷ÈÕÕýÊ½ÉÏÊÐ" src="/xinche/guonei/images/2019/5/9/6D03EF5A13794A418DCD586B0B2C2F82.jpg"></P>
+<P>¼ªÀûºÍÎÖ¶ûÎÖÁªºÏ¿ª·¢µÄCMAÊÇÊ×¸öÖÐ¼¶³µ»ù´¡Ä£¿é¼Ü¹¹£¬°´ÕÕºÀ»ª³µ¿ª·¢ºÍÖÆÔì±ê×¼£¬ÈÚÈëÖÐ¹ú¼ÝÊ»DNA£¬ÃæÏòÈ«Çò¹¤Òµ4.0´òÔìµÄ×¿Ô½²úÆ·µ®ÉúÌåÏµ¡£¾ÝÁË½â£¬¸ÃÆ½Ì¨¿ÉÊµÏÖ²úÆ·ÑÐ·¢¡¢Éè¼ÆÄ£¿é¡¢¹¤ÒµÖÆÔì½Ó¿Ú¡¢¹¤ÒÕÁ÷³Ì¡¢²É¹º²ßÂÔµÄ¿ª·¢ºÍ±ê×¼ÖÆ¶¨£¬´Ó¶øÈÃÏû·ÑÕßÒÔ¸üÓÅ»ÝµÄ¼Û¸ñ£¬¹ºÂòµ½ÖÊÁ¿¸ü¿É¿¿¡¢ÅäÖÃ¸ü·á¸»µÄ²úÆ·¡£</P>
+<P align=center><IMG border=0 alt="¡°Ð¡ÐÐÐÇ¡±ÂäµØ ¼ªÀûÐÇÔ½Ã÷ÈÕÕýÊ½ÉÏÊÐ" src="/xinche/guonei/images/2019/5/9/CD058B7548DF42F1997C16055B604DFD.jpg"></P>
+<P>µ®ÉúÓÚCMA¼Ü¹¹ÏÂµÄ¼ªÀûÐÇÔ½¶¨Î»ÓÚ½ÎÅÜÐÍSUV£¬Õû³µÏßÌõÁ÷³©±¥Âú£¬Áï±³»¡Ïß¹ý¶È×ÔÈ»£¬³µÉí±ÈÀýÒ²Ç¡µ½ºÃ´¦¡£³µÉíÏ¸½ÚÖ®´¦³ä·Ö¿¼ÂÇµ½¿ÕÆø¶¯Á¦Ñ§Éè¼Æ£¬×îÖÕ½«·ç×èÏµÊýËø¶¨ÔÚ0.325Cd£¬¶ÔÓÚÒ»Á¾SUVÀ´ËµÒÑ¾­ÊÇ·Ç³£ºÃµÄ·ç×èÏµÊý¡£</P>
+<P align=center><IMG border=0 alt="¡°Ð¡ÐÐÐÇ¡±ÂäµØ ¼ªÀûÐÇÔ½Ã÷ÈÕÕýÊ½ÉÏÊÐ" src="/xinche/guonei/images/2019/5/9/6A24DF18595D4762A6EDFEEECD910194.jpg"></P>
+<P>Ë®²¨ÎÆÁ°äôÊ½µÄÖÐÍøÑÓÐøÁË¼ªÀûÆ·ÅÆµÄ¼Ò×åÉè¼ÆÓïÑÔ£¬ºÚÉ«µÄ½øÆø¸ñÕ¤´îÅäºÚÉ«µÄLOGOÍ»³öÁËÐÔÄÜÊôÐÔ¡£³ö×Ô·¨À×°ÂµÄ¾ØÕóÊ½LED´óµÆ¾¼¾¼ÓÐÉñ¡£Í¬Ê±£¬Ç°°üÎ§Á½²àµÄ½øÆø¿ÚÄÜ¹»Æðµ½¼õ×è½µÔëµÄ×÷ÓÃ¡£</P>
+<P align=center><IMG border=0 alt="¡°Ð¡ÐÐÐÇ¡±ÂäµØ ¼ªÀûÐÇÔ½Ã÷ÈÕÕýÊ½ÉÏÊÐ" src="/xinche/guonei/images/2019/5/9/1E77B10BAD724392A9CBF132EA03E7E3.jpg"></P>
+<P>¸ù¾ÝÄ¿Ç°ÕÆÎÕµÄÊý¾Ý£¬¼ªÀûÐÇÔ½µÄ³¤/¿í/¸ß·Ö±ðÎª4605x1878x1643mm£¬Öá¾àÎª2700mm¡£³µÎ²²¿·Ö£¬´óÁ¿µÄºáÏòÏßÌõËÜÔì³öÁË·á¸»µÄ²ã´Î¸Ð£¬Á½²àµÄÎ²µÆ×éÒÔÒ»Ìõ´Ö×³µÄ¶Æ¸õÏàÁ¬¡£ÅÅÆø²¼¾ÖÉÏÆÕÍ¨°æ³µÐÍ²ÉÓÃË«±ß¹²Á½³öÉè¼Æ£¬ÔË¶¯°æ²ÉÓÃË«±ßËÄ³öÅÅÆø¡£</P>
+<P align=center><IMG border=0 alt="¡°Ð¡ÐÐÐÇ¡±ÂäµØ ¼ªÀûÐÇÔ½Ã÷ÈÕÕýÊ½ÉÏÊÐ" src="/xinche/guonei/images/2019/5/9/BFB0D14EC3D34002839D2692BC36C763.jpg"></P>
+<P>ÄÚÊÎ·½Ãæ£¬¼ªÀûÐÇÔ½µÄÖÐ¿ØÌ¨Ì¨²ÉÓÃ·Ç¶Ô³ÆÊ½Éè¼Æ£¬´óÁ¿µÄÈíÐÔ²ÄÖÊ°ü¸²Ôö¼ÓÁËÄÚÊÎµÄ¸ßµµ¸Ð¡£ÖÐÑë²ÉÓÃ¡°¸ßµØÌ¨¡±Éè¼Æ£¬ÔöÇ¿ÁË×ù²ÕµÄ»·±§·ÕÎ§¸Ð¡£¾ÝÁË½â£¬¸ù¾Ý³µÐÍ°æ±¾µÄ²»Í¬£¬¼ªÀûÐÇÔ½µÄÄÚÊÎÅäÉ«Ò²ÓÐÒ»Ð©Çø±ð¡£ÆäÖÐ£¬2.0T³µÐÍ²ÉÓÃµÄÊÇºìºÚÄÚÊÎÅäÉ«£¬1.5TµÄÁ½¿î³µÐÍÔò²ÉÓÃÁËÈ«ºÚµÄÄÚÊÎÅäÉ«¡£</P>
+<P>ÅäÖÃ·½Ãæ£¬ÐÇÔ½ÖÐ¿ØÆÁ²ÉÓÃÁË³¬ÄÍÄ¥²ÄÖÊµÄ¸ßÇå¼«ËÙ´¥¿ØµçÈÝÆÁ£¬´óÆÁÄ»ÏÔÊ¾³ß´ç12.3Ó¢´ç£¬·Ö±æÂÊ¸ß´ï1920*720£¬ÓµÓÐ32GBµÄ´óÈÝÁ¿´æ´¢¿Õ¼ä¡£³µ»úÏµÍ³Ôò´îÔØÁË¼ªÀû×îÐÂµÄ¼ª¿ÍÖÇÄÜÉúÌ¬ÏµÍ³£¨GKUI2.0£©£¬ÔÚ×ÀÃæ½»»¥¡¢ÖÇÄÜÓïÒôÊ¶±ð¡¢µØÍ¼µ¼º½µÈ¹¦ÄÜÉÏÊµÏÖÁËÈ«Ãæµü´úÉý¼¶¡£</P>
+<P>´ËÍâ£¬¼ªÀûÐÇÔ½»¹´îÔØÁËÈËÁ³Ê¶±ðFACE-IDÏµÍ³£¬¸ÃÏµÍ³¿ÉÒÔÍ¨¹ý²É¼¯ÈËÁ³ÐÅÏ¢À´¶ÔË¾»úÉí·Ý½øÐÐÑéÖ¤£¬Ò»¼üÆô¶¯½øÐÐ×Ô¶¯µ÷Õû×ùÒÎ¡¢ÍâºóÊÓ¾µ¡¢ÒÇ±íÖ÷¡¢µ¼º½¡¢·ÕÎ§µÆ¡¢Ïã·ÕµÈ¶àÖÖÅäÖÃ¡£</P>
+<P align=center><IMG border=0 alt="¡°Ð¡ÐÐÐÇ¡±ÂäµØ ¼ªÀûÐÇÔ½Ã÷ÈÕÕýÊ½ÉÏÊÐ" src="/xinche/guonei/images/2019/5/9/77D46364B4D545D68C5A3761C7D557BB.jpg"></P>
+<P>¶¯Á¦ÏµÍ³·½Ãæ£¬¼ªÀûÐÇÔ½½«Ìá¹©Èý¿î¶¯Á¦¿ÉÑ¡¡£ÆäÖÐ£¬2.0T°æ±¾³µÐÍ²ÉÓÃµÄÊÇÎÖ¶ûÎÖDrive-EÏµÁÐµÄ2.0TD T5·¢¶¯»ú£¬×î´ó¹¦ÂÊ238ÂíÁ¦£¬×î´óÅ¤¾Ø350Nm£¬´«¶¯ÏµÍ³Æ¥ÅäµÄÊÇ°®ÐÅ8ËÙÊÖ×ÔÒ»Ìå±äËÙÆ÷£¬¸ù¾Ý´ËÇ°¹Ù·½¸ø³öµÄÏûÏ¢£¬¸Ã°æ±¾³µÐÍµÄ0-100km/h¼ÓËÙÊ±¼äÎª6.8s¡£1.5T PHEV°æ±¾³µÐÍ·¢¶¯»ú×î´ó¹¦ÂÊ180ÂíÁ¦£¬×î´óÅ¤¾Ø265Nm¡£1.5T+48VÇá»ì°æ±¾³µÐÍ·¢¶¯»ú×î´ó¹¦ÂÊ177ÂíÁ¦£¬×î´óÅ¤¾Ø255Nm£¬´«¶¯ÏµÍ³Æ¥ÅäµÄÊÇ7ËÙË«ÀëºÏ±äËÙÆ÷¡£</P>
+        </div>
+<!-- 
+Ã»Àí½âÓÃÍ¾£¬ÏÈ×¢ÊÍµô
+       <div id="div_OtherContent" style=" display:none" >
+          <div id="div_AllPageContent"></div>
+          <div class="the_pages1" >
+            <div style="margin-top:10px;"><a href="">±¾Ò³ÔÄ¶ÁÈ«ÎÄ</a></div>
+          </div>
+        </div>
+        <div id="div_Temp"   style="display:none; "></div>
+-->
+      </div>
+      <div class="wz_pages" id="div_page">
+        <span class='wz_page_btn preview_off'>&lt;&lt; ÉÏÒ»Ò³</span><a class='linknow'>1</a><span class='wz_page_btn preview_on'>ÏÂÒ»Ò³&gt;&gt;</span>
+        <script>
+window.onload = function() {
+    document.onkeydown = keyDown; //js»ñÈ¡°´¼ükeycodeÖµ 
+}
+
+function keyDown(evt) {
+    evt = evt || window.event;
+    var key = evt.which || evt.keyCode;
+    if (key == 37 && '' != "") location = ''
+    if (key == 39 && '' != "") location = ''
+
+}
+
+function pageDoc() {
+    $("#div_page").css("display", "block");
+    $("#div_Keyword").css("display", "block");
+    $("#div_CurrentPage").css("display", "block");
+    $("#div_OtherContent").css("display", "none");
+}
+</script>
+        <span class="wz_read_all"><a href="/xinche/guonei/293822_all.shtml#p1">±¾Ò³ÔÄ¶ÁÈ«ÎÄ</a></span> </div>
+      <div class="the_pages_keyboard" id="div_Keyword">°´¼üÅÌÉÏµÄ"¡û ¡ú"¼üÒ²ÄÜ·­Ò³</div>
+      <div class="wz_bottom_share">
+        <div class="wz_keywords">
+          <div class="wz_key_l">¹Ø¼ü´Ê£º
+            ¼ªÀûÆû³µ ÐÇÔ½ ½ÎÅÜSUV
+          </div>
+          <div class="wz_key_r">ÔðÈÎ±à¼­£º
+            zy
+          </div>
+          <div class="clear"></div>
+        </div>
+        <div class="wz_b_share">
+          <div class="wz_share_tip" style ="display :none">·ÖÏí¸øºÃÓÑ£º</div>
+          <div class="wz_jiathis">
+            <!-- JiaThis Button BEGIN -->
+            <div class="jiathis_style_24x24"> <a class="jiathis_button_qzone"></a> <a class="jiathis_button_tsina"></a> <a class="jiathis_button_tqq"></a> <a class="jiathis_button_weixin"></a> <a class="jiathis_button_renren"></a> <a class="jiathis_button_xiaoyou"></a> <a href="http://www.jiathis.com/share" class="jiathis jiathis_txt jtico jtico_jiathis" target="_blank"></a> <a class="jiathis_counter_style"></a> </div>
+            <script type="text/javascript" src="http://v3.jiathis.com/code/jia.js" charset="utf-8"></script>
+            <!-- JiaThis Button END -->
+          </div>
+          <!---------------------ÓÐ½±¾À´í ¿ªÊ¼---------------------->
+          <div class="wz_erro"> <a>ÓÐ½±¾À´í</a> </div>
+          <div class="erro_layer" style="display:none;">
+            <div class="erro_layer_wrap"> <span class="erro_lw_close">¡Á</span>
+              <p class="erro_lw_tit">ÓÐ½±¾À´í</p>
+              <p class="erro_tips">Èç¹ûÄú·¢ÏÖ±¾ÎÄÓÐÈÎºÎ´íÎó£¨´í×Ö»ò²¡¾ä£©£¬Çë²»Áß¸«Õý¡£</p>
+              <p class="erro_tips">Èç¹ûÇé¿öÊôÊµ£¬ÎÒÃÇ½«ÓÐ¾«ÃÀÐ¡ÀñÆ··îÉÏ£¡</p>
+              <p class="erro_tips">Çë¹Ø×¢ÄúµÄÓÃ»§ÖÐÐÄ¡£</p>
+              <div class="erro_item"><span class="erro_txt chose">¶ÎÂä</span> | <span class="erro_pic">Í¼Æ¬</span></div>
+              <div class="erro_con erro_con_txt" style="display:block;">
+                <div class="erro_position" id="err_w">ÎÄÖÐµÚ<input id="C_Duan" type="text">¶Î£¬µÚ<input id="C_Hang" type="text">ÐÐ£»</div>
+              </div>
+			  <div class="erro_con erro_con_pic" style="display:none;">
+                <div class="erro_position">ÎÄÖÐµÚ<input id="C_Pic" type="text">ÕÅÍ¼Æ¬£»</div>
+              </div>
+			<div class="erro_inpt">
+				<div class="erro_des"><textarea name="wz_com" id="wz_com" class="wz_com" cols="" rows="" onKeyDown="countChar(this);" onKeyUp="countChar(this);" onFocus="errof(this);" onBlur="errob(this);">´íÎóÃèÊö£º</textarea>
+				  <div class="wz_com_num"><span class="wz_com_now">0</span>/300</div>
+				</div>
+				<div class="erro_btn">
+				</div>
+			</div>
+            </div>
+          </div>
+
+          <!---------------------ÓÐ½±¾À´í ½áÊø---------------------->
+          <div class="clear"></div>
+        </div>
+      </div>
+    </div>
+    <!-----------ÎÄÕÂÆÀÂÛ  ¿ªÊ¼------------>
+    <div class="wz_comment">
+      <div class="wz_com_tit">
+        ÍøÓÑÆÀÂÛ<span class="wz_little">ÎÄÃ÷ÉÏÍø ÀíÐÔ·¢ÑÔ</span><span class="now_com_user" style="display:none;"><b>ÍõÄ¾Ä¾</b><i onClick="nClose(this);"></i></span>
+      </div>
+      <div class="wz_com_wrap">
+        <div id="cpl"></div>
+      </div>
+	  <div class="wz_com_list">
+        <div class="wz_com_ltit"> <span>È«²¿ÆÀÂÛ<i id="huifushu">£¨£©</i></span>
+        </div>
+        <ul id="showhuifu">
+        </ul>
+        <div class="wz_load_more"><a href="/xinche/guonei/293822_c.shtml" target="_blank">¼ÓÔØ¸ü¶à</a></div>
+      </div>
+    </div>
+    <!-----------ÎÄÕÂÆÀÂÛ  ½áÊø------------>
+	<!-- ÎÄÕÂÄÚÍ¼Æ¬Ô¤ÀÀÏà²á ¿ªÊ¼ -->
+    <div class="shade_layer" style="display:none;"></div>
+    <div class="pic_slide_wrap" style="display:none;">
+      <div class="art_tit"></div>
+      <div class=" slide_pc_wrap">
+        <div class="swiper-container">
+          <div class="swiper-wrapper"></div>
+        </div>
+        <a class="arrow-left"></a> <a class="arrow-right"></a> </div>
+      <div class="status_num"><span class="tk_close">¡Á</span><span class="active_num"></span>/<span class="sum_num"></span></div>
+    </div>
+	<!-- ÎÄÕÂÄÚÍ¼Æ¬Ô¤ÀÀÏà²á ¿ªÊ¼ -->
+  </div>
+  <div class="wz_right">
+    <!---------------------Æû³µÊÓÆµ ¿ªÊ¼---------------------->
+    <div class="wz_shipin_wrap">
+      <div class="wz_r_tit bg01">Æû³µÊÓÆµ</div>
+      <div id="wz_pic_1" class="scroll_vertical">
+        <div class="box">
+          <ul class="list">
+              <li> <a href="/shipin/guanlaoshi/294108.shtml" target="_blank"><img src="/image7/2019/5/17/BAD596B69A6F4587A5F8F72A6E37B3FE.jpg" width="225" height="150" alt="³µÀÐµÀ£º×ÔÖ÷Æ·ÅÆÊÇÈíÊÁ×Ó£¿"/><span class="play_btn" style="display:none;"></span></a>       <p class="jrjj_list_tit"><a href="/shipin/guanlaoshi/294108.shtml" target="_blank">³µÀÐµÀ£º×ÔÖ÷Æ·ÅÆÊÇÈíÊÁ×Ó£¿</a></p>   </li>  <li> <a href="/shipin/guanlaoshi/293836.shtml" target="_blank"><img src="/image1/2019/5/10/E00C6C02104C46188C698FDC8D3234B1.jpg" width="225" height="150" alt="µç¶¯³µÄÃÖ±Ïß¼ÓËÙËµÊÂ¶ù ÕæÊµÁ¦»¹ÊÇÓû¸ÇÃÖÕÃ£¿"/><span class="play_btn" style="display:none;"></span></a>       <p class="jrjj_list_tit"><a href="/shipin/guanlaoshi/293836.shtml" target="_blank">µç¶¯³µÄÃÖ±Ïß¼ÓËÙËµÊÂ¶ù&nbsp;ÕæÊµÁ¦»¹ÊÇÓû¸ÇÃÖ</a></p>   </li>  <li> <a href="/shipin/siche/293702.shtml" target="_blank"><img src="/image3/2019/5/6/71146A0CAC7B4AE8B1DAA357D4345B91.jpg" width="225" height="150" alt="3.0T£«48VÇá»ìÕæÏã£¿´ó¸¶ÊÔÈ«ÐÂ±¼³ÛGLE"/><span class="play_btn" style="display:none;"></span></a>       <p class="jrjj_list_tit"><a href="/shipin/siche/293702.shtml" target="_blank">3.0T£«48VÇá»ìÕæÏã£¿´ó¸¶ÊÔÈ«ÐÂ±¼³ÛGLE</a></p>   </li>
+          </ul>
+        </div>
+      </div>
+    </div> 
+    <!---------------------Æû³µÊÓÆµ ½áÊø---------------------->
+    <!---------------------½ñÈÕ¾Û½¹ ¿ªÊ¼---------------------->
+    <div class="wz_jujiao_wrap">
+  <div class="wz_r_tit bg02">½ñÈÕ¾Û½¹
+    <ul>
+      <li class="wz_tab_bg">1</li>
+      <li>2</li>
+      <li>3</li>
+      <div class="clear"></div>
+    </ul>
+  </div>
+  <ul class="wz_jj_list" style="display:block;"><li><div class="wz_li_l"><a href="/zixun/hangye/283760.shtml" target="_blank"><img src="/image1/2018/6/7/6301CBB7C2934DD2BE16B2B7899F338D.jpg" width="116" height="82" alt="" class="zoom"/></a></div><div class="wz_li_r"> <h2><a href="/zixun/hangye/283760.shtml" target="_blank">6ÔÂ6ÈÕ£¬É½³ÇÖØÇì£¬2018£¨µÚ¾Å½ì£©È«...</a></h2><div class="wz_wz_time">2018-6-6</div></div><div class="clear"></div></li><li><div class="wz_li_l"><a href="/zixun/changshang/283542.shtml" target="_blank"><img src="/image8/2018/5/31/211BBEAF8002414CB29909C77ED48B8B.jpg" width="116" height="82" alt="" class="zoom"/></a></div><div class="wz_li_r"> <h2><a href="/zixun/changshang/283542.shtml" target="_blank">ÐÂÊ±´ú¡¢ÐÂ¼¼Êõ±³¾°Ö®ÏÂ£¬ÐíÐí¶à¶àÐÂ...</a></h2><div class="wz_wz_time">2018-5-31</div></div><div class="clear"></div></li><li><div class="wz_li_l"><a href="/xinche/guonei/283448.shtml" target="_blank"><img src="/image1/2018/5/30/EF9AB300C9564A50B9F05B5A1D3E5883.jpg" width="116" height="82" alt="" class="zoom"/></a></div><div class="wz_li_r"> <h2><a href="/xinche/guonei/283448.shtml" target="_blank">À×¿ËÈøË¹È«ÐÂESÓÐÍû2018Äê7ÔÂÕýÊ½ÉÏÊÐ...</a></h2><div class="wz_wz_time">2018-5-30</div></div><div class="clear"></div></li><li><div class="wz_li_l"><a href="/xinche/guowai/283399.shtml" target="_blank"><img src="/image4/2018/5/29/88A513EAFFC6487C890B3A6D8AB4C0C2.jpg" width="116" height="82" alt="" class="zoom"/></a></div><div class="wz_li_r"> <h2><a href="/xinche/guowai/283399.shtml" target="_blank">½üÈÕ£¬º£ÍâÃ½Ìå±¨µÀ³Æ£¬±¼³ÛGLBÒÑ¾­ÔÚ...</a></h2><div class="wz_wz_time">2018-5-29</div></div><div class="clear"></div></li></ul><ul class="wz_jj_list" style="display:none;"><li><div class="wz_li_l"><a href="/xinche/guonei/283391.shtml" target="_blank"><img src="/image2/2018/5/29/7FFFDC6444FF421D98D087BDA5A7103E.jpg" width="116" height="82" alt="" class="zoom"/></a></div><div class="wz_li_r"> <h2><a href="/xinche/guonei/283391.shtml" target="_blank">2018Äê5ÔÂ28ÈÕ£¬ÔÚÒ»Æû-´óÖÚ»ª¶«»ùµØ...</a></h2><div class="wz_wz_time">2018-5-29</div></div><div class="clear"></div></li><li><div class="wz_li_l"><a href="/xinche/guonei/283384.shtml" target="_blank"><img src="/image7/2018/5/29/EC54D1B3C0CA44FAB4A8FD6512EE6BD0.jpg" width="116" height="82" alt="" class="zoom"/></a></div><div class="wz_li_r"> <h2><a href="/xinche/guonei/283384.shtml" target="_blank">5ÔÂ28ÈÕ£¬¼ªÀû¿Æ¼¼ÖÇ»ìÐÂÆì½¢²©ÈðGEÕý...</a></h2><div class="wz_wz_time">2018-5-29</div></div><div class="clear"></div></li><li><div class="wz_li_l"><a href="/xinche/guonei/283295.shtml" target="_blank"><img src="/image1/2018/5/28/4C8304803537482AA3D98D4F43FF2E5A.jpg" width="116" height="82" alt="" class="zoom"/></a></div><div class="wz_li_r"> <h2><a href="/xinche/guonei/283295.shtml" target="_blank">2018Äê5ÔÂ26ÈÕ£¬¡°Ô¦¼ûÃÀºÃ¡±Ò»Æû±¼ÌÚ...</a></h2><div class="wz_wz_time">2018-5-26</div></div><div class="clear"></div></li><li><div class="wz_li_l"><a href="/zixun/hangye/283289.shtml" target="_blank"><img src="/image6/2018/5/26/700F7B712C15465CB10E980163D6B586.jpg" width="116" height="82" alt="" class="zoom"/></a></div><div class="wz_li_r"> <h2><a href="/zixun/hangye/283289.shtml" target="_blank">5ÔÂ25ÈÕ£¬È«ÐÂ¹þ¸¥H6ºÀ»ªÐÍ¼°³¬ºÀÐÍÕý...</a></h2><div class="wz_wz_time">2018-5-26</div></div><div class="clear"></div></li></ul><ul class="wz_jj_list" style="display:none;"><li><div class="wz_li_l"><a href="/xinche/guonei/283280.shtml" target="_blank"><img src="/image8/2018/5/25/BE3819DD827E43BA926CD75AB7377461.jpg" width="116" height="82" alt="" class="zoom"/></a></div><div class="wz_li_r"> <h2><a href="/xinche/guonei/283280.shtml" target="_blank">2018Äê5ÔÂ25ÈÕ£¬ÉÏÆû´óÖÚÈ«ÐÂÒ»´úÀÊÒÝ...</a></h2><div class="wz_wz_time">2018-5-25</div></div><div class="clear"></div></li><li><div class="wz_li_l"><a href="/shijia/ceshi/283276.shtml" target="_blank"><img src="/image6/2018/5/25/2BBCD0D1E4824338A7DB9DD22FC9FF81.jpg" width="116" height="82" alt="" class="zoom"/></a></div><div class="wz_li_r"> <h2><a href="/shijia/ceshi/283276.shtml" target="_blank">µ±Ïû·ÑËßÇóÖð²½ÏòÄêÇá»¯¡¢ÔË¶¯»¯¡¢ÖÇ...</a></h2><div class="wz_wz_time">2018-5-25</div></div><div class="clear"></div></li><li><div class="wz_li_l"><a href="/xinche/guonei/283215.shtml" target="_blank"><img src="/image5/2018/5/25/8E2A144239354385BE4BE8BEB8A2174E.jpg" width="116" height="82" alt="" class="zoom"/></a></div><div class="wz_li_r"> <h2><a href="/xinche/guonei/283215.shtml" target="_blank">½üÈÕ£¬ÉÏÆû´óÖÚ¹Ù·½Ðû²¼ÆäÈ«ÐÂ½ô´ÕÐÍ...</a></h2><div class="wz_wz_time">2018-5-25</div></div><div class="clear"></div></li><li><div class="wz_li_l"><a href="/xinche/guonei/283160.shtml" target="_blank"><img src="/image8/2018/5/23/5CE441618C03446795C21578589E871F.jpg" width="116" height="82" alt="" class="zoom"/></a></div><div class="wz_li_r"> <h2><a href="/xinche/guonei/283160.shtml" target="_blank">5ÔÂ23ÈÕ£¬ÁÔ±ªÆû³µÆìÏÂµÄÈ«ÐÂ½ô´Õ¼¶S...</a></h2><div class="wz_wz_time">2018-5-23</div></div><div class="clear"></div></li></ul>
+</div>
+ 
+    <!---------------------½ñÈÕ¾Û½¹ ½áÊø---------------------->
+    <!---------------------ÐÂÎÅÈËÎï ¿ªÊ¼---------------------->
+    <div class="wz_renwu_wrap">
+      <div class="wz_r_tit bg03">ÐÂÎÅÈËÎï</div>
+      <div id="wz_pic_2" class="scroll_vertical">
+        <div class="box">
+          <ul class="list">
+                <li> <a href="/shownews/293905.shtml" target="_blank"><img src="/image1/2019/5/13/494544DEA34E41E49CC41257B1CF208A.jpg" width="220" height="154" alt="ËûÆÈÊ¹ÖÐÃÀÆû³µÒµ¼ÓËÙÈÚºÏ"></a>      <p class="jrjj_list_tit"><a href="/shownews/293905.shtml" target="_blank">ËûÆÈÊ¹ÖÐÃÀÆû³µÒµ¼ÓËÙÈÚºÏ</a></p>    </li>    <li> <a href="/shownews/293700.shtml" target="_blank"><img src="/image7/2019/5/6/4557B5C1E44A4644B572668DC8A5EFA1.jpg" width="220" height="154" alt="¼Ç×¡Õâ¸öÂä¾®Ö®ÈË"></a>      <p class="jrjj_list_tit"><a href="/shownews/293700.shtml" target="_blank">¼Ç×¡Õâ¸öÂä¾®Ö®ÈË</a></p>    </li>    <li> <a href="/shownews/293231.shtml" target="_blank"><img src="/image4/2019/4/22/319614658D8C4763B9AD81D4E3C08721.jpg" width="220" height="154" alt="Àî±óµÄ³µÕ¹¾ø³ª£¿"></a>      <p class="jrjj_list_tit"><a href="/shownews/293231.shtml" target="_blank">Àî±óµÄ³µÕ¹¾ø³ª£¿</a></p>    </li> 
+          </ul>
+        </div>
+      </div>
+    </div>
+ 
+    <!---------------------ÐÂÎÅÈËÎï ½áÊø---------------------->
+    <!---------------------ÊµÓÃ¹¤¾ß ¿ªÊ¼---------------------->
+        <div class="wz_gongju_wrap">
+      <div class="wz_r_tit bg04">ÊµÓÃ¹¤¾ß</div>
+      <div class="wz_tool_group">
+        <div class="wz_tool_item tool_01"><a href="http://data.chooseauto.com.cn/selectcar/" target="_blank"></a></div>
+        <div class="wz_tool_item tool_02"><a href="http://data.chooseauto.com.cn/Contrast/index.shtml" target="_blank"></a></div>
+        <div class="wz_tool_item tool_03"><a href="/xlph/" target="_blank"></a></div>
+        <div class="wz_tool_item tool_04"><a href="/ncap/" target="_blank"></a></div>
+        <div class="wz_tool_item tool_05"><a href="/loancar/index.shtml" target="_blank"></a></div>
+        <div class="wz_tool_item tool_06"><a href="http://data.chooseauto.com.cn/tuku.shtml" target="_blank"></a></div>
+        <div class="clear"></div>
+      </div>
+    </div>
+  
+    <!---------------------ÊµÓÃ¹¤¾ß ½áÊø---------------------->
+  </div>
+  <div class="clear"></div>
+</div>
+<!---------------------Ò³½Å ¿ªÊ¼---------------------->
+<div class="foot_wrap">
+  <div class="foot_con">
+    <div class="foot_left">
+      <p>·þÎñÈÈÏß£º</p>
+      <p>ÖÜÒ»ÖÁÖÜÎå 9:00-18:00</p>
+      <p class="tel">010-5171 0701</p>
+      <div class="mtpt"> <a href="http://weibo.com/chooseauto?is_hot=1" target="_blank"><span class="wibo" style="background:url(/index2016/images/weibo.png) no-repeat top center;">¹Ù·½Î¢²©</span></a> <span class="weixin" style="background:url(/index2016/images/weixin.png) no-repeat top center;">¹«ÖÚºÅ</span> <span class="wap" style="background:url(/index2016/images/wap.png) no-repeat top center;">ÊÖ»ú¶Ë</span> <!--span class="ios" style="background:url(/index2016/images/ios.png) no-repeat top center;">³µ¶Î×ÓIOS</span--> <!--span class="android" style="background:url(/index2016/images/android.png) no-repeat top center;">³µ¶Î×Ó°²×¿</span-->
+        <div class="clear"></div>
+        <div class="wx_ew" style="display:none;"><img src="/index2016/images/weixin_ewm.jpg" width="90" height="90" alt=""/></div>
+        <div class="wp_ew" style="display:none;"><img src="/index2016/images/wap_ewm.png" width="90" height="90" alt=""/></div>
+        <!--div class="io_ew" style="display:none;"><img src="/index2016/images/ios_ewm.png" width="90" height="90" alt=""/></div-->
+        <!--div class="an_ew" style="display:none;"><img src="/index2016/images/android_ewm.png" width="90" height="90" alt=""/></div-->
+      </div>
+    </div>
+    <div class="foot_center"> <a href="/about.shtml" target="_blank">¹ØÓÚÎÒÃÇ</a> <a href="/about.shtml" target="_blank">ÃâÔðÉùÃ÷</a> <a href="/sitemap.shtml" target="_blank">ÍøÕ¾µØÍ¼</a> </div>
+    <div class="foot_right">
+      <p style="line-height:25px;">Ñ¡³µÍø ¡¤ ±±¾©ÕýÔòÑô¹âÎÄ»¯´«²¥ÓÐÏÞ¹«Ë¾<br>
+        Copyright 2015 chooseauto.com.cn  All Rights Reserved</p>
+      <p style="line-height:50px;">¹«Ë¾µØÖ·:±±¾©ÊÐÎ÷³ÇÇø¹ãÍâ´ó½Ö248ºÅ»úÐµ´óÏÃ1003/1009ÊÒ</p>
+      <p style="line-height:25px;">¾©ICP±¸12003842ºÅ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;¾©ICPÖ¤100662ºÅ<br>
+        ±±¾©ÊÐ³¯Ñô·Ö¾ÖÍø°²±¸°¸±àºÅ£º110105002796<br>¹ã²¥µçÊÓ½ÚÄ¿ÖÆ×÷¾­ÓªÐí¿ÉÖ¤£º£¨¾©£©×ÖµÚ05971ºÅ</p>
+    </div>
+    <div class="clear"></div>
+  </div>
+  <div class="bottom_bar"></div>
+</div>
+<div class="ewm-alert" style="display:none;">
+	<h2>·ÖÏíµ½Î¢ÐÅ</h2>
+	<div id="ewmTable"></div>
+	<span onClick="closeEwm(this)">¹Ø±Õ</span>
+</div>
+<script type="text/template" id="tpl-share">
+<div class="share-list"> <a class="side-sina" onclick="shareTo('sina')" href="javascript:void(0);"><i></i>ÐÂÀËÎ¢²©</a> <a class="side-wechat" onclick="shareTo('wechat')" href="javascript:void(0);"><i></i>Î¢ÐÅ</a> <a class="side-qq" onclick="shareTo('qq')" href="javascript:void(0);"><i></i>QQ</a> <a class="side-qzone" onclick="shareTo('qzone')" href="javascript:void(0);"><i></i>QQ¿Õ¼ä</a> </div>
+</script>
+<script>
+$(document).ready(function() {
+    $(".weixin").mouseenter(function(){$(".wx_ew").show();}).mouseleave(function(){$(".wx_ew").hide();});
+	$(".wap").mouseenter(function(){$(".wp_ew").show();}).mouseleave(function(){$(".wp_ew").hide();});
+	$(".ios").mouseenter(function(){$(".io_ew").show();}).mouseleave(function(){$(".io_ew").hide();});
+	$(".android").mouseenter(function(){$(".an_ew").show();}).mouseleave(function(){$(".an_ew").hide();});
+	$(".wz_share").empty().append($("#tpl-share").html());
+	$(".wz_share").click(function(){
+		$(".share-list").slideDown(500);
+	});
+	$(".share-list").mouseleave(function(){
+		$(".share-list").slideUp();
+	});
+	//¶þÎ¬ÂëÉú³É
+	var ewm = new QRCode(document.getElementById("ewmTable"), {
+		width : 150,
+		height : 150
+	});
+	function makeCode () {		
+		var elText = document.location.href;	
+		ewm.makeCode(elText);
+	}
+	makeCode();
+});
+function closeEwm(obj){
+	$(obj).parent(".ewm-alert").fadeOut(500);
+}
+function shareTo(stype){
+    var shareTit = document.title;
+    var shareLink = document.URL;
+	var shareDesc = document.getElementsByTagName("meta")[name="Description"].getAttribute("content");
+    var sharePic = '';
+	var imgUrl = '';
+    //»ñÈ¡ÍøÒ³ÖÐÄÚÈÝµÄµÚÒ»ÕÅÍ¼Æ¬£¬µ±ÄÚÈÝÖÐÃ»ÓÐÍ¼Æ¬Ê±£¬ÉèÖÃ·ÖÏíÍ¼Æ¬ÎªÍøÕ¾logo
+    imgUrl = $('#div_CurrentPage img').eq(0).attr('src');
+    if(typeof imgUrl == 'undefined'){
+        sharePic='http://www.chooseauto.com.cn/index2018/images/logo.png';
+    }
+    //Èç¹ûÊÇÏà¶ÔÂ·¾¶Ôò½øÐÐ¾ø¶ÔÂ·¾¶Æ´½Ó
+    if(typeof imgUrl != 'undefined' && imgUrl.indexOf('chooseauto') == -1) {
+        sharePic = 'http://www.chooseauto.com.cn'+imgUrl;
+    }
+    //qq¿Õ¼ä½Ó¿ÚµÄ´«²Î
+    if(stype=='qzone'){
+		console.log(shareTit,shareLink,imgUrl,sharePic,shareDesc);
+        window.open('https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url='+shareLink+'?sharesource=qzone&title='+encodeURI(shareTit)+'&pics='+encodeURI(sharePic)+'&summary='+ encodeURI(shareDesc));
+    }
+    //ÐÂÀËÎ¢²©½Ó¿ÚµÄ´«²Î
+    if(stype=='sina'){
+		var wb_appkey = "",
+			wb_ralateUid = "1877395085",
+			wb_language	= "zh_cn";
+        window.open("http://service.weibo.com/share/share.php?url="+shareTit+"&appkey="+wb_appkey+"&title="+shareTit+"&pic="+sharePic+"&ralateUid="+wb_ralateUid+"&language="+wb_language+"");
+    }
+    //qqºÃÓÑ½Ó¿ÚµÄ´«²Î
+    if(stype == 'qq'){
+		console.log(shareTit,shareLink,imgUrl,sharePic);
+		window.open('http://connect.qq.com/widget/shareqq/index.html?url=' + shareLink + '&sharesource=qzone&title='+ encodeURI(shareTit) +'&pics='+ encodeURI(sharePic) +'&summary=' + encodeURI(shareDesc));
+    }
+    //Éú³É¶þÎ¬Âë¸øÎ¢ÐÅÉ¨Ãè·ÖÏí
+    if(stype == 'wechat'){
+        $(".ewm-alert").fadeIn(500);
+    }
+}
+</script>
+<div style="display:none"> 
+  <script type="text/javascript" src="http://js.users.51.la/2275806.js"></script> 
+</div>
+<!---------------------Ò³½Å ½áÊø---------------------->
+<!---------------------¼à²â´úÂë---------------------->
+<div style="display:none">
+  <script type="text/javascript" src="http://js.users.51.la/2275806.js"></script>
+</div>
+<!--µ×²¿ÎÄ¼þ½áÊø-->
+<script type="text/javascript">var Tjid="293822";var Tjtitle="%A1%B0%D0%A1%D0%D0%D0%C7%A1%B1%C2%E4%B5%D8%20%BC%AA%C0%FB%D0%C7%D4%BD%C3%F7%C8%D5%D5%FD%CA%BD%C9%CF%CA%D0";var Tjchannelname="%B9%FA%C4%DA%D0%C2%B3%B5";var Tjchannelid="39";var Tjurl="/xinche/guonei/293822.shtml";var Sourceurl="%D1%A1%B3%B5%CD%F8";var aTAGstr="|%BC%AA%C0%FB%C6%FB%B3%B5%20%D0%C7%D4%BD%20%BD%CE%C5%DCSUV";var sWidth=screen.width;var sHeight=screen.height;var zuozhe="%D6%DC%D3%EE";var publishdate="2019-5-9%200:01:00";var carpinpaiid="8173";var carchangjiaid="8174";var carxilieid="0";var searchword="";getpinglunid(293822);commentlist(293822,1,1);</script><script type="text/javascript" src="http://api.chooseauto.com.cn/js/chooseauto_public.js"></script>
+</body>
+</html>
+
+
+<!-- Copyright 2007-2011 CHOOSEAUTO ,2019-5-9 0:06:48,WWW.CHOOSEAUTO.COM.CN-->
+<!doctype html>
+<html>
+<head>
+<meta charset="gb2312">
+<meta  name="keyword" content="">
+<title>³µÀÐµÀ£ºµç¶¯³µÄÃÖ±Ïß¼ÓËÙËµÊÂ¶ù ÕæÊµÁ¦»¹ÊÇÓû¸ÇÃÖÕÃ£¿
+_Ñ¡³µÍø</title>
+<script src="/shipin/js/jquery-1.11.3.min.js"></script>
+<link rel="stylesheet" type="text/css" href="/shipin/css/reset.css">
+<link rel="stylesheet" type="text/css" href="/head/HeadBottom.css">
+<link rel="stylesheet" type="text/css" href="/shipin/css/player.css">
+
+<!--[if IE 6]>
+  <script src="js/png.js"></script>
+  <script>
+      DD_belatedPNG.fix('*');
+  </script>
+<![endif]-->
+
+<script>
+window.location.href ='https://v.youku.com/v_show/id_XNDE3MTg5NDk4MA==.html?spm=a2h3j.8428770.3416059.1&qq-pf-to=pcqq.c2c';
+
+</script>
+
+</head>
+
+<body>
+<!--------------------------------Ò³Í·------------------------------------>
+<div class="top_bj">
+  <div class="top">
+    <ul id="mininav">
+      <li><a href="http://www.chooseauto.com.cn" target="_blank">Ê×Ò³</a><a href="http://www.chooseauto.com.cn/complaint/index.shtml"  target="_blank">ÎÒÒªÍ¶Ëß</a><a href="http://www.chooseauto.com.cn/about.shtml" target="_blank">ÁªÏµÎÒÃÇ</a><a href="http://www.chooseauto.com.cn/mytoutiao/default.shtml" target="_blank">ÎÒµÄÍ·Ìõ</a><a href="http://www.chooseauto.com.cn/zt/" target="_blank">×¨Ìâ»ã×Ü</a><a href="http://www.chooseauto.com.cn/mynews/" target="_blank">ÐÂÎÅ»ã×Ü</a> </li>
+    </ul>
+    <ul class="login_block">
+      <li id='li_login'><a href="http://wiki.chooseauto.com.cn/User/dl.aspx" target="_blank" class="current">µÇÂ¼</a><a href="http://wiki.chooseauto.com.cn/User/zc.aspx" target="_blank" class="zhuzhu">×¢²á</a></li>
+      <li id="li_exit" style=" display:none"><span><a href="http://www.chooseauto.com.cn/complaint/personal_center.shtml" target="_blank">¸öÈËÖÐÐÄ</a><a href="##" target="_blank">ÍË³ö</a></span> test</li>
+    </ul>
+  </div>
+</div>
+<script>
+	$.getJSON("http://wiki.chooseauto.com.cn/user/CheckUserCookies.aspx?callback=?",
+		function (data) {
+		  if(data.length > 0)
+		  {
+                          var UserName = data[0].Username  
+                          if (UserName.length > 8)
+                            UserName = UserName .substr(0,8) + "...";
+			  var LoginCon = "<span><a href='http://www.chooseauto.com.cn/complaint/personal_center.shtml' target='_blank' class='user_info'>¸öÈËÖÐÐÄ</a><a href='javascript:void(0)' onclick='User_Exit()' class='user_info'>ÍË³ö</a></span><a href='http://wiki.chooseauto.com.cn/User/zy.aspx?userid="+ data[0].UserId + "'  target='_blank' class='user_name'>"  + UserName   + "</a>";
+                          $("#li_exit") .html(LoginCon);
+			  $("#li_login").hide();
+			  $("#li_exit").show();
+                          if(location.href.indexOf("personal_center")> 0)
+                          { 
+                             UserID = data[0].UserId;
+                             $(".user_name a").html(UserName);
+                             $(".content_wrap .left .user_info span img").attr("src","http://wiki.chooseauto.com.cn"+data[0].Elephant);
+                             //getUserPinlun(1);
+                             getTouSuByUserId(1);
+
+                          }
+		  }
+                 else
+                 {
+                     if(location.href.indexOf("personal_center")> 0)
+                     {
+                         location.href = "http://wiki.chooseauto.com.cn/user/dl.aspx";
+                     }
+
+                 }
+	}); 
+	
+	function User_Exit()
+	{
+		$.getJSON("http://wiki.chooseauto.com.cn/user/IndexUserExit.aspx?callback=?",
+		function (data) {
+		  if(data.Result =="true")
+		  {
+			  $("#li_login").show();
+			  $("#li_exit").hide();
+		  }
+	}); 
+
+	} 
+//¿ØÖÆµ¼º½ÏÂÔòµÄµ¼º½ÌõÖ»ÔÚÎÄÕÂÄÚÈÝÒ³ÏÔÊ¾
+    var reg = new RegExp("/[0-9 _]+\.shtml","g"); 
+    var regMatch = location.href.match(reg);
+    if(regMatch != null)
+        $("#div_ad").show();
+ 
+</script>
+<!--------------------------------LOGO------------------------------------>
+<div class="head_con">
+  <div class="logo"><a href="http://www.chooseauto.com.cn" target="_blank"><img src="/shipin/images/video_logo.png" width="213" height="53" alt=""/></a><a href="http://www.chooseauto.com.cn/shipin/index.shtml"><img src="/shipin/images/video_pindao.png" width="158" height="53" alt=""/></a></div>
+  <div class="search">
+        <form action="/search/shipin/?" method="get" enctype="multipart/form-data" name="Tsearch"   id="Tsearch"   accept-charset="gb2312" onSubmit="return SearchSubmit();document.charset='gb2312';">
+          <input id="p" name="p" type="hidden" value="1" />
+          <input id="t" name="t" type="text" class="search_txt" value="" />
+          <input  type="submit" class="search_btn" value="ËÑË÷" />
+        </form>
+
+    <div class="clear"></div>
+  </div>
+  
+  <div class="clear"></div>
+</div>
+<div class="main_wrap">
+	<div class="left">
+    	<div class="nav"><a href="/" target="_blank">Ê×Ò³</a>&gt;<a href="/shipin/" target="_blank">ÊÓÆµÆµµÀ</a>&gt;<a href="/shipin/guanlaoshi/index.shtml
+" target="_blank" class="current">¹ÜÀÏÊ¦
+</a></div>
+        <div class="video_tit"><h1>³µÀÐµÀ£ºµç¶¯³µÄÃÖ±Ïß¼ÓËÙËµÊÂ¶ù ÕæÊµÁ¦»¹ÊÇÓû¸ÇÃÖÕÃ£¿
+</h1></div>
+		<!--------------------------------²¥·ÅÆ÷------------------------------------>        
+        <div class="player"><iframe height="530" width="890" src="
+" frameborder="0" allowfullscreen></iframe></div>
+		<!--------------------------------³©ÑÔÆÀÂÛ------------------------------------>        
+        <div class="pinglun">
+        	<div id="SOHUCS"></div>
+      		<script charset="utf-8" type="text/javascript" src="http://changyan.sohu.com/upload/changyan.js" ></script> 
+      		<script type="text/javascript">
+    			window.changyan.api.config({
+        		appid: 'cys2DGx6t',
+        		conf: 'prod_9a63d45ca8ee2b22adb26703653e1ac0'
+    			});
+			</script> 
+        </div>
+    </div>
+	
+	
+    <div class="right">
+		<!--------------------------------ÅÅÐÐ------------------------------------>  
+		
+     <h2>ÊÕ¿´ÅÅÐÐ</h2>
+	<ul class="paihang" id="paihang">
+    <script type="text/javascript">
+    
+	      $.ajax({
+               type: "get",
+               url: "/public/ajax/shipin/shipin_hits.aspx",
+               async: false,
+               success: function (data) {
+			        if (data!=""){
+							 $("#paihang").html(data);
+					}
+               }
+           });
+
+	
+	
+</script>
+
+	 </ul>
+    </div>
+    <div class="clear"></div>
+	
+	
+</div>
+<!--------------------------------Ò³½Å------------------------------------>
+<div class="clear"></div>
+<!--ÓÑÇéÁ´½Ó½áÊø--><!--µ×²¿ÎÄ¼þ¿ªÊ¼-->
+<div class="footer">
+	<a href="/about.shtml"  target="_blank">¹ØÓÚÎÒÃÇ</a> | 
+	<a href="/sitemap.shtml"  target="_blank">Õ¾µãµØÍ¼</a>  | 
+	<a href="#" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.chooseauto.com.cn/');return false;" >ÉèÎªÊ×Ò³</a> |
+	<a onclick="AddFavorite(window.location,document.title)" href="javascript:void(0)">¼ÓÈëÊÕ²Ø</a> 
+	
+		
+	<br /> 
+	<a href="http://www.miibeian.gov.cn/"  target="_blank">¾©ICP±¸12003842ºÅ</a> 
+	<a href="http://www.miibeian.gov.cn/"  target="_blank">¾©ICPÖ¤100662ºÅ</a> 
+	±±¾©ÊÐ³¯Ñô·Ö¾ÖÍø°²±¸°¸±àºÅ£º110105002796<br /> ÍøÕ¾Ê¹ÓÃÓòÃû£º<a href="http://www.chooseauto.com.cn/" target="_blank">CHOOSEAUTO.COM.CN</a>  
+	Ñ¡³µÍø°æÈ¨ËùÓÐ ¹ã²¥µçÊÓ½ÚÄ¿ÖÆ×÷¾­ÓªÐí¿ÉÖ¤£º£¨¾©£©×ÖµÚ05971ºÅ
+</div>
+<!--µ×²¿ÎÄ¼þ½áÊø-->
+<div style="display:none">
+<script type="text/javascript" src="http://js.users.51.la/2275806.js"></script>
+</div>
+
+<script>    
+
+//AddFavorite
+ function AddFavorite(sURL, sTitle) 
+ {               
+	 sURL = encodeURI(sURL);        
+	 try
+	 {                   
+	 	window.external.addFavorite(sURL, sTitle);   
+	 }
+	 catch(e) 
+	 {       
+		 try
+		 {       
+			 window.sidebar.addPanel(sTitle, sURL, "");                
+		 }
+		 catch (e) 
+		 {                      
+			 alert("ÄúµÄä¯ÀÀÆ÷²»Ö§³Ö£¬ÇëÊ¹ÓÃCtrl+D½øÐÐÌí¼Ó,»òÊÖ¶¯ÔÚä¯ÀÀÆ÷Àï½øÐÐÉèÖÃ.");  
+		 }            
+	 }       
+ } 
+ 
+ 
+ //addfavor1
+ function addfavor1(url,title) {
+    if(confirm("ÍøÕ¾Ãû³Æ£º"+title+"\nÍøÖ·£º"+url+"\nÈ·¶¨Ìí¼ÓÊÕ²Ø?")){
+        var ua = navigator.userAgent.toLowerCase();
+        if(ua.indexOf("msie 8")>-1){
+            external.AddToFavoritesBar(url,title,'');//IE8
+        }else{
+            try {
+                window.external.addFavorite(url, title);
+            } catch(e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");//firefox
+                } catch(e) {
+                    alert("¼ÓÈëÊÕ²ØÊ§°Ü£¬ÇëÊ¹ÓÃCtrl+D½øÐÐÌí¼Ó");
+                }
+            }
+        }
+    }
+    return false;
+}
+ 
+ 
+  var imgs = document.getElementsByTagName('img');           
+ for(var i = 0,img; img = imgs[i++];){         
+ img.parentNode.style.textIndent = '0em';         } 
+ </script>
+
+<!--------------------------------½Å±¾------------------------------------> 
+
+
+<!------------------------------¼à²â´úÂë---------------------------------->
+<div style="display:none"> 
+  <script type="text/javascript" src="http://js.users.51.la/2275806.js"></script> 
+</div>
+<script type="text/javascript">var Tjid="293836";var Tjtitle="%B3%B5%C0%D0%B5%C0%A3%BA%B5%E7%B6%AF%B3%B5%C4%C3%D6%B1%CF%DF%BC%D3%CB%D9%CB%B5%CA%C2%B6%F9%20%D5%E6%CA%B5%C1%A6%BB%B9%CA%C7%D3%FB%B8%C7%C3%D6%D5%C3%A3%BF";var Tjchannelname="%B9%DC%C0%CF%CA%A6";var Tjchannelid="4191";var Tjurl="/shipin/guanlaoshi/293836.shtml";var Sourceurl="";var aTAGstr="";var sWidth=screen.width;var sHeight=screen.height;var zuozhe="";var publishdate="2019-5-10%209:50:00";var carpinpaiid="";var carchangjiaid="";var carxilieid="";var searchword="";</script><script type="text/javascript" src="http://api.chooseauto.com.cn/js/chooseauto_shipin.js"></script>
+</body>
+</html>
+
+<!-- Copyright 2007-2011 CHOOSEAUTO ,2019-5-10 9:50:41,WWW.CHOOSEAUTO.COM.CN-->

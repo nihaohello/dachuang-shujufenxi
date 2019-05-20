@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>360 æ¢æºå©æå®ç½</title>
+  <meta name="Keywords" content="360æ¢æºå©æå®ç½">
+  <meta name="Description" content="360æ¢æºå©æå®ç½">
+<link href="http://s7.qhres.com/static/e5536dc9da3142e9.css" rel="stylesheet"></head>
+<body>
+  <div class="wrap">
+    <div class="header">
+      <div class="main clearfix">
+        <div class="logo"><img src="http://p5.qhimg.com/t0167f50db2038ee77d.png" alt="360æ¢æºå©æå®ç½-logo" title="360æ¢æºå©æå®ç½-logo">360æ¢æºå©æ</div>
+        <span class="nav">
+          <a target="_blank" href="http://bbs.360.cn/thread-15480034-1-1.html">å¦ä½ä½¿ç¨</a>
+          <a target="_blank" href="//www.360.cn">360å®ç½</a>
+        </span>
+      </div>
+    </div>
+    <div class="main text-c man-top" bk="topdownload">
+      <p style="padding: 60px 0;"><img width="380" src="http://p2.qhimg.com/t0121fa8266831fe1f1.png" alt="360æ¢æºå©æå®ç½" title="360æ¢æºå©æå®ç½"></p>
+      <p><a href="https://down.360safe.com/sync/Setup.exe" target="_blank"><img width="300" src="http://p6.qhimg.com/t01f28b784a291843e5.png" alt="ç«å³ä¸è½½"></a></p>
+      <p><img src="http://p1.qhimg.com/t01e7899c7e21e0ff39.png" width="1080" alt="360æ¢æºå©æå®ç½" title="360æ¢æºå©æå®ç½"></p>
+    </div>
+    <div class="main text-c" bk="tag" style="padding-top: 50px;">
+      <a class="tg-wrap" href="#tag-1" data-text="æä»¶ç§ä¼ ï¼åå«è¦è¦æ·è´"><img src="//p0.ssl.qhimg.com/t0138aff4f6d56ead2d.jpg" style="margin-bottom: 24px;" alt="360æ¢æºå©æå®ç½" title="360æ¢æºå©æå®ç½"></a>
+      <a class="tg-wrap" href="#tag-2" data-text="è½¯ä»¶æ¬å®¶ï¼åä¸åå¤ä¸è½½"><img src="//p3.ssl.qhimg.com/t01e18a23afb65e3aec.jpg" style="margin-bottom: 24px;" alt="360æ¢æºå©æå®ç½" title="360æ¢æºå©æå®ç½"></a>
+      <a class="tg-wrap" style="padding-right:0;" href="#tag-3" data-text="ä¸é®æ¢æºï¼æ°æºé¡ºæå¦æ§"><img src="//p4.ssl.qhimg.com/t0179b79cdab2f9f633.jpg" style="margin-bottom: 24px;" alt="360æ¢æºå©æå®ç½" title="360æ¢æºå©æå®ç½"></a>
+    </div>
+    <div class="main t-320 clearfix" name="tag-1" id="tag-1">
+      <div class="left-wrap">
+        <img src="http://p0.qhimg.com/t01385021a923d05357.jpg" alt="æä»¶ç§ä¼ ï¼åå«è¦è¦æ·è´" title="æä»¶ç§ä¼ ï¼åå«è¦è¦æ·è´">
+        <span class="img-float-left"></span>
+      </div>
+      <div class="right-wrap r-60">
+        <h2 class="h2-title">æä»¶ç§ä¼ ï¼åå«è¦è¦æ·è´</h2>
+        <p class="desc">ä¸¤å°çµèè¿å°åä¸WiFiï¼å±åç½ï¼å³å¯å¿«ä¼ </p>
+        <p class="desc">æ¯ææ´çè¿ç§»ãæå®æä»¶å¤¹è¿ç§»ï¼åå«Uçæ·è´</p>
+      </div>
+    </div>
+    <div class="main t-320 clearfix" name="tg-2" id="tag-2">
+      <div class="left-wrap l-60">
+        <h2 class="h2-title">è½¯ä»¶æ¬å®¶ï¼åä¸åå¤ä¸è½½</h2>
+        <p class="desc">ä¸é®è¿ç§»å¨é¨è½¯ä»¶ï¼æ°æºä¸å¿åæ¾è½¯ä»¶</p>
+        <p class="desc">åºç¨éç½®åæ­¥ï¼è½¯ä»¶è®¾ç½®å®å¨æ¬å°æ°çµè</p>
+      </div>
+      <div class="right-wrap">
+        <img src="http://p7.qhimg.com/t013fad30de1f7e0032.jpg" alt="è½¯ä»¶æ¬å®¶ï¼åä¸åå¤ä¸è½½" title="è½¯ä»¶æ¬å®¶ï¼åä¸åå¤ä¸è½½">
+        <span class="img-float-right"></span>
+      </div>
+    </div>
+    <div class="main t-320 clearfix" name="tg-3" id="tag-3">
+      <div class="left-wrap">
+        <img src="http://p6.qhimg.com/t01f7ec4f5a4e3ad964.jpg" alt="ä¸é®æ¢æºï¼æ°æºé¡ºæå¦æ§" title="ä¸é®æ¢æºï¼æ°æºé¡ºæå¦æ§">
+        <span class="img-float-left"></span>
+      </div>
+      <div class="right-wrap r-60">
+        <h2 class="h2-title">ä¸é®æ¢æºï¼æ°æºé¡ºæå¦æ§</h2>
+        <p class="desc">ä¸ç¨Uçãä¸æ¾è½¯ä»¶ï¼å¨æ°çæç®æ¢æºä½éª</p>
+        <p class="desc">å®å¨ãå¿«æ·ï¼æ°çµèä¹åèçµèä¸æ ·é¡ºæ</p>
+      </div>
+    </div>
+  </div>
+  <div class="footer clearfix">
+    <div class="main">
+      <h1 class="h1-title">360æ¢æºå©æ</h1>
+      <h3 class="h3-title">æ¢çµèï¼ä»æªå¦æ­¤ç®å</h3>
+      <p bk="bottomdownload"><a target="_blank" href="https://down.360safe.com/sync/Setup.exe" class="btn">ç«å³ä¸è½½</a></p>
+      <p class="text">ä½¿ç¨é®é¢å¯èç³»<a href="https://weibo.com/u/2792913024" target="_blank"><img style="vertical-align: text-bottom;" src="//p2.ssl.qhimg.com/t016a0470d36c7aa7da.jpg" alt="360å®å¨å°ç§" title="360å®å¨å°ç§">360å®å¨å°ç§</a></p>
+    </div>
+  </div>
+  <script src="//s0.ssl.qhimg.com/static/32ea1a8972889917/monitor_analytic.js"></script>
+  <script>
+    monitor.setConf({
+      trackUrl: "//s.360.cn/qdas/s.htm",
+      clickUrl: "//s.360.cn/qdas/c.htm",
+      clickHeatMapUrl: "//s.360.cn/qdas/c.htm",
+      wpoUrl: "//s.360.cn/qdas/p.htm"
+    });
+    monitor.setProject('QH_132_4#22').getTrack().getClickAndKeydown().getClickHeatmap(10, 1);
+  </script>
+<script type="text/javascript" src="http://s4.qhres.com/static/b7a6bea37fe0da64.js"></script></body>
+</html>

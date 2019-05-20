@@ -1,0 +1,891 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+<html class="ie6 ielt8"><![endif]-->
+<!--[if IE 7]>
+<html class="ie7 ielt8"><![endif]-->
+<!--[if IE 8]>
+<html class="ie8"><![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html>
+<!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <title>开通会员享全网最全片库-付费频道</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta content="always" name="referrer">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--[if lte IE 6]>
+    <link rel="stylesheet" type="text/css" href="//css.static.m1905.cn/vip/bootstrap-ie6.min.css">
+    <![endif]-->
+    <link rel="stylesheet" href="//css.static.m1905.cn/core/jquery-ui.css">
+    <link href="//css.static.m1905.cn/vip/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="//css.static.m1905.cn/vip/bootstrap-responsive.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="//css.static.m1905.cn/base.min.css">
+    <link rel="stylesheet" type="text/css" href="//static.m1905.cn/https/css/vip/cnc/common.css">
+    <link rel="stylesheet" type="text/css" href="//static.m1905.cn/https/pay/css/vipshopping_line20180921.css?fr=20181008">
+    <link rel="dns-prefetch" href="//static.m1905.cn"/>
+    <link rel="dns-prefetch" href="//image11.m1905.cn"/>
+    <link rel="dns-prefetch" href="//js.static.m1905.cn"/>
+    <link rel="dns-prefetch" href="//css.static.m1905.cn"/>
+    <link rel="dns-prefetch" href="//static.m1905.cn"/>
+    <style>
+        .pv2-advertisement {
+            background: url(//static.m1905.cn/pay/images/vip_play.png) no-repeat;
+            width: 1180px;
+            height: 90px;
+            display: block;
+        }
+    </style>
+</head>
+<body class="pv2">
+<div class="pv2-header">
+    <div class="wrap white_f clearfix_smile">
+        <div class="fr">
+            <div class="fl popBox popBox_mobile nav_mobile">
+                <div class="fl popTit">
+                    <b class="icons eleIcon navIcon"></b>
+                </div>
+            </div>
+            <div class="fl popBox popBox_mobile login_mobile">
+                <div class="fl popTit">
+                    <b class="icons eleIcon loginIcon"></b>
+                </div>
+                <div class="f_song popLayer">
+                    <ul class="inner_popLayer list">
+                        <li><span class="inner_li">登录</span></li>
+                        <li class="last"><span class="inner_li">注册</span></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="fl uc">
+                <div class="fl popBox ele_uc login">
+                    <b class="icons eleIcon loginIcon"></b>
+                    <span class="fl txt"><i class="btn_log">登录</i>&nbsp;|&nbsp;<i class="btn_reg">注册</i></span>
+                </div>
+                <div class="fl popBox ele_uc logined">
+                    <div class="fl popTit">
+                        <span class="fl pv2-welcome">欢迎您</span>
+                        <a href="" target="_blank"><img class="fl uPhoto"
+                                                        src="//nuc.1905.com/images/noavatar_small.gif" width="34"
+                                                        height="34"
+                                                        onerror="this.onerror=null;this.src='//nuc.1905.com/images/noavatar_small.gif'"/><span class="uName"></span></a>
+                    </div>
+                    <div class="f_song popLayer"></div>
+                </div>
+                <a class="pv2-problem" href="//vip.1905.com/help">支付遇到问题？</a>
+            </div>
+        </div>
+        <div class="clearfix_smile">
+            <h1 class="fl logo"><a class="fl txtHidden" href="//vip.1905.com">1905电影网1905VIP影院</a></h1>
+            <span class="pv2-tit">支付中心</span>
+        </div>
+    </div>
+</div>
+
+<div class="pv2-container">
+    <div class="pv2-long container ">
+        <p class="p-tit">开通时长 :</p>
+
+        <div class="row-fluid show-grid">
+
+            <div class="span2" onclick="mpay.setMonthNumber(99);">
+                <div class="box ">
+                    <div class="box-top clearfix_smile">
+
+                    </div>
+                    <div class="box-midd">
+                        <div class="pv2-price-wrapper">
+                            <p class="pv2-cprice"><strong>15</strong>元/月</p>
+                            <p class="pv2-zn">连续包月</p>
+                        </div>
+                    </div>
+                    <div class="box-bottom clearfix_smile">
+                        <div class="pv2-price-logo">
+                            <img src="//static.m1905.cn/pay/images/logo-give.gif">
+                        </div>
+                        <div class="pv2-price-presents">
+                            <p>每月2张观影券</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="span2" onclick="mpay.setMonthNumber(1);">
+                <div class="box ">
+                    <div class="box-top clearfix_smile">
+
+                    </div>
+                    <div class="box-midd">
+                        <div class="pv2-price-wrapper">
+                            <p class="pv2-cprice">1个月<strong>25</strong>元</p>
+                            <s class="pv2-oprice">（原价30元）</s>
+                        </div>
+                    </div>
+                    <div class="box-bottom clearfix_smile">
+                        <div class="pv2-price-logo">
+                            <img src="//static.m1905.cn/pay/images/logo-give.gif">
+                        </div>
+                        <div class="pv2-price-presents">
+                            <p>观影券2张</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="span2" onclick="mpay.setMonthNumber(3);">
+                <div class="box">
+                    <div class="box-top clearfix_smile">
+                        <div class="pv2-flag-app pv2-flag">买三送一</div>
+                    </div>
+                    <div class="box-midd">
+                        <div class="pv2-price-wrapper">
+                            <p class="pv2-cprice">3个月<strong>68</strong>元</p>
+                            <s class="pv2-oprice">（原价90元）</s>
+                        </div>
+                    </div>
+                    <div class="box-bottom clearfix_smile">
+                        <div class="pv2-price-logo">
+                            <img src="//static.m1905.cn/pay/images/logo-give.gif">
+                        </div>
+                        <div class="pv2-price-presents">
+                            <p>观影券7张</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="span2" onclick="mpay.setMonthNumber(14);">
+                <div class="box ">
+                    <div class="box-top clearfix_smile">
+                        <div class="pv2-flag-app pv2-flag">特惠推荐</div>
+                    </div>
+                    <div class="box-midd">
+                        <div class="pv2-price-wrapper">
+                            <p class="pv2-cprice" ><strong style="font-weight: bold;">11.1元</strong></p>
+                            <p class="pv2-oprice" style="font-weight: bold;font-size: 17px;">10天VIP尊贵体验</p>
+                        </div>
+                    </div>
+                    <div class="box-bottom clearfix_smile">
+                        <div class="pv2-price-logo">
+                            <img src="//static.m1905.cn/pay/images/jian-logo.gif">
+                        </div>
+                        <div class="pv2-price-presents">
+                            <p>赠观影券1张</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="span2" onclick="mpay.setMonthNumber(12);">
+                <div class="box ">
+                    <div class="box-top clearfix_smile">
+                        <!--<div class="pv2-flag-app pv2-flag">开通年会员 赠明星大礼盒</div>-->
+                    </div>
+                    <div class="box-midd">
+                        <div class="pv2-price-wrapper">
+                            <p class="pv2-cprice">12个月<strong>198</strong>元</p>
+                            <s class="pv2-oprice">（原价360元）</s>
+                        </div>
+                    </div>
+                    <div class="box-bottom clearfix_smile">
+                        <div class="pv2-price-logo">
+                            <img src="//static.m1905.cn/pay/images/logo-give.gif">
+                        </div>
+                        <div class="pv2-price-presents">
+                            <p>观影券25张</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+
+        <input type="hidden" id="pv2Month" value="3">
+        <input type="hidden" id="defaultType" value="1">
+        <input type="hidden" id="bank_default" value="2">
+
+    </div>
+
+</div>
+<a class="container pv2-advertisement" style="background:url(//static.1905.com/pay/images/payad20190301.jpg) no-repeat;" href="http://www.1905.com/app/" target="_blank"></a>
+<div class="pv2-way container">
+    <p class="p-tit">支付方式</p>
+
+    <p class="pv2-yearcard">手持代金券、年卡，请前往<a target="_blank" href="//vip.1905.com/card">激活</a>页使用&nbsp;&nbsp;</p>
+
+    <div class="clearFloat"></div>
+
+    <div class="row-fluid pv2-check-wrapper">
+        <table class="pay-check">
+            <tr>
+                <td id="alipay">
+                    <div id="pv2LogoAlipay" class="pv2-check-logo">支付宝</div>
+                    <div class="pay-check-mark"></div>
+                </td>
+
+                <td id="weixin">
+                    <div id="pv2LogoSweep" class="pv2-check-logo">微信</div>
+                    <div class="pay-check-mark"></div>
+                </td>
+                <!--<li id="baifubao">
+                    <div id="pv2LogoBaidu" class="pv2-check-logo">百度钱包</div>
+                    <div class="pay-check-mark"></div>
+                </li>-->
+                                <!--<td id="bestpay">-->
+                <!--<div id="pv2LogoYipay" class="pv2-check-logo">翼支付</div>-->
+                <!--<div class="pay-check-mark"></div>-->
+                <!--</td>-->
+                                <td id="bank">
+                    <div id="pv2LogoBank" class="pv2-check-logo">网上银行</div>
+                    <div class="pay-check-mark"></div>
+                </td>
+                <td id="alipay-zn">
+                    <div id="pv2LogoAlipay-zn" class="pv2-check-logo">支付宝</div>
+                    <div class="pay-check-mark"></div>
+                </td>
+                <td id="wxpay-zn">
+                    <div id="pv2LogoWxpay-zn" class="pv2-check-logo">微信</div>
+                    <div class="pay-check-mark"></div>
+                </td>
+                <td id="mobile">
+                    <div id="pv2LogoMobile" class="pv2-check-logo">话费支付</div>
+                    <div class="pay-check-mark"></div>
+                </td>
+                <!--<td id="other">
+                    <div id="pv2LogoOther" class="pv2-check-logo">其他支付</div>
+                    <div class="pay-check-mark"></div>
+                </td>
+                -->
+                <td id="vipmonth">
+                    <div id="pv2LogoTicket" class="pv2-check-logo">会员券</div>
+                    <div class="pay-check-mark"></div>
+                </td>
+                <!--
+                <td id="front">
+                    <div id="pv2LogoLead" class="pv2-check-logo">前沿支付</div>
+                    <div class="pay-check-mark"></div>
+                </td>
+               -->
+            </tr>
+        </table>
+    </div>
+
+    <div class="row-fluid pv2-way-wrapper">
+        <div class="pay-box">
+            <!--支付宝-->
+            <div class="pay-alipay pv2-box-item hidden" id="payment_alipay">
+                <div class="pv2-alipay-input">
+                    <form action="//pay.1905.com/Gatewaymonth/onlinepay" method="get" id="onlinepayForm">
+                        <input type="hidden" value="" id="online_amount" name="amount">
+                        <input type="hidden" value="cmb" id="online_bankid" name="bankid">
+                        <input type="hidden" value="3" id="online_number" name="number">
+                        <input type="hidden" value="" id="fr" name="fr">
+                        <input type="hidden" value="1" id="online_paymentid" name="paymentid">
+                        <input type="hidden" value="" id="monthonline_voucher_code" name="voucher_code">
+                        <input type="hidden" value="1" id="huodong" name="huodong">
+                        <input type="hidden" value="20150414" id="v" name="v">
+                    </form>
+                </div>
+                <p class="pv2-pay-tips">注：请保证支付宝账户或关联银行卡余额充足，避免续费失败。</p>
+                <div class="alipay-detail">
+                    <span class="cash-money">实付金额：<b>68.00</b>元</span>
+                </div>
+                <div class="alipay-box" id="aliQrcode" style="text-align:center">二维码生成中</div>
+<div class="pay-des">
+                    <span><a href="//pay.1905.com/Article/inpouragreement/" target="_blank">《1905电影网付费服务协议》</a></span>
+                    <span class='second'><a href="//pay.1905.com/Article/subscription/" target="_blank">《1905电影网会员连续包月服务协议》</a></span>
+                </div>
+            </div>           
+            <!-- 二维码 -->
+            <div class="pay-weixin pv2-box-item" id="payment_weixin">
+                <div class="weixin-detail">
+                    <span class="cash-money">实付金额：<b>68.00</b>元</span>
+                </div>
+                <div class="weixin-box" id="qrcode" style="text-align:center">二维码生成中</div>
+<div class="pay-des">
+                    <span><a href="//pay.1905.com/Article/inpouragreement/" target="_blank">《1905电影网付费服务协议》</a></span>
+                    <span class='second'><a href="//pay.1905.com/Article/subscription/" target="_blank">《1905电影网会员连续包月服务协议》</a></span>
+                </div>
+            </div>
+            <!-- 银行 -->
+            <div class="pay-bank pv2-box-item" id="payment_bank">
+                <div class="pv2-checkbox">
+                    <span>请选择</span>
+                    <!--<input type="radio" name="bank" value="22" onclick="mpay.setPaymentid('22')"><img src="//static.m1905.cn/pay/images/icon-onlinepay.png">-->
+                    <!--<input type="radio" name="bank" value="2" checked onclick="mpay.setPaymentid('2')">网银支付-->
+                </div>
+                <hr>
+                <div class="pv2-bank-wrapper">
+                    <ul>
+                        <li class="active" onclick="mpay.SetBankid('icbc');" title="工商银行">
+                            <div class="icon icon01"></div>
+                            <div class="pay-check-mark"></div>
+                        </li>
+                        <li onclick="mpay.SetBankid('ccb');" title="建设银行">
+                            <div class="icon icon02"></div>
+                            <div class="pay-check-mark"></div>
+                        </li>
+                        <li onclick="mpay.SetBankid('cmb');" title="招商银行">
+                            <div class="icon icon03"></div>
+                            <div class="pay-check-mark"></div>
+                        </li>
+                        <li onclick="mpay.SetBankid('abc');" title="农业银行">
+                            <div class="icon icon04"></div>
+                            <div class="pay-check-mark"></div>
+                        </li>
+                        <li onclick="mpay.SetBankid('boc');" title="中国银行">
+                            <div class="icon icon05"></div>
+                            <div class="pay-check-mark"></div>
+                        </li>
+                        <li onclick="mpay.SetBankid('bcom');" title="交通银行">
+                            <div class="icon icon06"></div>
+                            <div class="pay-check-mark"></div>
+                        </li>
+                        <li onclick="mpay.SetBankid('post');" title="中国邮政储蓄银行">
+                            <div class="icon icon07"></div>
+                            <div class="pay-check-mark"></div>
+                        </li>
+                        <li onclick="mpay.SetBankid('ceb');" title="中国光大银行">
+                            <div class="icon icon08"></div>
+                            <div class="pay-check-mark"></div>
+                        </li>
+                        <li onclick="mpay.SetBankid('spdb');" title="浦发银行">
+                            <div class="icon icon09"></div>
+                            <div class="pay-check-mark"></div>
+                        </li>
+                        <li onclick="mpay.SetBankid('gdb');" title="广东发展银行">
+                            <div class="icon icon10"></div>
+                            <div class="pay-check-mark"></div>
+                        </li>
+                        <li onclick="mpay.SetBankid('citic');" title="中信银行">
+                            <div class="icon icon11"></div>
+                            <div class="pay-check-mark"></div>
+                        </li>
+                        <li class="pv2-morebank-wrapper  pv2-arrow-more-down">
+                            <div class="pv2-morebank">更多银行</div>
+                        </li>
+                    </ul>
+                    <ul class="js-morebank hidden">
+                        <li onclick="mpay.SetBankid('cib');" title="兴业银行">
+                            <div class="icon icon12"></div>
+                            <div class="pay-check-mark"></div>
+                        </li>
+                        <li onclick="mpay.SetBankid('sdb');" title="深圳发展银行">
+                            <div class="icon icon13"></div>
+                            <div class="pay-check-mark"></div>
+                        </li>
+                        <li onclick="mpay.SetBankid('cmbc');" title="中国民生银行">
+                            <div class="icon icon14"></div>
+                            <div class="pay-check-mark"></div>
+                        </li>
+                        <li onclick="mpay.SetBankid('hzb');" title="杭州银行">
+                            <div class="icon icon15"></div>
+                            <div class="pay-check-mark"></div>
+                        </li>
+                        <li onclick="mpay.SetBankid('nbcb');" title="宁波银行">
+                            <div class="icon icon16"></div>
+                            <div class="pay-check-mark"></div>
+                        </li>
+                        <li onclick="mpay.SetBankid('bjrcb');" title="北京农村商业银行">
+                            <div class="icon icon17"></div>
+                            <div class="pay-check-mark"></div>
+                        </li>
+                        <li onclick="mpay.SetBankid('pab');" title="平安银行">
+                            <div class="icon icon18"></div>
+                            <div class="pay-check-mark"></div>
+                        </li>
+                    </ul>
+
+
+                </div>
+            </div>
+            <!-- 手机支付 -->
+            <div class="pay-other pv2-box-item" id="payment_mobile">
+                <div class="pv2-checkbox">
+                    <span>请选择</span>
+                    <input type="radio" name="mobile" checked="checked" title="联通号码"
+                           onclick="mpay.SetBankid('unicom');">
+                    <span class="unicom">联通号码</span>
+                    <input  type="radio" name="mobile" title="电信号码" onclick="mpay.SetBankid('telecom');">
+                    <span  class="telecom">电信号码</span>
+                </div>
+                <hr>
+            </div>
+            <!--other-pay-->
+            <div class="pay-other pv2-box-item" id="payment_other">
+                <div class="pv2-checkbox">
+                    <span>请选择</span>
+                    <input type="radio" name="other" checked="checked" title="财付通"
+                           onclick="mpay.SetBankid('tenpay');">
+                    <img src="//static.m1905.cn/pay/images/icon-caifutong.png">
+                    <input type="radio" name="other" title="拉卡拉" onclick="mpay.SetBankid('lakalapay');">
+                    <img src="//static.m1905.cn/pay/images/icon-lakala.png">
+                    <input style="display: none;" type="radio" name="other" title="钱沿支付" onclick="mpay.SetBankid('frontpay');">
+                    <img style="display: none;" src="//static.m1905.cn/pay/images/frontpay.jpg">
+                    <!--<input  type="radio" name="other" title="京东支付" onclick="mpay.setPaymentid(28);">-->
+                    <!--<img  src="//static.m1905.cn/pay/images/logo-jdpay.png">-->
+                </div>
+                <hr>
+            </div>
+            <!-- vip券 -->
+            <div class="pay-usequan pv2-box-item" id="payment_vipquan">
+                <div class="pv2-ticket">
+                    <input type="text"  class="pay-box-text" id="VoucherVipMonthForm_code" placeholder="请输入券码"/>
+                    <button id='pv2BtnTicket' class="hidden" onclick="mpay.paySubmit();" >使用</button>
+                </div>
+            </div>
+            <!-- 翼支付 钱沿支付 -->
+            <div class="pay-wallet pv2-box-item" id="payment_wallet">
+            </div>
+        </div>
+        <!-- 手机支付的支付信息-李密2016218 -->
+        <div id="mobile-pv2Info">
+            <div class="top"><!-- 上面 -->
+                <div class="number">
+                    <div class="tips"><img src="//static.m1905.cn/pay/images/m-code.png" alt=""></div>
+                    <input type="text" name = 'number' placeholder='输入手机号码'/>
+                    <span>手机话费支付仅支持连续包月</span>
+                </div>
+                <div class="message-code">
+                    <div class="v-code"><img src="//static.m1905.cn/pay/images/v-code.png" alt=""></div>
+                    <div class="tips"><img src="//static.m1905.cn/pay/images/v-tip.png" alt=""></div>
+                    <input type="text" name = 'message' placeholder='短信验证码'/>
+                    <button>获取短信验证码</button>
+                </div>
+                <div class="v-code">
+                    <input type="text" name = 'v-code' placeholder='输入附加码'/>
+                    <div class="v-img">
+                        <img border="0" align="absmiddle" id="verifyImg" src="/login/verify" alt="点击刷新验证码" style="cursor:pointer; ">
+                    </div>
+                </div>
+                <div class="pay-info">
+                    <p class="description">实付金额：<span>30.00</span>元</p>
+                </div>
+                <div class="pay-button pv2-pay-button">
+                    <input type="button" value="确认支付" onclick="mpay.paySubmit();"/>
+                </div>
+                <div class="pay-agree">
+                    <span><a href="//pay.1905.com/Article/inpouragreement/" target="_blank">《1905电影网付费服务协议》</a></span>
+                    <span class='second'><a href="//pay.1905.com/Article/subscription/" target="_blank">《1905电影网会员连续包月服务协议》</a></span>
+                </div>
+            </div>
+            <div class="after">
+                <p class="desc">尊敬的用户,您已开通连续包月,可以观看全部<span>会员免费</span>影片</p>
+                <p class="link"><a href="//vip.1905.com/list/r_free/p1o6.shtml">去看看>></a></p>
+            </div>
+            <hr>
+            <div class="bot"><!-- 下面 -->
+                <div class="title">连续包月说明</div>
+                <p class="one">1.每月会员权益到期前，由运营商从通讯账户代为续费；</p>
+                <p class="two">2.退订方式：电信号码使用支付时的手机编辑短信<span>tdsf</span>发送到<span>10660550</span>，按提示操作；</p>
+                <!--<p>联通用户请登录 个人中心&#45;&#45;帮助中心&#45;&#45;连续包月&#45;&#45;解约退订，或拨打<span>400-066-1905 转2</span>联系客服；</p>-->
+                <p>退订确认后不再收取下次费用，同时会员权益不再延续。</p>
+                <p class="three">
+                        <!--<p>3.联通号码暂不支持湖北联通用户；</p>-->
+                    <p>3.电信号码暂不支持湖南、甘肃、河北、广西、陕西、江苏、河南、山东、重庆、云南、四川、西藏电信用户；</p>
+                    <p>&nbsp;&nbsp;&nbsp;如有疑问请拨打1905电影网客服电话<span>400-066-1905 转2</span></p>
+                </p>
+            </div>
+
+        </div>
+        <!-- 连续包月支付宝支付信息 -->
+        <div id="alipay-zn-pv2Info" class="clearfix">
+<div class="bot fl"><!-- 下面 -->
+                <div class="title">连续包月说明：</div>
+                <p class="one">1、连续包月尊享冰点价：<span>15元/月</span>(原价：25元/月)</p>
+                <p class="two">2、会员到期前一天将为您自动续费，会员权益延长1个月。</p>
+                <p class="three">3、可随时退订连续包月服务，取消后不再自动续费。</p>
+                <p class="one"> 退订方式：个人中心-帮助中心-连续包月-解约退订</p>
+                <p class="three">如有疑问请拨打1905电影网客服电话<span>400-066-1905 转2</span></p>
+            </div>
+            <div class="nologin fl">
+<div class="load-box"><img src="//css.static.m1905.cn/pay/images/loadingSpecial.jpg"></div>
+                <div class="money-detail">
+                    <span class="cash-money">支付金额：<b>15.00</b>元</span>
+                </div>
+            </div>
+<div class="top"><!-- 上面 -->
+                <!--二维码-->
+                <div id="alipay-qr-code"></div>
+                <div class="pay-info">
+                    <p class="description">实付金额：<span>15.00</span>元</p>
+                </div>
+                <div class="pay-agree">
+                    <span><a href="//pay.1905.com/Article/inpouragreement/" target="_blank">《1905电影网付费服务协议》</a></span>
+                    <span class='second'><a href="//pay.1905.com/Article/subscription/" target="_blank">《1905电影网会员连续包月服务协议》</a></span>
+                </div>
+            </div>
+            <div class="after">
+                <p class="desc">尊敬的用户,您已开通连续包月,可以观看全部<span>会员免费</span>影片</p>
+                <p class="link"><a href="//vip.1905.com/list/r_free/p1o6.shtml">去看看>></a></p>
+            </div>
+
+        </div>
+        <!-- 连续包月微信支付信息 -->
+        <div id="wxpay-zn-pv2Info" class="clearfix">
+            <div class="bot fl"><!-- 下面 -->
+                <div class="title">连续包月说明：</div>
+                <p class="one">1、连续包月尊享冰点价：<span>15元/月</span>(原价：25元/月)</p>
+                <p class="two">2、会员到期前一天将为您自动续费，会员权益延长1个月。</p>
+                <p class="three">3、可随时退订连续包月服务，取消后不再自动续费。</p>
+                <p class="one"> 退订方式：个人中心-帮助中心-连续包月-解约退订</p>
+                <p class="three">如有疑问请拨打1905电影网客服电话<span>400-066-1905 转2</span></p>
+            </div>
+            <div class="nologin fl">
+<div class="load-box"><img src="//css.static.m1905.cn/pay/images/loadingSpecial.jpg"></div>
+                <div class="money-detail">
+                    <span class="cash-money">支付金额：<b>15.00</b>元</span>
+                </div>
+            </div>
+<div class="top"><!-- 上面 -->
+                <!--二维码-->
+                <div id="wxpay-qr-code"></div>
+                <div class="pay-info">
+                    <p class="description">实付金额：<span>15.00</span>元</p>
+                </div>
+                <div class="pay-agree">
+                    <span><a href="//pay.1905.com/Article/inpouragreement/" target="_blank">《1905电影网付费服务协议》</a></span>
+                    <span class='second'><a href="//pay.1905.com/Article/subscription/" target="_blank">《1905电影网会员连续包月服务协议》</a></span>
+                </div>
+            </div>
+            <div class="after">
+                <p class="desc">尊敬的用户,您已开通连续包月,可以观看全部<span>会员免费</span>影片</p>
+                <p class="link"><a href="//vip.1905.com/list/r_free/p1o6.shtml">去看看>></a></p>
+            </div>
+
+        </div>
+        
+        <div id="pv2Info" class="pv2-info">
+            <div class="pv2-goods-info pv2-goods-price hidden">商品金额 : <span>75</span>元</div>
+            <div class="pv2-goods-info pv2-goods-discount hidden">优惠 : <span>0.00</span>元</div>
+            <div class="pv2-cash pv2-clearFloat">
+                <span class="cash-money">实付金额：<b>68.00</b>元</span>
+
+                <div id="youhuiquan" class="pv2-ticket-pop hidden">
+                    <div class="alipay-quan">
+                        <span id="pv2TicketSlide" class="slide slide-down"></span>可用优惠券
+                        <span class="cl-e34a44">()</span>&nbsp;&nbsp;
+                        <a target="_blank" class="cl-999999 a-underline" href="//vip.1905.com/help/quan.shtml">(优惠券使用说明)</a>
+                    </div>
+                    <div class="alipay-box" style="display: none">
+                        <div class="alipay-box-containt">
+                            <span class="use-tips">一个订单仅能使用一张，多余金额自动作废，使用优惠券后放弃订单券也将失效。</span>
+
+                            <div class="title">
+                                <p class="tit">可用优惠券(<span></span>)</p>
+                            </div>
+                            <ul class="pv2-ticket-list">
+
+                                                            </ul>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pay-button pv2-pay-button">
+
+                <input type="button" value="确认支付" onclick="mpay.paySubmit();"/>
+
+            </div>
+            <div class="pay-agree">
+                <!--<div class="pay-box-check active" id="pay-box-check01"><input type="checkbox"-->
+                <!--class="checkbox"-->
+                <!--checked="checked"/></div>-->
+                <span><a href="//pay.1905.com/Article/inpouragreement/" target="_blank">1905电影网付费服务协议</a></span>
+            </div>
+        </div>
+    </div>
+    <div class="pay-cover">
+        <div class="cover-con pv2-clearFloat">
+            <div class="cover-con-left">
+                <p>下载1905电影网客户端</p>
+                <p>即可享受优惠价格</p>
+            </div>
+            <div class="cover-con-right"><img src="//static.m1905.cn/images/vip/qrcode.jpg"></div>
+        </div>
+    </div>
+
+</div>
+<div class="pv2-recommend container">
+
+    <div class="row-fluid">
+
+                <div class="span2">
+            <div class="pv2-recommend-picture">
+                <img src="//image11.m1905.cn/uploadfile/2019/0218/20190218013903878985.jpg">
+                                <div class="pv2-recommend-flag"></div>
+                            </div>
+            <div class="pv2-clearFloat">
+                <strong class="pv2-recommend-title">来电狂响</strong>
+                <span class="pv2-recommend-score">8.0</span>
+            </div>
+
+        </div>
+                <div class="span2">
+            <div class="pv2-recommend-picture">
+                <img src="//image11.m1905.cn/uploadfile/2019/0131/20190131020748890709.jpg">
+                                <div class="pv2-recommend-flag"></div>
+                            </div>
+            <div class="pv2-clearFloat">
+                <strong class="pv2-recommend-title">我不是药神</strong>
+                <span class="pv2-recommend-score">8.6</span>
+            </div>
+
+        </div>
+                <div class="span2">
+            <div class="pv2-recommend-picture">
+                <img src="//image11.m1905.cn/uploadfile/2018/1214/20181214012254774714.jpg">
+                                <div class="pv2-recommend-flag"></div>
+                            </div>
+            <div class="pv2-clearFloat">
+                <strong class="pv2-recommend-title">西虹市首富</strong>
+                <span class="pv2-recommend-score">8.8</span>
+            </div>
+
+        </div>
+                <div class="span2">
+            <div class="pv2-recommend-picture">
+                <img src="//image11.m1905.cn/uploadfile/2018/1206/20181206095714941108.jpg">
+                                <span class="appTag">APP专享</span>
+                            </div>
+            <div class="pv2-clearFloat">
+                <strong class="pv2-recommend-title">极盗车神</strong>
+                <span class="pv2-recommend-score">9.0</span>
+            </div>
+
+        </div>
+                <div class="span2">
+            <div class="pv2-recommend-picture">
+                <img src="//image11.m1905.cn/uploadfile/2018/1130/20181130125801119153.jpg">
+                                <div class="pv2-recommend-flag"></div>
+                            </div>
+            <div class="pv2-clearFloat">
+                <strong class="pv2-recommend-title">影</strong>
+                <span class="pv2-recommend-score">7.8</span>
+            </div>
+
+        </div>
+        
+    </div>
+</div>
+</div>
+
+<div class="pv2-footer">
+    <div class="container pv2-footer-icons">
+        <div class="row-fluid">
+            <h1>1905VIP影院会员特权</h1>
+        </div>
+        <div class="row-fluid">
+            <div class="pv2-footer-icon-wrapper">
+                <div class="pv2-footer-icon">
+                    <img src="//static.m1905.cn/pay/images/icon-footer-vip.png">
+                </div>
+                <p>0.008元/部会员大片</p>
+            </div>
+            <div class="pv2-footer-icon-wrapper">
+                <div class="pv2-footer-icon">
+                    <img src="//static.m1905.cn/pay/images/icon-footer-airplane.png">
+                </div>
+                <p>0.87秒独享加速服务</p>
+            </div>
+            <div class="pv2-footer-icon-wrapper">
+                <div class="pv2-footer-icon">
+                    <img src="//static.m1905.cn/pay/images/icon-footer-new.png">
+                </div>
+                <p>12部新片每日更新</p>
+            </div>
+            <div class="pv2-footer-icon-wrapper">
+                <div class="pv2-footer-icon">
+                    <img src="//static.m1905.cn/pay/images/icon-footer-hd.png">
+                </div>
+                <p>1080P超清观影体验</p>
+            </div>
+            <div class="pv2-footer-icon-wrapper">
+                <div class="pv2-footer-icon">
+                    <img src="//static.m1905.cn/pay/images/icon-footer-play.png">
+                </div>
+                <p>5000部大片免费看</p>
+            </div>
+            <div class="pv2-footer-icon-wrapper">
+                <div class="pv2-footer-icon">
+                    <img src="//static.m1905.cn/pay/images/icon-footer-ad.png">
+                </div>
+                <p>10000部影片0广告</p>
+            </div>
+        </div>
+    </div>
+    <div class="pv2-footer-contact">
+        <div class="container">
+            <div class="row-fluid">
+                <ul class="top">
+                    <li><a href="http://www.1905.com/about/aboutus/">关于我们</a> |</li>
+                    <li><a href="http://www.1905.com/sitemap.html">网站地图</a> |</li>
+                    <li><a href="http://www.1905.com/jobs/">诚聘英才</a> |</li>
+                    <li><a href="http://www.1905.com/about/copyright/">版权声明</a> |</li>
+                    <li><a href="http://www.1905.com/about/contactus/">联系我们</a> |</li>
+                    <li><a href="http://www.1905.com/link/">友情链接</a> |</li>
+                    <li><a href="http://www.1905.com/cctv6/advertise/">CCTV6广告招商</a></li>
+                </ul>
+                <p>国家广播电影电视总局电影卫星频道节目制作中心 版权所有 </p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="vip-sidebar">
+    <a href="//wpa.qq.com/msgrd?v=3&uin=2262009502&site=qq&menu=yes" target="_blank">
+        <div class="ico-kefy"></div>
+        <span>客服</span>
+    </a>
+
+    <div class="vip-sidebar-line"></div>
+    <a onclick="window.open('http://www.1905.com/error_report/error_report.php?cid=140');return false;"
+       href="javascript:void(0);">
+        <div class="ico-feedback"></div>
+        <span>反馈</span>
+    </a>
+</div>
+
+<div id="pv2MError" class="modal hide fade pv2-modal" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+    </div>
+    <div class="modal-body pv2-clearFloat">
+        <h1 class="pv2-modal-title">请您在新页面完成支付后选择！</h1>
+        <ul>
+            <li>
+                <p>支付前请不要关闭窗口</p>
+            </li>
+            <li>
+                <p>支付失败，可拨打<span class="cl-3996ff">400-066-1905 转2</span>，客服竭诚为您服务！
+            </li>
+        </ul>
+        <div class="fr">或联系<a class="cl-e34a44" href="#">在线客服</a></div>
+    </div>
+    <div class="modal-footer">
+        <a href='//vip.1905.com'><div class="pv2-btn bgcl-e34a44" >支付成功
+        </div></a>
+        <button class="pv2-btn bgcl-aaaaaa" data-dismiss="modal" aria-hidden="true">失败，重新支付</button>
+    </div>
+</div>
+
+<a href="#pv2MAlert" data-toggle="modal"></a>
+<div id="pv2MAlert" class="modal hide fade pv2-modal" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+    </div>
+    <div class="modal-body">
+        <h1 class="pv2-modal-title">确认支付？</h1>
+        <div class="pv2-modal-ticket">
+            <p>券卡类型：会员券</p><br/>
+            <p>观影有效期：开通日起<span class='pv2-modal-day'>30天</span></p>
+        </div>
+    </div>
+    <div class="modal-footer">
+        <button class="pv2-btn bgcl-e34a44" data-dismiss="modal" aria-hidden="true">确认支付</button>
+    </div>
+</div>
+
+
+<div id="pv2MTicket" class="modal hide fade pv2-modal" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+    </div>
+    <div class="modal-body">
+        <h1 class="pv2-modal-title">用户您好，</h1>
+
+        <div class="pv2-modal-ticket">
+            <p>升级会员不支持使用观影券，请输入正确的会员券号！</p>
+        </div>
+        <div class="pv2-modal-ticket">
+            <input type="text" id="inputTicket" placeholder="请输入券码">
+            <a href="#pv2MError" data-toggle="modal">
+                <button id="pv2InputTicketBtn" class="pv2-btn bgcl-e34a44" data-dismiss="modal" aria-hidden="true">使用</button>
+            </a>
+        </div>
+    </div>
+    <div class="modal-footer">
+    </div>
+</div>
+
+
+<form action="//pay.1905.com/Gatewaymonth/getweixinurl" method="post" id="weixinForm">
+    <input type="hidden" value="" id="online_amount" name="amount">
+    <input type="hidden" value="3" id="online_number" name="number">
+    <input type="hidden" value="19" id="online_paymentid_weixin" name="paymentid">
+    <input type="hidden" value="" id="frweixin" name="fr">
+</form>
+
+<form action="//pay.1905.com/Gatewaymonth/getaliurl" method="post" id="alipayForm">
+    <input type="hidden" value="" id="online_alipay" name="amount">
+    <input type="hidden" value="3" id="alipay_number" name="number">
+    <input type="hidden" value="32" id="online_paymentid_alipay" name="paymentid">
+    <input type="hidden" value="" id="fralipay" name="fr">
+</form>
+
+<form action="//pay.1905.com/Gatewaymonth/monthCodePay" method="post" name='VoucherVipMonthForm'
+      id="VoucherVipMonthForm">
+    <input type="hidden" value="" id="form_voucher_code" name="voucher_code">
+    <input type="hidden" value="cmb" name="bankid">
+    <input type="hidden" value="3" name="number">
+    <input type="hidden" value="1"  name="paymentid">
+    <input type="hidden" value="" id="frvoucher" name="fr">
+    <input type="hidden" value="20150414" id="v" name="v">
+</form>
+<input type="hidden" value="netbank" id="payment" name="payment">
+
+<script type="text/javascript" src="//js.static.m1905.cn/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="//js.static.m1905.cn/vip/jquery-ui.js"></script>
+<script type="text/javascript" src="//js.static.m1905.cn/vip/app.lite.min.js"></script>
+<script type="text/javascript" src="//static.m1905.cn/pay/js/bootstrap.js"></script>
+<script type="text/javascript" src="//js.static.m1905.cn/pay-commen.js?t=20130902"></script>
+<!--<script language="JavaScript" src="//js.static.m1905.cn/201009/common.js"></script> -->
+<script language="JavaScript" src="//js.static.m1905.cn/201009/common.js"></script>
+<!--<script language="JavaScript" src="//js.static.m1905.cn/201009/common201108.js"></script> -->
+<script language="JavaScript" src="//js.static.m1905.cn/vip/common201108.js"></script>
+<!--<script language="JavaScript" src="http://www.m1905.com/images/js/pplogin.js?20100110"></script>-->
+<script type="text/javascript" src="//pay.1905.com/qrcode.js"></script>
+<!--<script language="JavaScript" src="//static.m1905.cn/passport/js/emailsuggest.js"></script>
+<script language="JavaScript" src="//static.m1905.cn/passport/js/validate.js"></script>
+<script language="JavaScript" src="//static.m1905.cn/passport/js/popReg.js"></script>-->
+<link href="//static.m1905.cn/https/css/vip/cnc/passportvip.css?r=4" rel="stylesheet" type="text/css">
+<script language="JavaScript" src="//static.m1905.cn/??passport/js/md5.min.js,https/js/vip/cnc/vippopReg.js?r=6,https/js/vip/cnc/web_validate.js?r=1"></script>
+<script language="JavaScript" src="//static.m1905.cn/pay/js/pageJS_01.min.js"></script>
+<script language="JavaScript" src="//static.m1905.cn/https/pay/js/pageJShttps_02.js?fr=20180417"></script>
+<script type="text/javascript" src="//js.static.m1905.cn/utils/jquery.qrcode.min.js"></script>
+
+<script type="text/javascript">
+    $(function(){
+        $('#verifyImg').click(function(){
+            //重载验证码
+            var timenow = new Date().getTime();
+            $("#verifyImg").attr("src",'/Login/verify/'+timenow);
+
+        });
+
+    });
+</script>
+<script type="text/javascript">
+
+    // 根据是否为北京地区 投放广告
+    $.ajax({
+        url:'//pay.1905.com/Gatewaywh/getIp',
+        jsonpCallback: "validate",
+        jsonp: "callback",
+        cache:false,
+        async:false,
+        dataType: "jsonp",
+        success:function(data){
+            //if(data.validate != 0){
+                //var $ad = $('.pv2-advertisement')
+                //$ad.show();
+                //$ad.find('a').attr('href','http://www.1905.com/special/fee/wh/')
+            //}
+        }
+    })
+</script>
+<!-- 统计代码 START -->
+<script type="text/javascript" src="//static.m1905.cn/https/js/pingd.js"></script>
+</body>
+</html>

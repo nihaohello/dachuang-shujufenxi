@@ -1,0 +1,884 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>åå£°å¨çº¿</title>
+<meta name="Description" content="åå£°å¨çº¿æ¯ç»å½å¡é¢æ°é»åæ¹åï¼äº2001å¹´5æååï¼ç±æ¹åæ¥æ¥æ¥ä¸éå¢ä¸»åçå½å®¶çº§å°æ¹éç¹æ°é»ç½ç«ãåå£°å¨çº¿ä»¥âæ¹åå³éï¼ä¸­åå£°é³âä¸ºå®æ¨ï¼æä¾æå¨ãåæ¶ãå¤æ ·çæ°é»èµè®¯ï¼åæ¶ä¸åå£°è®ºåç¤¾åºãç§»å¨äºèç½ãç½ç»çµè§ç­å½¢æèå¨åå¨çç½æ°æä¾ä¼è´¨æ°åªä½æ°ä¸å¡ä½éªã" />
+<meta name="Keywords" content="åå£°å¨çº¿,åå£°,æ¹åæ¥æ¥,ä¸æ¹é½å¸æ¥,æ¹å,æ¹åç,åå£°æ°é»,æ¹åé¿æ²,æ¹åæ°é»ç½,æ¹åäºº,æ¹åæèµ,é¿æ²ç¾é£,æ¹åæ·å¤,æ¹åæè¯">
+<script type="text/javascript">
+var sign = 0;
+if(/AppleWebKit.*Mobile/i.test(navigator.userAgent) || (/MIDP|SymbianOS|NOKIA|SAMSUNG|LG|NEC|TCL|Alcatel|BIRD|DBTEL|Dopod|PHILIPS|HAIER|LENOVO|MOT-|Nokia|SonyEricsson|SIE-|Amoi|ZTE/.test(navigator.userAgent))){
+  if(window.location.href.indexOf("?mobile")<0){
+    try{
+      if(/iPad/i.test(navigator.userAgent)){
+		sign = 1;
+      }else{
+        window.location.href="http://m.voc.com.cn"
+      }
+    }catch(e){}
+  }else{
+	sign = 1;
+  }
+}
+</script>
+<meta name="robots" content="index, follow" />
+<meta name="googlebot" content="index, follow" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon-precomposed" href="img/touch_icon.png" />
+<link href="//www.voc.com.cn/css/style2018.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="//www.voc.com.cn/js_20160610/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="//www.voc.com.cn/js_20160610/master.js"></script>
+<script type="text/javascript" src="//www.voc.com.cn/js/ScrollPic.js"></script>
+<script type="text/javascript" language="javascript">
+	var _ClassID = 664;
+	var _PageNum = 1;
+</script>
+</head>
+<body>
+<div class="nav_top">
+	<div style="width: 1100px; margin:0 auto;"><a href="http://zt.voc.com.cn/Topic/hsxsdxqx/" target="_blank"><img src="http://www.voc.com.cn/images_20160610/sjdjs3.jpg?77" width="1100" height="90" /></a></div>
+
+	<div class="gg1"><script src="https://www.voc.com.cn/adsClick/472.js?13"></script></div>
+    <!--<div class="gg1"><script src="https://www.voc.com.cn/adsClick/551.js?5"></script></div>-->
+    <div class="logo_h">
+    	<div class="logo" style="padding-left: 10px;"><a href="http://www.voc.com.cn"><img src="images_20160610/hszx_logo.jpg" width="100" height="83" /></a></div>
+        <div class="xhn_q_s"></div>
+        <div class="xhn_top_logo" style="margin-top: 16px;"><a href="http://www.hunan.gov.cn/" target="_blank"><img src="images_20160610/zhengfulogo.jpg?2" width="254" height="51" /></a></div>
+        <div class="xhn_q_s"></div>
+        <div class="xhn_top_logo"><a href="http://www.hunantoday.cn/" target="_blank"><img src="images_20160610/xhn_top_logo.jpg" width="96" height="58" /></a></div>
+        <div class="logo_c">
+        	<p><a href="http://hnrbjt.voc.com.cn/" target="_blank">æ¹åæ¥æ¥æ¥ä¸éå¢</a></p>
+            <div class="app-link-list"><a href="http://www.big5.voc.com.cn/" target="_blank">ç¹ä½</a><span>|</span><a href="http://www.enghunan.gov.cn/" target="_blank">English</a><span>|</span><a href="http://www.tlfw.net/" target="_blank">ä¸­å½åé²çªç½</a></div>
+        </div>
+        <div class="logo_r" style="padding-right: 6px;">
+        	<!--<div class="logo_r_wb"><a href="http://weibo.com/hunanzhw" target="_blank"><p>æ¹åæ¿å¡å¾®åå</p><img src="images_20160610/v.jpg" width="16" height="13" /></a></div>-->
+            <div class="search_z">
+            	<div class="search_lz">
+                	<div class="search_lt" onMouseOver="document.getElementById('szfz1').style.display='block';" onMouseOut="document.getElementById('szfz1').style.display='none';">
+                    	<p>éå¢æ¥å</p>
+                        <img src="images_20160610/jt_b.jpg" width="11" height="6" />
+                    </div>
+                    <ul class="search_lb" id="szfz1" onMouseOver="this.style.display='block';" onMouseOut="this.style.display='none';">
+						<li><a href="http://hnrbjt.voc.com.cn/" target="_blank">æ¹åæ¥æ¥ç¤¾</a></li>
+                        <li><a href="http://hnrb.voc.com.cn/" target="_blank">æ¹åæ¥æ¥</a></li>
+                        <li><a href="http://sxdsb.voc.com.cn/" target="_blank">ä¸æ¹é½å¸æ¥</a></li>
+                        <li><a href="http://epaper.voc.com.cn/wcb/index.html" target="_blank">æèæ¥</a></li>
+                        <li><a href="http://epaper.voc.com.cn/dzwsb/paperindex.htm" target="_blank">å¤§ä¼å«çæ¥</a></li>
+                        <li><a href="http://epaper.voc.com.cn/kjxb/paperindex.htm" target="_blank">ç§ææ°æ¥</a></li>
+                        <li><a href="http://hszz.voc.com.cn/" target="_blank">åå£°æå¿</a></li>
+                        <li><a href="http://fxh.voc.com.cn/" target="_blank">æ¾å­¦å</a></li>
+                        <li><a href="http://www.jyingbao.com/" target="_blank">éé¹°æ¥</a></li>
+                        <li><a href="http://www.efaw.cn/" target="_blank">æ³å¶å¨æ¥</a></li>
+                    </ul>
+                </div>
+
+                <!--<div class="search_r">
+                	<form id="s_form" name="s_form" method="post" target="_blank" action="http://search.voc.com.cn/search_news.php">
+                        <input type="hidden" value="1" name="search_type" class="selectvalue"/>
+                        <input type="text" value="" name="s_key" id="s_key" placeholder="å³é®è¯..." onkeydown="if(event.keyCode==13) {search_submit();return false;}">
+                        <a onclick="search_submit();return false;"><img src="images_20160610/fdj.jpg" width="22" height="26" /></a>
+                    </form>
+                </div>-->
+                <div class="search_r" style="margin: 22px 0 0 0; border:none;height: 34px;">
+                    <script src="https://www.voc.com.cn/adsClick/576.js"></script>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="nav">
+	<div class="nav_in">
+    	<p style="padding-left: 15px;"><a href="http://hunan.voc.com.cn/" target="_blank">æ¹åå¨çº¿</a></p>
+        <span></span>
+        <p><a href="http://news.voc.com.cn/" target="_blank">æ°é»</a></p>
+        <span></span>
+        <p><a href="http://zt.voc.com.cn/" target="_blank">ä¸é¢</a></p>
+        <span></span>
+        <p><a href="http://opinion.voc.com.cn/" target="_blank">è¯è®º</a></p>
+        <span></span>
+        <p><a href="http://ts.voc.com.cn/" target="_blank">æè¯</a></p>
+        <span></span>
+        <p><a href="http://bbs.voc.com.cn/" target="_blank">è®ºå</a></p>
+        <span></span>
+        <p><a href="http://pic.voc.com.cn/" target="_blank">å¾ç</a></p>
+        <span></span>
+        <p><a href="http://tv.voc.com.cn/" target="_blank">è§é¢</a></p>
+        <span></span>
+        <p><a href="http://travel.voc.com.cn/" target="_blank">ææ¸¸</a></p>
+        <span></span>
+        <p><a href="http://hssq.voc.com.cn" target="_blank">ç¤¾åº</a></p>
+        <span></span>
+        <p><a href="http://yq.voc.com.cn/gywm/" target="_blank">èæ</a></p>
+        <span></span>
+        <p><a href="http://315.voc.com.cn/" target="_blank">æ¶è´¹</a></p>
+        <span></span>
+        <p><a href="http://ent.voc.com.cn/" target="_blank">ç©ä¹</a></p>
+        <span></span>
+        <p><a href="http://jjw.voc.com.cn/" target="_blank">ç»æµ</a></p>
+        <span></span>
+        <p><a href="http://fc.voc.com.cn/" target="_blank">æ¿äº§</a></p>
+        <span></span>
+        <p><a href="http://gy.voc.com.cn/" target="_blank">å¬ç</a></p>
+        <span>|</span>
+        <p><a href="http://hsjy.voc.com.cn/" target="_blank">æè²</a></p>
+        <span></span>
+        <p><a href="http://car.voc.com.cn/" target="_blank">æ±½è½¦</a></p>
+        <span></span>
+        <p><a href="http://www.0731go.cn/" target="_blank">é¿æ²ç½</a></p>
+    </div>
+</div>
+
+<div class="main">
+	<div class="main_nav_h">
+    	<div class="main_nav_hl" style="width:900px;">
+        	<div class="main_nav" style="width:900px; padding-left: 8px;">
+            	<p><a href="http://www.hunantoday.cn/class/2388.html" target="_blank">é¿æ²</a></p>
+                <span>|</span>
+                <p><a href="http://hy.voc.com.cn/" target="_blank">è¡¡é³</a></p>
+                <span>|</span>
+                <p><a href="http://zz.voc.com.cn" target="_blank">æ ªæ´²</a></p>
+                <span>|</span>
+                <p><a href="http://xt.voc.com.cn" target="_blank">æ¹æ½­</a></p>
+                <span>|</span>
+                <p><a href="http://sy.voc.com.cn" target="_blank">éµé³</a></p>
+                <span>|</span>
+                <p><a href="http://yy.voc.com.cn" target="_blank">å²³é³</a></p>
+                <span>|</span>
+                <p><a href="http://cd.voc.com.cn" target="_blank">å¸¸å¾·</a></p>
+                <span>|</span>
+                <p><a href="http://zjj.voc.com.cn/" target="_blank">å¼ å®¶ç</a></p>
+                <span>|</span>
+                <p><a href="http://yi.voc.com.cn" target="_blank">çé³</a></p>
+                <span>|</span>
+                <p><a href="http://cz.voc.com.cn" target="_blank">é´å·</a></p>
+                <span>|</span>
+                <p><a href="http://www.hunantoday.cn/class/2398.html" target="_blank">æ°¸å·</a></p>
+                <span>|</span>
+                <p><a href="http://hh.voc.com.cn/" target="_blank">æå</a></p>
+                <span>|</span>
+                <p><a href="http://ld.voc.com.cn/" target="_blank">å¨åº</a></p>
+                <span>|</span>
+                <p><a href="http://xx.voc.com.cn/" target="_blank">æ¹è¥¿</a></p>
+                <span>|</span>
+                <p><a href="http://news.voc.com.cn/class/3044.html" target="_blank">å«è®¡</a></p>
+                <span>|</span>
+                <p><a href="http://yule.voc.com.cn/" target="_blank">å¨±ä¹</a></p>
+            </div>
+            <div class="main_nav" style="width:1092px; padding-left: 8px;">
+            	<p><a href="http://hnwc.voc.com.cn/" target="_blank">æå</a></p>
+                <span>|</span>
+                <p><a href="http://history.voc.com.cn/" target="_blank">åå²</a></p>
+                <span>|</span>
+                <p><a href="http://hsjy.voc.com.cn" target="_blank">æè²</a></p>
+                <span>|</span>
+                <p><a href="http://www.hunantoday.cn/class/2692.html" target="_blank">æ¹æ±</a></p>
+                <span>|</span>
+                <p><a href="http://health.voc.com.cn/" target="_blank">å¥åº·</a></p>
+                <span>|</span>
+                <p><a href="http://hsyt.voc.com.cn/" target="_blank">èºæ</a></p>
+                <span>|</span>
+                <p><a href="http://dsj.voc.com.cn/" target="_blank">å¤§è§ç</a></p>
+                <span>|</span>
+                <p><a href="http://hw.voc.com.cn/" target="_blank">æ·å¤</a></p>
+                <span>|</span>
+                <p><a href="http://sq.voc.com.cn/" target="_blank">åå£°æå</a></p>
+                <span>|</span>
+                <p><a href="http://znl.voc.com.cn/" target="_blank">æ­£è½é</a></p>
+                <span>|</span>
+                <p><a href="http://jzfp.voc.com.cn/" target="_blank">ç²¾åæ¶è´«</a></p>
+                <span>|</span>
+                <p><a href="http://xfxx.voc.com.cn/" target="_blank">å¹¸ç¦æ½æ¹</a></p>
+                <span>|</span>
+                <p><a href="http://cs.voc.com.cn/" target="_blank">é¿æ²äº</a></p>
+                <span>|</span>
+                <p><a href="http://sshspx.voc.com.cn/" style="color: red;" target="_blank">é¶å±±çº¢å¹</a></p>
+                <p style="float: right;padding-right: 2px;"><a href="https://www.voc.com.cn/article/201411/201411061729227006.html" target="_blank" style="color: #2461aa;">åå£°å¨çº¿èªå¾æ¿è¯ºä¹¦</a></p>
+            </div>
+        </div>
+
+        <div class="logo_s" style="padding-right: 8px;">
+        	<a href="http://hnrb.voc.com.cn/" target="_blank"><img src="images_20160610/logo1.jpg" width="56" height="20" /></a>
+            <a href="http://epaper.voc.com.cn/sxdsb/" target="_blank"><img src="images_20160610/logo2.jpg" width="91" height="20" /></a>
+        </div>
+    </div>
+
+    <div class="gg2_3">
+    	<div class="gg2"><script src="https://www.voc.com.cn/adsClick/473.js?6"></script></div>
+        <div class="gg3"><script src="https://www.voc.com.cn/adsClick/478.js?3"></script></div>
+    </div>
+
+    <div class="dbt_z">
+        <a href="//hunan.voc.com.cn/class/3091.html" target="_blank" class="dbt_z_more">æ´å¤å¤´æ¡</a>
+        <div class="dbt_l">
+        <h1><a href="http://xuexi.voc.com.cn/article/201905/20190520174444470.html" title="ä¹ è¿å¹³åä¸­å¤®çº¢åé¿å¾åºåçºªå¿µç¢æ¬ç®è±ç¯®"  target="_blank">ä¹ è¿å¹³åä¸­å¤®çº¢åé¿å¾åºåçºªå¿µç¢æ¬ç®è±ç¯®</a></h1><div class="font1"><a href="http://xuexi.voc.com.cn/article/201905/201905201408575591.html" target="_blank">[ä¹ è¿å¹³å¨æ±è¥¿èå¯è°ç ]</a><a href="http://xuexi.voc.com.cn/article/201905/20190520174444470.html" target="_blank">[20æ¥ä¸åä¹ è¿å¹³æ¥å°ä¸­å¤®çº¢åé¿å¾éç»åºåå°èµ£å·å¸äºé½å¿ï¼åä¸­å¤®çº¢åé¿å¾åºåçºªå¿µç¢æ¬ç®è±ç¯®ã]</a><a href="" target="_blank"></a><a href="" target="_blank"></a></div>
+        </div>
+
+        <div class="dbt_z_logo">
+            <a href="http://news.voc.com.cn/zhuanti/sxxxt/201808101013388453.html" target="_blank"><img src="images_20160610/sxxxt_ico.png" width="108" height="30" alt="ä¸æ¹å­¦ä¹ å " /></a>
+            <div class="dbt_z_logo_2">
+                <a href="http://hunan.voc.com.cn/zhuanti/dujiahao/201507081545138579.html?1" target="_blank">@æå®¶æ¯«æ¥éé</a><br />
+                <a href="http://hunan.voc.com.cn/zhuanti/xudazhe/201609200945187265.html?1" target="_blank">@è®¸è¾¾å²æ¥éé</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="ping1">
+    	<div class="ping1_l">
+            <div class="xz_left">
+            	<div class="xhnbb_bt"><a href="http://www.hunantoday.cn/" target="_blank"><img src="images_20160610/xhnbb.jpg" width="114" height="30" /></a></div>
+                <ul class="font3 margin_t8">
+                    <li><span></span><a href="http://hunan.voc.com.cn/article/201905/201905201636461571.html" title="åä¹ä¸è½å¼è½¦äºï¼æ¹å157äººè¢«ç»çç¦é©¾"  target="_blank">åä¹ä¸è½å¼è½¦äºï¼æ¹å157äººè¢«ç»çç¦é©¾</a></li>
+<li><span></span><a href="http://hunan.voc.com.cn/article/201905/201905201102102436.html" title="é«èéè±è¯­è¯­ç§å¤è¯­å£è¯6æ30æ¥ä¸¾è¡"  target="_blank">é«èéè±è¯­è¯­ç§å¤è¯­å£è¯6æ30æ¥ä¸¾è¡</a></li>
+<li><span></span><a href="http://hunan.voc.com.cn/article/201905/201905200951403970.html" title="é¿æ²å¿æ°åå¸ä¸¤æ¡ææ¸¸çº¿è·¯"  target="_blank">é¿æ²å¿æ°åå¸ä¸¤æ¡ææ¸¸çº¿è·¯</a></li>
+<li><span></span><a href="http://hunan.voc.com.cn/article/201905/201905200946294738.html" title="æ°çä¸å¨é¿æ²é³åç¿ç æ°æ¸©èèåé«"  target="_blank">æ°çä¸å¨é¿æ²é³åç¿ç æ°æ¸©èèåé«</a></li>
+                </ul>
+
+                <div class="xxh4"></div>
+
+                <div class="hspl_bt"><a href="http://opinion.voc.com.cn/" target="_blank"><img src="images_20160610/bt_bspl.jpg" width="89" height="34" /></a></div>
+                 <ul class="font3">
+                 <li><span></span><a href="http://opinion.voc.com.cn/article/201905/201905200826134627.html" title="é¿æ²ä¼å±ç»æµï¼âè¯±äººçåå¸é¢åâ"  target="_blank">é¿æ²ä¼å±ç»æµï¼âè¯±äººçåå¸é¢åâ</a></li>
+                    <li><span></span><a href="http://opinion.voc.com.cn/article/201905/201905200847463015.html" title="âæ¼éæ°è§âå©äºå±äº«ç»æµåçº§"  target="_blank">âæ¼éæ°è§âå©äºå±äº«ç»æµåçº§</a></li>
+<li><span></span><a href="http://opinion.voc.com.cn/article/201905/201905200845422690.html" title="âç¯ç©ä¼âå¼å¾å­¦ä¹ åé´åæ¨å¹¿"  target="_blank">âç¯ç©ä¼âå¼å¾å­¦ä¹ åé´åæ¨å¹¿</a></li>
+                </ul>
+                <ul class="font3 top5">
+                    <li><span></span><a href="http://opinion.voc.com.cn/article/201905/201905201914206544.html" title="è¯ææ å±åºæå¨ç©ä¸å¸­ä¹å°"  target="_blank">è¯ææ å±åºæå¨ç©ä¸å¸­ä¹å°</a></li>
+<li><span></span><a href="http://opinion.voc.com.cn/article/201905/201905201903237093.html" title="ä¸è½ç²ç®è¿½æ§âææå°è¯â"  target="_blank">ä¸è½ç²ç®è¿½æ§âææå°è¯â</a></li>
+<li><span></span><a href="http://opinion.voc.com.cn/article/201905/201905201851236242.html" title="å¹²é¨è¦æ¶µå»âä¸å ç­âçæ ¼å±"  target="_blank">å¹²é¨è¦æ¶µå»âä¸å ç­âçæ ¼å±</a></li>
+<li><span></span><a href="http://opinion.voc.com.cn/article/201905/201905201849174512.html" title="ä¸è¦è®©æç»©æ·¹æ²¡äºå´è¶£"  target="_blank">ä¸è¦è®©æç»©æ·¹æ²¡äºå´è¶£</a></li>
+                </ul>
+
+                <!--<div class="sxsp_bt"><a href="http://opinion.voc.com.cn/class/728.html" target="_blank"><img src="images_20160610/sxsp.jpg" width="270" height="22" /></a></div>-->
+
+                <div class="sxsp_bt"><a href="http://opinion.voc.com.cn/class/3030.html" target="_blank"><img src="images_20160610/llzk.jpg" width="270" height="22" /></a></div>
+                <ul class="font3 top5">
+                    <li><span></span><a href="http://opinion.voc.com.cn/article/201905/201905200836155121.html" title="åè¶³åé¨åå¤«ï¼åå¥½é«æ ¡ææ¿è¯¾"  target="_blank">åè¶³åé¨åå¤«ï¼åå¥½é«æ ¡ææ¿è¯¾</a></li>
+<li><span></span><a href="http://opinion.voc.com.cn/article/201905/201905181119452949.html" title="å¤æªå¹¶ä¸¾ï¼å å¿«æ¹åæ°ååéåå»ºè®¾"  target="_blank">å¤æªå¹¶ä¸¾ï¼å å¿«æ¹åæ°ååéåå»ºè®¾</a></li>
+                </ul>
+
+                <div class="xxh4"></div>
+
+                <div class="hnzy_bth"><p><a href="http://bbs.voc.com.cn/forum-294-1.html" target="_blank">åå£°é³ç»</a></p></div>
+                <div class="shipin_nr"><div class="sp_pic"><a href="http://bbs.voc.com.cn/topic-8840253-1-1.html" target="_blank" title="æ°´å¢¨å°äº­"><img src="https://s-image.hnol.net/x/120x80/cut/http://img1.voc.com.cn/UpLoadFile/2019/04/18/201904181751362722.jpg" alt="æ°´å¢¨å°äº­" width="120" height="80" /></a></div><div class="sp_nr"><p><a href="http://bbs.voc.com.cn/topic-8840253-1-1.html" target="_blank" title="æ°´å¢¨å°äº­">æ°´å¢¨å°äº­</a></p><span>æ¥æºï¼åå£°è®ºå</span></div></div>
+
+                <div class="xxh6"></div>
+
+                <div class="ztjj_bth"><p><a href="http://tv.voc.com.cn/" target="_blank">åå£°è§é¢</a></p></div>
+                <div class="shipin_nr"><div class="sp_pic"><a href="http://hunan.voc.com.cn/article/201905/201905181245257434.html" target="_blank" title="æ¹å:å·¥ç¨æºæ¢°æ¨å¨å¶é ä¸é«è´¨éåå±"><img src="https://s-image.hnol.net/x/120x80/cut/http://img1.voc.com.cn/UpLoadFile/2019/05/18/201905181241424623.jpg" alt="æ¹å:å·¥ç¨æºæ¢°æ¨å¨å¶é ä¸é«è´¨éåå±" width="120" height="80" /></a></div><div class="sp_nr"><p><a href="http://hunan.voc.com.cn/article/201905/201905181245257434.html" target="_blank" title="æ¹å:å·¥ç¨æºæ¢°æ¨å¨å¶é ä¸é«è´¨éåå±">æ¹å:å·¥ç¨æºæ¢°æ¨å¨å¶é ä¸é«è´¨éåå±</a></p><span>æ¥æºï¼å¤®è§ç½</span></div></div>
+                <div class="shipin_nr"><div class="sp_pic"><a href="http://zh.voc.com.cn/list.php?cid=994&amp;from=singlemessage" target="_blank" title="2019æç¾ä¹¡æè·¯æå½±å¤§èµ"><img src="https://s-image.hnol.net/x/120x80/cut/http://img1.voc.com.cn/UpLoadFile/2019/05/13/201905131538456941.jpg" alt="2019æç¾ä¹¡æè·¯æå½±å¤§èµ" width="120" height="80" /></a></div><div class="sp_nr"><p><a href="http://zh.voc.com.cn/list.php?cid=994&amp;from=singlemessage" target="_blank" title="2019æç¾ä¹¡æè·¯æå½±å¤§èµ">2019æç¾ä¹¡æè·¯æå½±å¤§èµ</a></p><span><a href="http://tv.voc.com.cn/" target="_blank">æ¥æºï¼åå£°è§é¢</a></span></div></div>
+
+                <div class="xxh6"></div>
+                <script language="javascript">
+					  var nowFocus = 1;
+					  var nowFocus2 = 11;
+					  var nowFocus3 = 21;
+					  var nowFocus4 = 31;
+					  var nowFocus5 = 41;
+					  var nowFocus6 = 51;
+					  var nowFocus7 = 61;
+				</script>
+                <div class="ztjj_bth"><p><a href="http://zt.voc.com.cn/" target="_blank">åå£°ä¸é¢</a></p><span><a onclick="prev_cai7(nowFocus7,61,62,2)"><img src="images_20160610/fy1.jpg" width="17" height="21" /></a><a onclick="next_cai7(nowFocus7,61,62,2)"><img src="images_20160610/fy2.jpg" width="17" height="21" /></a></span></div>
+                <div class="pic8_z cai_div7" id="cai_61"><a href="http://zt.voc.com.cn/Topic/jzzzxszy/" target="_blank" title="ãä¸é¢ãéä¸­æ´æ²»å½¢å¼ä¸»ä¹å®åä¸»ä¹"><img src="https://s-image.hnol.net/x/270x135/cut/http://img1.voc.com.cn/UpLoadFile/2019/05/06/201905061008134992.jpg" alt="ãä¸é¢ãéä¸­æ´æ²»å½¢å¼ä¸»ä¹å®åä¸»ä¹" width="270" height="135" /><p>ãä¸é¢ãéä¸­æ´æ²»å½¢å¼ä¸»ä¹å®åä¸»ä¹</p></a></div>
+<div class="pic8_z cai_div7" style="display:none;" id="cai_62"><a href="http://zt.voc.com.cn/Topic/zmhthzgyll/" target="_blank" title="éæ¢¦èªå¤© åä½å±èµ¢ââèç¦ä¸­å½èªå¤©æ¥"><img src="https://s-image.hnol.net/x/270x135/cut/http://img1.voc.com.cn/UpLoadFile/2019/04/26/201904261455099066.jpg" alt="éæ¢¦èªå¤© åä½å±èµ¢ââèç¦ä¸­å½èªå¤©æ¥" width="270" height="135" /><p>éæ¢¦èªå¤© åä½å±èµ¢ââèç¦"ä¸­å½èªå¤©æ¥"</p></a></div>
+                <ul class="font3 margin_t8">
+                    <li><span></span><a href="http://zt.voc.com.cn/Topic/hnshce/" title="ãä¸é¢ãæ¹åæ«é»é¤æ¶è¿è¡æ¶"  target="_blank">ãä¸é¢ãæ¹åæ«é»é¤æ¶è¿è¡æ¶</a></li>
+<li><span></span><a href="http://zt.voc.com.cn/Topic/syhxr/" title="å¸èæ¹æ¹ââä»ä»¬æ¯å½ä»£æå¸çæ¦æ ·"  target="_blank">å¸èæ¹æ¹ââ"ä»ä»¬æ¯å½ä»£æå¸çæ¦æ ·"</a></li>
+<li><span></span><a href="http://zt.voc.com.cn/Topic/2019qm/" title="ãä¸é¢ãä¼ æ¿Â·2019æ¸æç¥­è±ç"  target="_blank">ãä¸é¢ãä¼ æ¿Â·2019æ¸æç¥­è±ç</a></li>
+<li><span></span><a href="http://zt.voc.com.cn/Topic/2019yuelufenghui/#" title="æºè½ç½è äºæ¯ä¸ºç--2019äºèç½å²³éºå³°ä¼"  target="_blank">æºè½ç½è äºæ¯ä¸ºç--2019äºèç½å²³éºå³°ä¼</a></li>
+                </ul>
+
+                <div class="xxh4"></div>
+
+                <div class="ztjj_bth"><p><a href="http://www.0731go.cn/" target="_blank">é¿æ²æ¦</a></p></div>
+                <ul class="font3 margin_t8">
+                    <li><span></span><a href="http://cq.cqnews.net/cqqx/html/col603772.html" title="2019å¨å½ç¾å®¶ç½ç»åªä½è®°èéåºè¡"  target="_blank">2019å¨å½ç¾å®¶ç½ç»åªä½è®°èéåºè¡</a></li>
+<li><span></span><a href="https://mp.weixin.qq.com/s/YJydJGkE0YpWlkrvClffAQ" title="ä¹°ä¸äºåäºä¹°ä¸äºä¸å½ 10ååéé¿æ²æç¾å³å°å"  target="_blank">ä¹°ä¸äºåäºä¹°ä¸äºä¸å½ 10ååéé¿æ²æç¾å³å°å</a></li>
+                  <li><span></span><a href="http://bbs.0731go.cn/thread-1057294-1-1.html" title="é¿æ²10å¤§å¯äººåºæåï¼è´«ç©·éå¶äºæ³è±¡å"  target="_blank">é¿æ²10å¤§å¯äººåºæåï¼è´«ç©·éå¶äºæ³è±¡å</a></li>
+<li><span></span><a href="http://bbs.0731go.cn/thread-1051914-1-1.html" title="æ¸ææé´è¿äºå°æ¹æå µ å®å¨ä¸è½èº²ççè¿é"  target="_blank">æ¸ææé´è¿äºå°æ¹æå µ å®å¨ä¸è½èº²ççè¿é</a></li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="ping1_c">
+        	<div class="p1_c_bt margin_t15">
+            	<p class="now"><strong><a href="http://hunan.voc.com.cn/" target="_blank">è¦é»</a></strong></p><p><a href="http://hunan.voc.com.cn/class/2842.html" target="_blank">å¾è§£</a></p><a href="http://hunan.voc.com.cn/" target="_blank" style="float: left;width:30px;margin:8px 0 0 4px;height:18px;background:url(images_20160610/more.gif) no-repeat;"></a><span style="padding: 6px 0 0 0;font-size: 12px; font-weight:bold;"><a href="http://hunan.voc.com.cn/class/3755.html" target="_blank" style="color: #002652;">å¤®åªçæ¹å</a><a style="padding: 0 2px ">|</a><a href="http://zt.voc.com.cn/Topic/jzfpzsx/" target="_blank" style="color: #002652;">ç²¾åæ¶è´«å¨ä¸æ¹</a></span>
+            </div>
+            <ul class="font4">
+            <li><strong><a href="http://hunan.voc.com.cn/article/201905/201905190932321378.html" title="ç¬¬åä¸å±ä¸­åä¼å¼å¹ è®¸è¾¾å²åºå¸­å¼å¹å¼å¹¶åè¡¨æ¼è®²"  target="_blank">ç¬¬åä¸å±ä¸­åä¼å¼å¹ è®¸è¾¾å²åºå¸­å¼å¹å¼å¹¶åè¡¨æ¼è®²</a></strong></li>
+<li><a href="http://hunan.voc.com.cn/article/201905/201905201111024571001.html" title="ææ°ï¼æ¹å167åæ°é»åè¨äººâéä¸­äº®ç¸âï¼ä»ä»¬æ¯è°"  target="_blank">ææ°ï¼æ¹å167åæ°é»åè¨äººâéä¸­äº®ç¸âï¼ä»ä»¬æ¯è°</a></li>
+<li><a href="http://hunan.voc.com.cn/article/201905/201905200634352843.html" title="æ´æ²»å½¢å¼ä¸»ä¹å®åä¸»ä¹ æ¹åçå½èµå§åºå°12æ¡ç¡¬æªæ½"  target="_blank">æ´æ²»å½¢å¼ä¸»ä¹å®åä¸»ä¹ æ¹åçå½èµå§åºå°12æ¡ç¡¬æªæ½</a></li>
+<li><a href="http://hunan.voc.com.cn/article/201905/201905200635209396006.html" title="åå¨2019é¿æ²å½éå·¥ç¨æºæ¢°å±è§ä¼é­å¹ä¹é:æªæ¥,æ´å ç²¾å½©"  target="_blank">åå¨2019é¿æ²å½éå·¥ç¨æºæ¢°å±è§ä¼é­å¹ä¹é:æªæ¥,æ´å ç²¾å½©</a></li>
+<li><a href="http://zt.voc.com.cn/Topic/gcjxzlh/" title="[é¿æ²å½éå·¥ç¨æºæ¢°å±]"  target="_blank">[é¿æ²å½éå·¥ç¨æºæ¢°å±]</a> <a href="http://hunan.voc.com.cn/article/201905/201905200801276840.html" title="é¿æ²å·¥ç¨æºæ¢°äº§ä¸é¾ä¸é¢åº§è°ä¼"  target="_blank">é¿æ²å·¥ç¨æºæ¢°äº§ä¸é¾ä¸é¢åº§è°ä¼</a></li>
+<li><a href="http://hunan.voc.com.cn/article/201905/201905200635205067008.html" title="[æ°æ¶ä»£ æ°ä½ä¸º æ°ç¯ç« ]é´å·ï¼ç¿ç©å®ç³ï¼éªèåäº¿äº§ä¸é¾"  target="_blank">[æ°æ¶ä»£ æ°ä½ä¸º æ°ç¯ç« ]é´å·ï¼ç¿ç©å®ç³ï¼éªèåäº¿äº§ä¸é¾</a></li>
+<li><a href="http://zt.voc.com.cn/Topic/2019gjkwbsblh/" title="[é´å·ç¿åä¼]"  target="_blank">[é´å·ç¿åä¼]</a> <a href="http://hunan.voc.com.cn/article/201905/201905200746598264.html" title="5Gå¸¦ä½ ç©è½¬ç¿åä¼"  target="_blank">5Gå¸¦ä½ ç©è½¬ç¿åä¼</a> <a href="http://hunan.voc.com.cn/article/201905/201905200635201318003.html" title="|å¿å¨âéâå¾"  target="_blank">|å¿å¨âéâå¾</a></li>
+<li><a href="http://news.voc.com.cn/zhuanti/tyzt/201905130628363807.html" title="[æåä¼]"  target="_blank">[æåä¼]</a> <a href="http://hunan.voc.com.cn/article/201905/201905191955567359003.html" title="æ¹åæåå¼ºçå»ºè®¾æ­¥ä¼å å¿«"  target="_blank">æ¹åæåå¼ºçå»ºè®¾æ­¥ä¼å å¿«</a> <a href="http://hunan.voc.com.cn/article/201905/201905200634555133001.html" title="|å®æ½åæ°æç¥"  target="_blank">|å®æ½"åæ°"æç¥</a></li>
+<li><a href="http://hunan.voc.com.cn/article/201905/201905200843416032.html" title="é¿æ²:ç«ä¸æ°é£å£ æ¿åæ°å¨è½"  target="_blank">é¿æ²:ç«ä¸æ°é£å£ æ¿åæ°å¨è½</a> <a href="http://hunan.voc.com.cn/article/201905/201905200857348350.html" title="|æºè½å¶é ç»é¢äº§ä¸è½¬ååçº§"  target="_blank">|æºè½å¶é ç»é¢äº§ä¸è½¬ååçº§</a></li>
+<li><a href="http://hunan.voc.com.cn/article/201905/20190520163343770.html" title="ç¬¬12å±ä¸­å½èºæ¯èæ¼èºåæåäº§ååè§ä¼ä¸¾å å´æ¡è±å·¡é¦"  target="_blank">ç¬¬12å±ä¸­å½èºæ¯èæ¼èºåæåäº§ååè§ä¼ä¸¾å å´æ¡è±å·¡é¦</a></li>
+<li><a href="http://hunan.voc.com.cn/article/201905/201905191602484708.html" title="ä¸­å½ææ¸¸æ¥æ¹ååä¼åºæ´»å¨å¯å¹ 101ä¸ªæ¯åºæ¨åºæ æ°æªæ½"  target="_blank">"ä¸­å½ææ¸¸æ¥"æ¹ååä¼åºæ´»å¨å¯å¹ 101ä¸ªæ¯åºæ¨åºæ æ°æªæ½</a></li>
+<li><a href="http://hunan.voc.com.cn/article/201905/201905200902305763.html" title="æ¹å2018å¹´åº¦ä¼ä¸ç¯å¢ä¿¡ç¨è¯ä»·å¬ç¤º 39å®¶ä¼ä¸æè¢«è¯ä¸è¯"  target="_blank">æ¹å2018å¹´åº¦ä¼ä¸ç¯å¢ä¿¡ç¨è¯ä»·å¬ç¤º 39å®¶ä¼ä¸æè¢«è¯ä¸è¯</a></li>
+            </ul>
+
+            <div class="xxh_center"></div>
+
+            <ul class="font4">
+            <li><strong><a href="http://hunan.voc.com.cn/zhuanti/xls/201507241629391910.html" target="_blank" class="blue">å¸å·</a> | <a href="http://hunan.voc.com.cn/article/201905/201905201025141688.html" title="é¿æ²ï¼å­å¤§éç¹çåºæ¶å¨æ¾æ¹åé"  target="_blank">é¿æ²ï¼å­å¤§éç¹çåºæ¶å¨æ¾æ¹åé</a></strong></li><li><a href="http://hunan.voc.com.cn/article/201905/201905200844562078.html" title="æ ªæ´²å¸ä»ä¸¥æ´æ²»å½¢å¼ä¸»ä¹å®åä¸»ä¹ è½»è£ä¸éµé©¬è¹ç¾"  target="_blank">æ ªæ´²å¸ä»ä¸¥æ´æ²»å½¢å¼ä¸»ä¹å®åä¸»ä¹ è½»è£ä¸éµé©¬è¹ç¾</a></li><li><a href="http://hunan.voc.com.cn/article/201905/201905200917125295.html" title="æ¹è¥¿å·ä¼ä¸è¶³ä¸åºæ·å³å¯åç15ç§åºå£è´§ç©åäº§å°è¯ä¹¦"  target="_blank">æ¹è¥¿å·ä¼ä¸è¶³ä¸åºæ·å³å¯åç15ç§åºå£è´§ç©åäº§å°è¯ä¹¦</a></li><li><a href="http://hunan.voc.com.cn/article/201905/201905200854448093.html" title="èµæºæ´åãäº§ä¸èåãå±å»ºå±äº« å¸¸å¾·å¸åå¸ææ¸¸èçæç«"  target="_blank">èµæºæ´åãäº§ä¸èåãå±å»ºå±äº« å¸¸å¾·å¸åå¸ææ¸¸èçæç«</a></li>                    <li><strong><a href="http://hunan.voc.com.cn/class/3063.html" target="_blank" class="blue">åºå¿</a> | <a href="http://hunan.voc.com.cn/article/201905/201905200920552081.html" title="ç³é¼åºï¼æé è¡¡é³å¸è¿éä¼é²ææ¸¸æ°é«å°"  target="_blank">ç³é¼åºï¼æé è¡¡é³å¸è¿éä¼é²ææ¸¸æ°é«å°</a></strong></li><li><a href="http://hunan.voc.com.cn/article/201905/201905200936059114.html" title="æµé³å¸è¯ç¹è¡éä½å¶æ¹é© å¹åæ°çå¨ãé¨é¨æ¥æ¥å°"  target="_blank">æµé³å¸è¯ç¹è¡éä½å¶æ¹é© å¹åæ°çå¨ãé¨é¨æ¥æ¥å°</a></li><li><a href="http://hunan.voc.com.cn/article/201905/201905201007444243.html" title="ç¥é³å¿ç§¯ææ¨å¨åºç¡è®¾æ½å»ºè®¾ ç¯å¢æ´å®å±ãçæ´»æ´ç¾å¥½"  target="_blank">ç¥é³å¿ç§¯ææ¨å¨åºç¡è®¾æ½å»ºè®¾ ç¯å¢æ´å®å±ãçæ´»æ´ç¾å¥½</a></li><li><a href="http://hunan.voc.com.cn/article/201905/201905200958081430.html" title="é´éµå¼å±æ¸©æä¼ä¸ä¸ç¾è¡å¨ çæå¸®æ¶è®©ä¼ä¸å¦æ²æ¥é£"  target="_blank">é´éµå¼å±æ¸©æä¼ä¸"ä¸ç¾è¡å¨" çæå¸®æ¶è®©ä¼ä¸å¦æ²æ¥é£</a></li>            </ul>
+
+            <div class="p1_c_bt margin_t_sdhn">
+            	<p class="now"><a href="http://hunan.voc.com.cn/class/2843.html" target="_blank">æ·±è¯»æ¹å</a></p>
+            	<span style="padding: 6px 0 0 0;font-size: 12px;"><a href="http://zt.voc.com.cn/Topic/zjkxj/" target="_blank" style="color: #002652;">ä¸æ Â·èµ°è¿ç§å­¦å®¶</a></span>
+            </div>
+            <div class="pic9_font">
+            <div class="pic9"><a href="http://hunan.voc.com.cn/article/201905/201905150958226273.html" target="_blank" title="âè´è¶ç·ç·âæè´»è"><img src="https://s-image.hnol.net/x/120x90/cut/http://img1.voc.com.cn/UpLoadFile/2019/05/15/201905150956536079.jpg" alt="âè´è¶ç·ç·âæè´»è" width="120" height="90" /></a></div><div class="pic9_r"><span><a href="http://hunan.voc.com.cn/article/201905/201905150958226273.html" target="_blank" title="âè´è¶ç·ç·âæè´»è">âè´è¶ç·ç·âæè´»è</a></span><p><a href="http://hunan.voc.com.cn/article/201905/201905150958226273.html" target="_blank" title="âè´è¶ç·ç·âæè´»è">âåå­¦ä»¬è®¤çè§å¯ï¼ä¸å¶å®è´è¶ç¸æ¯ï¼ä¸å®çç°è¶æåªäºç¹å¾â¦â¦â5æ10æ¥ï¼å¨ä½äºä¸å®å¿ä¸ä¸­çå¨å½ç§æ®æè²åºå°ââä¸å®è´è¶é¦ï¼ä¸å®å¿ä¸ä¸­éä¼ç¹çº§æå¸ã77å²çæè´»èï¼èå¿å¯ååæ¥åè§çå­¦çä»¬ãä»æ¿æçè®²è§£ï¼æå¤§å®¶å¸¦å¥äºå½©ææçå¤§èªç¶ã</a></p></div>
+            </div>
+            <ul class="font5">
+                <li><span></span><a href="http://hunan.voc.com.cn/article/201905/201905200839144662.html" title="åå¤§é£ï¼éªéº»é£åº·å»äººåæ¢æ¢åè"  target="_blank">åå¤§é£ï¼éªéº»é£åº·å»äººåæ¢æ¢åè</a></li>
+<li><span></span><a href="http://hunan.voc.com.cn/article/201905/201905191053352065.html" title="æ¹æ¹å°çä¸¨é»é¼ ç¼ç¡è§çå°ä¸1ç±³ä¸çï¼æ¯åå¸å°ä¸æç­é¹çåºé´"  target="_blank">æ¹æ¹å°çä¸¨é»é¼ ç¼ç¡è§çå°ä¸1ç±³ä¸çï¼æ¯åå¸å°ä¸æç­é¹çåºé´</a></li>
+            </ul>
+
+            <div class="p1_c_bt"><p class="now"><a href="http://hunan.voc.com.cn/class/3064.html" target="_blank">æ¹åå°è±¡</a></p></div>
+            <div class="pic9_font">
+            	 <div class="pic9"><a href="http://hunan.voc.com.cn/article/201905/201905050941148455.html" target="_blank" title="å½å¹´å»é«å¡å²­é¿æ²åä¸­åæ ¡è¦ä¹è¹"><img src="https://s-image.hnol.net/x/120x90/cut/http://img1.voc.com.cn/UpLoadFile/2019/05/05/201905050940562891.jpg" alt="å½å¹´å»é«å¡å²­é¿æ²åä¸­åæ ¡è¦ä¹è¹" width="120" height="90" /></a></div><div class="pic9_r"><span><a href="http://hunan.voc.com.cn/article/201905/201905050941148455.html" target="_blank" title="å½å¹´å»é«å¡å²­é¿æ²åä¸­åæ ¡è¦ä¹è¹">å½å¹´å»é«å¡å²­é¿æ²åä¸­åæ ¡è¦ä¹è¹</a></span><p><a href="http://hunan.voc.com.cn/article/201905/201905050941148455.html" target="_blank" title="å½å¹´å»é«å¡å²­é¿æ²åä¸­åæ ¡è¦ä¹è¹">1972åï¼æåä¸­æ¯ä¸ï¼å°é¿æ²å¸åä¸­(å¨åä¸­å­¦)è¯»é«ä¸­ãå¨åä¸­å­¦æ¯æç¾å¹´åæ ¡ï¼æ°ä¸­å½æç«åæ¹ç§°é¿æ²å¸åä¸­ï¼æ¹é©å¼æ¾åæ¹åå¨åä¸­å­¦èæ ¡åã</a></p></div>
+            </div>
+            <ul class="font5">
+                <li><span></span><a href="http://hunan.voc.com.cn/article/201905/201905121029561363.html" title="æ°¸ä¸æ¶éçæ´ç©´å¾è¾ï¼ç©¿è¶ä¸é¨æµ©ççâç¾ç§å¨ä¹¦â"  target="_blank">æ°¸ä¸æ¶éçæ´ç©´å¾è¾ï¼ç©¿è¶ä¸é¨æµ©ççâç¾ç§å¨ä¹¦â</a></li>
+<li><span></span><a href="http://hunan.voc.com.cn/article/201904/201904260831129120.html" title="è·¨éè´©æ°´æï¼å¤å½å­å¨äº²ââå¼å½å°åä¹å­çå¹¸ç¦çæ´»"  target="_blank">è·¨éè´©æ°´æï¼å¤å½å­å¨äº²ââå¼å½å°åä¹å­çå¹¸ç¦çæ´»</a></li>
+            </ul>
+
+            <div class="p1_c_bt">
+            	<p class="now"><a href="http://hunan.voc.com.cn/class/3065.html" target="_blank">æ¹æ±å¯å</a></p>
+            	<span style="padding: 6px 0 0 0;font-size: 12px;"><a href="http://news.voc.com.cn/zhuanti/ztbd/20161209145833719.html" target="_blank" style="color: #002652;">å¤§æ½®æ¾è´ä¸¨æé</a></span>
+            </div>
+            <div class="pic9_font">
+            	 <div class="pic9"><a href="http://hunan.voc.com.cn/article/201905/201905161025364219.html" target="_blank" title="æ½æ¹è¯ä¼ãæ¹äººæ¹æ­ã(ä¸åä¹)  éè·|æ¢¦çç¿è"><img src="https://s-image.hnol.net/x/120x90/cut/http://img1.voc.com.cn/UpLoadFile/2019/05/16/201905161025337485.jpg" alt="æ½æ¹è¯ä¼ãæ¹äººæ¹æ­ã(ä¸åä¹)  éè·|æ¢¦çç¿è" width="120" height="90" /></a></div><div class="pic9_r"><span><a href="http://hunan.voc.com.cn/article/201905/201905161025364219.html" target="_blank" title="æ½æ¹è¯ä¼ãæ¹äººæ¹æ­ã(ä¸åä¹)  éè·|æ¢¦çç¿è">æ½æ¹è¯ä¼ãæ¹äººæ¹æ­ã(ä¸åä¹)  éè·|æ¢¦çç¿è</a></span><p><a href="http://hunan.voc.com.cn/article/201905/201905161025364219.html" target="_blank" title="æ½æ¹è¯ä¼ãæ¹äººæ¹æ­ã(ä¸åä¹)  éè·|æ¢¦çç¿è">ç«¥å£°å°åå±ãæ¢¦çç¿èãï¼ä¾æäºâä¸­å½æ¢¦âä¸»é¢èä½ï¼æå¾ä¼ç¾ï¼ç»æç®ç»ã</a></p></div>
+            </div>
+            <ul class="font5">
+                <li><span></span><a href="http://hunan.voc.com.cn/article/201905/201905201052536587.html" title="æ½æ¹è¯ä¼ãæ¹äººæ¹æ­ãï¼ååï¼å´å¯ï½é¿æ²ç¾"  target="_blank">æ½æ¹è¯ä¼ãæ¹äººæ¹æ­ãï¼ååï¼å´å¯ï½é¿æ²ç¾</a></li>
+<li><span></span><a href="http://hunan.voc.com.cn/article/201905/20190520075323865.html" title="å¤æ¥éå£°ä¼´æ¹æ±"  target="_blank">å¤æ¥éå£°ä¼´æ¹æ±</a></li>
+            </ul>
+
+            <div class="p1_c_bt"><p class="now"><a href="http://hunan.voc.com.cn/class/2846.html" target="_blank">ä¸å¨æ¹å</a></p></div>
+            <div class="yzhn_h1"><div class="yzhn_h1_no">VOL.04</div><div class="yzhn_h1_nr"><a href="http://hunan.voc.com.cn/article/201905/20190505124914194.html" target="_blank" title="[ä¸å¨æ¹å]å°é4å·çº¿é¡ºå©éè¿ä¸å®¶è¯å®¡ é¿æ²å¨é¢æ¨è¡æ½æ¹å¡">[ä¸å¨æ¹å]å°é4å·çº¿é¡ºå©éè¿ä¸å®¶è¯å®¡ é¿æ²å¨é¢æ¨è¡"æ½æ¹å¡"</a></div></div>
+<div class="yzhn_h1"><div class="yzhn_h1_no">VOL.03</div><div class="yzhn_h1_nr"><a href="http://hunan.voc.com.cn/article/201904/201904280912353608.html" target="_blank" title="[ä¸å¨æ¹å]æ¹åæ¯åºäºä¸åé¨ç¥¨éä»· å°é3å·çº¿æ¹æ±é§éè´¯é">[ä¸å¨æ¹å]æ¹åæ¯åº"äºä¸"åé¨ç¥¨éä»· å°é3å·çº¿æ¹æ±é§éè´¯é</a></div></div>
+<div class="yzhn_h1"><div class="yzhn_h1_no">VOL.02</div><div class="yzhn_h1_nr"><a href="http://hunan.voc.com.cn/article/201904/201904221137474393.html" target="_blank" title="[ä¸å¨æ¹å]é¿æ ªæ½­èåç¦å©æ¸åè¶æ¥è¶é¿ é¿æ²åæ­¢äºå¥æ¿å¥ç¨ä¼æ ">[ä¸å¨æ¹å]é¿æ ªæ½­èå"ç¦å©æ¸å"è¶æ¥è¶é¿ é¿æ²åæ­¢äºå¥æ¿å¥ç¨ä¼æ </a></div></div>
+<div class="yzhn_h1"><div class="yzhn_h1_no">VOL.01</div><div class="yzhn_h1_nr"><a href="http://hunan.voc.com.cn/article/201904/201904080935404658.html" target="_blank" title="[ä¸å¨æ¹å]é¿æ²å¤å­¦æ ¡å¼å¯æ ¡é¿éªé¤ 2019äºèç½å²³éºå³°ä¼å¼å¹">[ä¸å¨æ¹å]é¿æ²å¤å­¦æ ¡å¼å¯"æ ¡é¿éªé¤" 2019äºèç½å²³éºå³°ä¼å¼å¹</a></div></div>
+        </div>
+
+        <div class="ping1_r">
+            <ul class="banner_nav">
+                <li class="now" id="sw_81_a" onMouseOver="setfoc_b(81,81,88);" onMouseOut="playit_b(81);"><a href="http://hunan.voc.com.cn/" target="_blank">æ¹å</a></li>
+                <li id="sw_82_a" onMouseOver="setfoc_b(82,81,88);" onMouseOut="playit_b(82);"><a href="http://pic.voc.com.cn/" target="_blank">å½±å</a></li>
+                <li id="sw_83_a" onMouseOver="setfoc_b(83,81,88);" onMouseOut="playit_b(83);"><a href="http://news.voc.com.cn/" target="_blank">æ¶äº</a></li>
+                <li id="sw_84_a" onMouseOver="setfoc_b(84,81,88);" onMouseOut="playit_b(84);"><a href="http://travel.voc.com.cn/" target="_blank">ææ¸¸</a></li>
+                <li id="sw_85_a" onMouseOver="setfoc_b(85,81,88);" onMouseOut="playit_b(85);"><a href="http://society.voc.com.cn/" target="_blank">ç¤¾ä¼</a></li>
+                <li id="sw_86_a" onMouseOver="setfoc_b(86,81,88);" onMouseOut="playit_b(86);"><a href="http://yule.voc.com.cn/" target="_blank">å¨±ä¹</a></li>
+                <li id="sw_87_a" onMouseOver="setfoc_b(87,81,88);" onMouseOut="playit_b(87);"><a href="http://dsj.voc.com.cn/" target="_blank">è§ç</a></li>
+                <li id="sw_88_a" style="width: 60px;" onMouseOver="setfoc_b(88,81,88);" onMouseOut="playit_b(88);"><a href="http://www.0731go.cn/" target="_blank" style="width: 60px;">é¿æ²ç½</a></li>
+            </ul>
+            <div id="sw_81_div"><div class="banner_z"><a href="http://zt.voc.com.cn/Topic/gcjxzlh/" target="_blank" title="ãä¸é¢ã2019é¿æ²å½éå·¥ç¨æºæ¢°å±"><img src="https://s-image.hnol.net/x/370x185/cut/http://img1.voc.com.cn/UpLoadFile/2019/05/15/201905150844042474.jpg" alt="ãä¸é¢ã2019é¿æ²å½éå·¥ç¨æºæ¢°å±" width="370" height="185" /><span></span><p>ãä¸é¢ã2019é¿æ²å½éå·¥ç¨æºæ¢°å±</p></a></div></div>
+			<div id="sw_82_div" style="display:none;"><div class="banner_z"><a href="http://pic.voc.com.cn/pics-71-16835.html" target="_blank" title="åä½³å°¼ï¼è¶åªåï¼è¶å¹¸è¿"><img src="http://pic.voc.com.cn/uploadfile/2019/0520/20190520092854820.jpg" alt="åä½³å°¼ï¼è¶åªåï¼è¶å¹¸è¿" width="370" height="185" /><span></span><p>åä½³å°¼ï¼è¶åªåï¼è¶å¹¸è¿</p></a></div></div>
+			  <div id="sw_83_div" style="display:none;"><div class="banner_z"><a href="http://zt.voc.com.cn/Topic/jzzzxszy/" target="_blank" title="ãä¸é¢ãéä¸­æ´æ²»å½¢å¼ä¸»ä¹å®åä¸»ä¹"><img src="https://s-image.hnol.net/x/370x185/cut/http://img1.voc.com.cn/UpLoadFile/2019/04/29/201904291125274537.jpg" alt="ãä¸é¢ãéä¸­æ´æ²»å½¢å¼ä¸»ä¹å®åä¸»ä¹" width="370" height="185" /><span></span><p>ãä¸é¢ãéä¸­æ´æ²»å½¢å¼ä¸»ä¹å®åä¸»ä¹</p></a></div></div>
+            <div id="sw_84_div" style="display:none;"><div class="banner_z"><a href="http://travel.voc.com.cn/article/201905/20190517205802655.html" target="_blank" title="å¼å¯æªæ¥ææ¸¸æ°æ¹å 5Gå¸¦ä½ æ·±ç©æ¹å"><img src="https://s-image.hnol.net/x/370x185/cut/http://img1.voc.com.cn/UpLoadFile/2019/05/17/201905172057471292.png" alt="å¼å¯æªæ¥ææ¸¸æ°æ¹å 5Gå¸¦ä½ æ·±ç©æ¹å" width="370" height="185" /><span></span><p>å¼å¯æªæ¥ææ¸¸æ°æ¹å 5Gå¸¦ä½ æ·±ç©æ¹å</p></a></div></div>
+				<div id="sw_85_div" style="display:none;"><div class="banner_z"><a href="http://news.voc.com.cn/zhuanti/tyzt/201904281048056155.html" target="_blank" title="ãä¸é¢ãé¿æ²é«è´¨éåå±è°ç è¡"><img src="https://s-image.hnol.net/x/370x185/cut/http://img1.voc.com.cn/UpLoadFile/2019/05/19/201905191156411411.jpg" alt="ãä¸é¢ãé¿æ²é«è´¨éåå±è°ç è¡" width="370" height="185" /><span></span><p>ãä¸é¢ãé¿æ²é«è´¨éåå±è°ç è¡</p></a></div></div>
+			<div id="sw_86_div" style="display:none;"><div class="banner_z"><a href="http://yule.voc.com.cn/article/201905/201905200941102602.html" target="_blank" title="ç« å­æ¡äº®ç¸ãå¥æ¯æ2: æªå½ä¹çãæ´æç¶é¦æ ç¤¼"><img src="https://s-image.hnol.net/x/370x185/cut/http://img1.voc.com.cn/UpLoadFile/2019/05/20/201905200949577255.jpg" alt="ç« å­æ¡äº®ç¸ãå¥æ¯æ2: æªå½ä¹çãæ´æç¶é¦æ ç¤¼" width="370" height="185" /><span></span><p>ç« å­æ¡äº®ç¸ãå¥æ¯æ2: æªå½ä¹çãæ´æç¶é¦æ ç¤¼</p></a></div></div>
+			<div id="sw_87_div" style="display:none;"><div class="banner_z"><a href="http://dsj.voc.com.cn/article/201905/201905201007045125.html" target="_blank" title="2019å¹´å°åº¦å¤§éæç¥¨ç»æ"><img src="https://s-image.hnol.net/x/370x185/cut/http://img1.voc.com.cn/UpLoadFile/2019/05/20/201905201006588353.jpg" alt="2019å¹´å°åº¦å¤§éæç¥¨ç»æ" width="370" height="185" /><span></span><p>2019å¹´å°åº¦å¤§éæç¥¨ç»æ</p></a></div></div>
+
+            <div id="sw_88_div" style="display:none;"><div class="banner_z"><a href="http://bbs.0731go.cn/thread-1063421-1-1.html" target="_blank" title="ä¸æµ·æéè¦4å°æ¶ é¿æ²ç«ç¶å¯ä»¥ç´æ¥æ¿è´§ è¿å®¶åºççå¥½ååï¼"><img src="https://s-image.hnol.net/x/370x185/cut/http://img1.voc.com.cn/UpLoadFile/2019/05/20/201905201013076610.jpg" alt="ä¸æµ·æéè¦4å°æ¶ é¿æ²ç«ç¶å¯ä»¥ç´æ¥æ¿è´§ è¿å®¶åºççå¥½ååï¼" width="370" height="185" /><span></span><p>ä¸æµ·æéè¦4å°æ¶ é¿æ²ç«ç¶å¯ä»¥ç´æ¥æ¿è´§ è¿å®¶åºççå¥½ååï¼</p></a></div></div>
+			<script type="text/javascript" language="javascript">playit_b(81);</script>
+
+            <ul class="zwtj_font" id="icefable1">
+            <li><span></span><a href="https://www.voc.com.cn/article/201905/201905201802181668.html" title="è¿½æ±ç»¿è²åå±ç¹è£ åå¼ºåå¤§ç»¿è²ç»æµ"  target="_blank">è¿½æ±ç»¿è²åå±ç¹è£ åå¼ºåå¤§ç»¿è²ç»æµ</a></li>
+<li><span></span><a href="https://www.voc.com.cn/article/201905/201905201801487856.html" title="ä¸­å½å±äº§åä¸ºä»ä¹è½æ·±å¥æ¨è¿èªæé©å½"  target="_blank">ä¸­å½å±äº§åä¸ºä»ä¹è½æ·±å¥æ¨è¿èªæé©å½</a></li>
+<li><span></span><a href="https://www.voc.com.cn/article/201905/201905201801148940.html" title="ä¸èµ·å­¦æ°åå±çå¿µâ ï¼ä»ä½èæ¥ãå¦ä½èæ¥ï¼"  target="_blank">ä¸èµ·å­¦æ°åå±çå¿µâ ï¼ä»ä½èæ¥ãå¦ä½èæ¥ï¼</a></li>
+<li><span></span><a href="https://www.voc.com.cn/article/201905/201905201800372511.html" title="æ­¦åï¼ä¸ä»¥è´¯ä¹åæèµ°èªå·±çè·¯"  target="_blank">æ­¦åï¼ä¸ä»¥è´¯ä¹åæèµ°èªå·±çè·¯</a></li>
+<li><span></span><a href="https://www.voc.com.cn/article/201905/201905201752295060.html" title="è¿ï¼ææ¯âä¸­å½éè·¯âæåççæ­£å¯ç ï¼"  target="_blank">è¿ï¼ææ¯âä¸­å½éè·¯âæåççæ­£å¯ç ï¼</a></li>
+<li><span></span><a href="https://www.voc.com.cn/article/201905/201905201703578028.html" title="å¹²é¨æ³¨æï¼ä¸­çºªå§åæ¼«ç»è¯¦è§£7ç§æåµå¹´åº¦èæ ¸å°ä¸ä¼ç§æ ç¼"  target="_blank">å¹²é¨æ³¨æï¼ä¸­çºªå§åæ¼«ç»è¯¦è§£7ç§æåµå¹´åº¦èæ ¸å°ä¸ä¼ç§æ ç¼</a></li>
+            </ul>
+			<script language="javascript">
+				marqueesHeight = 28;
+				stopscroll = false;
+				with(icefable1){
+				  //style.width=440;
+				  style.height = marqueesHeight;
+				  style.overflowY='hidden';
+				  noWrap=true;
+				  onmouseover = new Function('stopscroll=true');
+				  onmouseout = new Function('stopscroll=false');
+				}
+				preTop=0; currentTop = 28; stoptime = 0;
+				icefable1.innerHTML += icefable1.innerHTML;
+
+				function init_srolltext(){
+				  icefable1.scrollTop = 0;
+				  setInterval('scrollUp()',15);//æ»å¨éåº¦
+				}init_srolltext();
+
+				function scrollUp(){
+				  if(stopscroll==true) return;
+				  currentTop+=1;
+				  if(currentTop==29)  //æ»å¨è·ç¦»
+				  {
+					stoptime+=1;
+					currentTop-=1;
+					if(stoptime==200) //æ»å¨é´è·
+					{
+					  currentTop = 0;
+					  stoptime = 0;
+					}
+				  }
+				  else {
+					preTop = icefable1.scrollTop;
+					icefable1.scrollTop+=1;
+					if(preTop==icefable1.scrollTop){
+					  icefable1.scrollTop=0;
+					  icefable1.scrollTop+=1;
+					}
+				  }
+				}
+            </script>
+
+            <ul class="font6">
+            <li><strong><a href="http://news.voc.com.cn/class/1922.html" target="_blank" class="blue">å½å</a> | <a href="http://xuexi.voc.com.cn/article/201905/20190520150215490.html" title="è¿ä¸ªçå¿µ ä¹ è¿å¹³ä¸åºéè¦å¤äº¤æ´»å¨ä¸æåæ"  target="_blank">è¿ä¸ªçå¿µ ä¹ è¿å¹³ä¸åºéè¦å¤äº¤æ´»å¨ä¸æåæ</a></strong></li>                <li><a href="http://news.voc.com.cn/article/201905/201905200742341650001.html" title="é»å¤æï¼ä¸ºå»ºè®¾å½éä¸æµæ¹¾åºè¥é è¯å¥½èè®ºç¯å¢"  target="_blank">é»å¤æï¼ä¸ºå»ºè®¾å½éä¸æµæ¹¾åºè¥é è¯å¥½èè®ºç¯å¢</a></li><li><a href="http://news.voc.com.cn/article/201905/201905200739363845.html" title="å4æé©ãå¾·å¯¹åæèµåå«å¢é¿114.1%ã101.1%"  target="_blank">å4æé©ãå¾·å¯¹åæèµåå«å¢é¿114.1%ã101.1%</a></li><li><a href="http://news.voc.com.cn/article/201905/201905201631014822.html" title="ç»ä¸­å¤®åå§æ¹åãä¹ è¿å¹³å¼ºåææ³å­¦ä¹ çº²è¦ãå°åå¨å"  target="_blank">ç»ä¸­å¤®åå§æ¹åãä¹ è¿å¹³å¼ºåææ³å­¦ä¹ çº²è¦ãå°åå¨å</a></li><li><a href="http://news.voc.com.cn/article/201905/201905192316123554.html" title="åå£«ä½ææ¡éåä¸­å¤®çºªå§å½å®¶çå§å®¡æ¥è°æ¥"  target="_blank">åå£«ä½ææ¡éåä¸­å¤®çºªå§å½å®¶çå§å®¡æ¥è°æ¥</a></li><li><a href="http://news.voc.com.cn/article/201905/201905200739576023.html" title="æå½åæ°å·¥æåæ¶å¥3721å ä¿æç¨³å®å¢é¿"  target="_blank">æå½åæ°å·¥æåæ¶å¥3721å ä¿æç¨³å®å¢é¿</a></li>                    <li><strong><a href="http://news.voc.com.cn/class/2199.html" target="_blank" class="blue">å½é</a> | <a href="http://news.voc.com.cn/article/201905/201905200740068813.html" title="ç¾å½æéæ½åææå½éè§åå°èªé£æ¶æ"  target="_blank">ç¾å½æéæ½åææå½éè§åå°èªé£æ¶æ</a></strong></li><li><a href="http://news.voc.com.cn/article/201905/201905200748516693001.html" title="æé£æå½±é£å¿æ§ä¹!âä¸­å½ççªç¥è¯äº§æè®ºâå¯ä»¥ä¼ç£"  target="_blank">æé£æå½±é£å¿æ§ä¹!âä¸­å½ççªç¥è¯äº§æè®ºâå¯ä»¥ä¼ç£</a></li><li><a href="http://news.voc.com.cn/article/201905/201905200809219243001.html" title="ä¼æé©å½å«éå¸ä»¤:ä¸æ³è¦æäº ä½ä¹åå¥½äºèªå«åå¤"  target="_blank">ä¼æé©å½å«éå¸ä»¤:ä¸æ³è¦æäº ä½ä¹åå¥½äºèªå«åå¤</a></li><li><a href="http://news.voc.com.cn/article/201905/201905200809396253001.html" title="å¼ç½å¤§åååç©é¦éè¿åççç¸ è³å°14åæ¸¸å®¢åä¼¤"  target="_blank">å¼ç½å¤§åååç©é¦éè¿åççç¸ è³å°14åæ¸¸å®¢åä¼¤</a></li>                    <li><strong><a href="http://society.voc.com.cn/" target="_blank" class="blue">ç¤¾ä¼</a> | <a href="http://news.voc.com.cn/article/201905/20190520080155930001.html" title="å¹¿è¥¿ç¾è²ä¸éå§å±é¡¶åå¡ å·²è´1æ­»77ä¼¤"  target="_blank">å¹¿è¥¿ç¾è²ä¸éå§å±é¡¶åå¡ å·²è´1æ­»77ä¼¤</a></strong></li><li><a href="http://news.voc.com.cn/article/201905/201905200740278844.html" title="é«é¢å¼å°±æ¯âç¡¬éçâï¼ç½çº¢åºè¦âé¢âæ´è¦âä¸¥â"  target="_blank">é«é¢å¼å°±æ¯âç¡¬éçâï¼ç½çº¢åºè¦âé¢âæ´è¦âä¸¥â</a></li><li><a href="http://news.voc.com.cn/article/201905/20190520082151492001.html" title="ä¸è½æ°´æèªç±å·å± ä¸åäººå£«:ä»·æ ¼ä¸æ¶¨é¾ä»¥æä¹"  target="_blank">ä¸è½"æ°´æèªç±"å·å± ä¸åäººå£«:ä»·æ ¼ä¸æ¶¨é¾ä»¥æä¹</a></li>            </ul>
+
+            <ul class="xz_font">
+                <script src="https://www.voc.com.cn/adsClick/443.js?3"></script>
+            </ul>
+
+            <div class="gg5"><script src="https://www.voc.com.cn/adsClick/495.js?2" charset="gbk"></script></div>
+
+            <div class="xw_bt"><div class="bt_pic"><img src="images_20160610/bt_xw.jpg" width="59" height="41" /></div><div class="tsztc"><a href="http://ts.voc.com.cn/" target="_blank">æè¯ç´éè½¦</a></div></div>
+            <ul class="xw_font">
+                <li><a href="//ts.voc.com.cn/index.php?note/view/46142" target="_blank" title="å:ç½ä»éåå§ä¹¦è®°çºµå®¹æå¹²é¨è¿æ³">å:ç½ä»éåå§ä¹¦è®°çºµå®¹æå¹²é¨è¿æ³</a></li>
+<li><a href="//ts.voc.com.cn/index.php?note/view/47139" target="_blank" title="å:æ¹¾å¤´æ¡¥å§å®¶å²æ°´åºæäººå¼ºæ¶éé±¼è´¹">å:æ¹¾å¤´æ¡¥å§å®¶å²æ°´åºæäººå¼ºæ¶éé±¼è´¹</a></li>
+<li><a href="//ts.voc.com.cn/index.php?note/view/47138" target="_blank" title="å:ç³å³°åºææ¨å¡è·¯å£é¦ç¦æ¥¼æ²¹çç´æ">å:ç³å³°åºææ¨å¡è·¯å£é¦ç¦æ¥¼æ²¹çç´æ</a></li>
+            </ul>
+            <div class="xfts_bt">æ¶è´¹æè¯</div>
+            <ul class="xfts_nr">
+                <li><a href="http://315.voc.com.cn/note/view/19743.html" target="_blank" title="ç¾æå¨å±å®å¶è¡£æè´¨éé®é¢">ç¾æå¨å±å®å¶è¡£æè´¨éé®é¢</a></li>
+<li><a href="http://315.voc.com.cn/note/view/19742.html" target="_blank" title="æµ£æºªçº±æ´åè¡£æï¼ä¸å¤çå®å">æµ£æºªçº±æ´åè¡£æï¼ä¸å¤çå®å</a></li>
+            </ul>
+
+            <div class="ewm_z">
+                <span><img src="images_20160610/ewm2.jpg" width="90" height="90" /><p>ç½ä¿¡æ¹å</p></span>
+                <span><img src="images_20160610/ewm3.jpg" width="90" height="90" /><p>æ¹åå¾®æ¿å¡</p></span>
+                <span><img src="images_20160610/ewm4.jpg" width="90" height="90" /><p>é¿æ²ç½è­¦</p></span>
+            </div>
+
+            <div class="szjx_bt"><a href="http://sq.voc.com.cn/" target="_blank">åå£°æå</a></div>
+            <div class="pic9_font">
+            <div class="pic9_xz"><a href="http://www.voc.com.cn/article/201904/201904292037321502.html" target="_blank" title="æ¹åèæ¡ç§ææåäº§ä¸å¤§ä¼å¼å¹"><img src="https://s-image.hnol.net/x/120x90/cut/http://img1.voc.com.cn/UpLoadFile/2019/04/30/201904300906592567.jpg" alt="æ¹åèæ¡ç§ææåäº§ä¸å¤§ä¼å¼å¹" width="120" height="90" /></a></div><div class="pic9_r_xz"><span><a href="http://www.voc.com.cn/article/201904/201904292037321502.html" target="_blank" title="æ¹åèæ¡ç§ææåäº§ä¸å¤§ä¼å¼å¹">æ¹åèæ¡ç§ææåäº§ä¸å¤§ä¼å¼å¹</a></span><p><a href="http://www.voc.com.cn/article/201904/201904292037321502.html" target="_blank" title="æ¹åèæ¡ç§ææåäº§ä¸å¤§ä¼å¼å¹">4æ29æ¥ä¸åï¼âé¦ç»£æ½æ¹ï¼æ¡æé£é¦âæ¹åçé¦å±èæ¡ç§ææåäº§ä¸å¤§ä¼æ¨æ¡æéæèå¨æ¹åçèæ¡ç§å­¦ç ç©¶æçå¤§å¼å¹ï¼å¹¶å¨å®ä¹¡ãæåãæ¸å¿ä¸å°åæ¶å¯å¨æ¡æéææ´»å¨ã</a></p></div>
+            </div>
+            <ul class="font7">
+                <li><span></span><a href="http://www.voc.com.cn/article/201905/201905150949092082.html" title="âç¤ºèè¯¾å âè·å¥èéç¿çï¼ææ¿è¯¾å¨ä¼ æ¿ä¸­æ£åè¬è³"  target="_blank">âç¤ºèè¯¾å âè·å¥èéç¿çï¼ææ¿è¯¾å¨ä¼ æ¿ä¸­æ£åè¬è³</a></li>
+<li><span></span><a href="http://www.voc.com.cn/article/201905/201905151551235082.html" title="æ¹åçéä¸åä¼è¯éæååä¼å³å°æç«"  target="_blank">æ¹åçéä¸åä¼è¯éæååä¼å³å°æç«</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="gg4"><script src="https://www.voc.com.cn/adsClick/475.js"></script></div>
+
+    <div class="bt1_bj">
+    	<p><a href="http://bbs.voc.com.cn/" target="_blank">è®ºå</a></p>
+        <div class="bt_r_nav">
+        	<a href="http://dsj.voc.com.cn/" target="_blank">å¤§è§ç</a><span>|</span>
+            <a href="http://bbs.voc.com.cn/forum-76-1.html" target="_blank">è¾£ç¼æ¶è¯</a><span>|</span>
+            <a href="http://bbs.voc.com.cn/forum-57-1.html" target="_blank">èç§ç</a><span>|</span>
+            <a href="http://bbs.voc.com.cn/forum-49-1.html" target="_blank">åèææ</a><span>|</span>
+            <a href="http://hw.voc.com.cn/" target="_blank">åå£°æ·å¤</a><span>|</span>
+            <a href="http://bbs.voc.com.cn/forum-77-1.html" target="_blank">é³ä¹å°å¸¦</a><span>|</span>
+            <a href="http://yule.voc.com.cn/" target="_blank">åå£°å¨±ä¹</a><span>|</span>
+            <a href="http://bbs.voc.com.cn/forum-22-1.html" target="_blank">ç½åèªæ</a>
+        </div>
+    </div>
+    <div class="btnr1">
+    	<div class="pic1_s">
+        <div class="pic1_p"><a href="http://dsj.voc.com.cn/article/201905/201905200949403703.html" target="_blank" title="è±å½âè±æ¬§âæªå® é¦ç¸å´è¦èµ°äººäº"><img src="https://s-image.hnol.net/x/344x250/cut/http://img1.voc.com.cn/UpLoadFile/2019/05/20/201905200948488966.jpg" alt="è±å½âè±æ¬§âæªå® é¦ç¸å´è¦èµ°äººäº" width="344" height="250" /></a></div><div class="pic1_bottom"><h2><a href="http://dsj.voc.com.cn/article/201905/201905200949403703.html" target="_blank" title="è±å½âè±æ¬§âæªå® é¦ç¸å´è¦èµ°äººäº">è±å½âè±æ¬§âæªå® é¦ç¸å´è¦èµ°äººäº</a></h2><p><a href="http://dsj.voc.com.cn/article/201905/201905200949403703.html" target="_blank" title="è±å½âè±æ¬§âæªå® é¦ç¸å´è¦èµ°äººäº">æ è®ºâè±æ¬§âæ³æ¡è½å¦å¨è®®ä¼éè¿ï¼å±æ¶é½å°å¬å¸è¾èæ¶é´è¡¨ãè¿è¡¨æï¼è±å½é¦ç¸çå¸ä»»ä¼¼ä¹å·²è¿å¥è¯»ç§é¶æ®µã</a></p></div>
+        </div>
+
+        <div class="btnr1_c">
+        	<ul class="btnr1_font1">
+                <li><a href="http://bbs.voc.com.cn/topic-8891442-1-1.html" target="_blank" title="æ¶è´¹è´·âé»è®¤âå¥è·¯æ¶è´¹è è°è¿æ¢æ¶è´¹"><span></span><h3>æ¶è´¹è´·âé»è®¤âå¥è·¯æ¶è´¹è è°è¿æ¢æ¶è´¹</h3><p></p></a></li>
+<li><a href="http://bbs.voc.com.cn/topic-8891441-1-1.html" target="_blank" title="å°å­©äº«æå¹²é¨å¾é ç±è´¢ææ¯ä¹¦åç¼æç"><span></span><h3>å°å­©äº«æå¹²é¨å¾é ç±è´¢ææ¯ä¹¦åç¼æç</h3><p></p></a></li>
+<li><a href="http://bbs.voc.com.cn/topic-8891434-1-1.html" target="_blank" title="å¼æ¯æ¡çæ æ°åªèä»¬è¿å¨ååè¡çæ"><span></span><h3>å¼æ¯æ¡çæ "æ°åªèä»¬"è¿å¨ååè¡çæ</h3><p></p></a></li>
+<li><a href="http://bbs.voc.com.cn/topic-8890253-1-1.html" target="_blank" title="åç¢è¿é¢å»èé åªæ¯ä¸ä¸ªå°æ¹çç°è±¡å"><span></span><h3>åç¢è¿é¢å»èé åªæ¯ä¸ä¸ªå°æ¹çç°è±¡å</h3><p></p></a></li>
+<li><a href="http://bbs.voc.com.cn/topic-8890264-1-1.html" target="_blank" title="æµ·æç14å¹´å¤èåçº§å² å½åºç¥æ´å½åæ"><span></span><h3>æµ·æç14å¹´å¤èåçº§å² å½åºç¥æ´å½åæ</h3><p></p></a></li>
+<li><a href="http://bbs.voc.com.cn/topic-8890252-1-1.html" target="_blank" title="çå­äºæè½¦ æ²¡æä¸­é´ååªæâä¸­é´åâ"><span></span><h3>çå­äºæè½¦ æ²¡æä¸­é´ååªæâä¸­é´åâ</h3><p></p></a></li>
+            </ul>
+            <div class="xxh1"></div>
+            <ul class="btnr1_font1">
+                <li><a href="http://bbs.voc.com.cn/topic-8785610-1-1.html" target="_blank" title="æè³äºæ¶åçä¸åè¯è¯ æ»æä¸å¥ç¾å­ä½ "><span></span><h3>æè³äºæ¶åçä¸åè¯è¯ æ»æä¸å¥ç¾å­ä½ </h3><p></p></a></li>
+<li><a href="http://bbs.voc.com.cn/topic-8786883-1-1.html" target="_blank" title="è¿å±éå± é²è¿æ´»å¨å°å¾åä¸æµ·æåç©ºé´"><span></span><h3>è¿å±éå± é²è¿æ´»å¨å°å¾åä¸æµ·æåç©ºé´</h3><p></p></a></li>
+<li><a href="http://bbs.voc.com.cn/topic-8788182-1-1.html" target="_blank" title="ä¸­å½å¯è½è¦å¸­å·5Gå¸åº èç¾å½æææ ç­"><span></span><h3>ä¸­å½å¯è½è¦å¸­å·5Gå¸åº èç¾å½æææ ç­</h3><p></p></a></li>
+                      <li><a href="http://bbs.voc.com.cn/topic-8286064-1-1.html" target="_blank" title="æ®äº¬æåè¿ä»»æ»ç» åçº¦å½å®¶åä¸å¯æ²¡"><span></span><h3>æ®äº¬æåè¿ä»»æ»ç» åçº¦å½å®¶"åä¸å¯æ²¡"</h3><p></p></a></li>
+<li><a href="http://bbs.voc.com.cn/topic-8287950-1-1.html" target="_blank" title="è±é åå®¶ï¼å¨é©å¿æ¿åééª¸ä¹ä¸æºåå®¶"><span></span><h3>è±é åå®¶ï¼å¨é©å¿æ¿åééª¸ä¹ä¸æºåå®¶</h3><p></p></a></li>
+<li><a href="http://bbs.voc.com.cn/topic-8274862-1-1.html" target="_blank" title="ä¼æè­¦åç¾å½åå£° å«ç¯ä¸çè¦çéè¯¯"><span></span><h3>ä¼æè­¦åç¾å½åå£° å«ç¯ä¸"çè¦çéè¯¯"</h3><p></p></a></li>
+            </ul>
+        </div>
+
+        <ul class="lt_pic2">
+        	<li><a href="http://yule.voc.com.cn/article/201905/201905200941102602.html" target="_blank" title="ç« å­æ¡äº®ç¸ãå¥æ¯æ2: æªå½ä¹çãæ´æç¶é¦æ ç¤¼"><img src="https://s-image.hnol.net/x/162x90/cut/http://img1.voc.com.cn/UpLoadFile/2019/05/20/201905200949577255.jpg" alt="ç« å­æ¡äº®ç¸ãå¥æ¯æ2: æªå½ä¹çãæ´æç¶é¦æ ç¤¼" width="162" height="90" /><p>ç« å­æ¡äº®ç¸ãå¥æ¯æ2: æªå½ä¹çãæ´æç¶é¦æ ç¤¼</p></a></li>
+<li><a href="http://yule.voc.com.cn/article/201905/20190516102330391.html" target="_blank" title="ãé»è¡£äººï¼å¨çè¿½ç¼ãæè§è²æµ·æ¥ âé¤å¥âé¢åé»è¶å¤©å¢å±å¤å¨å®å®"><img src="https://s-image.hnol.net/x/162x90/cut/http://img1.voc.com.cn/UpLoadFile/2019/05/16/201905161033419293.jpg" alt="ãé»è¡£äººï¼å¨çè¿½ç¼ãæè§è²æµ·æ¥ âé¤å¥âé¢åé»è¶å¤©å¢å±å¤å¨å®å®" width="162" height="90" /><p>ãé»è¡£äººï¼å¨çè¿½ç¼ãæè§è²æµ·æ¥ âé¤å¥âé¢åé»è¶å¤©å¢å±å¤å¨å®å®</p></a></li>
+<li><a href="http://yule.voc.com.cn/article/201905/201905161645371951.html" target="_blank" title="å¼ èºå´åèº«å¤å­£âé¦å¸­ç­ç±å®â çèåæ°ä»»ä»£è¨äººæ­£å¼å®å®£"><img src="https://s-image.hnol.net/x/162x90/cut/http://img1.voc.com.cn/UpLoadFile/2019/05/16/201905161647468043.jpg" alt="å¼ èºå´åèº«å¤å­£âé¦å¸­ç­ç±å®â çèåæ°ä»»ä»£è¨äººæ­£å¼å®å®£" width="162" height="90" /><p>å¼ èºå´åèº«å¤å­£âé¦å¸­ç­ç±å®â çèåæ°ä»»ä»£è¨äººæ­£å¼å®å®£</p></a></li>
+<li><a href="http://yule.voc.com.cn/article/201905/201905151939322056.html" target="_blank" title="é·çæ½®æµå¸­å·é©å½äººæ°ç»åWINNERæ°ä¸ãWEãå¼ºå¿åå½"><img src="https://s-image.hnol.net/x/162x90/cut/http://img1.voc.com.cn/UpLoadFile/2019/05/15/201905151942013349.jpg" alt="é·çæ½®æµå¸­å·é©å½äººæ°ç»åWINNERæ°ä¸ãWEãå¼ºå¿åå½" width="162" height="90" /><p>é·çæ½®æµå¸­å·é©å½äººæ°ç»åWINNERæ°ä¸ãWEãå¼ºå¿åå½</p></a></li>
+<li><a href="http://yule.voc.com.cn/article/201905/201905131951225287.html" target="_blank" title="åé è¥ç¬¬äºè½®å¬æ¼ å¨éåå¸¦éåå¤ºé·çé£åæ¦äºå"><img src="https://s-image.hnol.net/x/162x90/cut/http://img1.voc.com.cn/UpLoadFile/2019/05/13/201905131952286996.jpg" alt="åé è¥ç¬¬äºè½®å¬æ¼ å¨éåå¸¦éåå¤ºé·çé£åæ¦äºå" width="162" height="90" /><p>åé è¥ç¬¬äºè½®å¬æ¼ å¨éåå¸¦éåå¤ºé·çé£åæ¦äºå</p></a></li>
+<li><a href="http://yule.voc.com.cn/article/201905/201905111935379878.html" target="_blank" title="2019å°ä¼é¹è·Â·æ¶é¸¦æ»å¨åä¸æµ·ç«æ¸©é¦¨å¼è· èå¨å®å¦äº²å¯äºå¨è¶æç±"><img src="https://s-image.hnol.net/x/162x90/cut/http://img1.voc.com.cn/UpLoadFile/2019/05/13/201905131906207071.jpg" alt="2019å°ä¼é¹è·Â·æ¶é¸¦æ»å¨åä¸æµ·ç«æ¸©é¦¨å¼è· èå¨å®å¦äº²å¯äºå¨è¶æç±" width="162" height="90" /><p>2019å°ä¼é¹è·Â·æ¶é¸¦æ»å¨åä¸æµ·ç«æ¸©é¦¨å¼è· èå¨å®å¦äº²å¯äºå¨è¶æç±</p></a></li>
+                               </ul>
+    </div>
+
+    <div class="bt1_bj">
+    	<p><a>èå</a></p>
+        <div class="bt_r_nav">
+        	<a href="http://yq.voc.com.cn/" target="_blank">èæ</a><span>|</span>
+            <a href="http://hsjy.voc.com.cn/" target="_blank">æè²</a><span>|</span>
+            <a href="http://gy.voc.com.cn/" target="_blank">å¬ç</a><span>|</span>
+            <a href="http://travel.voc.com.cn/" target="_blank">ææ¸¸</a><span>|</span>
+            <a href="http://jzfp.voc.com.cn/" target="_blank">æ¶è´«</a><span>|</span>
+            <a href="http://zt.voc.com.cn/" target="_blank">ä¸é¢</a><span>|</span>
+            <a href="http://yule.voc.com.cn/" target="_blank">å¨±ä¹</a><span>|</span>
+            <a href="http://ent.voc.com.cn/" target="_blank">ç©ä¹</a>
+        </div>
+    </div>
+    <div class="jh_z">
+    	<div class="jh_k">
+        	<div class="jh_inbt">
+            	<span></span><p><a href="http://yq.voc.com.cn/" target="_blank">èæ</a></p>
+            </div>
+            <div class="jh_picz"><a href="http://yq.voc.com.cn/article/201903/201903290903418322.html" target="_blank" title="éå¤§çªåäºææ°é»åå¸ä¼çé¢å¯¼å±çº§"><img src="https://s-image.hnol.net/x/344x172/cut/http://img1.voc.com.cn/UpLoadFile/2019/03/29/201903290903134202.jpg" alt="éå¤§çªåäºææ°é»åå¸ä¼çé¢å¯¼å±çº§" width="344" height="172" /><span></span><p>éå¤§çªåäºææ°é»åå¸ä¼çé¢å¯¼å±çº§</p></a></div>
+            <ul class="font2">
+            	<li><span></span><a href="http://yq.voc.com.cn/article/201905/201905091039038486.html" title="ç½ç»èæåºå¯¹ï¼ä¸å¤§çç¹æä¹ç ´ï¼"  target="_blank">ç½ç»èæåºå¯¹ï¼ä¸å¤§çç¹æä¹ç ´ï¼</a></li>
+<li><span></span><a href="http://yq.voc.com.cn/article/201905/20190509103317762.html" title="å¤ç½®ç¤¾ä¼ç­ç¹èæçéè¦éé¡¹ï¼å¤é¨é¨èååºå¯¹"  target="_blank">å¤ç½®ç¤¾ä¼ç­ç¹èæçéè¦éé¡¹ï¼å¤é¨é¨èååºå¯¹</a></li>
+<li><span></span><a href="http://yq.voc.com.cn/article/201905/201905081101344448.html" title="ç¦æ­¢âå·®çâä¸­èï¼å«è®©å­¦çæä¸ºåå­¦çççºç²å"  target="_blank">ç¦æ­¢âå·®çâä¸­èï¼å«è®©å­¦çæä¸ºåå­¦çççºç²å</a></li>
+            </ul>
+        </div>
+        <div class="jh_k">
+        	<div class="jh_inbt">
+            	<span></span><p><a href="http://hsjy.voc.com.cn/" target="_blank">æè²</a></p>
+            </div>
+            <div class="jh_picz"><a href="http://hsjy.voc.com.cn/article/201905/201905170947382514.html" target="_blank" title="è¿ç¥å½ä¸ååè¯ å±èææ¶ä»£é£é 2019å¹´æ¹åçèä¸æè²å®£ä¼ æ´»å¨å¨å¯å¨"><img src="https://s-image.hnol.net/x/344x172/cut/http://img1.voc.com.cn/UpLoadFile/2019/05/17/201905170947342393.jpg" alt="è¿ç¥å½ä¸ååè¯ å±èææ¶ä»£é£é 2019å¹´æ¹åçèä¸æè²å®£ä¼ æ´»å¨å¨å¯å¨" width="344" height="172" /><span></span><p>è¿ç¥å½ä¸ååè¯ å±èææ¶ä»£é£é 2019å¹´æ¹åçèä¸æè²å®£ä¼ æ´»å¨å¨å¯å¨</p></a></div>
+            <ul class="font2">
+                <li><span></span><a href="http://hsjy.voc.com.cn/article/201905/20190520155531444.html" title="å¤©å¤©é½æå¬å¼è¯¾ æå¸å­¦ä¹ å²å¤´è¶³"  target="_blank">å¤©å¤©é½æå¬å¼è¯¾ æå¸å­¦ä¹ å²å¤´è¶³</a></li>
+<li><span></span><a href="http://hsjy.voc.com.cn/article/201905/201905170938587185.html" title="çæ¶¯è§åæè²ï¼èªä¸»æ¢ç´¢ ä½éªå¼å¯¼"  target="_blank">çæ¶¯è§åæè²ï¼èªä¸»æ¢ç´¢ ä½éªå¼å¯¼</a></li>
+<li><span></span><a href="http://hsjy.voc.com.cn/article/201905/201905170937204715.html" title="ç¨³æ­¥æ¨è¿ä¿¡æ¯ç´ å»æè²ï¼å¤§èå°è¯ç§å­¦çè¯ä»·"  target="_blank">ç¨³æ­¥æ¨è¿ä¿¡æ¯ç´ å»æè²ï¼å¤§èå°è¯ç§å­¦çè¯ä»·</a></li>
+            </ul>
+        </div>
+        <div class="jh_k">
+        	<div class="jh_inbt">
+            	<span></span><p><a href="http://ent.voc.com.cn/" target="_blank">ç©ä¹</a></p>
+            </div>
+            <div class="jh_picz"><a href="http://ent.voc.com.cn/article/201902/201902131636044717.html" target="_blank" title="èæTVâåç½å­£Â·æè¯å¤§èµâå¼å¹å¨å³ å·¨å¹æä¹¦å°äº®ç¸é©¬æ å±±"><img src="https://s-image.hnol.net/x/344x172/cut/http://img1.voc.com.cn/UpLoadFile/2019/02/13/201902131634565531.jpg" alt="èæTVâåç½å­£Â·æè¯å¤§èµâå¼å¹å¨å³ å·¨å¹æä¹¦å°äº®ç¸é©¬æ å±±" width="344" height="172" /><span></span><p>èæTVâåç½å­£Â·æè¯å¤§èµâå¼å¹å¨å³ å·¨å¹æä¹¦å°äº®ç¸é©¬æ å±±</p></a></div>
+            <ul class="font2">
+            	<li><span></span><a href="http://ent.voc.com.cn/article/201905/20190519010745868.html" title="2000äººåå âèµ°çº¢åèµ°è¿çè·¯Â·å¾æ­¥ç©¿è¶å¤§æ¹è¥¿âæ´»å¨åé¦ãè±å£ç«"  target="_blank">2000äººåå âèµ°çº¢åèµ°è¿çè·¯Â·å¾æ­¥ç©¿è¶å¤§æ¹è¥¿âæ´»å¨åé¦ãè±å£ç«</a></li>
+<li><span></span><a href="http://ent.voc.com.cn/article/201905/201905182339048411.html" title="2019ç¯æ´åº­æ¹å½éå¬è·¯èªè¡è½¦èµç­èº«èµ æé è±æµ·ä¸­çéªè¡åºå°"  target="_blank">2019ç¯æ´åº­æ¹å½éå¬è·¯èªè¡è½¦èµç­èº«èµ æé è±æµ·ä¸­çéªè¡åºå°</a></li>
+<li><span></span><a href="http://ent.voc.com.cn/article/201905/201905181319408436.html" title="2019Â·æ¹ååªä½è¶³çéè¯·èµæ½ç­¾ç»æåºçï¼ä¸å±å äºåé½èBç»"  target="_blank">2019Â·æ¹ååªä½è¶³çéè¯·èµæ½ç­¾ç»æåºçï¼ä¸å±å äºåé½èBç»</a></li>
+            </ul>
+        </div>
+
+        <div class="xxh2"></div>
+
+        <div class="jh_k">
+        	<div class="jh_inbt">
+            	<span></span><p><a href="http://hssq.voc.com.cn/" target="_blank">ç¤¾åº</a></p>
+            </div>
+            <div class="jh_picz"><a href="http://hssq.voc.com.cn/view.php?tid=3516&cid=2" target="_blank" title=" æç±æ ç¢ï¼å±äº«é³å ââæ²æ²³ç¤¾åºå¼å±ç¬¬äºåä¹ä¸ªå¨å½å©æ®æ¥ä¸»é¢æ´»å¨"><img src="http://hssq.voc.com.cn/attachment/190517/09e5fb368c.png"
+                        alt=" æç±æ ç¢ï¼å±äº«é³å ââæ²æ²³ç¤¾åºå¼å±ç¬¬äºåä¹ä¸ªå¨å½å©æ®æ¥ä¸»é¢æ´»å¨" width="344" height="172" /><span></span><p> æç±æ ç¢ï¼å±äº«é³å ââæ²æ²³ç¤¾åºå¼å±ç¬¬äºåä¹ä¸ªå¨å½å©æ®æ¥ä¸»é¢æ´»å¨</p></a></div><ul class="font2">
+<li><a href="http://hssq.voc.com.cn/view.php?tid=3511&cid=2" target="_blank" title=" çå®¶åç¤¾åºï¼åº­é¢è®®äºä¼âä¸æ°âä¸¾æªå¼ååº­é¢èªæ²»æ°æ ¼å±  "><span></span> çå®¶åç¤¾åºï¼åº­é¢è®®äºä¼âä¸æ°âä¸¾æªå¼ååº­é¢èªæ²»æ°æ ¼å±  </a></li>
+<li><a href="http://hssq.voc.com.cn/view.php?tid=3518&cid=2" target="_blank" title=" è¥¿æ­£ç¤¾åºï¼ç±å¿å©æ®ï¼ç±æ»¡äººé´"><span></span> è¥¿æ­£ç¤¾åºï¼ç±å¿å©æ®ï¼ç±æ»¡äººé´</a></li>
+<li><a href="http://hssq.voc.com.cn/view.php?tid=3520&cid=2" target="_blank" title=" èå¡ç¤¾åºï¼å³ç±å¸®æ¶æ®ç¾äºº ææå®è·µå¾®å¿æ¿"><span></span> èå¡ç¤¾åºï¼å³ç±å¸®æ¶æ®ç¾äºº ææå®è·µå¾®å¿æ¿</a></li>
+</ul>        </div>
+        <div class="jh_k">
+        	<div class="jh_inbt">
+            	<span></span><p><a href="http://jzfp.voc.com.cn/" target="_blank">æ¶è´«</a></p>
+            </div>
+            <div class="jh_picz"><a href="http://jzfp.voc.com.cn/article/201905/20190516154202918.html" target="_blank" title="åæºæå¡å°ç°é´"><img src="https://s-image.hnol.net/x/344x172/cut/http://img1.voc.com.cn/UpLoadFile/2019/05/16/201905161541547166.jpg" alt="åæºæå¡å°ç°é´" width="344" height="172" /><span></span><p>åæºæå¡å°ç°é´</p></a></div>
+            <ul class="font2">
+            	<li><span></span><a href="http://jzfp.voc.com.cn/article/201905/201905161544032715.html" title="ä»å¹´ç¡®ä¿å©ä½è´«å°å¿å¨é¨æå¸½"  target="_blank">ä»å¹´ç¡®ä¿å©ä½è´«å°å¿å¨é¨æå¸½</a></li>
+                      <li><span></span><a href="http://jzfp.voc.com.cn/article/201905/201905161648328424.html" title="å´è¿°æ¡ï¼âå®¶æ¿æ¶è´«å¹è®­å°±æ¯æçäºä¸â"  target="_blank">å´è¿°æ¡ï¼âå®¶æ¿æ¶è´«å¹è®­å°±æ¯æçäºä¸â</a></li>
+                      <li><span></span><a href="http://jzfp.voc.com.cn/article/201905/201905171625041418.html" title="å½ç½æ¹åççµåæéå¬å¸å¤ç¹ååæåºé©»æå¸®æ¶âç»åæ³â"  target="_blank">å½ç½æ¹åççµåæéå¬å¸å¤ç¹ååæåºé©»æå¸®æ¶âç»åæ³â</a></li>
+            </ul>
+        </div>
+        <div class="jh_k">
+        	<div class="jh_inbt">
+                <span></span><p><a href="http://travel.voc.com.cn/" target="_blank">ææ¸¸</a></p>
+            </div>
+            <div class="jh_picz"><a href="http://travel.voc.com.cn/article/201905/201905041948146395.html" target="_blank" title="âäºä¸âåææ¹åææ¸¸æç»©åï¼æ¥å¾æ¸¸å®¢è¶2322ä¸äººï¼å¸éè¿165äº¿å"><img src="https://s-image.hnol.net/x/344x172/cut/http://img1.voc.com.cn/UpLoadFile/2019/05/04/20190504201027967.jpg" alt="âäºä¸âåææ¹åææ¸¸æç»©åï¼æ¥å¾æ¸¸å®¢è¶2322ä¸äººï¼å¸éè¿165äº¿å" width="344" height="172" /><span></span><p>âäºä¸âåææ¹åææ¸¸æç»©åï¼æ¥å¾æ¸¸å®¢è¶2322ä¸äººï¼å¸éè¿165äº¿å</p></a></div>
+            <ul class="font2">
+            	<li><span></span><a href="http://travel.voc.com.cn/article/201905/201905192330208939.html" title="æ¹åæ°ææ­å§ãè±â¢éãå¨ä¸æµ·ä¿å©å¤§å§é¢å¼æ¼"  target="_blank">æ¹åæ°ææ­å§ãè±â¢éãå¨ä¸æµ·ä¿å©å¤§å§é¢å¼æ¼</a></li>
+<li><span></span><a href="http://travel.voc.com.cn/article/201905/201905192217559750.html" title="æ­å§ãè±â¢éãä½ä¸ºæ¹åå¯ä¸åè¯å§ç®å²å»ç¬¬åå­å±æåå¤§å¥"  target="_blank">æ­å§ãè±â¢éãä½ä¸ºæ¹åå¯ä¸åè¯å§ç®å²å»ç¬¬åå­å±æåå¤§å¥</a></li>
+<li><span></span><a href="http://travel.voc.com.cn/article/201905/20190519180044380.html" title="æ¹åç¾¤èãå¼å¤ãè¿åè¥ è¿å°å¨ä¸æµ·è¿æ¼ä¸åº"  target="_blank">æ¹åç¾¤èãå¼å¤ãè¿åè¥ è¿å°å¨ä¸æµ·è¿æ¼ä¸åº</a></li>
+            </ul>
+        </div>
+
+        <div class="xxh2"></div>
+        <div class="jh_k">
+        	<div class="jh_inbt">
+            	<span></span><p><a href="http://gy.voc.com.cn/" target="_blank">å¬ç</a></p>
+            </div>
+            <div class="jh_picz"><a href="http://gy.voc.com.cn/article/201903/201903121549415829.html" target="_blank" title="æ¤æ èï¼ç»æ ¡å­çæ æ¨è´´ä¸ä¸å¼ è®¤é¢äºç»´ç "><img src="https://s-image.hnol.net/x/344x172/cut/http://img1.voc.com.cn/UpLoadFile/2019/03/12/201903121547301840.jpg" alt="æ¤æ èï¼ç»æ ¡å­çæ æ¨è´´ä¸ä¸å¼ è®¤é¢äºç»´ç " width="344" height="172" /><span></span><p>æ¤æ èï¼ç»æ ¡å­çæ æ¨è´´ä¸ä¸å¼ è®¤é¢äºç»´ç </p></a></div>
+            <ul class="font2">
+            	<li><span></span><a href="http://gy.voc.com.cn/article/201905/201905201844518707.html" title="ãä¸è´éæ¥ä¸è´æãï¼ä¹¦åç­è¡æ æçéæ¥æäº"  target="_blank">ãä¸è´éæ¥ä¸è´æãï¼ä¹¦åç­è¡æ æçéæ¥æäº</a></li>
+<li><span></span><a href="http://gy.voc.com.cn/article/201905/201905201614196512.html" title="å©æ®æ¥ï¼é¿æ²å¿ç±çææ¸¡äººå³ç±äº¤éè´æ®å®¶åº­"  target="_blank">å©æ®æ¥ï¼é¿æ²å¿ç±çææ¸¡äººå³ç±äº¤éè´æ®å®¶åº­</a></li>
+<li><span></span><a href="http://gy.voc.com.cn/article/201905/201905201047253427.html" title="âå¤©ä½¿é¤åâæ¨å¹¿è³23å¸ï¼é¦åæ¨¡å¼å©æ®ééå¹´èå¥ç¤¾ä¼"  target="_blank">âå¤©ä½¿é¤åâæ¨å¹¿è³23å¸ï¼é¦åæ¨¡å¼å©æ®ééå¹´èå¥ç¤¾ä¼</a></li>
+            </ul>
+        </div>
+		<div class="jh_k">
+        	<div class="jh_inbt">
+            	<span></span><p><a href="http://yule.voc.com.cn/" target="_blank">å¨±ä¹</a></p>
+            </div>
+            <div class="jh_picz"><a href="http://yule.voc.com.cn/article/201905/201905200941102602.html" target="_blank" title="ç« å­æ¡äº®ç¸ãå¥æ¯æ2: æªå½ä¹çãæ´æç¶é¦æ ç¤¼"><img src="https://s-image.hnol.net/x/344x172/cut/http://img1.voc.com.cn/UpLoadFile/2019/05/20/201905200949577255.jpg" alt="ç« å­æ¡äº®ç¸ãå¥æ¯æ2: æªå½ä¹çãæ´æç¶é¦æ ç¤¼" width="344" height="172" /><span></span><p>ç« å­æ¡äº®ç¸ãå¥æ¯æ2: æªå½ä¹çãæ´æç¶é¦æ ç¤¼</p></a></div>
+            <ul class="font2">
+            	<li><span></span><a href="http://yule.voc.com.cn/article/201905/201905200931553711.html" title="ãææ¸¸ãä¸æ¼å¤§ç»å± ä¸ç­æä¸ºè¿½å§è¯·å"  target="_blank">ãææ¸¸ãä¸æ¼å¤§ç»å± ä¸ç­æä¸ºè¿½å§è¯·å</a></li>
+<li><span></span><a href="http://yule.voc.com.cn/article/201905/201905051101593666.html" title="æ´æå¤©é¦æ¬¡ä¸ºæè°éæ­ï¼ççå¯¹ä¸èµ·å¾å¤äºº"  target="_blank">æ´æå¤©é¦æ¬¡ä¸ºæè°éæ­ï¼ççå¯¹ä¸èµ·å¾å¤äºº</a></li>
+<li><span></span><a href="http://yule.voc.com.cn/article/201904/201904251659425454.html" title="ãä¸è´éæ¥ä¸è´æãç¬¬äºå­£å³å°å¼æ­"  target="_blank">ãä¸è´éæ¥ä¸è´æãç¬¬äºå­£å³å°å¼æ­</a></li>
+            </ul>
+        </div>
+
+
+        <div class="jh_k">
+        	<div class="jh_inbt">
+            	<span></span><p><a href="http://hunan.voc.com.cn/class/3053.html" target="_blank">ç§æ</a></p>
+            </div>
+            <div class="jh_picz"><a href="http://hunan.voc.com.cn/article/201904/201904031541566734001.html" target="_blank" title="å¾æ|æ¸æåå¤è¯è¹´é "><img src="https://s-image.hnol.net/x/344x172/cut/http://img1.voc.com.cn/UpLoadFile/2019/04/03/201904031603079219.jpg" alt="å¾æ|æ¸æåå¤è¯è¹´é " width="344" height="172" /><span></span><p>å¾æ|æ¸æåå¤è¯è¹´é </p></a></div>
+            <ul class="font2">
+            	<li><span></span><a href="http://hunan.voc.com.cn/article/201905/201905191906419333.html" title="æ¹åèºæ¯èä¸å­¦é¢ä¸¾è¡æ ¡å­å¼æ¾æ¥æ¨å½éåç©é¦æ¥æ´»å¨"  target="_blank">æ¹åèºæ¯èä¸å­¦é¢ä¸¾è¡æ ¡å­å¼æ¾æ¥æ¨å½éåç©é¦æ¥æ´»å¨</a></li>
+<li><span></span><a href="http://hunan.voc.com.cn/article/201905/201905171548201358.html" title="æ ªæ´²å¸ææ¸¸éåºæ ¡ä¼èçå¯å¨ä¼å¨æ ªæ´²å¹¼æ ¡å¬å¼"  target="_blank">æ ªæ´²å¸ææ¸¸éåºæ ¡ä¼èçå¯å¨ä¼å¨æ ªæ´²å¹¼æ ¡å¬å¼</a></li>
+<li><span></span><a href="http://hunan.voc.com.cn/article/201905/201905170925391053.html" title="æ ªæ´²å¹¼å¸ï¼âéå¹å°æ ¡ ç²¾åå¹è®­âå©åæå¸æå­¦è½åæå"  target="_blank">æ ªæ´²å¹¼å¸ï¼âéå¹å°æ ¡ ç²¾åå¹è®­âå©åæå¸æå­¦è½åæå</a></li>
+            </ul>
+        </div>
+        <div class="xxh2"></div>
+         <div class="jh_k">
+        	<div class="jh_inbt">
+            	<span></span><p><a href="https://www.voc.com.cn/class/5644_1.html" target="_blank">å¸å·</a></p>
+            </div>
+
+            <ul class="font2" style="padding-top: 5px;">
+            	<li style='height:30px;line-height:29px;'><span></span><a href="https://www.voc.com.cn/article/201905/201905200946322461.html" title="æ¹åæ¥æ¥å¸å·å¤´æ¡ | æ ªæ´²å¸ä»ä¸¥æ´æ²»å½¢å¼ä¸»ä¹å®åä¸»ä¹çºªå®"  target="_blank">æ¹åæ¥æ¥å¸å·å¤´æ¡ | æ ªæ´²å¸ä»ä¸¥æ´æ²»å½¢å¼ä¸»ä¹å®åä¸»ä¹çºªå®</a></li>
+<li style='height:30px;line-height:29px;'><span></span><a href="https://www.voc.com.cn/article/201905/201905171725034666.html" title="å ç±å­¤å¯ââå°è¯´éãè¿æ ·ççæ´»è¿æ ·çç±ãææ"  target="_blank">å ç±å­¤å¯ââå°è¯´éãè¿æ ·ççæ´»è¿æ ·çç±ãææ</a></li>
+<li style='height:30px;line-height:29px;'><span></span><a href="https://www.voc.com.cn/article/201905/201905141126243087.html" title="éç°èºæ¯è®©å­©å­æ¾é£ç¬å°ä¸çæ¢¦æ³"  target="_blank">éç°èºæ¯è®©å­©å­æ¾é£ç¬å°ä¸çæ¢¦æ³</a></li>
+<li style='height:30px;line-height:29px;'><span></span><a href="https://www.voc.com.cn/article/201905/201905131044215968.html" title="å¤å°æ¶æ§è¿æé³ï¼æ¢è®¿é´éµçè±çç«¹èªå¨åçäº§ç¤ºèåºå»ºè®¾"  target="_blank">å¤å°æ¶æ§è¿æé³ï¼æ¢è®¿é´éµçè±çç«¹èªå¨åçäº§ç¤ºèåºå»ºè®¾</a></li>
+<li style='height:30px;line-height:29px;'><span></span><a href="https://www.voc.com.cn/article/201905/201905081717173170.html" title="å¨åºå¸å«å¥å§äºé¡¹ä¸¾æªå¼ºåå®å¨çäº§"  target="_blank">å¨åºå¸å«å¥å§äºé¡¹ä¸¾æªå¼ºåå®å¨çäº§</a></li>
+<li style='height:30px;line-height:29px;'><span></span><a href="https://www.voc.com.cn/article/201905/201905061131544370.html" title="å·¥å°ä¹æ¯âå¤§èå°âââå½ç½å²³é³ä¾çµå¬å¸åçµæ£ä¿®å®¤éå¹´å¢éä¾§è®°"  target="_blank">å·¥å°ä¹æ¯âå¤§èå°âââå½ç½å²³é³ä¾çµå¬å¸åçµæ£ä¿®å®¤éå¹´å¢éä¾§è®°</a></li>
+<li style='height:30px;line-height:29px;'><span></span><a href="https://www.voc.com.cn/article/201904/201904280901531800.html" title="[æ ªæ´²] ç¬¬åå±ä¸­å½çè±çç«¹åè§ä¼å¼å¹"  target="_blank">[æ ªæ´²] ç¬¬åå±ä¸­å½çè±çç«¹åè§ä¼å¼å¹</a></li>
+<li style='height:30px;line-height:29px;'><span></span><a href="https://www.voc.com.cn/article/201904/201904261512216729.html" title="å²³é³çµç½é¦ä¸ªâ6.30âé¡¹ç®æåç«£å·¥æè¿"  target="_blank">å²³é³çµç½é¦ä¸ªâ6.30âé¡¹ç®æåç«£å·¥æè¿</a></li>
+<li style='height:30px;line-height:29px;'><span></span><a href="https://www.voc.com.cn/article/201904/201904231639553834.html" title="éæ¥å¿åå å»ºåæ°æ¶ä»£ââè¡¡ä¸å¿èä¸ä¸­ä¸å­¦æ ¡ãæåæçç¥å½ãå¿«éª"  target="_blank">éæ¥å¿åå å»ºåæ°æ¶ä»£ââè¡¡ä¸å¿èä¸ä¸­ä¸å­¦æ ¡ãæåæçç¥å½ãå¿«éª</a></li>
+            </ul>
+        </div>
+		<div class="jh_k">
+        	<div class="jh_inbt">
+            	<span></span><p><a href="http://fc.voc.com.cn/" target="_blank">æ¿äº§</a></p>
+            </div>
+            <div class="jh_picz"><a href="http://fc.voc.com.cn/view.php?tid=2493&cid=3" target="_blank" title="æ°åèéå®çªå¤éç¬¬å«åº§åç©é¦å¼æ¾"><img src="http://fc.voc.com.cn/attachment/190520/ddb8656a2c.jpg" alt="æ°åèéå®çªå¤éç¬¬å«åº§åç©é¦å¼æ¾" width="344" height="172" /><span></span><p>æ°åèéå®çªå¤éç¬¬å«åº§åç©é¦å¼æ¾</p></a></div>
+            <ul class="font2">
+            	<li><span></span><a href='http://fc.voc.com.cn/view.php?tid=2493&cid=3' target='_blank'>æ°åèéå®çªå¤éç¬¬å«åº§åç©é¦å¼æ¾</li>
+<li><span></span><a href='http://fc.voc.com.cn/view.php?tid=2489&cid=3' target='_blank'>å»ºé¢çº¦124ã¡å¤å¼ï¼æ­£è£æ¦çºå¤§åæ¿çæè´ç©ºé´ä¸»ä¹</li>
+<li><span></span><a href='http://fc.voc.com.cn/view.php?tid=2488&cid=3' target='_blank'>é¿æ²å¸ä½å»ºå±æåä¸æ¹å¤±ä¿¡è¡ä¸º æ¹åæ°è¾¾ç¾æ¢æºªç­è¢«æå</li>
+            </ul>
+        </div>
+
+
+        <div class="jh_k">
+        	<div class="jh_inbt">
+            	<span></span><p><a href="http://sshspx.voc.com.cn/" target="_blank">çº¢å¹</a></p>
+            </div>
+
+
+            <div class="jh_picz"><a href="http://sshspx.voc.com.cn/view.php?tid=100877&cid=260" target="_blank" title="ä¸­å½åµå¨å·¥ä¸æ ååç ç©¶æåå§é¶å±±åæ§æè²å¹è®­ç­å¼ç­"><img src="http://sshspx.voc.com.cn//attachment/image/20190516/1557976661812827.jpg" alt="ä¸­å½åµå¨å·¥ä¸æ ååç ç©¶æåå§é¶å±±åæ§æè²å¹è®­ç­å¼ç­" width="344" height="172" /><span></span><p>ä¸­å½åµå¨å·¥ä¸æ ååç ç©¶æåå§é¶å±±åæ§æè²å¹è®­ç­å¼ç­</p></a></div>
+            <ul class="font2">
+            	<li><span></span><a href='http://sshspx.voc.com.cn/view.php?tid=100875&cid=260' target='_blank'>æ±è¥¿çå°ç¿å±ä¹ãä¸å°è´¨å¤§é ä¹ä¸äºå°è´¨å¤§éâåè¿æ°ä¸­å½æç«70å¨å¹´ ä¸å¿åå¿ ç¢è®°ä½¿å½âå¹²é¨çº¢è²æè²å¹è®­ç­å¼ç­</li>
+<li><span></span><a href='http://sshspx.voc.com.cn/view.php?tid=100858&cid=260' target='_blank'>ä¸­æµ·æ²¹è½æºè£å¤ææ¯æéå¬å¸å å·¥å¶é ä¸­å¿ååéä¸­æè²å¹è®­ç­å¨æé¢å¼ç­</li>
+<li><span></span><a href='http://sshspx.voc.com.cn/view.php?tid=100852&cid=260' target='_blank'>ä¸­å±éµä¸å¿å§ç»æé¨å¹è®­ç­å¨æé¢å¼å±âä¸å¿åå¿ ç¢è®°ä½¿å½âåæ¥æ´»å¨</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="bt1_bj">
+    	<p><a href="http://pic.voc.com.cn/" target="_blank">è§è§</a></p>
+        <div class="bt_r_nav">
+            <a href="http://pic.voc.com.cn/index.php?m=content&c=index&a=yingzhan" target="_blank">æ¹åäººçä¸å¤©</a><span>|</span>
+            <a href="http://pic.voc.com.cn/index.php?m=content&c=index&a=yingzhan" target="_blank">å¯»æ¾æå½±å¸</a><span>|</span>
+            <a href="http://pic.voc.com.cn/index.php?m=content&c=index&a=yingzhan" target="_blank">å¹³å¡çä¸ç</a>
+        </div>
+    </div>
+    <div class="sj_nrz">
+    <div class="sj1_picz"><a href="http://pic.voc.com.cn/pics-71-16834.html" target="_blank" title="æ¢ä¼æ°ï¼å¨å°åº¦ï¼è®©ä½ ä¸æèéçæå"><img src="http://pic.voc.com.cn/uploadfile/2019/0507/20190507094145271.jpg" width="726" height="363" /></a><div class="sj1_bj"></div><span><a href="http://pic.voc.com.cn/pics-71-16834.html" target="_blank" title="æ¢ä¼æ°ï¼å¨å°åº¦ï¼è®©ä½ ä¸æèéçæå">æ¢ä¼æ°ï¼å¨å°åº¦ï¼è®©ä½ ä¸æèéçæå</a></span><p><a href="http://pic.voc.com.cn/pics-71-16834.html" target="_blank" title="æèµ·å°åº¦ï¼ä½ çèæµ·éæµ®ç°çç»é¢æ¯ä»ä¹ï¼æ¯å¤èç¥ç§çææ²³ï¼è½½æ­è½½èçäººæ½®ãè²å½©é²è³çæé¥°ãè´«ç©·ä¸å¯è£çå¼ºçåå·®â¦â¦æä»¬çå°ãè®¤ç¥çå°åº¦ï¼å¤§å¤æ¥èªäºä¹¦ç±åçµå½±ä¸­ãå®éä¸ï¼è¿éæ¯ä½ è½å¤æ³åï¼ä½åé¾ä»¥æ³åçã"">æèµ·å°åº¦ï¼ä½ çèæµ·éæµ®ç°çç»é¢æ¯ä»ä¹ï¼æ¯å¤èç¥ç§çææ²³ï¼è½½æ­è½½èçäººæ½®ãè²å½©é²è³çæé¥°ãè´«ç©·ä¸å¯è£çå¼ºçåå·®â¦â¦æä»¬çå°ãè®¤ç¥çå°åº¦ï¼å¤§å¤æ¥èªäºä¹¦ç±åçµå½±ä¸­ãå®éä¸ï¼è¿éæ¯ä½ è½å¤æ³åï¼ä½åé¾ä»¥æ³åçã</a></p></div><div class="sj1_rz">
+<div class="sj2_picz"><a href="http://pic.voc.com.cn/pics-50-16831.html" target="_blank" title="ç°Ïä¸¨é£äºè§¦ä¸å¯åçè®°å¿"><img src="http://pic.voc.com.cn/uploadfile/2019/0505/20190505095922785.jpg" width="344" height="173" /><span></span><p>ç°Ïä¸¨é£äºè§¦ä¸å¯åçè®°å¿</p></a></div>
+<div class="sj2_picz"><a href="http://pic.voc.com.cn/pics-50-16827.html" target="_blank" title="ä¹¡ææ¯å´ï¼è¿éé£æ¯ç¬å¥½"><img src="http://pic.voc.com.cn/uploadfile/2019/0430/20190430101632605.jpg" width="344" height="173" /><span></span><p>ä¹¡ææ¯å´ï¼è¿éé£æ¯ç¬å¥½</p></a></div>
+</div>    </div>
+</div>
+<div class="dibu">
+	<div class="hzmt_z">
+    	<ul class="hzmt_bt">
+        	<li class="now" id="sw_91_a" onmouseover="changeMenu(91,91,92)"><a>åä½åªä½</a></li>
+            <li id="sw_92_a" onmouseover="changeMenu(92,91,92)"><a>æ¹åç½ç«</a></li>
+        </ul>
+        <ul class="hzmt_nr" id="sw_91_div">
+        	<a href="http://www.baidu.com/" target="_blank">ç¾åº¦</a>
+<a href="http://www.hao123.com/" target="_blank">ç½åä¹å®¶</a>
+<a href="http://news.qq.com/" target="_blank">è¾è®¯</a>
+<a href="http://news.sina.com.cn/media.html" target="_blank">æ°æµª</a>
+<a href="http://news.163.com/" target="_blank">ç½æ</a>
+<a href="http://www.toutiao.com/" target="_blank">ä»æ¥å¤´æ¡</a>
+<a href="http://hao.360.cn/" target="_blank">360å¯¼èª</a>
+<a href="http://focus.tianya.cn/" target="_blank">å¤©æ¶¯ç¤¾åº</a>
+<a href="http://www.cac.gov.cn/" target="_blank">ä¸­å½ç½ä¿¡ç½</a>
+<a href="http://gb.cri.cn/mthz/index.htm" target="_blank">å½éå¨çº¿</a>
+<a href="http://www.cnr.cn/service/xwmt/" target="_blank">å¤®å¹¿ç½</a>
+<a href="http://news.ifeng.com/" target="_blank">å¤å°ç½</a>
+<a href="http://www.gmw.cn/index/node_12136.htm" target="_blank">åæç½</a>
+<a href="http://www.ce.cn/" target="_blank">ä¸­å½ç»æµç½</a>
+<a href="http://www.jfdaily.com/" target="_blank">è§£æ¾ç½</a>
+<a href="http://www.v1.cn/" target="_blank">ç¬¬ä¸è§é¢</a>
+<a href="http://www.dahe.cn" target="_blank">å¤§æ²³ç½</a>
+<a href="http://www.cnhubei.com/" target="_blank">èæ¥ç½</a>
+<a href="http://www.xhby.net/" target="_blank">æ°åæ¥ä¸ç½</a>
+<a href="http://www.sdnews.com.cn/" target="_blank">å±±ä¸æ°é»ç½</a>
+<a href="http://media.sohu.com/" target="_blank">æçä¼ åª</a>
+<a href="http://www.bjd.com.cn/" target="_blank">äº¬æ¥ç½</a>
+<a href="http://www.ycwb.com/" target="_blank">éç¾ç½</a>
+<a href="http://www.iyaxin.com/" target="_blank">äºå¿ç½</a>
+<a href="http://www.gansudaily.com.cn/" target="_blank">æ¯æ¥çè</a>
+<a href="http://www.tianjinwe.com/" target="_blank">å¤©æ´¥ç½</a>
+<a href="http://www.hebnews.cn/" target="_blank">æ²³åæ°é»ç½</a>
+<a href="http://www.iqilu.com/" target="_blank">é½é²ç½</a>
+<a href="http://www.sdchina.com/" target="_blank">ä¸­å½å±±ä¸ç½</a>
+<a href="http://www.bandao.cn/" target="_blank">åå²ç½</a>
+<a href="http://www.hnradio.com/" target="_blank">èæå¹¿æ­ç½</a>
+<a href="http://www.eastday.com/" target="_blank">ä¸æ¹ç½</a>
+<a href="http://www.wmtv.cn/" target="_blank">ä¸ºæ°ç½</a>
+<a href="http://www.scol.com.cn/" target="_blank">åå·å¨çº¿</a>
+<a href="http://www.cqcb.com/" target="_blank">éåºæ¨æ¥</a>
+<a href="http://www.zjol.com.cn/" target="_blank">æµæ±å¨çº¿</a>
+<a href="http://www.enorth.com.cn/" target="_blank">åæ¹ç½</a>
+<a href="http://www.newssc.org/" target="_blank">åå·æ°é»ç½</a>
+<a href="http://www.anhuinews.com/" target="_blank">ä¸­å®å¨çº¿</a>
+<a href="http://cs.pcauto.com.cn/" target="_blank">å¤ªå¹³æ´æ±½è½¦ç½</a>
+<a href="http://www.morningpost.com.cn/" target="_blank">åäº¬æ¨æ¥ç½</a>
+<a href="http://www.henan100.com/" target="_blank">æ²³åä¸ç¾åº¦</a>
+<a href="http://www.pcauto.com.cn/" target="_blank">å¤ªå¹³æ´æ±½è½¦ç½</a>
+<a href="http://www.nen.com.cn/" target="_blank">ä¸åæ°é»ç½</a>
+<a href="http://www.zgddzy.cn/" target="_blank">ä¸­å½å¸¦çµä½ä¸ç½</a>
+<a href="http://travel.voc.com.cn/" target="_blank">åå£°ææ¸¸</a>        </ul>
+        <ul class="hzmt_nr" id="sw_92_div" style="display:none;">
+        	<a href="http://www.hnrd.gov.cn/" >æ¹åçäººå¤§é¨æ·ç½ç«</a>
+            <a href="http://www.hunan.gov.cn/" >æ¹åçäººæ°æ¿åºç½</a>
+            <a href="http://www.sxfj.gov.cn/">ä¸æ¹é£çºª</a>
+            <a href="http://www.hnswtzb.org/" >ä¸æ¹ç»æç½</a>
+            <a href="http://www.changsha.gov.cn/" >é¿æ²å¸äººæ°æ¿åºç½</a>
+            <a href="http://www.hn119.gov.cn/">æ¹åæ¶é²ç½</a>
+            <a href="http://www.hnedu.cn/">æ¹åæè²ç½</a>
+            <a href="http://www.hnkyz.com/" >æ±½è½¦ç­è½¦æ¥è¯¢</a>
+        </ul>
+    </div>
+</div>
+<div class="foot-infor">
+  <div class="aboutus">
+  <a href="https://www.voc.com.cn/about/gghs.html" target="_blank">å³äºæä»¬</a>
+| <a href="https://www.voc.com.cn/about/ggfw.html" target="_blank">å¹¿åæå¡</a>
+| <a href="http://yq.voc.com.cn/gywm/" target="_blank">èææå¡</a>
+| <a href="https://www.voc.com.cn/about/wzjs.html" target="_blank">ç½ç«å»ºè®¾</a>
+| <a href="https://www.voc.com.cn/about/swhz.html" target="_blank">åå¡åä½</a>
+| <a href="https://www.voc.com.cn/about/flsm.html" target="_blank">æ³å¾å£°æ</a>
+| <a href="https://www.voc.com.cn/about/lxwm.html" target="_blank">èç³»æä»¬</a>
+</div>
+0731-84326220(å¤è) 0731-84329951(æ°é») 0731-84329948(åä½åå¹¿å) ICPå¤æ¡å·ï¼<a href="http://www.miitbeian.gov.cn" target="_blank">æ¹ICPå¤10011883å·-25</a> çæææï¼åå£°å¨çº¿è¡ä»½æéå¬å¸ æªç»ææç¦æ­¢å¤å¶æå»ºç«éå<br>
+äºèç½æ°é»ä¿¡æ¯æå¡è®¸å¯è¯ï¼43120170002 ç»è¥è®¸å¯è¯ï¼æ¹ICPè¯010023 å¢å¼çµä¿¡ä¸å¡ç»è¥è®¸å¯è¯ï¼æ¹B2-20080017 äºèç½åºçè®¸å¯è¯ï¼æ°åºç½è¯æ¹å­003å· <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=43010502000374" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="https://www.voc.com.cn/images/beian.png" style="float:left;">æ¹å¬ç½å®å¤ 43010502000374å·</a><br>
+å¸¸å¹´æ³å¾é¡¾é®ï¼æ¹åèèå¾å¸äºå¡æ é¦å¸­å¾å¸ï¼éå¹³å¡ æå¡å¾å¸ï¼ä»»æ°å éè èç³»æ¹å¼ï¼13397516088
+<div class="blank6"></div>
+  <a href="https://gl.conac.cn/netname/showFlg?id=279AAB28EADD0ACCE053022819AC0088" target="_blank"><img src="https://www.voc.com.cn/images/conacb.png" alt="äºä¸åä½" height="48" border="0"></a>&nbsp;
+  <a href="http://www.12377.cn/" target="_blank"><img src="https://www.voc.com.cn/images/b02.gif" alt="ä¸­å½äºèç½è¿æ³åä¸è¯ä¿¡æ¯ä¸¾æ¥ä¸­å¿" width="118" height="48" border="0"></a>&nbsp;
+  <a href="http://press.gapp.gov.cn/" target="_blank"><img src="https://www.voc.com.cn/images/b03.gif" alt="å¨å½æ°é»è®°èè¯ç®¡çåæ ¸éªç½ç»ç³»ç»" width="118" height="48" border="0"></a>&nbsp;
+  <a href="http://www.hnga.gov.cn/" target="_blank"><img src="https://www.voc.com.cn/images/b04.gif" alt="ç½ç»è­¦å¯æ¥è­¦å²äº­" width="118" height="48" border="0"></a>&nbsp;
+    <a href="http://wfblxx.rednet.cn/Column.aspx?ColId=10" target="_blank"><img src="https://www.voc.com.cn/images/b05.jpg" alt="æ¹åçäºèç½è¿æ³åä¸è¯ä¿¡æ¯ä¸¾æ¥ä¸­å¿" width="118" height="48" border="0"></a>
+    &nbsp;
+    <a href="http://pypt.voc.com.cn/" target="_blank"><img src="https://www.voc.com.cn/images/b06.jpg" alt="æ¹åçäºèç½è¾è°£å¹³å°" width="118" height="48" border="0"></a>
+    &nbsp;
+    <a><img src="https://www.voc.com.cn/images/b07.jpg" alt="è¿æ³åä¸è¯ä¿¡æ¯ä¸¾æ¥" width="118" height="48" border="0"></a>
+</div>
+<div id="newAppBox" style="top:30%;">
+    <div class="hd">
+        <a id="goTop" class="goTop" onClick="window.scrollTo(0,0);return false;" href="javscript:void(0);" title="åå°é¡¶é¨" style="display: block; width: 130px; height: 30px; background-image: url(http://hunan.voc.com.cn/Images/images20140515/w3rwer2.jpg); background-position: 0px 0px;"></a>
+        <span id="colseBtn" class="closeBtn"><img src="http://hunan.voc.com.cn/Images/images20140515/closeBtn.png" alt="close"></span>
+    </div>
+    <div class="bd">
+        <a href="http://www.hunantoday.cn/" onClick="javascript:_paq.push(['trackPageView', 'ç¹å»äºç»´ç ']);" id="adMsg"  target="_blank" style="display: block; width: 130px; height: 147px; background-image: url(http://hunan.voc.com.cn/Images/images20140515/wxhna1.jpg); background-position: 0px 0px;"></a>
+    </div>
+    <div class="bd">
+        <a href="https://www.voc.com.cn/" onClick="javascript:_paq.push(['trackPageView', 'ç¹å»äºç»´ç ']);" id="adMsg2"  target="_blank" style="display: block; width: 130px; height: 147px; background-image: url(http://hunan.voc.com.cn/Images/images20140515/voc_wx.jpg); background-position: 0px 0px;"></a>
+    </div>
+</div>
+<script type="text/javascript">
+if(/AppleWebKit.*Mobile/i.test(navigator.userAgent) || (/MIDP|SymbianOS|NOKIA|SAMSUNG|LG|NEC|TCL|Alcatel|BIRD|DBTEL|Dopod|PHILIPS|HAIER|LENOVO|MOT-|Nokia|SonyEricsson|SIE-|Amoi|ZTE/.test(navigator.userAgent))){
+	$(".main2").css("width","1100px");
+}
+</script>
+<script type="text/javascript">
+function addEvent(node, type, listener) {
+    if (node.addEventListener) {
+        node.addEventListener(type, listener, false);
+        return true;
+    } else if (node.attachEvent) {
+        node['e' + type + listener] = listener;
+        node[type + listener] = function() {
+            node['e' + type + listener](window.event);
+        }
+        node.attachEvent('on' + type, node[type + listener]);
+        return true;
+    }
+    return false;
+}
+function G(s){
+    return document.getElementById(s)
+}
+
+var newAppBox = G("newAppBox");
+var colseBtn = G("colseBtn");
+var adMsg = G("adMsg");
+var adMsg2 = G("adMsg2");
+var adMsg3 = G("adMsg2");
+var adMsg4 = G("adMsg2");
+var goTop = G("goTop");
+var appFlag = true;
+
+colseBtn.onclick = function(){
+    newAppBox.style.display = "none";
+    appFlag = false;
+	_paq.push(['trackPageView', 'å³é­äºç»´ç ']);
+}
+
+var siteUrl = window.location.href;
+
+function showNewApp() {
+
+    var cWidth = document.documentElement.clientWidth || document.body.clientWidth;
+    var cHeight = document.documentElement.clientHeight || document.body.clientHeight;
+    var sTop = document.documentElement.scrollTop || document.body.scrollTop;
+    var mHeight = 445;
+
+    var ie6 = !window.XMLHttpRequest;
+
+    if(appFlag){
+        newAppBox.style.display = 'block';
+    }
+    if(appFlag){
+        if ( sTop > mHeight ) {
+            goTop.style.display = 'block';
+            colseBtn.style.top = '3px';
+        }else {
+            goTop.style.display = 'none';
+            colseBtn.style.top = '11px';
+        }
+    }
+    newAppBox.style.top = mHeight + 'px';
+    if (ie6) {
+        newAppBox.style.top = sTop + mHeight + 'px';
+    }
+}
+addEvent(window, "load", showNewApp);
+addEvent(window, "scroll", showNewApp);
+addEvent(window, "resize", showNewApp);
+</script>
+<script type="text/javascript" language="javascript" src="Script/Class_function.js"></script>
+<script src="https://www.voc.com.cn/adsClick/237.js?1"></script>
+</body>
+</html>
+

@@ -1,0 +1,354 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+<!-- Refresh login page every 15 minutes -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="Yahoo! JAPAN IDでログインすると、Yahoo! JAPANのサービスがさらに便利にご利用いただけます。Yahoo! JAPAN IDをお持ちでない方もいますぐ無料で登録しましょう。">
+<title>ログイン - Yahoo! JAPAN</title>
+<link rel="canonical" href="https://login.yahoo.co.jp/config/login">
+<link rel="stylesheet" type="text/css" href="https://s.yimg.jp/images/login/pc/css/login/2.4.5/login-min.css">
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" href="https://s.yimg.jp/images/css/login/reg06/common/yreg_ie_1.1.0.css">
+<![endif]-->
+</head>
+
+<body id="yregtctx" onload="document.login_form.login.focus();">
+<noscript><style type="text/css"><!--#themeBtnBox{display:none;}//--></style></noscript>
+
+<div id="wrapper" >
+
+<div id="header" class="yregwp">
+<!-- begin header -->
+<!--- MH -->
+<div id="msthd">
+<div class="logo">
+<a href="https://rdsig.yahoo.co.jp/login/pc/l/ytoplogo/RV=1/RU=aHR0cHM6Ly93d3cueWFob28uY28uanAv" data-ylk="slk:ytop;pos:1;"><img src="https://s.yimg.jp/c/logo/f/2.0/yj_r_34_2x.png" alt="Yahoo! JAPAN" width="136" height="34" id="ygmhlog"></a>
+</div>
+<div class="msthdlink">
+<ul>
+<li class="help"><a href="https://rdsig.yahoo.co.jp/login/pc/l/helplogin/RV=1/RU=aHR0cHM6Ly93d3cueWFob28taGVscC5qcC9hcHAvaG9tZS9wLzU0NC8-">ヘルプ</a></li>
+</ul>
+</div>
+</div>
+<!--- /MH -->
+<!-- end header -->
+<span id="cache"></span>
+<div id="EMG">
+<!-- SpaceID=0 robot -->
+
+<!-- SpaceID=0 robot -->
+
+<!-- SpaceID=0 robot -->
+
+
+</div>
+</div><!-- /#header -->
+
+<div id="contents">
+<div class="yregwp">
+<noscript>
+<div class="info warn">
+<p><span class="warnIco">JavaScriptが無効です。ブラウザの設定でJavaScriptを有効にしてください。</span></p>
+</div>
+</noscript>
+<div id="notices">
+<div id="id_signin_announce_pc"></div><!-- Matilda -->
+</div>
+
+<div id="yregct" class="yregclb">
+<div id="yreglg">
+<div class="yregbx">
+<div class="yregbxi" id="themeBox">
+
+
+<h1 class="yjM">ログインしてください</h1>
+
+<ul class="navi table">
+<li id="backBtnBox" class="tablecell dispNone" data-ylk="sec:back;">
+<a href="#" id="backBtn" class="rapidnofollow" data-ylk="sec:back;slk:back;pos:1;"><span>戻る</span></a>
+</li>
+
+<li id="themeBtnBox" class="tablecell yjS" data-ylk="sec:theme;">
+<a href="#" id="btnTheme" class="rapidnofollow" data-ylk="sec:theme;slk:theme;pos:1;">テーマ設定</a>
+</li>
+</ul>
+
+
+<div id="sendCodeMessageBox" class="sendCodeMessageBox dispNone"></div>
+
+<fieldset id="loginfs">
+<legend>ログインフォーム</legend>
+
+<form method="post" action="/config/login" name="login_form">
+<input type="hidden" name=".ct" value="">
+<input type="hidden" name=".display" value="">
+<input type="hidden" name=".done" value="https://lh.login.yahoo.co.jp/?.done=https://www.yahoo.co.jp/">
+<input type="hidden" name=".keep" value="">
+<input type="hidden" name=".reg" value="https://account.edit.yahoo.co.jp/registration?src=www&done=https%3A%2F%2Flh.login.yahoo.co.jp%2F%3F.done%3Dhttps%3A%2F%2Fwww.yahoo.co.jp%2F">
+<input type="hidden" name=".src" value="www">
+<input type="hidden" name=".suppreg_skip" value="">
+<input type="hidden" name=".yby" value="">
+<input type="hidden" name="auth_lv" value="">
+<input type="hidden" name="card_cushion_skip" value="">
+<input type="hidden" name="ckey" value="">
+<input type="hidden" name="nolink" value="">
+<input type="hidden" name="nonotice" value="">
+<input type="hidden" name="noreg" value="">
+<input type="hidden" name="referrer" value="">
+<input type="hidden" name="t_cushion" value="">
+<input type="hidden" name=".albatross" value="dD14ZnE0Y0Imc2s9VjZPUGZYV1dkQWh2blhOMngyel9IV2E1NXJFLQ==">
+<input type="hidden" name=".requiredPsCheckBox" value="">
+<input type="hidden" name=".slogin" value="">
+<input type="hidden" name=".tries" value="1">
+<input type="hidden" name="ls_autocomp" value="">
+<input type="hidden" name="showpw_status" value="">
+<input type="hidden" name="u" value="6ikvs85ee59vh">
+<input type="hidden" name="inactive_pw" value="">
+<input type="hidden" name="send_sms_counts" value="1">
+<input type="hidden" name="send_mail_counts" value="1">
+<input type="hidden" name="version" value="">
+<input type="hidden" name="auth_method" value="">
+<input type="hidden" name="pwless_captchaid" value="">
+<input type="hidden" name="sms_token" value="">
+<input type="hidden" name="mail_token" value="">
+<input type="hidden" name="masked_dest" value="">
+<input type="hidden" name="bcrumb_id_check" value="dD14ZnE0Y0Imc2s9ek40TGc0RTc2VFBySTAyTjlkRTMxNDJqS21ZLQ==">
+<input type="hidden" name="bcrumb_send_sms" value="dD14ZnE0Y0Imc2s9T29iQkIyS0hkMTZIb2Rfc3pCc2p4Q2ljdVVrLQ==">
+<input type="hidden" name="bcrumb_send_mail" value="dD14ZnE0Y0Imc2s9eDVzVDNiZkdPSF9MRzBNWU1VVGxoVlhKZno4LQ==">
+<input type="hidden" name="user_name" value="">
+<input type="hidden" name="assertionInfo" value="">
+<input type="hidden" name="webauthn" value="">
+<input type="hidden" name="fido" value="">
+<input type="hidden" name="auth_list" value="">
+
+<div class="inputArea" id="inputArea">
+
+<p id="inpAuthMethod" class="dispNone"></p>
+
+<div id="inputBox" class="box">
+
+<div id="inpUsernameBox" class="inpUsername dispNone"></div>
+
+<div class="errMsg dispNone" id="errMsg">
+<p></p>
+</div><!--/#errMsg-->
+
+<div id="idWrap" data-ylk="sec:id_input;">
+<dl id="idBox" class="item">
+<dt><label for="username" class="offLeft">ID/携帯電話番号/メールアドレス</label></dt>
+<dd id="unm"><input type="text" name="login" id="username" value="" placeholder="ID/携帯電話番号/メールアドレス" spellcheck="false"><span class="btnClear" id="btnClearID"></span></dd>
+</dl><!--/.item-->
+<div class="btnSubmit">
+<button id="btnNext" name="btnNext" type="button" data-ylk="sec:id_input;slk:next;pos:1;" disabled><span>次へ</span></button>
+</div><!--/.btnSubmit-->
+</div><!--/#idWrap-->
+
+<div id="pwdWrap" class="heightNone" data-ylk="sec:pwd_input;">
+<dl id="pwdBox" class="item">
+<dt><label for="passwd" class="offLeft">パスワード</label></dt>
+<dd id="pwd"><input type="password" name="passwd" id="passwd" value="" class="" placeholder="パスワード" spellcheck="false"><span class="btnClear" id="btnClearPasswd"></span></dd>
+</dl><!--/.item-->
+<div id="captchaBox" class="dispNone"></div>
+</div><!--/#pwdWrap-->
+
+<div id="codeWrap" class="heightNone" data-ylk="sec:code_input;">
+<dl id="codeBox" class="item">
+<dt><label for="code" class="offLeft">確認コード</label></dt>
+<dd id="cd"><input type="text" name="code" id="code" value="" class="" placeholder="確認コード" spellcheck="false"></dd>
+</dl><!--/.item-->
+</div><!--/#codeWrap-->
+
+<div id="submitWrap" class="dispNone" data-ylk="sec:submit;">
+<div class="btnSubmit">
+<button id="btnSubmit" name="btnSubmit" type="submit" data-ylk="sec:submit;slk:login;pos:1;" disabled><span>ログイン</span></button>
+</div><!--/.btnSubmit-->
+</div><!--/#submitWrap-->
+
+<div id="persistency" class="persistency yjSt dispNone"><input type="checkbox" id="persistent" name=".persistent" value="y" checked><label for="persistent">ログインしたままにする</label></div>
+
+</div><!--/.inputBox-->
+
+<div id="errBox" class="dispNone"></div>
+
+<ul id="links" class="links yjS clearfix">
+<li id="resendBox" class="dispNone"><button href="#" id="resend" class="resend rapidnofollow" data-ylk="slk:code_resend;pos:1;">確認コードを送信する<span id="resendCount"></span></button></li>
+<li class="dispNone"><a href="https://rdsig.yahoo.co.jp/login/pc/v/changeid/RV=1/RU=aHR0cHM6Ly9sb2dpbi55YWhvby5jby5qcC9jb25maWcvbG9naW4_LmtlZXA9MSYucmVnPWh0dHBzJTNBJTJGJTJGYWNjb3VudC5lZGl0LnlhaG9vLmNvLmpwJTJGcmVnaXN0cmF0aW9uJTNGc3JjJTNEd3d3JTI2ZG9uZSUzRGh0dHBzJTI1M0ElMjUyRiUyNTJGbGgubG9naW4ueWFob28uY28uanAlMjUyRiUyNTNGLmRvbmUlMjUzRGh0dHBzJTI1M0ElMjUyRiUyNTJGd3d3LnlhaG9vLmNvLmpwJTI1MkYmcmVmZXJyZXI9Y2hhbmdlX2lkJi5zcmM9d3d3Ji5kb25lPWh0dHBzJTNBJTJGJTJGbGgubG9naW4ueWFob28uY28uanAlMkYlM0YuZG9uZSUzRGh0dHBzJTNBJTJGJTJGd3d3LnlhaG9vLmNvLmpwJTJG" data-ylk="slk:changeid;pos:1;">別のYahoo! JAPAN IDでログイン</a></li>
+<li id="arBox" class="ar">
+<a href="https://rdsig.yahoo.co.jp/reg/fpflib/RV=1/RU=aHR0cHM6Ly9hY2NvdW50LmVkaXQueWFob28uY28uanAvZm9yZ290X2FjY3Q_c3JjPXd3dyZkb25lPWh0dHBzJTNBJTJGJTJGbGgubG9naW4ueWFob28uY28uanAlMkYlM0YuZG9uZSUzRGh0dHBzJTNBJTJGJTJGd3d3LnlhaG9vLmNvLmpwJTJG" id="arLink" data-ylk="slk:ar;pos:1;">ログインできない場合</a>
+</li>
+<li id="switchBox" class="dispNone">
+<a href="#" id="switchLink" class="rapidnofollow" data-ylk="slk:switch;pos:1;">他の方法でログイン</a>
+</li>
+<li id="newidBox" class="getYid">
+<a href="https://rdsig.yahoo.co.jp/login/pc/l/newaccount/RV=1/RU=aHR0cHM6Ly9hY2NvdW50LmVkaXQueWFob28uY28uanAvcmVnaXN0cmF0aW9uP3NyYz13d3cmZG9uZT1odHRwcyUzQSUyRiUyRmxoLmxvZ2luLnlhaG9vLmNvLmpwJTJGJTNGLmRvbmUlM0RodHRwcyUzQSUyRiUyRnd3dy55YWhvby5jby5qcCUyRiZmbD0xMDA-" data-ylk="slk:registration;pos:1;">新規取得</a>
+</li>
+</ul><!--/#links-->
+
+<div id="themeArea"></div>
+<div id="bgGradLayer"></div>
+<div id="bgLayer"></div>
+
+</div><!--/.inputArea-->
+</form><!--/#loginForm-->
+</fieldset>
+
+</div>
+</div><!-- /.yregbx -->
+</div>
+
+<div id="panelSetTheme">
+<h2>テーマ設定</h2>
+<div class="wrp">
+<h3>色とテクスチャーを組み合わせて、<br>あなただけのログイン画面をつくろう</h3>
+<a href="https://rdsig.yahoo.co.jp/login/pc/l/theme/RV=1/RU=aHR0cHM6Ly9pZC55YWhvby5jby5qcC9zZWN1cml0eS9sb2dpbl90aGVtZS5odG1sPy5kb25lPWh0dHBzOi8vbGgubG9naW4ueWFob28uY28uanAvPy5kb25lPWh0dHBzOi8vd3d3LnlhaG9vLmNvLmpwLw--" class="helpLink">詳しくはこちら</a>
+<ul id="color">
+<li class="options clearfix">
+<div class="item"><span id="c01"></span></div><div class="item"><span id="c03"></span></div><div class="item"><span id="c04"></span></div><div class="item"><span id="c07"></span></div><div class="item"><span id="c08"></span></div><div class="item"><span id="c09"></span></div><div class="item"><span id="c10"></span></div><div class="item"><span id="c11"></span></div><div class="item"><span id="c12"></span></div><div class="item"><span id="c02"></span></div><div class="item"><span id="c13"></span></div><div class="item"><span id="c14"></span></div><div class="item"><span id="c15"></span></div><div class="item"><span id="c16"></span></div><div class="item"><span id="c17"></span></div><div class="item"><span id="c18"></span></div><div class="item"><span id="c19"></span></div><div class="item"><span id="c20"></span></div>
+</li>
+</ul>
+<div class="icoPlus">＋</div>
+<ul id="texture">
+<li class="options clearfix">
+<div class="item"><span id="t01"></span></div><div class="item"><span id="t03"></span></div><div class="item"><span id="t30"></span></div><div class="item"><span id="t15"></span></div><div class="item"><span id="t16"></span></div><div class="item"><span id="t25"></span></div><div class="item"><span id="t20"></span></div><div class="item"><span id="t26"></span></div><div class="item"><span id="t18"></span></div><div class="item"><span id="t24"></span></div><div class="item"><span id="t23"></span></div><div class="item"><span id="t28"></span></div><div class="item"><span id="t50"></span></div><div class="item"><span id="t02"></span></div><div class="item"><span id="t36"></span></div><div class="item"><span id="t37"></span></div><div class="item"><span id="t09"></span></div><div class="item"><span id="t10"></span></div><div class="item"><span id="t06"></span></div><div class="item"><span id="t07"></span></div><div class="item"><span id="t59"></span></div><div class="item"><span id="t60"></span></div><div class="item"><span id="t61"></span></div><div class="item"><span id="t08"></span></div><div class="item"><span id="t49"></span></div><div class="item"><span id="t47"></span></div><div class="item"><span id="t48"></span></div>
+</li>
+</ul>
+<a href="#" id="btnSave" class="themeBtn">設定</a>
+<a href="#" id="btnClose" class="themeBtnClose">閉じる</a>
+</div><!-- /.wrp -->
+</div><!-- /#panelSetTheme -->
+
+<!-- begin left side content -->
+<div id="yregtxt" class="yregclb">
+<script language="JavaScript" type="text/javascript">
+    var spaceid = '2079962931';
+    var position = 'LIP';
+    var property = 'jp_common';
+    var domain = 'login.yahoo.co.jp';
+    var yj_src = 'https://yeas.yahoo.co.jp/a';
+    yj_src += '?f='+spaceid+'&l='+position+'&p='+property+'&domain='+domain+'&c=r&jcode=u&rnd='+new Date().getTime();
+    document.write('<sc'+'ript language="JavaScript" type="text/javascript" src="'+yj_src+'">');
+    document.write('</sc'+'ript>');
+</script>
+
+<div id="themeSettingBg">
+</div>
+</div>
+<!-- end left side content -->
+
+</div><!-- /#yregct -->
+</div><!-- /.yregwp -->
+</div><!-- /#contents -->
+
+<div id="footer" class="yregwp">
+<!-- begin footer -->
+<div id="yregft" class="yjS">
+<p>
+<a href="https://rdsig.yahoo.co.jp/login/pc/l/privacy/RV=1/RU=aHR0cHM6Ly9wcml2YWN5LnlhaG9vLmNvLmpwLw--">プライバシー</a> - 
+<a href="https://rdsig.yahoo.co.jp/login/pc/l/terms/RV=1/RU=aHR0cHM6Ly9hYm91dC55YWhvby5jby5qcC9kb2NzL2luZm8vdGVybXMv">利用規約</a> - 
+<a href="https://www.yahoo-help.jp/app/home/p/544/">ヘルプ・お問い合わせ</a>
+</p>
+<p>Copyright (C) 2019 Yahoo Japan Corporation. All Rights Reserved.</p>
+</div>
+<!-- end footer -->
+</div><!-- /#footer -->
+
+</div><!-- /#wrapper -->
+
+<script type="text/javascript">
+/* Set Global YAHOO */
+YAHOO = typeof YAHOO === "undefined" ? {} : YAHOO;
+YAHOO.JP = typeof YAHOO.JP === "undefined" ? {} : YAHOO.JP;
+YAHOO.JP.idpf = typeof YAHOO.JP.idpf === "undefined" ? {} : YAHOO.JP.idpf;
+</script>
+
+<!-- ULT  -->
+<script type="text/javascript" src="https://s.yimg.jp/images/ds/ult/login/rapidjp-1.0.0.js"></script>
+<script type="text/javascript">
+var sr = new YAHOO.i13n.JP.simpleRapid();
+var ins = sr.setSpaceid("2079962931")
+.setService("login")
+.setStatus("logout")
+.setApptype("web")
+.setOpttype("pc")
+.setPagetype("form")
+.setConttype("login")
+.setModule(["header", "notices", "noticeBox", "backBtnBox", "themeBtnBox", "idWrap", "pwdWrap", "codeWrap", "submitWrap", "links"])
+.initRapid();
+</script>
+<script type="text/javascript" src="https://s.yimg.jp/images/login/pc/js/login/3.4.7/login-min.js"></script>
+
+<script type="text/javascript">
+try {
+/* iFrame抑制処理 */
+if (window.top !== window.self) window.top.location.href = location.href;
+
+YAHOO.JP.idpf.Login.init({ult:ins, timeout:7000});
+
+YAHOO.JP.idpf.Theme.init({
+    themeUrl: "https://protect.login.yahoo.co.jp/theme/set",
+    color:    "c01",
+    texture:  "t01",
+    bc:       "",
+    opened:   "",
+    type:     "browser",
+    done:     "https://lh.login.yahoo.co.jp/?.done=https://www.yahoo.co.jp/"
+});
+
+document.getElementsByName(".albatross")[0].value = "dD14ZnE0Y0Imc2s9Q2F6WTJ5Yi5FMDlEM1cudkp5bzRwT0s4V1dJLQ==";
+} catch(e) {
+  var img = new Image(),
+    key,
+    param = {
+      err : e.name.replace(/\s/g, "_") + "___" + e.message.replace(/\s/g, "_"),
+      stack : e.stack ? e.stack.replace(/\s/g, "_"): "",
+      v : YAHOO.JP.idpf.VERSION.LOGIN,
+      t : (new Date()).getTime()
+    },
+    q = "",
+    p = [],
+    u;
+  for(key in param) {
+    p.push(key + "=" + param[key]);
+  }
+  q = "?" + p.join("&");
+  u = location.protocol + "//" + location.hostname + "/login/js_err";
+  img.src = u + q;
+}
+</script>
+
+<!-- Matilda -->
+<script type="text/javascript" src="https://s.yimg.jp/images/mempf/mt_pc_mhd.js"></script>
+<script type="text/javascript">
+  document.body.addEventListener('yjmempfInitialized', function(e) {
+    var ua = navigator.userAgent.toLowerCase(),
+      isTrouble = document.getElementById('trouble') !== null,
+      isLegacy = ua.match(/msie/), // IE11未満
+      isNonotice = Boolean();
+    
+    if(!isTrouble && isLegacy) {
+      var target = document.getElementById(YAHOO.JP.matilda.positions),
+        html = '<div class="info warn"><p><span class="warnIco">お使いのブラウザーは動作サポート対象外です。<a href="https://www.yahoo-help.jp/app/answers/detail/p/533/a_id/43864">推奨のブラウザー</a>への更新をお願いします。</span></p></div>';
+      target.innerHTML = html;
+    }
+    
+    // 障害のお知らせがある、または、nonoticeでない場合は表示
+    if(isTrouble || !isNonotice) {
+      document.getElementById('notices').style.visibility = 'visible';
+    }
+  });
+
+  YAHOO.JP.matildaPCMHD.init('id_signin_announce_pc');
+</script>
+
+<!-- IADS -->
+<script src="https://s.yimg.jp/images/login/pc/js/bfp/1.0.0/yjbfp.js" type="text/javascript"></script>
+
+</body>
+</html>
+
+<!-- prod009.login.kks.ynwp.yahoo.co.jp Mon May 20 22:13:21 JST 2019 -->
+

@@ -1,0 +1,19 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+<meta http-equiv="refresh" content="5;url=http://www.baike.com">
+<title>抱歉，您要访问的页面不存在</title>
+<meta content="互动百科是一部基于维客(wiki)的生活百科,罗列网络上的热门,热点百科词条,轻松您的百科探秘" name="description">
+<style type="text/css">
+body,div,p{margin:0;padding:0;}
+#tiaozhuan {background:#f6f6f6;border:1px solid #e0e0e0;margin:120px auto 0;width:550px;height:140px;position:relative;}
+.tz_2 {position:absolute;top:38px;left:30px;}
+#tiaozhuan p {position:absolute;top:61px;right:30px;font-size:14px;font-weight:bold;}
+</style>
+</head><body>
+<div id="tiaozhuan"><a href="http://www.baike.com/" class="tz_2"><img src="http://www.huimg.cn/public/images/a-baikelogo.gif" width="200px" height="50px" border="0"/></a>
+<p>页面没有找到，5秒后将进入互动百科首页</p></div>
+<script type="text/javascript" src="http://stat.baike.com/js/webstat_manage.js"></script><script type="text/javascript" src="http://stat.baike.com/js/webstat_manage_hdga.js"></script></body>
+</html>

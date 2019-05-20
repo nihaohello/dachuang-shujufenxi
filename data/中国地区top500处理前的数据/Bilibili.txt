@@ -1,0 +1,684 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="zh-cn">
+
+<head>
+    <meta http-equiv="Page-Enter" content="blendTrans(Duration=0.5)">
+    <meta http-equiv="Page-Exit" content="blendTrans(Duration=0.5)">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>åºéå¦! - bilibili.com</title>
+    <style type="text/css">
+        body {
+            vertical-align: middle;
+        }
+
+        div.center {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            margin: -25% 0 0 -320px;
+            width: 640px;
+            min-height: 427px;
+            padding: 0px;
+        }
+
+        div.errmsg {
+            text-align: left;
+            width: 640px;
+            line-height: 150%;
+        }
+
+        a {
+            text-decoration: none;
+            color: red
+        }
+
+        .center {
+            display: none
+        }
+    </style>
+    <link rel="shortcut icon" href="//static.hdslb.com/images/favicon.ico">
+    <link href="//static.hdslb.com/error/dist/error.css" rel="stylesheet">
+    <script type="text/javascript">
+        var options = {
+            type: 'defaultError'
+        }
+    </script>
+    <script type="text/javascript" src="//s1.hdslb.com/bfs/static/jinkela/long/js/jquery/jquery1.7.2.min.js"></script>
+</head>
+
+<body style="direction: ltr;">
+    <div class="z-top-container"></div>
+    <div class="error-container">
+        <div class="error-panel server-error">
+            <img src="//static.hdslb.com/error/very_sorry.png">
+            <div>
+                <div class="left-panel">
+                    <a class="rollback-btn">è¿åä¸ä¸é¡µ</a>
+                </div>
+                <div class="right-panel">
+                    <b>éè¯¯å·:</b> 404&nbsp;&nbsp;<br />
+                    <b>ç¨æ·IP:</b> 182.149.105.5<br />
+                    <b>è¯·æ±å°å:</b> http://www.bilibili.com/www.bilibili.com/v/douga/other&nbsp;&nbsp; <br />
+                </div>
+            </div>
+        </div>
+        <div class="error-split">
+        </div>
+        <div class="error-manga">
+        </div>
+    </div>
+    <script type="text/javascript" src="//s1.hdslb.com/bfs/seed/jinkela/header/header.js"></script>
+    <script type="text/javascript" charset="utf-8" src="//static.hdslb.com/error/dist/error.js"></script>
+</body>
+
+</html>
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="zh-cn">
+
+<head>
+    <meta http-equiv="Page-Enter" content="blendTrans(Duration=0.5)">
+    <meta http-equiv="Page-Exit" content="blendTrans(Duration=0.5)">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>åºéå¦! - bilibili.com</title>
+    <style type="text/css">
+        body {
+            vertical-align: middle;
+        }
+
+        div.center {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            margin: -25% 0 0 -320px;
+            width: 640px;
+            min-height: 427px;
+            padding: 0px;
+        }
+
+        div.errmsg {
+            text-align: left;
+            width: 640px;
+            line-height: 150%;
+        }
+
+        a {
+            text-decoration: none;
+            color: red
+        }
+
+        .center {
+            display: none
+        }
+    </style>
+    <link rel="shortcut icon" href="//static.hdslb.com/images/favicon.ico">
+    <link href="//static.hdslb.com/error/dist/error.css" rel="stylesheet">
+    <script type="text/javascript">
+        var options = {
+            type: 'defaultError'
+        }
+    </script>
+    <script type="text/javascript" src="//s1.hdslb.com/bfs/static/jinkela/long/js/jquery/jquery1.7.2.min.js"></script>
+</head>
+
+<body style="direction: ltr;">
+    <div class="z-top-container"></div>
+    <div class="error-container">
+        <div class="error-panel server-error">
+            <img src="//static.hdslb.com/error/very_sorry.png">
+            <div>
+                <div class="left-panel">
+                    <a class="rollback-btn">è¿åä¸ä¸é¡µ</a>
+                </div>
+                <div class="right-panel">
+                    <b>éè¯¯å·:</b> 404&nbsp;&nbsp;<br />
+                    <b>ç¨æ·IP:</b> 182.149.105.5<br />
+                    <b>è¯·æ±å°å:</b> http://www.bilibili.com/www.bilibili.com/v/douga/other&nbsp;&nbsp; <br />
+                </div>
+            </div>
+        </div>
+        <div class="error-split">
+        </div>
+        <div class="error-manga">
+        </div>
+    </div>
+    <script type="text/javascript" src="//s1.hdslb.com/bfs/seed/jinkela/header/header.js"></script>
+    <script type="text/javascript" charset="utf-8" src="//static.hdslb.com/error/dist/error.js"></script>
+</body>
+
+</html>
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="zh-cn">
+
+<head>
+    <meta http-equiv="Page-Enter" content="blendTrans(Duration=0.5)">
+    <meta http-equiv="Page-Exit" content="blendTrans(Duration=0.5)">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>åºéå¦! - bilibili.com</title>
+    <style type="text/css">
+        body {
+            vertical-align: middle;
+        }
+
+        div.center {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            margin: -25% 0 0 -320px;
+            width: 640px;
+            min-height: 427px;
+            padding: 0px;
+        }
+
+        div.errmsg {
+            text-align: left;
+            width: 640px;
+            line-height: 150%;
+        }
+
+        a {
+            text-decoration: none;
+            color: red
+        }
+
+        .center {
+            display: none
+        }
+    </style>
+    <link rel="shortcut icon" href="//static.hdslb.com/images/favicon.ico">
+    <link href="//static.hdslb.com/error/dist/error.css" rel="stylesheet">
+    <script type="text/javascript">
+        var options = {
+            type: 'defaultError'
+        }
+    </script>
+    <script type="text/javascript" src="//s1.hdslb.com/bfs/static/jinkela/long/js/jquery/jquery1.7.2.min.js"></script>
+</head>
+
+<body style="direction: ltr;">
+    <div class="z-top-container"></div>
+    <div class="error-container">
+        <div class="error-panel server-error">
+            <img src="//static.hdslb.com/error/very_sorry.png">
+            <div>
+                <div class="left-panel">
+                    <a class="rollback-btn">è¿åä¸ä¸é¡µ</a>
+                </div>
+                <div class="right-panel">
+                    <b>éè¯¯å·:</b> 404&nbsp;&nbsp;<br />
+                    <b>ç¨æ·IP:</b> 182.149.105.5<br />
+                    <b>è¯·æ±å°å:</b> http://www.bilibili.com/www.bilibili.com/v/ent/variety&nbsp;&nbsp; <br />
+                </div>
+            </div>
+        </div>
+        <div class="error-split">
+        </div>
+        <div class="error-manga">
+        </div>
+    </div>
+    <script type="text/javascript" src="//s1.hdslb.com/bfs/seed/jinkela/header/header.js"></script>
+    <script type="text/javascript" charset="utf-8" src="//static.hdslb.com/error/dist/error.js"></script>
+</body>
+
+</html>
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="zh-cn">
+
+<head>
+    <meta http-equiv="Page-Enter" content="blendTrans(Duration=0.5)">
+    <meta http-equiv="Page-Exit" content="blendTrans(Duration=0.5)">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>åºéå¦! - bilibili.com</title>
+    <style type="text/css">
+        body {
+            vertical-align: middle;
+        }
+
+        div.center {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            margin: -25% 0 0 -320px;
+            width: 640px;
+            min-height: 427px;
+            padding: 0px;
+        }
+
+        div.errmsg {
+            text-align: left;
+            width: 640px;
+            line-height: 150%;
+        }
+
+        a {
+            text-decoration: none;
+            color: red
+        }
+
+        .center {
+            display: none
+        }
+    </style>
+    <link rel="shortcut icon" href="//static.hdslb.com/images/favicon.ico">
+    <link href="//static.hdslb.com/error/dist/error.css" rel="stylesheet">
+    <script type="text/javascript">
+        var options = {
+            type: 'defaultError'
+        }
+    </script>
+    <script type="text/javascript" src="//s1.hdslb.com/bfs/static/jinkela/long/js/jquery/jquery1.7.2.min.js"></script>
+</head>
+
+<body style="direction: ltr;">
+    <div class="z-top-container"></div>
+    <div class="error-container">
+        <div class="error-panel server-error">
+            <img src="//static.hdslb.com/error/very_sorry.png">
+            <div>
+                <div class="left-panel">
+                    <a class="rollback-btn">è¿åä¸ä¸é¡µ</a>
+                </div>
+                <div class="right-panel">
+                    <b>éè¯¯å·:</b> 404&nbsp;&nbsp;<br />
+                    <b>ç¨æ·IP:</b> 182.149.105.5<br />
+                    <b>è¯·æ±å°å:</b> http://www.bilibili.com/www.bilibili.com/blackroom&nbsp;&nbsp; <br />
+                </div>
+            </div>
+        </div>
+        <div class="error-split">
+        </div>
+        <div class="error-manga">
+        </div>
+    </div>
+    <script type="text/javascript" src="//s1.hdslb.com/bfs/seed/jinkela/header/header.js"></script>
+    <script type="text/javascript" charset="utf-8" src="//static.hdslb.com/error/dist/error.js"></script>
+</body>
+
+</html>
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="zh-cn">
+
+<head>
+    <meta http-equiv="Page-Enter" content="blendTrans(Duration=0.5)">
+    <meta http-equiv="Page-Exit" content="blendTrans(Duration=0.5)">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>åºéå¦! - bilibili.com</title>
+    <style type="text/css">
+        body {
+            vertical-align: middle;
+        }
+
+        div.center {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            margin: -25% 0 0 -320px;
+            width: 640px;
+            min-height: 427px;
+            padding: 0px;
+        }
+
+        div.errmsg {
+            text-align: left;
+            width: 640px;
+            line-height: 150%;
+        }
+
+        a {
+            text-decoration: none;
+            color: red
+        }
+
+        .center {
+            display: none
+        }
+    </style>
+    <link rel="shortcut icon" href="//static.hdslb.com/images/favicon.ico">
+    <link href="//static.hdslb.com/error/dist/error.css" rel="stylesheet">
+    <script type="text/javascript">
+        var options = {
+            type: 'defaultError'
+        }
+    </script>
+    <script type="text/javascript" src="//s1.hdslb.com/bfs/static/jinkela/long/js/jquery/jquery1.7.2.min.js"></script>
+</head>
+
+<body style="direction: ltr;">
+    <div class="z-top-container"></div>
+    <div class="error-container">
+        <div class="error-panel server-error">
+            <img src="//static.hdslb.com/error/very_sorry.png">
+            <div>
+                <div class="left-panel">
+                    <a class="rollback-btn">è¿åä¸ä¸é¡µ</a>
+                </div>
+                <div class="right-panel">
+                    <b>éè¯¯å·:</b> 404&nbsp;&nbsp;<br />
+                    <b>ç¨æ·IP:</b> 182.149.105.5<br />
+                    <b>è¯·æ±å°å:</b> http://www.bilibili.com/www.bilibili.com/v/game/mugen&nbsp;&nbsp; <br />
+                </div>
+            </div>
+        </div>
+        <div class="error-split">
+        </div>
+        <div class="error-manga">
+        </div>
+    </div>
+    <script type="text/javascript" src="//s1.hdslb.com/bfs/seed/jinkela/header/header.js"></script>
+    <script type="text/javascript" charset="utf-8" src="//static.hdslb.com/error/dist/error.js"></script>
+</body>
+
+</html>
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="zh-cn">
+
+<head>
+    <meta http-equiv="Page-Enter" content="blendTrans(Duration=0.5)">
+    <meta http-equiv="Page-Exit" content="blendTrans(Duration=0.5)">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>åºéå¦! - bilibili.com</title>
+    <style type="text/css">
+        body {
+            vertical-align: middle;
+        }
+
+        div.center {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            margin: -25% 0 0 -320px;
+            width: 640px;
+            min-height: 427px;
+            padding: 0px;
+        }
+
+        div.errmsg {
+            text-align: left;
+            width: 640px;
+            line-height: 150%;
+        }
+
+        a {
+            text-decoration: none;
+            color: red
+        }
+
+        .center {
+            display: none
+        }
+    </style>
+    <link rel="shortcut icon" href="//static.hdslb.com/images/favicon.ico">
+    <link href="//static.hdslb.com/error/dist/error.css" rel="stylesheet">
+    <script type="text/javascript">
+        var options = {
+            type: 'defaultError'
+        }
+    </script>
+    <script type="text/javascript" src="//s1.hdslb.com/bfs/static/jinkela/long/js/jquery/jquery1.7.2.min.js"></script>
+</head>
+
+<body style="direction: ltr;">
+    <div class="z-top-container"></div>
+    <div class="error-container">
+        <div class="error-panel server-error">
+            <img src="//static.hdslb.com/error/very_sorry.png">
+            <div>
+                <div class="left-panel">
+                    <a class="rollback-btn">è¿åä¸ä¸é¡µ</a>
+                </div>
+                <div class="right-panel">
+                    <b>éè¯¯å·:</b> 404&nbsp;&nbsp;<br />
+                    <b>ç¨æ·IP:</b> 182.149.105.5<br />
+                    <b>è¯·æ±å°å:</b> http://www.bilibili.com/www.bilibili.com/v/life/daily&nbsp;&nbsp; <br />
+                </div>
+            </div>
+        </div>
+        <div class="error-split">
+        </div>
+        <div class="error-manga">
+        </div>
+    </div>
+    <script type="text/javascript" src="//s1.hdslb.com/bfs/seed/jinkela/header/header.js"></script>
+    <script type="text/javascript" charset="utf-8" src="//static.hdslb.com/error/dist/error.js"></script>
+</body>
+
+</html>
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="zh-cn">
+
+<head>
+    <meta http-equiv="Page-Enter" content="blendTrans(Duration=0.5)">
+    <meta http-equiv="Page-Exit" content="blendTrans(Duration=0.5)">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>åºéå¦! - bilibili.com</title>
+    <style type="text/css">
+        body {
+            vertical-align: middle;
+        }
+
+        div.center {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            margin: -25% 0 0 -320px;
+            width: 640px;
+            min-height: 427px;
+            padding: 0px;
+        }
+
+        div.errmsg {
+            text-align: left;
+            width: 640px;
+            line-height: 150%;
+        }
+
+        a {
+            text-decoration: none;
+            color: red
+        }
+
+        .center {
+            display: none
+        }
+    </style>
+    <link rel="shortcut icon" href="//static.hdslb.com/images/favicon.ico">
+    <link href="//static.hdslb.com/error/dist/error.css" rel="stylesheet">
+    <script type="text/javascript">
+        var options = {
+            type: 'defaultError'
+        }
+    </script>
+    <script type="text/javascript" src="//s1.hdslb.com/bfs/static/jinkela/long/js/jquery/jquery1.7.2.min.js"></script>
+</head>
+
+<body style="direction: ltr;">
+    <div class="z-top-container"></div>
+    <div class="error-container">
+        <div class="error-panel server-error">
+            <img src="//static.hdslb.com/error/very_sorry.png">
+            <div>
+                <div class="left-panel">
+                    <a class="rollback-btn">è¿åä¸ä¸é¡µ</a>
+                </div>
+                <div class="right-panel">
+                    <b>éè¯¯å·:</b> 404&nbsp;&nbsp;<br />
+                    <b>ç¨æ·IP:</b> 182.149.105.5<br />
+                    <b>è¯·æ±å°å:</b> http://www.bilibili.com/www.bilibili.com/v/guochuang/original&nbsp;&nbsp; <br />
+                </div>
+            </div>
+        </div>
+        <div class="error-split">
+        </div>
+        <div class="error-manga">
+        </div>
+    </div>
+    <script type="text/javascript" src="//s1.hdslb.com/bfs/seed/jinkela/header/header.js"></script>
+    <script type="text/javascript" charset="utf-8" src="//static.hdslb.com/error/dist/error.js"></script>
+</body>
+
+</html>
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="zh-cn">
+
+<head>
+    <meta http-equiv="Page-Enter" content="blendTrans(Duration=0.5)">
+    <meta http-equiv="Page-Exit" content="blendTrans(Duration=0.5)">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>åºéå¦! - bilibili.com</title>
+    <style type="text/css">
+        body {
+            vertical-align: middle;
+        }
+
+        div.center {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            margin: -25% 0 0 -320px;
+            width: 640px;
+            min-height: 427px;
+            padding: 0px;
+        }
+
+        div.errmsg {
+            text-align: left;
+            width: 640px;
+            line-height: 150%;
+        }
+
+        a {
+            text-decoration: none;
+            color: red
+        }
+
+        .center {
+            display: none
+        }
+    </style>
+    <link rel="shortcut icon" href="//static.hdslb.com/images/favicon.ico">
+    <link href="//static.hdslb.com/error/dist/error.css" rel="stylesheet">
+    <script type="text/javascript">
+        var options = {
+            type: 'defaultError'
+        }
+    </script>
+    <script type="text/javascript" src="//s1.hdslb.com/bfs/static/jinkela/long/js/jquery/jquery1.7.2.min.js"></script>
+</head>
+
+<body style="direction: ltr;">
+    <div class="z-top-container"></div>
+    <div class="error-container">
+        <div class="error-panel server-error">
+            <img src="//static.hdslb.com/error/very_sorry.png">
+            <div>
+                <div class="left-panel">
+                    <a class="rollback-btn">è¿åä¸ä¸é¡µ</a>
+                </div>
+                <div class="right-panel">
+                    <b>éè¯¯å·:</b> 404&nbsp;&nbsp;<br />
+                    <b>ç¨æ·IP:</b> 182.149.105.5<br />
+                    <b>è¯·æ±å°å:</b> http://www.bilibili.com/www.bilibili.com/guochuang/timeline&nbsp;&nbsp; <br />
+                </div>
+            </div>
+        </div>
+        <div class="error-split">
+        </div>
+        <div class="error-manga">
+        </div>
+    </div>
+    <script type="text/javascript" src="//s1.hdslb.com/bfs/seed/jinkela/header/header.js"></script>
+    <script type="text/javascript" charset="utf-8" src="//static.hdslb.com/error/dist/error.js"></script>
+</body>
+
+</html>
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="zh-cn">
+
+<head>
+    <meta http-equiv="Page-Enter" content="blendTrans(Duration=0.5)">
+    <meta http-equiv="Page-Exit" content="blendTrans(Duration=0.5)">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>åºéå¦! - bilibili.com</title>
+    <style type="text/css">
+        body {
+            vertical-align: middle;
+        }
+
+        div.center {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            margin: -25% 0 0 -320px;
+            width: 640px;
+            min-height: 427px;
+            padding: 0px;
+        }
+
+        div.errmsg {
+            text-align: left;
+            width: 640px;
+            line-height: 150%;
+        }
+
+        a {
+            text-decoration: none;
+            color: red
+        }
+
+        .center {
+            display: none
+        }
+    </style>
+    <link rel="shortcut icon" href="//static.hdslb.com/images/favicon.ico">
+    <link href="//static.hdslb.com/error/dist/error.css" rel="stylesheet">
+    <script type="text/javascript">
+        var options = {
+            type: 'defaultError'
+        }
+    </script>
+    <script type="text/javascript" src="//s1.hdslb.com/bfs/static/jinkela/long/js/jquery/jquery1.7.2.min.js"></script>
+</head>
+
+<body style="direction: ltr;">
+    <div class="z-top-container"></div>
+    <div class="error-container">
+        <div class="error-panel server-error">
+            <img src="//static.hdslb.com/error/very_sorry.png">
+            <div>
+                <div class="left-panel">
+                    <a class="rollback-btn">è¿åä¸ä¸é¡µ</a>
+                </div>
+                <div class="right-panel">
+                    <b>éè¯¯å·:</b> 404&nbsp;&nbsp;<br />
+                    <b>ç¨æ·IP:</b> 182.149.105.5<br />
+                    <b>è¯·æ±å°å:</b> http://www.bilibili.com/app.bilibili.com&nbsp;&nbsp; <br />
+                </div>
+            </div>
+        </div>
+        <div class="error-split">
+        </div>
+        <div class="error-manga">
+        </div>
+    </div>
+    <script type="text/javascript" src="//s1.hdslb.com/bfs/seed/jinkela/header/header.js"></script>
+    <script type="text/javascript" charset="utf-8" src="//static.hdslb.com/error/dist/error.js"></script>
+</body>
+
+</html>
+
+

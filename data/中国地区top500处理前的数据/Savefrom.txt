@@ -1,0 +1,17 @@
+{
+  "short_name": "SaveFrom.net",
+  "name": "SaveFrom.net",
+  "icons": [
+    {
+      "src": "/img/extension/icon_192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#f9f9f9",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#f9f9f9"
+}
+

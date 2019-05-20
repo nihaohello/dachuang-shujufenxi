@@ -1,0 +1,143 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+  <meta content="yes" name="apple-mobile-web-app-capable"/>
+  <meta content="yes" name="apple-touch-fullscreen"/>
+  <meta content="ãåç+ã,ç¬¬ä¸æ¹å¨åå¤§æ°æ®æå¡æä¾å,ä¸ºå®¢æ·æä¾PC/APP/çº¿ä¸ç»è®¡,å¹¿åææçæµ,æ¶æ¯æ¨é/å¾®ç¤¾åº/åäº«/IMç­è¿è¥å·¥å·,DIP,å¨åææ°ä¸è¡ä¸æ¥åç­ã" name="description" />
+  <meta content="åç+;ãåçï¼ã;åç+å®ç½;umeng;åç+ç»è®¡;å¨åæ°æ®;ç§»å¨ç»è®¡;åç+sdk;youmeng;åç+åäº«;åç+åé¦;åç+æ¨é;androidç»è®¡;iosç»è®¡;appç»è®¡;åç+DIP;åç+å¹¿æçæµ;åç+çº¿ä¸ç»è®¡;" name="keywords" />
+  <script src="/js/libs/jquery.min.js"></script>  <title>æ²¡ææ¾å°é¡µé¢</title>
+<link rel="shortcut icon" href="/favicon.ico"><link href="/css/common.css" rel="stylesheet"><link href="/css/404.css" rel="stylesheet"></head>
+<body><script>
+with(document)with(body)with(insertBefore(createElement("script"),firstChild))setAttribute("exparams","category=&userid=&aplus&yunid=&&trid=0b0b92c515583580346116342eff9d&asid=AQAAAAASqOJcsvXgDwAAAAAF4mDlL5Y6yw==",id="tb-beacon-aplus",src=(location>"https"?"//g":"//g")+".alicdn.com/alilog/mlog/aplus_v2.js")
+</script>
+
+  <input type="hidden" id="umengHeaderNavUserName" value=""/>
+<input type="hidden" id="umengHeaderLoginRedirectURL" value=""/>
+<script>
+  // var rurl = 'redirectURL=' +  encodeURIComponent('https://i.umeng.com/user');
+  // document.getElementById('umengHeaderLoginRedirectURL').value = rurl;
+</script>
+<script>
+  (function() {
+    var userNameCookieName = 'umengplus_name';
+    function getCookie(name) {
+      var nameEQ = name + "=";
+      var ca = document.cookie.split(';');
+      for (var i = 0; i < ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0)==' ')
+          c = c.substring(1,c.length);
+        if (c.indexOf(nameEQ) == 0)
+          return decodeURIComponent(c.substring(nameEQ.length,c.length));
+      }
+      return '';
+    }
+    document.getElementById('umengHeaderNavUserName').value = getCookie(userNameCookieName);
+    var a = document.createElement("script");
+    a.type = "text/javascript";
+    a.charset = "utf-8";
+    a.async = true;
+    a.src = 'https://s.umeng.com/common/js/nav/ihome.js';
+    var e = document.getElementsByTagName("script")[0];
+    e.parentNode.insertBefore(a, e);
+  })();
+</script>
+<!-- start Dplus -->
+<script type="text/javascript">
+  !function(a, b) {
+    if (!b.__SV) {
+      var c, d, e, f;
+      window.dplus = b,
+      b._i = [],
+      b.init = function(a, c, d) {
+        function g(a, b) {
+          var c = b.split(".");
+          2 == c.length && (
+            a = a[c[0]],
+            b = c[1]
+          ),
+          a[b] = function() {
+            a.push([b].concat(Array.prototype.slice.call(arguments, 0)))
+          }
+        }
+        var h = b;
+        for ("undefined" != typeof d ? h = b[d] = [] : d = "dplus",
+          h.people = h.people || [],
+          h.toString = function(a) {
+            var b = "dplus";
+            return "dplus" !== d && (b += "." + d), a || (b += " (stub)"), b
+          },
+          h.people.toString = function() {
+            return h.toString(1) + ".people (stub)"
+          },
+          e = "disable track track_links track_forms register unregister get_property identify clear set_config get_config get_distinct_id track_pageview register_once track_with_tag time_event people.set people.unset people.delete_user".split(" "),
+          f = 0; f < e.length; f++)
+            g(h, e[f]);
+        b._i.push([a, c, d])
+      }, b.__SV = 1.1
+    }
+  }(document, window.dplus || []), dplus.init("1258498910");
+  dplus.track("load_page", {
+    'page_name': document.title
+  });
+</script>
+<!-- end Dplus -->
+<script>
+  (function() {
+    var userNameCookieName = 'umengplus_name';
+    function getCookie(name) {
+      var nameEQ = name + "=";
+      var ca = document.cookie.split(';');
+      for (var i = 0; i < ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ')
+          c = c.substring(1,c.length);
+        if (c.indexOf(nameEQ) == 0)
+          return decodeURIComponent(c.substring(nameEQ.length,c.length));
+      }
+      return '';
+    }
+    var userName = String(getCookie(userNameCookieName));
+    if (userName && userName.length > 0) {
+      dplus.register({'userid': userName});
+    } else {
+      dplus.unregister('userid');
+    }
+  })();
+</script>
+
+<script src="/js/dplusCode.js"></script>  <div class="container">
+    <div class="img img404"></div>
+    <div class="code">404</div>
+    <div class="msg">æ±æ­ï¼æ²¡ææ¾å°é¡µé¢</div>
+    <div class="msg-en">Sorry, page not found!</div>
+  </div>
+    <!--<script src="/js/footer.js"></script>-->
+  <script src="https://s.umeng.com/common/js/footer/footer.js"></script>
+  <script src="//w.cnzz.com/dplus.php?id=1258498910"></script>
+  <script type="text/javascript" src="//w.cnzz.com/dplusdemo.php?id=1261498311"></script>
+  <script src="https://g.alicdn.com/dt/tracker/3.4.10/tracker.Tracker.js" crossorigin></script>
+  <script src="https://g.alicdn.com/dt/tracker/3.4.11/tracker.performanceTrackerPlugin.js" crossorigin></script>
+  <script>
+    (function(){
+      var tracker = new window.Tracker({
+          pid: 'umplus-site',
+          uidResolver: function() {
+              var m = document.cookie.match(/umplus_uc_loginid=([^;]+)/);
+              if (m&&m.length>1) return decodeURIComponent(m[1]);
+              return 'Unknow(Clue)';
+          },
+          plugins: [
+              [performanceTrackerPlugin]
+          ]
+      });
+      // çå¬å¨å± JS å¼å¸¸
+      tracker.onGlobalError();
+    })();
+    
+  </script><script type="text/javascript" src="/js/common.js"></script><script type="text/javascript" src="/js/404.js"></script></body>
+</html>

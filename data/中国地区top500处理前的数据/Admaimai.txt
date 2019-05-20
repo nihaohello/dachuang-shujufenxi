@@ -1,0 +1,1485 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><link href="/Effect/css/zxt2011.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://image1.admaimai.com/js/jquery126.js"></script>
+<script type="text/javascript" src="http://image1.admaimai.com/js/resizeimg.js"></script>
+<script type="text/javascript" src="/Effect/Comment.js"></script>
+<script type="text/javascript" src="/Effect/E.js"></script>
+<title>
+	±±¾©Îå¹âÊ¯¹ú¼Ê¹ã¸æÓÐÏÞ¹«Ë¾_×ÉÑ¯Í¨ÉÌÆÌ|¹ã¸æÂòÂôÍø
+</title><meta name="Keywords" content="È«¹ú±¨Ö½¹ã¸æ´úÀí,ÉÏº£·þÊÎ¹ã¸æ´úÀí,È«¹ú¹ã²¥¹ã¸æ´úÀí,È«¹ú±¨Ö½¹ã¸æ·¢²¼,È«¹ú¹ã²¥¹ã¸æ¼Û¸ñ" /><meta name="Description" content="±±¾©Îå¹âÊ¯¹ú¼Ê¹ã¸æÓÐÏÞ¹«Ë¾×îÐÂÈë×¤¹ã¸æÂòÂôÍø×ÉÑ¯Í¨ÉÌÆÌ,ÁªÏµ·½Ê½:400-005-0111×ª10123.±±¾©Îå¹âÊ¯¹ú¼Ê¹ã¸æÓÅÊÆ´úÀí¹úÄÚÍâÆ½Ãæ¹ã¸æ¡¢ÔÓÖ¾¹ã¸æ¡¢ÍøÂç¹ã¸æ¡¢¹ã²¥¹ã¸æ¡¢µçÊÓ¹ã¸æ¡¢ÈíÎÄ¡¢·ÖÀà¡¢Ó²¹ã¡¢±¨»¨¹ã¸æµÈ.±±¾©Îå¹âÊ¯¹ú¼Ê¹ã¸æÓÐÏÞ¹«Ë¾Õæ³ÏÆÚ´ýÄúµÄ¼ÓÃË!" /></head>
+<body>
+    <form name="aspnetForm" method="post" action="/Effect/Homepage.aspx?username=wgsgj2011" id="aspnetForm">
+<div>
+
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="0CAD3E6F" />
+</div>
+<script type="text/javascript">
+var ShopCorpName = "±±¾©Îå¹âÊ¯¹ú¼Ê¹ã¸æÓÐÏÞ¹«Ë¾";
+var MmId = 107987;
+var IsMemberLogoin = 0;
+var MyUsername = "";
+var LoginUrl = "<a href=\"http://passport.admaimai.com/Login.aspx?ReturnUrl=http%3A//www.admaimai.com/Effect/Homepage.aspx%3Fusername%3Dwgsgj2011\">µÇÂ½</a>";
+var RegUrl = "<a href=\"http://passport.admaimai.com/Login.aspx?ReturnUrl=http%3A//www.admaimai.com/Effect/Homepage.aspx%3Fusername%3Dwgsgj2011\">×¢²á</a>";
+</script>
+
+<div class="zxt_top">
+<div class="zxt_m">
+<div class="t_lf"><img src="http://image1.admaimai.com/Effect/images/logo.jpg" align="absmiddle"><a href="/">Ê×Ò³</a>¡¤<a href="/BuyAD/">ÎÒÒªÂò</a>¡¤<a href="/Sell/">ÎÒÒªÂô</a>¡¤<a href="/News/">ÐÂÎÅ</a>¡¤<a href="/zhishi/">ÎÊ´ð</a>¡¤<a href="http://sns.admaimai.com/" target="_blank">ÈËÂöÈ¦</a></div>
+<div class="t_rh">
+<select id="SelSearchType" size="1"><option>È«²¿</option><option>×ÊÑ¶</option></select>
+<input id="TxtSearch" type="text" style="width:210px;"> <input onclick="Search();" type="button" value="ËÑË÷"> 
+&nbsp;&nbsp;<span id="SpanEffectLoginInfo"><a href="http://passport.admaimai.com/Login.aspx?ReturnUrl=http%3A//www.admaimai.com/Effect/Homepage.aspx%3Fusername%3Dwgsgj2011" target="_blank"><span class="z_f2">µÇÂ½</span></a> <span class="z_f2">|</span> <a href="http://passport.admaimai.com/Register.aspx?returnurl=http://www.admaimai.com/AfterLogin/Index.aspx" target="_blank" class="z_f2"><span class="z_f2">×¢²á</span></a>
+</span> <a href="http://www.admaimai.com/UpHelp/Map.html" target="_blank"><span class="z_f1">ÍøÕ¾µØÍ¼</span></a> | <a href="javascript:window.external.addFavorite(location.href,document.title);"><span class="z_f1">ÊÕ²Ø</span></a>
+</div>
+</div>
+</div>
+<div class="zxt_m">
+<div class="zxt_01"><img width="960" height="190" src="http://image1.admaimai.com/UpLoadFiles/Member400Big/201741410166528.jpg"></div>
+<div class="zxt_02">
+<div class="zxt_02a" id="DivMainMenu1"><a href="/Effect/wgsgj2011.html">Ê×Ò³</a></div>
+<div class="zxt_02b" id="DivMainMenu2"><a href="/Effect/wgsgj2011-Introduction.html">¼ò½é</a></div>
+<div class="zxt_02b" id="DivMainMenu3"><a href="/Effect/wgsgj2011-Media.html">¹ã¸æ×ÊÔ´</a></div>
+<div class="zxt_02b" id="DivMainMenu4"><a href="/Effect/wgsgj2011-News.html">¹«Ë¾ÐÂÎÅ</a></div>
+<div class="zxt_02b" id="DivMainMenu5"><a href="/Effect/wgsgj2011-Notice.html">¹«Ë¾¹«¸æ</a></div>
+<div class="zxt_02b" id="DivMainMenu6"><a href="/Effect/wgsgj2011-Comment.html">ÆÀÂÛ</a></div>
+<div class="zxt_02b" id="DivMainMenu7"><a href="/Effect/wgsgj2011-Certification.html">ÈÏÖ¤</a></div>
+<div class="zxt_02b" id="DivMainMenu8"><a href="/Effect/wgsgj2011-Call.html">Í¨»°¼ÇÂ¼</a></div>
+<div class="xf_rh1">ÒÑµÚ <strong class="xf_ff1" id="StrongFeeTimes"></strong> ´ÎÐø·Ñ</div>
+</div>
+<div class="zxt_01" style="margin-top:0px;">µ±Ç°Î»ÖÃ£º<a href="/" class="z_f3">¹ã¸æÂòÂôÍøÊ×Ò³</a> > <a href="/Effect/wgsgj2011.html" class="z_f3">±±¾©Îå¹âÊ¯¹ú¼Ê¹ã¸æÓÐÏÞ¹«Ë¾</a> > <span id="SpanMenuName">¹«Ë¾Ê×Ò³</span>
+</div>
+<!--EMasterSplitStart-->
+
+<div class="zxt_03a">
+
+<!--IntroAscxSplitStart-->
+<div class="zxt_04a">
+<div class="zxt_04a1">
+<div class="t_lf"><h1 class="z_f4">±±¾©Îå¹âÊ¯¹ú¼Ê¹ã¸æÓÐÏÞ¹«Ë¾</h1></div>
+<div class="t_rh">×ÛºÏÆÀ·Ö£º<img src="/Newspaper/imagesv3/star_red_big.gif"; /><img src="/Newspaper/imagesv3/star_red_big.gif"; /><img src="/Newspaper/imagesv3/star_red_big.gif"; /><img src="/Newspaper/imagesv3/star_red_big.gif"; /><img src="/Newspaper/imagesv3/star_gray_big1.gif"; />&nbsp;&nbsp;¹²ÓÐ81ÈËµãÆÀ</div>
+</div>
+<div class="zxt_04a2">
+<div class="zxt_img"><img src="http://image1.admaimai.com/UpLoadFiles/Member400Logo/2012102512549970.jpg" width="92" height="92" border="0"></div>
+</div>
+<div class="zxt_04a3">
+±±¾©Îå¹âÊ¯¹ú¼Ê¹ã¸æÓÐÏÞ¹«Ë¾ÊÇÒ»¼ÒÒÔ±¨Ö½Æ½Ãæ¹ã¸æ¡¢¹ã²¥¹ã¸æ¡¢Ê±ÉÐÀàÔÓÖ¾¿¯µÇÎªÖ÷ÓªÒµÎñµÄ×ÛºÏÐÔ¹ã¸æ¹«Ë¾¡£¹«Ë¾ÓÅÊÆ´úÀí¹úÄÚÍâÆ½Ãæ¹ã¸æ¡¢ÔÓÖ¾¹ã¸æ¡¢ÍøÂç¹ã¸æ¡¢¹ã²¥¹ã¸æ¡¢µçÊÓ¹ã¸æ¡¢ÈíÎÄ¡¢·ÖÀà¡¢Ó²¹ã¡¢±¨»¨¹ã¸æµÈ£»¿¯µÇÕÐÆ¸ÆôÊÂ¡¢ÕÐÉÌ¡¢ÈíÎÄ¡¢Ó²¹ãµÈ×¨Òµ¹ã¸æ£¬ÎªÒ½Ò©¡¢±£½¡Æ·¡¢Ñ§Ð£µÈ¸÷¸öÐÐÒµµÄÌá¹©È«·½Î»µÄÆóÒµÐÎÏóÓë²úÆ·ÐÅÏ¢Ðû´«¡£
+ ¹«Ë¾½«ÒÔ×¨ÒµµÄË®Æ½¡¢×îµÍµÄ¼ÛÎ»¡¢Ò»Á÷µÄ·þÎñ¡¢Îª¿Í»§Ìá¹©¸ßÖÊÁ¿¹ã¸æ·þÎñ...[<a href="/Effect/wgsgj2011-Introduction.html" class="z_f2">ÏêÏ¸</a>]<br>
+<strong>¹«Ë¾µØÖ·</strong>£º±±¾©ÊÐ³¯ÑôÇø½õ·¼Â·1ºÅÔºÐñ»Ô°Â¶¼4ºÅÂ¥811ÊÒ
+</div>
+</div>
+<!--IntroAscxSplitEnd-->
+
+<!--TelSmallAscxSplitStart-->
+<div class="zxt_04b1">
+<div class="t_lf">Ãâ·Ñ×ÉÑ¯µç»°£º<span>400-005-0111</span> ×ª<span>10123</span></div>
+<div class="t_rh" style="margin:-1px 15px 0px 0px;"><div class="t_lf" style="display:none;">
+<div class="jietong_01"><span>ÌáÊ¾</span>£ºÇëÊäÈëÊÖ»ú»ò×ù»úºÅ£¬×ù»úÇë¼ÓÇøºÅ£¬ÎÒÃÇ½«Á¢¼´½ÓÍ¨ÄúµÄµç»°£¬È«³Ì<span>Ãâ·Ñ</span>½ÓÌý£¡</div>
+</div><div class="t_lf"><input type="text" style="width:120px;height:22px;padding:0px;line-height:22px;color:#888888;" onfocus="if(this.value=='ÇëÊäÈëÄúµÄµç»°ºÅÂë'){this.value='';}this.parentNode.parentNode.childNodes[0].style.display='';" onblur="if(this.value==''){this.value='ÇëÊäÈëÄúµÄµç»°ºÅÂë';}this.parentNode.parentNode.childNodes[0].style.display='none';" value="ÇëÊäÈëÄúµÄµç»°ºÅÂë"></div>
+<div class="t_lf" style="margin-left:6px;"><a href="javascript:;" onclick="CallBackTel(this.parentNode.parentNode.childNodes[1].childNodes[0].value, MmId);"><img src="/Effect/images/jietong01.jpg" border="0"></a></div>
+</div>
+</div>
+<!--TelSmallAscxSplitEnd-->
+
+
+<div class="zxt_03a">
+<div class="zxt_04f1">
+<div class="t_lf"><span class="z_f5">±±¾©Îå¹âÊ¯¹ú¼Ê¹ã¸æÓÐÏÞ¹«Ë¾È«²¿¹ã¸æ×ÊÔ´</span></div>
+<div class="t_rh">¹²<a href="http://www.admaimai.com/Effect/wgsgj2011-Media.html" target="_blank"><script type="text/javascript" src="/Effect/GetOnesMediaCount.aspx?Id=107987"></script></a>¸ö</div>
+</div>
+
+<div class="zxt_04f2">
+<div class="z_zy_v3"><a  href="/Effect/NewsPaper/5926.html" target="_blank" class="z_f3"><span> ÎÂÖÝÈÕ±¨±¨Ö½¹ã¸æ </span></a> [<a  href="http://www.admaimai.com/Effect/wgsgj2011-Media1p1.html" target="_blank" class="z_f3">±¨Ö½</a>] <font class="z_f1">2019.03.25. 12:43</font></div>
+<div class="z_zy_v4a">
+<div class="z_zy_v4"><a  href="/Effect/NewsPaper/5926.html" onmouseout="hiddenDiv('s_h_d0');" onmouseover="showDiv('s_h_d0');if(document.getElementById('ImgC0').innerHTML.indexOf('src1')>0){document.getElementById('ImgC0').innerHTML=document.getElementById('ImgC0').innerHTML.replace('src1=','src=');}" target="_blank"><img onload="resizeimg(this,100,100);" style="max-height:100px; max-width:100px;" src="/scanimg/newspaper/small/76e5f7f8-b52b-43a6-ad6f-26fc3358d8fb.jpg" title="ÎÂÖÝÈÕ±¨±¨Ö½¹ã¸æ" /></a></div>
+<div class="z3_zy_v4b" id='s_h_d0' style="display:none;" onmouseover="showDiv('s_h_d0');" onmouseout="hiddenDiv('s_h_d0');">
+<div class="z3_zy_v4" id="ImgC0"><img src="/scanimg/newspaper/small/76e5f7f8-b52b-43a6-ad6f-26fc3358d8fb.jpg" style="max-height:300px; max-width:300px;" ></div>
+</div>
+</div>
+<div class="z_zy_v5a">
+¡¶ÎÂÖÝÈÕ±¨¡·ÏµÖÐ¹²ÎÂÖÝÊÐÎ¯»ú¹Ø±¨¡£ÊÇÎÂÖÝÊÐ·¢ÐÐÁ¿×î´ó¡¢·¢ÐÐÃæ×î¹ãµÄ×ÛºÏÐÔÈÕ±¨¡£1947Äê5ÔÂ1ÈÕ´´¿¯¡£¡¶ÎÂÖÝÈÕ±¨¡·´Ó1984Äê7ÔÂ1ÈÕÆðÏòÈ«¹ú·¢ÐÐ£¬ÒîÄê10ÔÂÆðÏòº£Íâ·¢ÐÐ¡£Òò¹ã¸æµÄ×îÖÕÕÛ¿ÛÓëÐÐÒµ¡¢°æ [<a href="/Effect/NewsPaper/5926.html" target="_blank" class="z_f6">ÏêÏ¸</a>]<br>
+</div>
+<div class="z_zy_v5">
+<a href=http://www.admaimai.com/newspaper/Detail9_1178.htm  target="_blank"  class="z_f7"><span>ÎÂÖÝÈÕ±¨</span></a>¡¡<a href=http://www.admaimai.com/newspaper/agentgs.htm target=_blank >¹¤ÉÌÓ²¹ã</a>¡¡Ò»°ã´úÀí¡¡<span class="z_fzk">¡¡0.75ÕÛ</span>
+</div>
+</div>
+
+<div class="zxt_04f2">
+<div class="z_zy_v3"><a  href="/Effect/NewsPaper/5927.html" target="_blank" class="z_f3"><span> º¼ÖÝÈÕ±¨±¨Ö½¹ã¸æ </span></a> [<a  href="http://www.admaimai.com/Effect/wgsgj2011-Media1p1.html" target="_blank" class="z_f3">±¨Ö½</a>] <font class="z_f1">2019.03.25. 12:43</font></div>
+<div class="z_zy_v4a">
+<div class="z_zy_v4"><a  href="/Effect/NewsPaper/5927.html" onmouseout="hiddenDiv('s_h_d1');" onmouseover="showDiv('s_h_d1');if(document.getElementById('ImgC1').innerHTML.indexOf('src1')>0){document.getElementById('ImgC1').innerHTML=document.getElementById('ImgC1').innerHTML.replace('src1=','src=');}" target="_blank"><img onload="resizeimg(this,100,100);" style="max-height:100px; max-width:100px;" src="/scanimg/newspaper/small/0eb6e3a3-77cb-4228-9c37-bdb16d62eee6.jpg" title="º¼ÖÝÈÕ±¨±¨Ö½¹ã¸æ" /></a></div>
+<div class="z3_zy_v4b" id='s_h_d1' style="display:none;" onmouseover="showDiv('s_h_d1');" onmouseout="hiddenDiv('s_h_d1');">
+<div class="z3_zy_v4" id="ImgC1"><img src="/scanimg/newspaper/small/0eb6e3a3-77cb-4228-9c37-bdb16d62eee6.jpg" style="max-height:300px; max-width:300px;" ></div>
+</div>
+</div>
+<div class="z_zy_v5a">
+¡¶º¼ÖÝÈÕ±¨¡·´´¿¯ÓÚ1955Äê11ÔÂ1ÈÕ£¬ÊÇÖÐ¹úº¼ÖÝÊÐÎ¯»ú¹Ø±¨£¬ÈÕ³ö¶Ô¿ª16¡«20°æ£¬ÊÇ¹ã´ó»ú¹Ø¸É²¿¡¢ÆóÊÂÒµµ¥Î»¹ÜÀí½×²ã¡¢¸÷Àà×¨Òµ¼¼ÊõÈËÔ±¡¢½ÌÊ¦¡¢ÎÄÔ±¡¢°×Áì½×²ãºÍÈ«ÌåÊÐÃñÕþÖÎ¡¢¾­¼Ã¡¢ÎÄ»¯Éú»î²»¿É»òÈ±µÄ [<a href="/Effect/NewsPaper/5927.html" target="_blank" class="z_f6">ÏêÏ¸</a>]<br>
+</div>
+<div class="z_zy_v5">
+<a href=http://www.admaimai.com/newspaper/Detail9_1160.htm  target="_blank"  class="z_f7"><span>º¼ÖÝÈÕ±¨</span></a>¡¡<a href=http://www.admaimai.com/newspaper/agentgs.htm target=_blank >¹¤ÉÌÓ²¹ã</a>¡¡Ò»°ã´úÀí¡¡<span class="z_fzk">¡¡0.60ÕÛ</span>
+</div>
+</div>
+
+<div class="zxt_04f2">
+<div class="z_zy_v3"><a  href="/Effect/NewsPaper/5928.html" target="_blank" class="z_f3"><span> ÏÖ´ú½ð±¨±¨Ö½¹ã¸æ </span></a> [<a  href="http://www.admaimai.com/Effect/wgsgj2011-Media1p1.html" target="_blank" class="z_f3">±¨Ö½</a>] <font class="z_f1">2019.03.25. 12:43</font></div>
+<div class="z_zy_v4a">
+<div class="z_zy_v4"><a  href="/Effect/NewsPaper/5928.html" onmouseout="hiddenDiv('s_h_d2');" onmouseover="showDiv('s_h_d2');if(document.getElementById('ImgC2').innerHTML.indexOf('src1')>0){document.getElementById('ImgC2').innerHTML=document.getElementById('ImgC2').innerHTML.replace('src1=','src=');}" target="_blank"><img onload="resizeimg(this,100,100);" style="max-height:100px; max-width:100px;" src="/scanimg/newspaper/small/NPLOGO20098201424557313.jpg" title="ÏÖ´ú½ð±¨±¨Ö½¹ã¸æ" /></a></div>
+<div class="z3_zy_v4b" id='s_h_d2' style="display:none;" onmouseover="showDiv('s_h_d2');" onmouseout="hiddenDiv('s_h_d2');">
+<div class="z3_zy_v4" id="ImgC2"><img src="/scanimg/newspaper/small/NPLOGO20098201424557313.jpg" style="max-height:300px; max-width:300px;" ></div>
+</div>
+</div>
+<div class="z_zy_v5a">
+¡¡¡¶ÏÖ´ú½ð±¨¡·ÓÚ2003Äê10ÔÂ22ÈÕÕýÊ½´´¿¯£¬Ç°ÉíÊÇ´´¿¯ÓÚ1992ÄêµÄ¡¶Õã½­¾­¼Ã±¨¡·¡£µ±ÄêÓÉÐÂ»ªÉçÕã½­·ÖÉçÖ÷°ì£¬ºó¸üÃûÎªÏÖÃû£¬Á¥ÊôÐÂ»ªÉçÖ±Êô±¨¿¯ÏÖ´ú¿ì±¨£¬ÎªºóÕß×Ó±¨¡£È·Á¢·¢Õ¹Ä£Ê½£ºÁ¢×ãÄþ²¨£¬Ðû´«Õã [<a href="/Effect/NewsPaper/5928.html" target="_blank" class="z_f6">ÏêÏ¸</a>]<br>
+</div>
+<div class="z_zy_v5">
+<a href=http://www.admaimai.com/newspaper/Detail9_1164.htm  target="_blank"  class="z_f7"><span>ÏÖ´ú½ð±¨</span></a>¡¡<a href=http://www.admaimai.com/newspaper/agentgs.htm target=_blank >¹¤ÉÌÓ²¹ã</a>¡¡Ò»°ã´úÀí¡¡<span class="z_fzk">¡¡0.50ÕÛ</span>
+</div>
+</div>
+
+<div class="zxt_04f2">
+<div class="z_zy_v3"><a  href="/Effect/NewsPaper/5930.html" target="_blank" class="z_f3"><span> ÖÐ¹úÃñº½±¨¹ã¸æ´úÀí </span></a> [<a  href="http://www.admaimai.com/Effect/wgsgj2011-Media1p1.html" target="_blank" class="z_f3">±¨Ö½</a>] <font class="z_f1">2019.03.25. 12:43</font></div>
+<div class="z_zy_v4a">
+<div class="z_zy_v4"><a  href="/Effect/NewsPaper/5930.html" onmouseout="hiddenDiv('s_h_d3');" onmouseover="showDiv('s_h_d3');if(document.getElementById('ImgC3').innerHTML.indexOf('src1')>0){document.getElementById('ImgC3').innerHTML=document.getElementById('ImgC3').innerHTML.replace('src1=','src=');}" target="_blank"><img onload="resizeimg(this,100,100);" style="max-height:100px; max-width:100px;" src="/scanimg/newspaper/small/e2c2bfa2-a913-4fde-b6fd-2a6c8a893c87.jpg" title="ÖÐ¹úÃñº½±¨¹ã¸æ´úÀí" /></a></div>
+<div class="z3_zy_v4b" id='s_h_d3' style="display:none;" onmouseover="showDiv('s_h_d3');" onmouseout="hiddenDiv('s_h_d3');">
+<div class="z3_zy_v4" id="ImgC3"><img src="/scanimg/newspaper/small/e2c2bfa2-a913-4fde-b6fd-2a6c8a893c87.jpg" style="max-height:300px; max-width:300px;" ></div>
+</div>
+</div>
+<div class="z_zy_v5a">
+ÖÐ¹úÃñº½±¨ÉçÖ±ÊôÓÚÖÐ¹úÃñÓÃº½¿Õ¾Ö£¬ÊÇÒ»¼ÒÁ¢×ãÃñº½Òµ£¬È«Ãæ·þÎñÓÚÃñº½´ÓÒµÈËÔ±ºÍ·É»ú³Ë¿ÍÒÔ¼°Éç»á¸ß¶ËÊÜÖÚµÄ×ÛºÏÃ½Ìåµ¥Î»¡£ÖÐ¹úÃñº½±¨ÉçÏÂÊôÃ½Ìåµ¥Î»°üÀ¨£º¡¶ÖÐ¹úÃñº½±¨¡·¡¢¡¶ÖÐ¹úÃñº½¡·ÔÓÖ¾¡¢¡¶½ñÈÕÃñº½¡·ÔÓÖ¾¡¢ [<a href="/Effect/NewsPaper/5930.html" target="_blank" class="z_f6">ÏêÏ¸</a>]<br>
+</div>
+<div class="z_zy_v5">
+<a href=http://www.admaimai.com/newspaper/Detail9_2206.htm  target="_blank"  class="z_f7"><span>ÖÐ¹úÃñº½±¨</span></a>¡¡<a href=http://www.admaimai.com/newspaper/agentgs.htm target=_blank >¹¤ÉÌÓ²¹ã</a>¡¡Ò»°ã´úÀí¡¡<span class="z_fzk">¡¡ÃæÒé</span>
+</div>
+</div>
+
+<div class="zxt_04f2">
+<div class="z_zy_v3"><a  href="/Effect/NewsPaper/5931.html" target="_blank" class="z_f3"><span> ÖÐ¹úµçÊÓ±¨±¨Ö½¹ã¸æ </span></a> [<a  href="http://www.admaimai.com/Effect/wgsgj2011-Media1p1.html" target="_blank" class="z_f3">±¨Ö½</a>] <font class="z_f1">2019.03.25. 12:43</font></div>
+<div class="z_zy_v4a">
+<div class="z_zy_v4"><a  href="/Effect/NewsPaper/5931.html" onmouseout="hiddenDiv('s_h_d4');" onmouseover="showDiv('s_h_d4');if(document.getElementById('ImgC4').innerHTML.indexOf('src1')>0){document.getElementById('ImgC4').innerHTML=document.getElementById('ImgC4').innerHTML.replace('src1=','src=');}" target="_blank"><img onload="resizeimg(this,100,100);" style="max-height:100px; max-width:100px;" src="/scanimg/newspaper/small/NPLOGO200921913263219713.gif" title="ÖÐ¹úµçÊÓ±¨±¨Ö½¹ã¸æ" /></a></div>
+<div class="z3_zy_v4b" id='s_h_d4' style="display:none;" onmouseover="showDiv('s_h_d4');" onmouseout="hiddenDiv('s_h_d4');">
+<div class="z3_zy_v4" id="ImgC4"><img src="/scanimg/newspaper/small/NPLOGO200921913263219713.gif" style="max-height:300px; max-width:300px;" ></div>
+</div>
+</div>
+<div class="z_zy_v5a">
+¡¶ÖÐ¹úµçÊÓ±¨¡·ÊÇÓÉÖÐÑëµçÊÓÌ¨Ö÷°ìµÄÎ¨Ò»ÃæÏò¹úÄÚÍâ·¢ÐÐµÄ¹ú¼Ò¼¶µçÊÓ±¨¡£Ö÷ÒªÔ¤¸æ¡¢ÆÀ½éÖÐÑëµçÊÓÌ¨ºÍÖÐ¹ú  ÖÐ¹úµçÊÓ±¨
+¶¼ÊÐµçÊÓ½ÚÄ¿£¬Í¬Ê±¿¯µÇÈ«¹ú31¼ÒÊ¡Ì¨ÎÀÐÇ½ÚÄ¿±í£¬±¨µÀÆÁÇ°Ä»ºóÐÂÎÅºÍÖÐÍâÓ°ÊÓ¶¯Ì¬£¬Ìá [<a href="/Effect/NewsPaper/5931.html" target="_blank" class="z_f6">ÏêÏ¸</a>]<br>
+</div>
+<div class="z_zy_v5">
+<a href=http://www.admaimai.com/newspaper/Detail9_1806.htm  target="_blank"  class="z_f7"><span>ÖÐ¹úµçÊÓ±¨</span></a>¡¡<a href=http://www.admaimai.com/newspaper/agentgs.htm target=_blank >¹¤ÉÌÓ²¹ã</a>¡¡Ò»°ã´úÀí¡¡<span class="z_fzk">¡¡0.75ÕÛ</span>
+</div>
+</div>
+
+<div class="zxt_04f2">
+<div class="z_zy_v3"><a  href="/Effect/NewsPaper/5932.html" target="_blank" class="z_f3"><span> ÖÐ¹úÇàÄê±¨±¨Ö½¹ã¸æ </span></a> [<a  href="http://www.admaimai.com/Effect/wgsgj2011-Media1p1.html" target="_blank" class="z_f3">±¨Ö½</a>] <font class="z_f1">2019.03.25. 12:43</font></div>
+<div class="z_zy_v4a">
+<div class="z_zy_v4"><a  href="/Effect/NewsPaper/5932.html" onmouseout="hiddenDiv('s_h_d5');" onmouseover="showDiv('s_h_d5');if(document.getElementById('ImgC5').innerHTML.indexOf('src1')>0){document.getElementById('ImgC5').innerHTML=document.getElementById('ImgC5').innerHTML.replace('src1=','src=');}" target="_blank"><img onload="resizeimg(this,100,100);" style="max-height:100px; max-width:100px;" src="/scanimg/newspaper/small/4f711451-9496-4baf-83d5-be958cd2b02f.jpg" title="ÖÐ¹úÇàÄê±¨±¨Ö½¹ã¸æ" /></a></div>
+<div class="z3_zy_v4b" id='s_h_d5' style="display:none;" onmouseover="showDiv('s_h_d5');" onmouseout="hiddenDiv('s_h_d5');">
+<div class="z3_zy_v4" id="ImgC5"><img src="/scanimg/newspaper/small/4f711451-9496-4baf-83d5-be958cd2b02f.jpg" style="max-height:300px; max-width:300px;" ></div>
+</div>
+</div>
+<div class="z_zy_v5a">
+ÖÐ¹úÇàÄê±¨ÔÚÈ«¹ú 23 ¸öÊ¡ÇøÉèÓÐ·ÖÓ¡³§£¬²ÉÓÃÏÈ½øµÄÎÀÐÇ´«°æ£¬Ê¹È«¹ú 90 %ÒÔÉÏµÄµØÇø¾ùÄÜÔÄ¶Áµ½µ±ÈÕµÄ±¨Ö½£¬ÏÂÉèËÄÖÖ×Ó±¨£¨¿¯£©£¬¡¶ÇàÄê²Î¿¼¡·¡¶ÇàÄêÊ±Ñ¶¡·¡¶ÇàÄêÌåÓý¡·ºÍ¡¶Êý×ÖÇàÄê¡· ¾Ý¹ú¼ÒÍ³¼Æ¾ÖÓÐ¹Ø [<a href="/Effect/NewsPaper/5932.html" target="_blank" class="z_f6">ÏêÏ¸</a>]<br>
+</div>
+<div class="z_zy_v5">
+<a href=http://www.admaimai.com/newspaper/Detail9_1790.htm  target="_blank"  class="z_f7"><span>ÖÐ¹úÇàÄê±¨</span></a>¡¡<a href=http://www.admaimai.com/newspaper/agentgs.htm target=_blank >¹¤ÉÌÓ²¹ã</a>¡¡Ò»°ã´úÀí¡¡<span class="z_fzk">¡¡0.50ÕÛ</span>
+</div>
+</div>
+
+<div class="zxt_04f2">
+<div class="z_zy_v3"><a  href="/Effect/NewsPaper/5933.html" target="_blank" class="z_f3"><span> ÖÐ¹ú²Æ¾­±¨±¨Ö½¹ã¸æ </span></a> [<a  href="http://www.admaimai.com/Effect/wgsgj2011-Media1p1.html" target="_blank" class="z_f3">±¨Ö½</a>] <font class="z_f1">2019.03.25. 12:43</font></div>
+<div class="z_zy_v4a">
+<div class="z_zy_v4"><a  href="/Effect/NewsPaper/5933.html" onmouseout="hiddenDiv('s_h_d6');" onmouseover="showDiv('s_h_d6');if(document.getElementById('ImgC6').innerHTML.indexOf('src1')>0){document.getElementById('ImgC6').innerHTML=document.getElementById('ImgC6').innerHTML.replace('src1=','src=');}" target="_blank"><img onload="resizeimg(this,100,100);" style="max-height:100px; max-width:100px;" src="/scanimg/newspaper/small/353aaf6a-b663-4e1c-a50c-f7036a20bbf5.jpg" title="ÖÐ¹ú²Æ¾­±¨±¨Ö½¹ã¸æ" /></a></div>
+<div class="z3_zy_v4b" id='s_h_d6' style="display:none;" onmouseover="showDiv('s_h_d6');" onmouseout="hiddenDiv('s_h_d6');">
+<div class="z3_zy_v4" id="ImgC6"><img src="/scanimg/newspaper/small/353aaf6a-b663-4e1c-a50c-f7036a20bbf5.jpg" style="max-height:300px; max-width:300px;" ></div>
+</div>
+</div>
+<div class="z_zy_v5a">
+¡¶ÖÐ¹ú²Æ¾­±¨¡·ÊÇ²ÆÕþ²¿Ö÷¹ÜµÄÒÔ¡°Á¢×ã²ÆÕþ£¬ÃæÏòÉç»á¡±Îª°ì±¨·½Õë£¬ÃæÏòÐ¡¿µ½×²ãµÄºê¹Û¾­¼ÃÀà±¨Ö½¡£°´ÕÕÖÐÑë±¨¿¯ÖÎÀí°ì200342ºÅÎÄ¡¶¹ØÓÚ¶Ô²ÆÕþ²¿±¨¿¯ÖÎÀí¹¤×÷·½°¸µÄÅú¸´¡·£¬ÐÂÎÅ³ö°æ×ÜÊðµÄÐÂ³ö±¨¿¯2003 [<a href="/Effect/NewsPaper/5933.html" target="_blank" class="z_f6">ÏêÏ¸</a>]<br>
+</div>
+<div class="z_zy_v5">
+<a href=http://www.admaimai.com/newspaper/Detail9_1685.htm  target="_blank"  class="z_f7"><span>ÖÐ¹ú²Æ¾­±¨</span></a>¡¡<a href=http://www.admaimai.com/newspaper/agentgs.htm target=_blank >¹¤ÉÌÓ²¹ã</a>¡¡Ò»°ã´úÀí¡¡<span class="z_fzk">¡¡0.70ÕÛ</span>
+</div>
+</div>
+
+<div class="zxt_04f2">
+<div class="z_zy_v3"><a  href="/Effect/NewsPaper/5934.html" target="_blank" class="z_f3"><span> ÖÐ»ª¹¤ÉÌÊ±±¨¹ã¸æ´úÀí </span></a> [<a  href="http://www.admaimai.com/Effect/wgsgj2011-Media1p1.html" target="_blank" class="z_f3">±¨Ö½</a>] <font class="z_f1">2019.03.25. 12:43</font></div>
+<div class="z_zy_v4a">
+<div class="z_zy_v4"><a  href="/Effect/NewsPaper/5934.html" onmouseout="hiddenDiv('s_h_d7');" onmouseover="showDiv('s_h_d7');if(document.getElementById('ImgC7').innerHTML.indexOf('src1')>0){document.getElementById('ImgC7').innerHTML=document.getElementById('ImgC7').innerHTML.replace('src1=','src=');}" target="_blank"><img onload="resizeimg(this,100,100);" style="max-height:100px; max-width:100px;" src="/scanimg/newspaper/small/c0f12fee-61a0-4ad5-ae76-417570cabfb0.jpg" title="ÖÐ»ª¹¤ÉÌÊ±±¨¹ã¸æ´úÀí" /></a></div>
+<div class="z3_zy_v4b" id='s_h_d7' style="display:none;" onmouseover="showDiv('s_h_d7');" onmouseout="hiddenDiv('s_h_d7');">
+<div class="z3_zy_v4" id="ImgC7"><img src="/scanimg/newspaper/small/c0f12fee-61a0-4ad5-ae76-417570cabfb0.jpg" style="max-height:300px; max-width:300px;" ></div>
+</div>
+</div>
+<div class="z_zy_v5a">
+¡¶ÖÐ»ª¹¤ÉÌÊ±±¨¡·³ýÃ¿Ìì±¨µÀÖØ´óÐÂÎÅ¡¢×ÛºÏÐÂÎÅ¡¢²ú¾­ÐÂÎÅÍâ£¬Ã¿ÖÜ»¹³ö°æÐÂÎÅÖÜ¿¯¡¢ÆóÒµÖÜ¿¯ºÍ²Æ¸»ÖÜ¿¯Òò¹ã¸æµÄ×îÖÕÕÛ¿ÛÓëÐÐÒµ¡¢°æÃæ¡¢¹æ¸ñ¡¢Æ·ÅÆµÈÒòËØÓÐ¹Ø£¬´ËÕÛ¿Û½ö¹©²Î¿¼£¬¾ßÌå¹ã¸æ¼Û¸ñÇëÀ´µçÇ¢Ì¸¡£ [<a href="/Effect/NewsPaper/5934.html" target="_blank" class="z_f6">ÏêÏ¸</a>]<br>
+</div>
+<div class="z_zy_v5">
+<a href=http://www.admaimai.com/newspaper/Detail9_1587.htm  target="_blank"  class="z_f7"><span>ÖÐ»ª¹¤ÉÌÊ±±¨</span></a>¡¡<a href=http://www.admaimai.com/newspaper/agentgs.htm target=_blank >¹¤ÉÌÓ²¹ã</a>¡¡Ò»°ã´úÀí¡¡<span class="z_fzk">¡¡ÃæÒé</span>
+</div>
+</div>
+
+<div class="zxt_04f2">
+<div class="z_zy_v3"><a  href="/Effect/NewsPaper/5935.html" target="_blank" class="z_f3"><span> ÈËÃñÕþÐ­±¨±¨Ö½¹ã¸æ </span></a> [<a  href="http://www.admaimai.com/Effect/wgsgj2011-Media1p1.html" target="_blank" class="z_f3">±¨Ö½</a>] <font class="z_f1">2019.03.25. 12:43</font></div>
+<div class="z_zy_v4a">
+<div class="z_zy_v4"><a  href="/Effect/NewsPaper/5935.html" onmouseout="hiddenDiv('s_h_d8');" onmouseover="showDiv('s_h_d8');if(document.getElementById('ImgC8').innerHTML.indexOf('src1')>0){document.getElementById('ImgC8').innerHTML=document.getElementById('ImgC8').innerHTML.replace('src1=','src=');}" target="_blank"><img onload="resizeimg(this,100,100);" style="max-height:100px; max-width:100px;" src="/scanimg/newspaper/small/37c112c4-500b-4283-81b2-644911daf39a.jpg" title="ÈËÃñÕþÐ­±¨±¨Ö½¹ã¸æ" /></a></div>
+<div class="z3_zy_v4b" id='s_h_d8' style="display:none;" onmouseover="showDiv('s_h_d8');" onmouseout="hiddenDiv('s_h_d8');">
+<div class="z3_zy_v4" id="ImgC8"><img src="/scanimg/newspaper/small/37c112c4-500b-4283-81b2-644911daf39a.jpg" style="max-height:300px; max-width:300px;" ></div>
+</div>
+</div>
+<div class="z_zy_v5a">
+ÈËÃñÕþÐ­±¨¡·´´¿¯ÓÚ1983Äê4ÔÂ6ÈÕ£¬ÊÇÖÐ¹úÈËÃñÕþÖÎÐ­ÉÌ»áÒéÈ«¹úÎ¯Ô±»áµÄ»ú¹Ø±¨£¬Ò²ÊÇÎ¨Ò»µÄÔÚº£ÄÚÍâÓÐ¹ã·ºÓ°ÏìµÄÈ«¹úÐÔÍ³Ò»Õ½Ïß±¨Ö½Òò¹ã¸æµÄ×îÖÕÕÛ¿ÛÓëÐÐÒµ¡¢°æÃæ¡¢¹æ¸ñ¡¢Æ·ÅÆµÈÒòËØÓÐ¹Ø£¬´ËÕÛ¿Û½ö¹©²Î¿¼£¬¾ß [<a href="/Effect/NewsPaper/5935.html" target="_blank" class="z_f6">ÏêÏ¸</a>]<br>
+</div>
+<div class="z_zy_v5">
+<a href=http://www.admaimai.com/newspaper/Detail9_1798.htm  target="_blank"  class="z_f7"><span>ÈËÃñÕþÐ­±¨</span></a>¡¡<a href=http://www.admaimai.com/newspaper/agentgs.htm target=_blank >¹¤ÉÌÓ²¹ã</a>¡¡Ò»°ã´úÀí¡¡<span class="z_fzk">¡¡0.55ÕÛ</span>
+</div>
+</div>
+
+<div class="zxt_04f2">
+<div class="z_zy_v3"><a  href="/Effect/NewsPaper/5936.html" target="_blank" class="z_f3"><span> ÈËÃñÓÊµç±¨±¨Ö½¹ã¸æ </span></a> [<a  href="http://www.admaimai.com/Effect/wgsgj2011-Media1p1.html" target="_blank" class="z_f3">±¨Ö½</a>] <font class="z_f1">2019.03.25. 12:43</font></div>
+<div class="z_zy_v4a">
+<div class="z_zy_v4"><a  href="/Effect/NewsPaper/5936.html" onmouseout="hiddenDiv('s_h_d9');" onmouseover="showDiv('s_h_d9');if(document.getElementById('ImgC9').innerHTML.indexOf('src1')>0){document.getElementById('ImgC9').innerHTML=document.getElementById('ImgC9').innerHTML.replace('src1=','src=');}" target="_blank"><img onload="resizeimg(this,100,100);" style="max-height:100px; max-width:100px;" src="/scanimg/newspaper/small/09ed907e-326c-4e97-988b-e87590671782.jpg" title="ÈËÃñÓÊµç±¨±¨Ö½¹ã¸æ" /></a></div>
+<div class="z3_zy_v4b" id='s_h_d9' style="display:none;" onmouseover="showDiv('s_h_d9');" onmouseout="hiddenDiv('s_h_d9');">
+<div class="z3_zy_v4" id="ImgC9"><img src="/scanimg/newspaper/small/09ed907e-326c-4e97-988b-e87590671782.jpg" style="max-height:300px; max-width:300px;" ></div>
+</div>
+</div>
+<div class="z_zy_v5a">
+¡¶ÈËÃñÓÊµç¡·ÐÂÎÅÐû´«ÀíÊÂ»áÊÇ¡¶ÈËÃñÓÊµç¡·±¨µÄÒµÎñÁìµ¼»ú¹¹£¬¸ºÔðÑÐ¾¿È·¶¨¡¶ÈËÃñÓÊµç¡·±¨°ì±¨·½Õë¡¢Õþ²ß£»ÉóÒé¡¶ÈËÃñÓÊµç¡·±¨Äê¶È±¨µÀ·½°¸£»Ö¸µ¼ÖØ´ó±¨µÀ»î¶¯¡£ Òò¹ã¸æµÄ×îÖÕÕÛ¿ÛÓëÐÐÒµ¡¢°æÃæ¡¢¹æ¸ñ¡¢Æ·ÅÆµÈÒòËØ [<a href="/Effect/NewsPaper/5936.html" target="_blank" class="z_f6">ÏêÏ¸</a>]<br>
+</div>
+<div class="z_zy_v5">
+<a href=http://www.admaimai.com/newspaper/Detail9_1797.htm  target="_blank"  class="z_f7"><span>ÈËÃñÓÊµç±¨</span></a>¡¡<a href=http://www.admaimai.com/newspaper/agentgs.htm target=_blank >¹¤ÉÌÓ²¹ã</a>¡¡Ò»°ã´úÀí¡¡<span class="z_fzk">¡¡0.70ÕÛ</span>
+</div>
+</div>
+
+<div class="zxt_04f2">
+<div class="z_zy_v3"><a  href="/Effect/NewsPaper/5937.html" target="_blank" class="z_f3"><span> ÈËÃñÌúµÀ±¨±¨Ö½¹ã¸æ </span></a> [<a  href="http://www.admaimai.com/Effect/wgsgj2011-Media1p1.html" target="_blank" class="z_f3">±¨Ö½</a>] <font class="z_f1">2019.03.25. 12:43</font></div>
+<div class="z_zy_v4a">
+<div class="z_zy_v4"><a  href="/Effect/NewsPaper/5937.html" onmouseout="hiddenDiv('s_h_d10');" onmouseover="showDiv('s_h_d10');if(document.getElementById('ImgC10').innerHTML.indexOf('src1')>0){document.getElementById('ImgC10').innerHTML=document.getElementById('ImgC10').innerHTML.replace('src1=','src=');}" target="_blank"><img onload="resizeimg(this,100,100);" style="max-height:100px; max-width:100px;" src="/scanimg/newspaper/small/004c6a2c-fb74-424c-a01d-da79f6683280.jpg" title="ÈËÃñÌúµÀ±¨±¨Ö½¹ã¸æ" /></a></div>
+<div class="z3_zy_v4b" id='s_h_d10' style="display:none;" onmouseover="showDiv('s_h_d10');" onmouseout="hiddenDiv('s_h_d10');">
+<div class="z3_zy_v4" id="ImgC10"><img src="/scanimg/newspaper/small/004c6a2c-fb74-424c-a01d-da79f6683280.jpg" style="max-height:300px; max-width:300px;" ></div>
+</div>
+</div>
+<div class="z_zy_v5a">
+¡¶ÈËÃñÌúµÀ¡·±¨ÊÇÖÐ»ªÈËÃñ¹²ºÍ¹úÌúµÀ²¿Ö÷¹Ü¡¢ÈËÃñÌúµÀ±¨ÉçÖ÷°ìµÄ±¨Ö½£¬ÊÇÖÐ¹úµÚÒ»¼Ò¹úÄÚÍâ¹«¿ª·¢ÐÐµÄ²úÒµ¾­¼ÃÀà±¨Ö½¡£ 
+Òò¹ã¸æµÄ×îÖÕÕÛ¿ÛÓëÐÐÒµ¡¢°æÃæ¡¢¹æ¸ñ¡¢Æ·ÅÆµÈÒòËØÓÐ¹Ø£¬´ËÕÛ¿Û½ö¹©²Î¿¼£¬¾ßÌå¹ã¸æ¼Û¸ñÇë [<a href="/Effect/NewsPaper/5937.html" target="_blank" class="z_f6">ÏêÏ¸</a>]<br>
+</div>
+<div class="z_zy_v5">
+<a href=http://www.admaimai.com/newspaper/Detail9_1657.htm  target="_blank"  class="z_f7"><span>ÈËÃñÌúµÀ±¨</span></a>¡¡<a href=http://www.admaimai.com/newspaper/agentgs.htm target=_blank >¹¤ÉÌÓ²¹ã</a>¡¡Ò»°ã´úÀí¡¡<span class="z_fzk">¡¡0.65ÕÛ</span>
+</div>
+</div>
+
+<div class="zxt_04f2">
+<div class="z_zy_v3"><a  href="/Effect/NewsPaper/5938.html" target="_blank" class="z_f3"><span> ¼ÙÈÕ100Ìì±¨Ö½¹ã¸æ </span></a> [<a  href="http://www.admaimai.com/Effect/wgsgj2011-Media1p1.html" target="_blank" class="z_f3">±¨Ö½</a>] <font class="z_f1">2019.03.25. 12:43</font></div>
+<div class="z_zy_v4a">
+<div class="z_zy_v4"><a  href="/Effect/NewsPaper/5938.html" onmouseout="hiddenDiv('s_h_d11');" onmouseover="showDiv('s_h_d11');if(document.getElementById('ImgC11').innerHTML.indexOf('src1')>0){document.getElementById('ImgC11').innerHTML=document.getElementById('ImgC11').innerHTML.replace('src1=','src=');}" target="_blank"><img onload="resizeimg(this,100,100);" style="max-height:100px; max-width:100px;" src="/scanimg/newspaper/small/NPLOGO2008925164333684.jpg" title="¼ÙÈÕ100Ìì±¨Ö½¹ã¸æ" /></a></div>
+<div class="z3_zy_v4b" id='s_h_d11' style="display:none;" onmouseover="showDiv('s_h_d11');" onmouseout="hiddenDiv('s_h_d11');">
+<div class="z3_zy_v4" id="ImgC11"><img src="/scanimg/newspaper/small/NPLOGO2008925164333684.jpg" style="max-height:300px; max-width:300px;" ></div>
+</div>
+</div>
+<div class="z_zy_v5a">
+¡¶¼ÙÈÕ100Ìì¡·ÓÉÌì½òÈÕ±¨±¨Òµ¼¯ÍÅ³ö°æ£¬ÊÇÌì½òµÚÒ»·ÝÊ±ÉÐÉú»îÖÜ±¨£¬Í¬Ê±Ò²ÊÇÌì½òÎ¨Ò»Ö÷Á÷Ê±ÉÐÖÜ±¨¡£´´¿¯Ê®Äê¼äÑ¸ËÙ·¢Õ¹³ÉÎªÌì½ò×î¾ßÓ°ÏìÁ¦µÄÊ±ÉÐÃ½Ìå£¬ÒÔ´«²¥Ê±ÉÐÐÅÏ¢¡¢Òýµ¼Ê±ÉÐ³±Á÷¡¢´òÔì×ã½ðÊ±ÉÐ¡¢··ÂôÉú»î·½ [<a href="/Effect/NewsPaper/5938.html" target="_blank" class="z_f6">ÏêÏ¸</a>]<br>
+</div>
+<div class="z_zy_v5">
+<a href=http://www.admaimai.com/newspaper/Detail9_392.htm  target="_blank"  class="z_f7"><span>¼ÙÈÕ100Ìì</span></a>¡¡<a href=http://www.admaimai.com/newspaper/agentgs.htm target=_blank >¹¤ÉÌÓ²¹ã</a>¡¡Ò»°ã´úÀí¡¡<span class="z_fzk">¡¡0.60ÕÛ</span>
+</div>
+</div>
+
+<div class="zxt_04f2">
+<div class="z_zy_v3"><a  href="/Effect/NewsPaper/5939.html" target="_blank" class="z_f3"><span> É½Î÷ÉÌ±¨±¨Ö½¹ã¸æ </span></a> [<a  href="http://www.admaimai.com/Effect/wgsgj2011-Media1p1.html" target="_blank" class="z_f3">±¨Ö½</a>] <font class="z_f1">2019.03.25. 12:43</font></div>
+<div class="z_zy_v4a">
+<div class="z_zy_v4"><a  href="/Effect/NewsPaper/5939.html" onmouseout="hiddenDiv('s_h_d12');" onmouseover="showDiv('s_h_d12');if(document.getElementById('ImgC12').innerHTML.indexOf('src1')>0){document.getElementById('ImgC12').innerHTML=document.getElementById('ImgC12').innerHTML.replace('src1=','src=');}" target="_blank"><img onload="resizeimg(this,100,100);" style="max-height:100px; max-width:100px;" src="/scanimg/newspaper/small/7e686c94-0fcc-4774-8662-6e86022a8032.jpg" title="É½Î÷ÉÌ±¨±¨Ö½¹ã¸æ" /></a></div>
+<div class="z3_zy_v4b" id='s_h_d12' style="display:none;" onmouseover="showDiv('s_h_d12');" onmouseout="hiddenDiv('s_h_d12');">
+<div class="z3_zy_v4" id="ImgC12"><img src="/scanimg/newspaper/small/7e686c94-0fcc-4774-8662-6e86022a8032.jpg" style="max-height:300px; max-width:300px;" ></div>
+</div>
+</div>
+<div class="z_zy_v5a">
+¡¶É½Î÷ÉÌ±¨¡·Ó¦È«¹ú¡°ÉÌ±¨³±Á÷¡±¶øÉú£¬ÊÇ¼Ìµ³±¨¡¢Íí±¨¡¢¶¼ÊÐ±¨Ö®ºóµÄ±¨ÒµÊÐ³¡µÄÐÂÉúÁ¦Á¿¡£Ëý×·ÇóµÚÒ»Ê±¼äµÄÐÂÎÅ×ÊÑ¶¡¢µÚÒ»Éî¶ÈµÄ×¨Ìâ±¨µÀ¡¢µÚÒ»·þÎñµÄÃñÉúÐÅÏ¢£¬ÐÂÎÅ±íÇé·á¸»£¬ÄÜ´ø¸øÄúÁìÏÈÒ»²½µÄÔÄ¶Á¿ì¸Ð¡£¸Ä±äºÍ [<a href="/Effect/NewsPaper/5939.html" target="_blank" class="z_f6">ÏêÏ¸</a>]<br>
+</div>
+<div class="z_zy_v5">
+<a href=http://www.admaimai.com/newspaper/Detail9_85.htm  target="_blank"  class="z_f7"><span>É½Î÷ÉÌ±¨</span></a>¡¡<a href=http://www.admaimai.com/newspaper/agentgs.htm target=_blank >¹¤ÉÌÓ²¹ã</a>¡¡Ò»°ã´úÀí¡¡<span class="z_fzk">¡¡ÃæÒé</span>
+</div>
+</div>
+
+<div class="zxt_04f2">
+<div class="z_zy_v3"><a  href="/Effect/NewsPaper/5940.html" target="_blank" class="z_f3"><span> É½Î÷ÇàÄê±¨±¨Ö½¹ã¸æ </span></a> [<a  href="http://www.admaimai.com/Effect/wgsgj2011-Media1p1.html" target="_blank" class="z_f3">±¨Ö½</a>] <font class="z_f1">2019.03.25. 12:43</font></div>
+<div class="z_zy_v4a">
+<div class="z_zy_v4"><a  href="/Effect/NewsPaper/5940.html" onmouseout="hiddenDiv('s_h_d13');" onmouseover="showDiv('s_h_d13');if(document.getElementById('ImgC13').innerHTML.indexOf('src1')>0){document.getElementById('ImgC13').innerHTML=document.getElementById('ImgC13').innerHTML.replace('src1=','src=');}" target="_blank"><img onload="resizeimg(this,100,100);" style="max-height:100px; max-width:100px;" src="/scanimg/newspaper/small/NPLOGO200891917135299314.jpg" title="É½Î÷ÇàÄê±¨±¨Ö½¹ã¸æ" /></a></div>
+<div class="z3_zy_v4b" id='s_h_d13' style="display:none;" onmouseover="showDiv('s_h_d13');" onmouseout="hiddenDiv('s_h_d13');">
+<div class="z3_zy_v4" id="ImgC13"><img src="/scanimg/newspaper/small/NPLOGO200891917135299314.jpg" style="max-height:300px; max-width:300px;" ></div>
+</div>
+</div>
+<div class="z_zy_v5a">
+É½Î÷ÇàÄê±¨¡·1949Äê´´¿¯£¬ÊÇÒ»·ÝÃæÏò¶¼ÊÐÖ÷Á÷ÈËÈºµÄ×ÛºÏÐÔÈÕ±¨Òò¹ã¸æµÄ×îÖÕÕÛ¿ÛÓëÐÐÒµ¡¢°æÃæ¡¢¹æ¸ñ¡¢Æ·ÅÆµÈÒòËØÓÐ¹Ø£¬´ËÕÛ¿Û½ö¹©²Î¿¼£¬¾ßÌå¹ã¸æ¼Û¸ñÇëÀ´µçÇ¢Ì¸¡£ [<a href="/Effect/NewsPaper/5940.html" target="_blank" class="z_f6">ÏêÏ¸</a>]<br>
+</div>
+<div class="z_zy_v5">
+<a href=http://www.admaimai.com/newspaper/Detail9_84.htm  target="_blank"  class="z_f7"><span>É½Î÷ÇàÄê±¨</span></a>¡¡<a href=http://www.admaimai.com/newspaper/agentgs.htm target=_blank >¹¤ÉÌÓ²¹ã</a>¡¡Ò»°ã´úÀí¡¡<span class="z_fzk">¡¡0.53ÕÛ</span>
+</div>
+</div>
+
+<div class="zxt_04f2">
+<div class="z_zy_v3"><a  href="/Effect/NewsPaper/5941.html" target="_blank" class="z_f3"><span> ´óÍ¬Íí±¨±¨Ö½¹ã¸æ </span></a> [<a  href="http://www.admaimai.com/Effect/wgsgj2011-Media1p1.html" target="_blank" class="z_f3">±¨Ö½</a>] <font class="z_f1">2019.03.25. 12:43</font></div>
+<div class="z_zy_v4a">
+<div class="z_zy_v4"><a  href="/Effect/NewsPaper/5941.html" onmouseout="hiddenDiv('s_h_d14');" onmouseover="showDiv('s_h_d14');if(document.getElementById('ImgC14').innerHTML.indexOf('src1')>0){document.getElementById('ImgC14').innerHTML=document.getElementById('ImgC14').innerHTML.replace('src1=','src=');}" target="_blank"><img onload="resizeimg(this,100,100);" style="max-height:100px; max-width:100px;" src="/scanimg/newspaper/small/f7be4caa-3104-4a79-b8e1-519e32c95deb.jpg" title="´óÍ¬Íí±¨±¨Ö½¹ã¸æ" /></a></div>
+<div class="z3_zy_v4b" id='s_h_d14' style="display:none;" onmouseover="showDiv('s_h_d14');" onmouseout="hiddenDiv('s_h_d14');">
+<div class="z3_zy_v4" id="ImgC14"><img src="/scanimg/newspaper/small/f7be4caa-3104-4a79-b8e1-519e32c95deb.jpg" style="max-height:300px; max-width:300px;" ></div>
+</div>
+</div>
+<div class="z_zy_v5a">
+¡¶´óÍ¬Íí±¨¡·º­¸Ç¸÷ÐÐ¸÷Òµ£¬¿¯µÇ¹ã¸æÑ¸ËÙ¡¢¼°Ê±£¬Ó°Ïì´ó£¬Ð§¹ûºÃ£¬ÉÌÒµ»Ø±¨¸ß¡£ÎÒÃÇ»áÓë¹ã´ó¿Í»§¾«³ÏºÏ×÷£¬ÒÔÌùÐÄµÄ·þÎñÎªÄúµÄÆóÒµ¡¢²úÆ·ÍØÂ·´´ÅÆ£¬Îª·±ÈÙÊÐ³¡¾­¼Ã¾¡ÐÄ½ßÂÇ¡£Òò¹ã¸æµÄ×îÖÕÕÛ¿ÛÓëÐÐÒµ¡¢°æÃæ¡¢¹æ¸ñ¡¢ [<a href="/Effect/NewsPaper/5941.html" target="_blank" class="z_f6">ÏêÏ¸</a>]<br>
+</div>
+<div class="z_zy_v5">
+<a href=http://www.admaimai.com/newspaper/Detail9_1518.htm  target="_blank"  class="z_f7"><span>´óÍ¬Íí±¨</span></a>¡¡<a href=http://www.admaimai.com/newspaper/agentgs.htm target=_blank >¹¤ÉÌÓ²¹ã</a>¡¡Ò»°ã´úÀí¡¡<span class="z_fzk">¡¡0.70ÕÛ</span>
+</div>
+</div>
+
+
+
+</div>
+
+<!--TelSmallAscxSplitStart-->
+<div class="zxt_04b1">
+<div class="t_lf">Ãâ·Ñ×ÉÑ¯µç»°£º<span>400-005-0111</span> ×ª<span>10123</span></div>
+<div class="t_rh" style="margin:-1px 15px 0px 0px;"><div class="t_lf" style="display:none;">
+<div class="jietong_01"><span>ÌáÊ¾</span>£ºÇëÊäÈëÊÖ»ú»ò×ù»úºÅ£¬×ù»úÇë¼ÓÇøºÅ£¬ÎÒÃÇ½«Á¢¼´½ÓÍ¨ÄúµÄµç»°£¬È«³Ì<span>Ãâ·Ñ</span>½ÓÌý£¡</div>
+</div><div class="t_lf"><input type="text" style="width:120px;height:22px;padding:0px;line-height:22px;color:#888888;" onfocus="if(this.value=='ÇëÊäÈëÄúµÄµç»°ºÅÂë'){this.value='';}this.parentNode.parentNode.childNodes[0].style.display='';" onblur="if(this.value==''){this.value='ÇëÊäÈëÄúµÄµç»°ºÅÂë';}this.parentNode.parentNode.childNodes[0].style.display='none';" value="ÇëÊäÈëÄúµÄµç»°ºÅÂë"></div>
+<div class="t_lf" style="margin-left:6px;"><a href="javascript:;" onclick="CallBackTel(this.parentNode.parentNode.childNodes[1].childNodes[0].value, MmId);"><img src="/Effect/images/jietong01.jpg" border="0"></a></div>
+</div>
+</div>
+<!--TelSmallAscxSplitEnd-->
+
+<!--CommentAscxSplitStart-->
+<div class="zxt_04c">
+<div class="zxt_04c1 z_f3">ÆÀ¼Û¸Ã¹«Ë¾</div>
+</div>
+<div class="zxt_04d">
+<div class="zxt_04e">
+<table width="100%"  border="0" cellspacing="10" cellpadding="0">
+<tr>
+<td><div style="float:left;">¶Ô¸Ã¹«Ë¾·þÎñ´ò·Ö£º<input type="hidden" id="HdStar" value="0" /></div><div style="float:left;" onmouseout="ImgSlpShow(document.getElementById('HdStar').value);">
+<img src="http://image1.admaimai.com/Effect/images/star_gray_big.gif" id="ImgSlp1" onmouseover="ImgSlpShow(1);" onclick="document.getElementById('HdStar').value='1';" style="cursor:pointer;float:left;">
+<img src="http://image1.admaimai.com/Effect/images/star_gray_big.gif" id="ImgSlp2" onmouseover="ImgSlpShow(2);" onclick="document.getElementById('HdStar').value='2';" style="cursor:pointer;float:left;">
+<img src="http://image1.admaimai.com/Effect/images/star_gray_big.gif" id="ImgSlp3" onmouseover="ImgSlpShow(3);" onclick="document.getElementById('HdStar').value='3';" style="cursor:pointer;float:left;">
+<img src="http://image1.admaimai.com/Effect/images/star_gray_big.gif" id="ImgSlp4" onmouseover="ImgSlpShow(4);" onclick="document.getElementById('HdStar').value='4';" style="cursor:pointer;float:left;">
+<img src="http://image1.admaimai.com/Effect/images/star_gray_big.gif" id="ImgSlp5" onmouseover="ImgSlpShow(5);" onclick="document.getElementById('HdStar').value='5';" style="cursor:pointer;float:left;"></div></td>
+</tr>
+<tr>
+<td><textarea id="TxtPinglun" cols="" rows="6" style="width:670px; max-width:670px; min-width:670px;"></textarea></td>
+</tr>
+<tr>
+<td><div class="t_lf" style="margin-top:5px;">ÍøÓÑµÄÆÀ¼Û£º¹²10Ìõ£¨<a href="/Effect/wgsgj2011-Comment.html" class="z_f3">²é¿´ÏêÏ¸ÐÅÏ¢</a>£©</div><div class="anniu01"><a href="javascript:DoPingLun();">·¢±íÆÀÂÛ</a></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!--CommentAscxSplitEnd-->
+
+<script type="text/javascript" src="/js/jquery126.js"></script>
+<script type="text/javascript">
+var crt = 1;
+function ChangeZu(){
+    crt++;
+    if(crt==4)
+        crt=1;
+    var tmpl = (crt-1)*718;
+    document.getElementById("DivCnt").scrollLeft = tmpl;
+}
+</script>
+<div class="">
+<div class="zxt_rh2_kh">
+<div class="t_lf">¿Í»§ÕýÔÚ×ÉÑ¯</div>
+<div class="t_rh"><a href="javascript:;" onclick="ChangeZu();" class="z_f3_kh">»»Ò»×é</a></div>
+</div>
+<div class="zxt_rh31_kh" style="overflow:hidden;" id="DivCnt">
+<div style="width:2744px;float:left;">
+<div style="width:718px;float:left;display:inline;" id="DivUse1"></div>
+<div style="width:718px;float:left;display:inline;" id="DivUse2"></div>
+<div style="width:718px;float:left;display:inline;" id="DivUse3"></div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+function GetMm4Use(d,nn){
+    var rows = d.split(",");
+    var rst = "";
+    for(var i=1;i<rows.length;i++){
+        if(rows[i]!=""){
+            var daa = rows[i].split("|");
+            rst += "<li>[";
+            rst += daa[0];
+            rst += "]¿Í»§<span class=\"z_f6\">";
+            rst += daa[1];
+            rst += "</span><br> ×ÉÑ¯ÁË<a href=\"/Effect/";
+            rst += daa[2];
+            rst += ".html\" target=\"_blank\">";
+            rst += daa[3];
+            rst += "</a>&nbsp;&nbsp;<span class=\"vip_c0" + (daa[4] == "0" ? "1" : (daa[4] == "1" ? "2" : "3")) + "\">VIP</span></li>";
+        }
+    }
+    document.getElementById(nn).innerHTML = rst;
+}
+$.get("/Effect/outputuse.ashx?ps=10&cp=1", {Action:"get",Name:"lulu"}, function (data, textStatus){
+this;
+GetMm4Use(data,"DivUse1");
+//alert(textStatus);//ÇëÇó×´Ì¬£ºsuccess£¬errorµÈµÈ¡£
+//alert(this);
+});
+$.get("/Effect/outputuse.ashx?ps=10&cp=2", {Action:"get",Name:"lulu"}, function (data, textStatus){
+this;
+GetMm4Use(data,"DivUse2");
+//alert(textStatus);//ÇëÇó×´Ì¬£ºsuccess£¬errorµÈµÈ¡£
+//alert(this);
+});
+$.get("/Effect/outputuse.ashx?ps=10&cp=3", {Action:"get",Name:"lulu"}, function (data, textStatus){
+this;
+GetMm4Use(data,"DivUse3");
+//alert(textStatus);//ÇëÇó×´Ì¬£ºsuccess£¬errorµÈµÈ¡£
+//alert(this);
+});
+</script>
+</div>
+<div class="zxt_03b">
+
+<!--TelAscxSplitStart-->
+<div class="zxt_rh1"><div class="t_lf">
+<span class="z_f4">¹ã¸æÍ¶·ÅÈÈÏß</span><br>
+<span class="z_f5">400-005-0111×ª10123</span><br>
+<a href="http://www.admaimai.com/BuyAD/Buyad.html" target="_blank">±¾ÈÈÏß½öÏÞ¹ã¸æ×ÉÑ¯ ·Ç¹ã¸æÊÂÒËÎðÈÅ</a></div><div class="t_lf"><div class="t_lf" style="display:none;">
+<div class="jietong_01"><span>ÌáÊ¾</span>£ºÇëÊäÈëÊÖ»ú»ò×ù»úºÅ£¬×ù»úÇë¼ÓÇøºÅ£¬ÎÒÃÇ½«Á¢¼´½ÓÍ¨ÄúµÄµç»°£¬È«³Ì<span>Ãâ·Ñ</span>½ÓÌý£¡</div>
+</div><div class="t_lf"><input type="text" style="width:120px;height:22px;padding:0px;line-height:22px;color:#888888;" onfocus="if(this.value=='ÇëÊäÈëÄúµÄµç»°ºÅÂë'){this.value='';}this.parentNode.parentNode.childNodes[0].style.display='';" onblur="if(this.value==''){this.value='ÇëÊäÈëÄúµÄµç»°ºÅÂë';}this.parentNode.parentNode.childNodes[0].style.display='none';" value="ÇëÊäÈëÄúµÄµç»°ºÅÂë">
+</div>
+</div>
+<div class="t_lf" style="margin-left:6px;"><a href="javascript:;" onclick="CallBackTel(this.parentNode.parentNode.childNodes[1].childNodes[1].childNodes[0].value, MmId);"><img src="/Effect/images/jietong01.jpg" border="0"></a></div>
+</div>
+<!--TelAscxSplitEnd-->
+
+<!--RightAscxSplitStart-->
+<div class="zxt_03b" style="margin-top:10px;"><script type="text/javascript" src="/inc/adv2Detail/181.js"></script></div>
+<div class="zxt_03b" style="margin-top:10px;"><script type="text/javascript" src="/inc/adv2Detail/1871.js"></script></div>
+
+
+<div class="zxt_rh2">¹ã¸æ×ÊÔ´·ÖÀà</div>
+<div class="Tzxt_rh31">
+    
+    <div class="Tzxt_rh4"><a href="/Effect/wgsgj2011-Media1p1.html">±¨Ö½Ã½Ìå</a></div>
+    <div class="Tzxt_rh5">
+        
+                <li><a href="/Effect/wgsgj2011-Media1s1p1.html">¹¤ÉÌÓ²¹ã</a> (899)</li>
+            
+    </div>
+    
+    <div class="Tzxt_rh4"><a href="/Effect/wgsgj2011-Media2p1.html">ÔÓÖ¾Ã½Ìå</a></div>
+    <div class="Tzxt_rh5">
+        
+                <li><a href="/Effect/wgsgj2011-Media2s1p1.html">¹¤ÉÌÓ²¹ã</a> (38)</li>
+            
+                <li><a href="/Effect/wgsgj2011-Media2s2p1.html">ÈíÎÄ</a> (9)</li>
+            
+    </div>
+    
+    <div class="Tzxt_rh4"><a href="/Effect/wgsgj2011-Media3p1.html">µçÊÓÃ½Ìå</a></div>
+    <div class="Tzxt_rh5">
+        
+                <li><a href="/Effect/wgsgj2011-Media3s2p1.html">Ê±¶Î</a> (14)</li>
+            
+    </div>
+    
+    <div class="Tzxt_rh4"><a href="/Effect/wgsgj2011-Media4p1.html">¹ã²¥Ã½Ìå</a></div>
+    <div class="Tzxt_rh5">
+        
+                <li><a href="/Effect/wgsgj2011-Media4s1p1.html">Ê±¶Î</a> (276)</li>
+            
+                <li><a href="/Effect/wgsgj2011-Media4s2p1.html">ÆäËû</a> (5)</li>
+            
+    </div>
+    
+
+
+
+
+</div>
+
+
+<div class="zxt_rh32"> <a href="http://www.admaimai.com/Sell/" target="_blank"><img src="images/x2011b.jpg" border="0"></a></div>
+<div class="zxt_rh2">ÈÈÃÅ¹ã¸æ×ÊÔ´ÍÆ¼ö</div>
+<div class="zxt_rh3">
+<li><a href="/Effect/Tv/16230.html" target="_blank">ºªµ¦µçÊÓÌ¨¹ã¸æ´úÀí</a> <span class="z_f1"></span></li><li><a href="/Effect/Magazine/10611.html" target="_blank">Ê±ÉÐÒÁÈËÔÓÖ¾¹ã¸æ¡¢ÐÂÎÅ¸å·¢²¼</a> <span class="z_f1"></span></li><li><a href="/Effect/NewsPaper/6485.html" target="_blank">Æ½¶¥É½Íí±¨±¨Ö½¹ã¸æ</a> <span class="z_f1"></span></li><li><a href="/Effect/Broadcast/3860.html" target="_blank">Ö£ÖÝÒôÀÖ¡¢ÐÂÎÅ¡¢½»Í¨¹ã²¥¹ã¸æ</a> <span class="z_f1"></span></li><li><a href="/Effect/NewsPaper/5907.html" target="_blank">Ã¿ÈÕÐÂ±¨±¨Ö½¹ã¸æ</a> <span class="z_f1"></span></li><li><a href="/Effect/Tv/16227.html" target="_blank">ÇØ»ÊµºµçÊÓÌ¨¹ã¸æ´úÀí</a> <span class="z_f1"></span></li><li><a href="/Effect/Tv/16234.html" target="_blank">ÀÈ·»µçÊÓÌ¨¹ã¸æ´úÀí</a> <span class="z_f1"></span></li><li><a href="/Effect/Broadcast/3396.html" target="_blank">°üÍ·½»Í¨¡¢ÐÂÎÅ¡¢ÎÄÒÕ¡¢ÒôÀÖ¹ã²¥¹ã</a> <span class="z_f1"></span></li><li><a href="/Effect/Tv/16235.html" target="_blank">ºâË®µçÊÓÌ¨¹ã¸æ´úÀí</a> <span class="z_f1"></span></li><li><a href="/Effect/Broadcast/3622.html" target="_blank">ºÏ·ÊÎÄÒÕ¡¢½»Í¨¡¢ÐÂÎÅ¡¢ÒôÀÖµçÌ¨¹ã</a> <span class="z_f1"></span></li>
+</div>
+
+<div class="zxt_rh33"><a href="http://www.admaimai.com/BuyAd/AddBuy.aspx" target="_blank"><img src="images/x2011a.jpg" border="0"></a></div>
+<div class="zxt_rh3">
+
+<li><a href="/Buyers/" target="_blank">¹«Ë¾ÊÇ×öÊ³Æ·¿ìÏúÆ·µÄ£¬ÏëÔÚ¹ºÎïÆµ</a></li>
+<li><a href="/Buyers/" target="_blank">µÇ±¨Éí·ÝÖ¤ÒÅÊ§ÉùÃ÷</a></li>
+<li><a href="/Buyers/" target="_blank">ÎÒÃÇ¹«Ë¾ÊÇ×öÊ³Æ·µÄ£¬ÐèÒªÔÚÎÖ¶ûÂê</a></li>
+</div>
+
+
+<script type="text/javascript">var snsuses = 1;</script>
+<div class="zxt_rh2">ÍÆ¼ö¹ã¸æ¹«Ë¾&nbsp;&nbsp;&nbsp;<a href="http://www.admaimai.com/ExIntroduction/" target="_blank" class="zxt_f1">¼ÓÈë</a>&nbsp;&nbsp;&nbsp;<a    href="javascript:void(0);" onclick="if(snsuses==3){snsuses=1;}else{snsuses++;}for(var i=1;i<4;i++){document.getElementById('Divs'+i).style.display='none';}document.getElementById('Divs'+snsuses).style.display='';"  class="zxt_f1">»»Ò»×é</a></div>
+<div class="zxt_rh3">
+<div id="Divs1">
+
+<li><a href="http://www.admaimai.com/Effect/tommersss.html" target="_blank" >ÌìË³ÈËºÍ¹ã¸æÓÐÏÞ¹«Ë¾</a> <font class="vip_c01">VIP</font></li>
+
+<li><a href="http://www.admaimai.com/Effect/adeerds.html" target="_blank" >Ã½Ö®Ò×¶õ¶û¶àË¹·Ö¹«Ë¾</a> <font class="vip_c01">VIP</font></li>
+
+<li><a href="http://www.admaimai.com/Effect/adexy.html" target="_blank" >Ã½Ö®Ò×ÏåÑô·Ö¹«Ë¾</a> <font class="vip_c01">VIP</font></li>
+
+<li><a href="http://www.admaimai.com/Effect/adehrb.html" target="_blank" >Ã½Ö®Ò×¹þ¶û±õ·Ö¹«Ë¾</a> <font class="vip_c01">VIP</font></li>
+
+<li><a href="http://www.admaimai.com/Effect/adezzhou.html" target="_blank" >Ã½Ö®Ò×ÖêÖÞ·Ö¹«Ë¾</a> <font class="vip_c01">VIP</font></li>
+
+<li><a href="http://www.admaimai.com/Effect/hld888.html" target="_blank" >ÉÏº£Ì´ºèÎÄ»¯´«Ã½ÓÐÏÞ¹«Ë¾</a> <font class="vip_c01">VIP</font></li>
+
+<li><a href="http://www.admaimai.com/Effect/china21cd.html" target="_blank" >°°É½½õÈóÎÄ»¯´«²¥ÓÐÏÞ¹«Ë¾</a> <font class="vip_c01">VIP</font></li>
+
+<li><a href="http://www.admaimai.com/Effect/ibdaily.html" target="_blank" >¹ú¼ÊÉÌ±¨Éç</a> <font class="vip_c01">VIP</font></li>
+
+<li><a href="http://www.admaimai.com/Effect/zhongfu.html" target="_blank" >ÀÈ·»ÊÐÖÐ¸»ÎÄ»¯´«Ã½ÓÐÏÞ¹«Ë¾</a> <font class="vip_c01">VIP</font></li>
+
+<li><a href="http://www.admaimai.com/Effect/yuzhonghua.html" target="_blank" >È«¹úµçÊÓ¹ã¸æÖÐÐÄ</a> <font class="vip_c01">VIP</font></li>
+
+</div>
+<div id="Divs2" style="display:none;">
+
+<li><a href="http://www.admaimai.com/Effect/adecd.html" target="_blank" >Ã½Ö®Ò×³É¶¼·Ö¹«Ë¾</a> <font class="vip_c01">VIP</font></li>
+
+<li><a href="http://www.admaimai.com/Effect/liangpingmeiti.html" target="_blank" >ËÄ´¨ÖÐÀ¶ÎÄ»¯´«Ã½ÓÐÏÞ¹«Ë¾</a> <font class="vip_c01">VIP</font></li>
+
+<li><a href="http://www.admaimai.com/Effect/ydtl2010.html" target="_blank" >ÉÂÎ÷Ò»´úÌì½¾ÎÄ»¯´«²¥ÓÐÏÞ¹«Ë¾</a> <font class="vip_c01">VIP</font></li>
+
+<li><a href="http://www.admaimai.com/Effect/Elvamo.html" target="_blank" >Ê¯¼Ò×¯ÊÐÌì³¤ÎÄ»¯´«Ã½ÓÐÏÞ¹«Ë¾</a> <font class="vip_c01">VIP</font></li>
+
+<li><a href="http://www.admaimai.com/Effect/sys123.html" target="_blank" >ºÚÁú½­ÊÓÒ×Ê¢¹ã¸æÎÄ»¯´«²¥ÓÐÏÞ¹«Ë¾</a> <font class="vip_c01">VIP</font></li>
+
+<li><a href="http://www.admaimai.com/Effect/jiakeliang.html" target="_blank" >±±¾©µØÏÂÌúµÀÍ¨³É¹ã¸æÓÐÏÞ¹«Ë¾</a> <font class="vip_c01">VIP</font></li>
+
+<li><a href="http://www.admaimai.com/Effect/SHBYGGJT.html" target="_blank" >ÉÏº£±¦Ô·¹«¹²½»Í¨´«Ã½ÓÐÏÞ¹«Ë¾</a> <font class="vip_c01">VIP</font></li>
+
+<li><a href="http://www.admaimai.com/Effect/miaolei123.html" target="_blank" >ÉÂÎ÷Ç¬ÏØÐÂË¼Â·¹ã¸æ´«Ã½¹«Ë¾</a> <font class="vip_c01">VIP</font></li>
+
+<li><a href="http://www.admaimai.com/Effect/jmhtguanggao.html" target="_blank" >ÉòÑô½ðÂöºãÍ¨¹ã¸æÓÐÏÞ¹«Ë¾</a> <font class="vip_c01">VIP</font></li>
+
+<li><a href="http://www.admaimai.com/Effect/adedz.html" target="_blank" >Ã½Ö®Ò×µÂÖÝ·Ö¹«Ë¾</a> <font class="vip_c01">VIP</font></li>
+
+</div>
+<div id="Divs3"  style="display:none;">
+
+<li><a href="http://www.admaimai.com/Effect/zhenxinggg.html"  target="_blank" >Î÷°²ÊÐÕñÐË¹«½»¹ã¸æÓÐÏÞÔðÈÎ¹«Ë¾</a> <font class="vip_c01">VIP</font></li>
+
+<li><a href="http://www.admaimai.com/Effect/adejx.html"  target="_blank" >Ã½Ö®Ò×½­Î÷·Ö¹«Ë¾</a> <font class="vip_c01">VIP</font></li>
+
+<li><a href="http://www.admaimai.com/Effect/heshunguanggao.html"  target="_blank" >º×¸ÚºÏË³ÎÄ»¯´«Ã½ÓÐÏÞ¹«Ë¾</a> <font class="vip_c01">VIP</font></li>
+
+<li><a href="http://www.admaimai.com/Effect/zhongyeguanggao.html"  target="_blank" >±£¶¨ÊÐÖÐÒµ¹ã¸æ´«²¥ÓÐÏÞ¹«Ë¾</a> <font class="vip_c01">VIP</font></li>
+
+<li><a href="http://www.admaimai.com/Effect/adehb.html"  target="_blank" >Ã½Ö®Ò×ºþ±±·Ö¹«Ë¾</a> <font class="vip_c01">VIP</font></li>
+
+<li><a href="http://www.admaimai.com/Effect/jiangge0773.html"  target="_blank" >¹ãÖÝÏð¹ûÐÅÏ¢¿Æ¼¼ÓÐÏÞ¹«Ë¾</a> <font class="vip_c01">VIP</font></li>
+
+<li><a href="http://www.admaimai.com/Effect/hbdfsh.html"  target="_blank" >Ê®ÑßÊÐ¶«·½Ê¥»ðÎÄ»¯Í¶×ÊÓÐÏÞ¹«Ë¾</a> <font class="vip_c01">VIP</font></li>
+
+<li><a href="http://www.admaimai.com/Effect/taiyangchuanmei.html"  target="_blank" >ËÄ´¨Ì«ÑôÎÄ»¯ÓÐÏÞÔðÈÎ¹«Ë¾</a> <font class="vip_c01">VIP</font></li>
+
+<li><a href="http://www.admaimai.com/Effect/gstgg.html"  target="_blank" >ÉîÛÚÊÐ¹ãÊÓÍ¨ÎÄ»¯´«²¥ÓÐÏÞ¹«Ë¾</a> <font class="vip_c01"></font></li>
+
+<li><a href="http://www.admaimai.com/Effect/beijingrongmei.html"  target="_blank" >±±¾©ÈÚÃ½»¥¶¯ÐÅÏ¢¼¼ÊõÓÐÏÞ¹«Ë¾</a> <font class="vip_c01">VIP</font></li>
+</div>
+</div>
+
+
+<div class="zxt_rh2">¹ã¸æÍ¶·Å±¦µä</div>
+<div class="zxt_rh3">
+
+<li><a  href="http://www.admaimai.com/Stratagem/RedirectURL.aspx?u=http://www.admaimai.com/zhishi/second.aspx?key=%E5%B9%BF%E5%91%8A%E6%95%88%E6%9E%9C" target="_blank">¹ã¸æÍ¶·ÅÐ§¹ûºÍ¹ã¸æÍ¶·Å²ßÂÔ</a></li>
+
+<li><a  href="http://www.admaimai.com/Stratagem/RedirectURL.aspx?u=http://www.admaimai.com/zhishi/second.aspx?key=%E5%B9%BF%E5%91%8A%E6%8A%95%E6%94%BE" target="_blank">¹ã¸æÍ¶·ÅÐèÒª×¢ÒâÊÂÏîÒÔ¼°ÓÐ¹ØÎÊÌâ</a></li>
+
+<li><a  href="http://www.admaimai.com/Stratagem/RedirectURL.aspx?u=http://www.admaimai.com/zhuanti/k-%E5%B9%BF%E5%91%8A%E6%8A%95%E6%94%BE_p1.htm" target="_blank">¹ã¸æÍ¶·ÅÍøÂçËÑË÷ÈÈµã´Ê»ã»ã×Ü</a></li>
+
+<li><a  href="http://www.admaimai.com/Stratagem/RedirectURL.aspx?u=http://www.admaimai.com/zhuanti/k-%E5%AA%92%E4%BD%93_p1.htm" target="_blank">¹ã¸æÍ¶·ÅÓëÃ½ÌåÔËÓÃ²ßÂÔ·ÖÎö</a></li>
+
+<li><a  href="http://www.admaimai.com/Stratagem/RedirectURL.aspx?u=http://www.admaimai.com/ExIntroduction/" target="_blank">×ÉÑ¯Í¨¿Í»§Ãâ·ÑÍÆ¹ã£¬Ãâ·ÑÕ¹Ê¾</a></li>
+
+<li><a  href="http://www.admaimai.com/Stratagem/RedirectURL.aspx?u=http://www.admaimai.com/Copywriter/" target="_blank">¹ã¸æÍ¶·ÅÓë¹ã¸æ²ßÂÔÖ®ÎÄ°¸</a></li>
+
+<li><a  href="http://www.admaimai.com/Stratagem/RedirectURL.aspx?u=http://www.admaimai.com/SpecialColumn/" target="_blank">¹ã¸æÖ÷¼°¹ã¸æ²ß»®ÈËÖ®ÓªÏú¹Ûµã</a></li>
+
+<li><a  href="http://www.admaimai.com/Stratagem/RedirectURL.aspx?u=http://www.admaimai.com/Regulation/" target="_blank">¹ã¸æÐû´«¼°¹ã¸æ¼à¹Ü¹ã¸æÎ¥·¨¶¯Ì¬</a></li>
+
+<li><a  href="http://www.admaimai.com/Stratagem/RedirectURL.aspx?u=http://www.admaimai.com/News/NewsList.aspx?key=%E5%B9%BF%E5%91%8A" target="_blank">¹ã¸æÓÐ¹ØµÄ×îÐÂÐÂÎÅ¶¯Ì¬×ÊÑ¶</a></li>
+
+<li><a  href="http://www.admaimai.com/Stratagem/RedirectURL.aspx?u=http://www.admaimai.com/News/NewsList.aspx?key=%E5%AA%92%E4%BD%93" target="_blank">È«Çò¸÷ÀàÃ½ÌåÓÐ¹ØµÄ×îÐÂ¶¯Ì¬ÐÅÏ¢</a></li>
+
+</div>
+<!--RightAscxSplitEnd-->
+</div>
+
+<!--EMasterSplitEnd-->
+
+<div class="bot_dfz">
+<div class="bot_dfz01">
+<div class="bot_dfz_lf"><a href="http://china.admaimai.com/subject/" target="_blank"><span class="bot_dfz_f2">È«¹ú366¸öµØ·½Õ¾³ÏÕ÷¼ÓÃË</span></a>&nbsp;&nbsp;<a href="http://china.admaimai.com/conventions.html" target="_blank"><span class="bot_dfz_f1">¼ÓÃË´ó»á</span></a>&nbsp;&nbsp;<a href="http://china.admaimai.com/Handle.html" target="_blank" class="bot_dfz_f1"><span class="bot_dfz_f1">Ë÷È¡ÃÅÆ±</span></a></div>
+<div class="bot_dfz_rh"><a href="http://www.admaimai.com/Stratagem/RedirectURL.aspx?u=http://seo.chinaz.com/?q=www.admaimai.com" target="_blank">SE0Ö¸Êý</a>&nbsp;&nbsp;<a href="http://www.admaimai.com/Stratagem/RedirectURL.aspx?u=http://alexa.chinaz.com/Index.asp?domain=http://www.admaimai.com" target="_blank">ÊÀ½çÅÅÃû</a>&nbsp;&nbsp;<a href="http://china.admaimai.com/subject/" target="_blank">µØ·½Õ¾¼ÓÃË</a>&nbsp;&nbsp;<a href="http://china.admaimai.com/subject/jmxz.html" target="_blank">¼ÓÃËÐëÖª</a>&nbsp;&nbsp;<a href="http://china.admaimai.com/subject/cfhb.html" target="_blank">²Æ¸»»Ø±¨</a>&nbsp;&nbsp;<a href="http://china.admaimai.com/subject/ptys.html" target="_blank">Æ½Ì¨ÓÅÊÆ</a>&nbsp;&nbsp;<a href="http://china.admaimai.com/subject/cjwt.html" target="_blank">³£¼ûÎÊÌâ</a>&nbsp;&nbsp;<a href="http://china.admaimai.com/subject/jmlc.html" target="_blank">¼ÓÃËÁ÷³Ì</a></div>
+</div>
+<div class="bot_dfz02"><script type="text/javascript" src="/inc/adv1Detail/1593.js"></script></div>
+</div>
+<div class="zxt_05">
+<span class="z_f4">ÒÑÓÐ <a href="http://www.admaimai.com/Effect/wgsgj2011-Call.html" target="_blank"><span class="z_f5"><script type="text/javascript" src="/Effect/GetHasUseService.ashx?Id=107987"></script></span></a> ÈËµç»°×ÉÑ¯ÁË±±¾©Îå¹âÊ¯¹ú¼Ê¹ã¸æÓÐÏÞ¹«Ë¾</span><br>
+¹«Ë¾µØÖ·£º±±¾©ÊÐ³¯ÑôÇø½õ·¼Â·1ºÅÔºÐñ»Ô°Â¶¼4ºÅÂ¥811ÊÒ<br>
+<a href="/ExIntroduction/list1.htm" target="_blank">¹ØÓÚ¹ã¸æÂòÂôÍø</a> | <a href="http://www.admaimai.com/ExIntroduction/list4.htm" target="_blank">ÈëÕËÍ¾¾¶</a> | <a href="http://www.admaimai.com/ExIntroduction/list5.htm" target="_blank">ÁªÏµÎÒÃÇ</a><br />
+<script src='http://w.cnzz.com/c.php?id=30054717' language='JavaScript'></script>
+
+</div>
+</div>
+<script type="text/javascript" src="/stat/webstat.aspx?mid=107987&vid=0&stattype=1&id=0"></script>
+    </form>
+<script type="text/javascript">
+$.get("/GetCurrentUserName.ashx", {Action:"get"}, function (data, textStatus){
+this;
+if(data!="")
+    document.getElementById("SpanEffectLoginInfo").innerHTML = "<a href=\"/AfterLogin/Index.aspx\">" + data + "</a>";
+});
+</script>
+<script type="text/javascript">
+    $.get("/Effect/GetHasChargeTimes.aspx?Id=" + MmId, {Action:"get"}, function (data, textStatus){
+this;
+if(data!="")
+    document.getElementById("StrongFeeTimes").innerHTML = data ;
+});
+</script>
+</body>
+</html>
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>³àË®ÊÐ·ÉÏèÃÎ¹ã¸æ¹«Ë¾ Æ½ÃæÉè¼ÆÊ¦_4A¹ã¸æ¹«Ë¾ÕÐÆ¸-¹ã¸æÂòÂôÍø</title>
+<meta name="Keywords" content="³àË®ÊÐ·ÉÏèÃÎ¹ã¸æ¹«Ë¾ Æ½ÃæÉè¼ÆÊ¦,¹ã¸æ¹«Ë¾ÕÐÆ¸" />
+<meta name="Description" content="¹ã¸æ¹«Ë¾ÕÐÆ¸:³àË®ÊÐ·ÉÏèÃÎ¹ã¸æ¹«Ë¾ Æ½ÃæÉè¼ÆÊ¦,³àË®ÊÐ·ÉÏèÃÎ¹ã¸æ¹«Ë¾ Æ½ÃæÉè¼ÆÊ¦ÕÐÆ¸ÐÅÏ¢,³àË®ÊÐ·ÉÏèÃÎ¹ã¸æ¹«Ë¾ Æ½ÃæÉè¼ÆÊ¦ÐÅÏ¢ÏêÇé,³àË®ÊÐ·ÉÏèÃÎ¹ã¸æ¹«Ë¾ Æ½ÃæÉè¼ÆÊ¦¹ã¸æ¹«Ë¾ÕÐÆ¸¹¤×Ê´ýÓö,³àË®ÊÐ·ÉÏèÃÎ¹ã¸æ¹«Ë¾ Æ½ÃæÉè¼ÆÊ¦Ö°Î»" />
+<link href="http://image1.admaimai.com/job/css/zhuanjia.css" rel="stylesheet" type="text/css" />
+<link href="http://image1.admaimai.com/Index/css/css_index.css" rel="stylesheet" type="text/css" />
+<link href="http://image1.admaimai.com/css/HeadAndFoot.css" rel="stylesheet" type="text/css" />
+<link href="http://www.admaimai.com/css/bottom2013.css" rel="stylesheet" type="text/css"/>
+<link href="http://image1.admaimai.com/css/top_2012.css" rel="stylesheet" type="text/css" />
+    <script src="/js/headJs.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://image1.admaimai.com/Index/IndexAbout.js"></script><link href="/css/v4top2010.css" rel="stylesheet" type="text/css" />
+</head>
+<body><link type="text/css" href="/Inc/texiao/tx.css" rel="stylesheet" />
+<link type="text/css" href="/Inc/texiao/index.css" rel="stylesheet" />
+<script type="text/javascript" src="/inc/texiao/tx.js"></script>
+<div id="ad" class="texiao_01"><div class="texiao_02"><div class="texiao_03">
+<div class="texiao_046"><a href="http://huwai.51ade.com/Kuangjia/List.html" onmousemove="ShowDivTx('tx_05');" onmouseout="HideDivTx('tx_05');" target="_blank"></a></div>
+<div class="texiao_041"><a href="javascript:;" onmousemove="ShowDivTx('tx_01');" onmouseout="HideDivTx('tx_01');"></a></div>
+<div class="texiao_042"><a href="javascript:;" onmousemove="ShowDivTx('tx_02');" onmouseout="HideDivTx('tx_02');"></a></div>
+
+<div class="texiao_06">
+<div class="texiao_05" id='tx_01' name="texiao" onMouseOut="HideDivTx('tx_01');" onMouseOver="ShowDivTx('tx_01');"><img src="/inc/texiao/images/texiao_wx.jpg" border="0"></div>
+
+<div class="cebian_box" id="tx_02" onMouseOut="HideDivTx('tx_02');" onMouseOver="ShowDivTx('tx_02');" style="visibility: hidden;">
+<div class="cebian_top">
+<a href="javascript:;" class="kefu"><span>¿Í·þÖÐÐÄ</span><img src="/inc/texiao/images/13129eb0dc88a51e9ac8db178c40663.png" alt=""></a>
+<p class="dianhua"><i class="icon"></i><span>400-832-5111</span></p>
+</div>
+<div class="cebian_center">
+<ul class="cenul">
+<li class="cenli clearfix">
+<img src="/inc/texiao/images/1.png" alt="" class="left">
+<div class="telright">
+<p class="teltext">»§ÍâÖ±²¦¿Í·þ</p>
+<p class="telnum">17310031465</p>
+</div>
+</li>
+<li class="cenli">
+<img src="/inc/texiao/images/2.png" alt="" class="left">
+<div class="telright">
+<p class="teltext">»§ÍâÖ±²¦¿Í·þ</p>
+<p class="telnum">17310615514</p>
+</div>
+</li>
+<li class="cenli">
+<img src="/inc/texiao/images/3.png" alt="" class="left">
+<div class="telright">
+<p class="teltext">»§ÍâÖ±²¦¿Í·þ</p>
+<p class="telnum">17310628984</p>
+</div>
+</li>
+<li class="cenli">
+<img src="/inc/texiao/images/4.png" alt="" class="left">
+<div class="telright">
+<p class="teltext">»§ÍâÖ±²¦¿Í·þ</p>
+<p class="telnum">17310642451</p>
+</div>
+</li>
+<li class="cenli">
+<img src="/inc/texiao/images/5.png" alt="" class="left">
+<div class="telright">
+<p class="teltext">»§ÍâÖ±²¦¿Í·þ</p>
+<p class="telnum">17301101094</p>
+</div>
+</li>
+<li class="cenli">
+<img src="/inc/texiao/images/1.png" alt="" class="left">
+<div class="telright">
+<p class="teltext">»§ÍâÖ±²¦¿Í·þ</p>
+<p class="telnum">17301183291</p>
+</div>
+</li>
+</ul>
+</div>
+<a class="zaixin_box" target="_blank" href="https://gytk5.kuaishang.cn/bs/im.htm?cas=78426___801555&fi=89485"></a>
+
+</div>
+
+
+<div class="texiao_046_1" id='tx_05' name="texiao" onMouseOut="HideDivTx('tx_05');" onMouseOver="ShowDivTx('tx_05');"><a href="http://huwai.51ade.com/Kuangjia/List.html" target="_blank"><img src="/inc/texiao/images/right.jpg" border="0"></a></div>
+</div></div></div>
+
+
+
+</div>
+<script type="text/javascript">
+eval(function(p,a,c,k,e,r){e=function(c){return c.toString(a)};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('8(3.5.6("2://1.7.4")!=0&&3.5.6("2://1.9.4")!=0&&3.5.6("2://1.a.4")!=0)3="2://1.7.4";',11,11,'|www|http|location|com|href|indexOf|admaimai|if|gpiano|51ade'.split('|'),0,{}));
+scrollImg();
+</script>
+<script type="text/javascript" src="/inc/baiduTuisong.js"></script>
+    <form name="form1" method="post" action="/Job/Detail.aspx?id=5703&amp;r=4078" id="form1">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A48984AB" />
+</div>
+<div id="mybody"><!--HeadPageStart-->
+
+<div class="xinwen_top_01">
+<div class="bz_top_02">
+<div class="bz_top_02a">
+<div class="bz_top_03">
+<iframe src="/loginiframeforindexV7.aspx" name="loginIframe" allowTransparency="true"  width="550" height="25" frameborder="0" scrolling="no"></iframe>
+</div>
+<div class="bz_top_04">
+<div class="bz_top_04a"><a href="http://www.admaimai.com/ExIntroduction/" target="_blank">×ÉÑ¯Í¨</a> | <a href="http://www.admaimai.com/AdIntroduction/"  target="_blank">¹ã¸æÍ¨</a> | <a href="http://www.admaimai.com/UpHelp/CustomerIndex.html" target="_blank">¿Í·þÖÐÐÄ</a> | <a href="http://www.admaimai.com/UpHelp/Map.html" target="_blank">ÍøÕ¾µØÍ¼</a> | <a href="javascript:;" onclick="try{this.style.behavior='url(#default#homepage)';this.setHomePage(location.href);}catch(e){try{netscape.security.PrivilegeManager.enablePrivilege('UniversalXPConnect');Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch).setCharPref('browser.startup.homepage', location.href);}catch(e){alert('´Ë²Ù×÷±»ä¯ÀÀÆ÷¾Ü¾ø£¡\nÇëÔÚä¯ÀÀÆ÷µØÖ·À¸ÊäÈë¡°about:config¡±²¢»Ø³µ\nÈ»ºó½«[signed.applets.codebase_principal_support]µÄÖµÉèÖÃÎªtrue,Ë«»÷¼´¿É¡£');}}">ÉèÎªÊ×Ò³</a> | <a href="javascript:;" onclick="try{window.external.addFavorite(location.href,document.title);}catch(e){try{window.sidebar.addPanel(document.title,location.href,'');}catch(e){alert('¼ÓÈëÊÕ²ØÊ§°Ü£¬ÇëÊ¹ÓÃCtrl+D½øÐÐÌí¼Ó');}}">¼ÓÈëÊÕ²Ø</a></div>
+</div>
+</div>
+</div>
+<div class="bz_top_02">
+<div class="bz_top_02b">
+<div class="bz_top_05"><img src="http://www.admaimai.com/images/xinwen5_top_03.gif" border="0" usemap="#Map">
+<map name="Map">
+<area shape="rect" alt="" coords="3,3,220,55" href="http://www.admaimai.com" target="_blank" />
+<area shape="rect" alt="" coords="237,8,387,53" target="_blank" href='http://www.admaimai.com/jinnang/ ' />
+</map>
+</div>
+<div class="Zlf_tb2">
+<div class="x_qiugou_01">
+<div class="x_qiugou_02" style="margin:5px 0px 0px 50px;"><a href="http://www.admaimai.com/BuyAD/buyadd.aspx" target="_blank"><img src="/Images/qiugou.png" border="0" width="60" height="60" /></a></div>
+</div>
+</div>
+<div class="bz_top_06a">
+<div class="bz_top_06b">
+<div class="bz_top_06g" id="sreach1" onclick=selectEquipment(1)><a href="javascript:;" >ÐÂÎÅ</a></div>
+<div class="bz_top_06h" id="sreach2" onclick=selectEquipment(2)><a href="javascript:;">¼à²â</a></div>
+<div class="bz_top_06h" id="sreach3" onclick=selectEquipment(3)><a href="javascript:;" >ÎÊÌâ</a></div>
+</div>
+<div class="bz_top_06c">
+<INPUT id="TxtCommonHead"   class="bz_top_06f" type=text name="" />
+</div>
+<div class="bz_top_06d">
+<INPUT class="bz_top_06e" onclick="dosreachCommonHead()" type="button" name="" />
+</div>
+</div>
+</div>
+</div>
+<div class="bz_top_02">
+<div class="bz_top_07">
+<div class="bz_top_07a" id="Adhead1"   onmouseover="DoHeadMouserOvers(1)" onmouseout="DoHeadOut(1)">
+<div class="bz_top_07a1" ><a href='http://www.admaimai.com/Effect/nmgxxxhwgg.html' target="_blank"><img src=http://image1.admaimai.com/UpLoadFiles/commendImages/1197/f1-1003d140-4e55-40a6-b38e-603e1885a272.jpg border="0"></a></div>
+<div class="bz_top_07a2" ><a href='http://www.admaimai.com/Effect/nmgxxxhwgg.html' target="_blank">ÐÂÐÎÏó¹ã¸æ</a></div>
+</div>
+<div class="bz_top_07a"  id="Adhead2" onmouseover="DoHeadMouserOvers(2)" onmouseout="DoHeadOut(2)">
+<div class="bz_top_07a1" ><a href='http://www.admaimai.com/Effect/hbhcm.html' target="_blank"><img src=http://image1.admaimai.com/UpLoadFiles/commendImages/1197/f1-f6915b6f-9d4a-451b-8d7b-255ef8ef1fc4.jpg border="0"></a></div>
+<div class="bz_top_07a2" ><a href='http://www.admaimai.com/Effect/hbhcm.html' target="_blank">»·²³º£´«Ã½</a></div>
+</div>
+<div class="bz_top_07a"  id="Adhead3" onmouseover="DoHeadMouserOvers(3)" onmouseout="DoHeadOut(3)">
+<div class="bz_top_07a1" ><a href='http://www.admaimai.com/Effect/SSHH.html' target="_blank"><img src=http://image1.admaimai.com/UpLoadFiles/commendImages/1197/f1-cb3ea267-f9df-47ad-a6df-7ab925a57e41.jpg border="0"></a></div>
+<div class="bz_top_07a2" ><a href='http://www.admaimai.com/Effect/SSHH.html' target="_blank">Ê¢ÊÀ»Ô»Í¹ã¸æ</a></div>
+</div>
+<div class="bz_top_07a"  id="Adhead4" onmouseover="DoHeadMouserOvers(4)" onmouseout="DoHeadOut(4)">
+<div class="bz_top_07a1" ><a href='http://www.admaimai.com/Effect/qisexidi.html' target="_blank"><img src=http://image1.admaimai.com/UpLoadFiles/commendImages/1197/f1-63f402f4-fae5-4d45-9af2-348e39d0ff1d.jpg border="0"></a></div>
+<div class="bz_top_07a2" ><a href='http://www.admaimai.com/Effect/qisexidi.html' target="_blank">ÆßÉ«Î÷µØ</a></div>
+</div>
+<div class="bz_top_07a" id="Adhead5" onmouseover="DoHeadMouserOvers(5)" onmouseout="DoHeadOut(5)">
+<div class="bz_top_07a1" ><a href='http://www.admaimai.com/Effect/lanchengbohan.html' target="_blank"><img src=http://image1.admaimai.com/UpLoadFiles/commendImages/1197/f1-eb57f6e1-9919-4307-98eb-ff60d4a8b852.jpg border="0"></a></div>
+<div class="bz_top_07a2" ><a href='http://www.admaimai.com/Effect/lanchengbohan.html' target="_blank">À¶³Ç²©º¯</a></div>
+</div>
+<div class="bz_top_07a"  id="Adhead6" onmouseover="DoHeadMouserOvers(6)" onmouseout="DoHeadOut(6)">
+<div class="bz_top_07a1" ><a href='http://www.admaimai.com/Effect/rongwei-Introduction.html' target="_blank"><img src=http://image1.admaimai.com/UpLoadFiles/commendImages/1197/f1-7f570ab9-89c8-4951-8543-e2d9ea541303.jpg border="0"></a></div>
+<div class="bz_top_07a2" ><a href='http://www.admaimai.com/Effect/rongwei-Introduction.html' target="_blank">ÈÖÍþ´«Ã½</a></div>
+</div>
+<div class="bz_top_07a"  id="Adhead7" onmouseover="DoHeadMouserOvers(7)" onmouseout="DoHeadOut(7)">
+<div class="bz_top_07a1" ><a href='http://www.admaimai.com/Effect/shanxisaier.html' target="_blank"><img src=http://image1.admaimai.com/UpLoadFiles/commendImages/1197/f1-e1cf2584-125e-4017-8f2a-84ec73e6075b.jpg border="0"></a></div>
+<div class="bz_top_07a2" ><a href='http://www.admaimai.com/Effect/shanxisaier.html' target="_blank">Èü¶ûÆ·ÅÆ</a></div>
+</div>
+<div class="bz_top_07a"  id="Adhead8" onmouseover="DoHeadMouserOvers(8)" onmouseout="DoHeadOut(8)">
+<div class="bz_top_07a1" ><a href='http://www.admaimai.com/Effect/yuanhaiying2013.html' target="_blank"><img src=http://image1.admaimai.com/UpLoadFiles/commendImages/1197/f1-831bac80-3815-4544-8639-2653f97f08e6.jpg border="0"></a></div>
+<div class="bz_top_07a2" ><a href='http://www.admaimai.com/Effect/yuanhaiying2013.html' target="_blank">»¥´´Ó°ÊÓ</a></div>
+</div>
+<div class="bz_top_07a"  id="Adhead9" onmouseover="DoHeadMouserOvers(9)" onmouseout="DoHeadOut(9)">
+<div class="bz_top_07a1" ><a href='http://www.admaimai.com/Effect/zhengliweir.html' target="_blank"><img src=http://image1.admaimai.com/UpLoadFiles/commendImages/1197/f1-532db72d-9a28-4cc6-b3e5-63bbcde90a1c.jpg border="0"></a></div>
+<div class="bz_top_07a2" ><a href='http://www.admaimai.com/Effect/zhengliweir.html' target="_blank">ÖÇ·å¹ú¼Ê</a></div>
+</div>
+<div class="bz_top_07a"  id="Adhead10" onmouseover="DoHeadMouserOvers(10)" onmouseout="DoHeadOut(10)">
+<div class="bz_top_07a1" ><a href='http://www.admaimai.com/Effect/dlgywj.html' target="_blank"><img src=http://image1.admaimai.com/UpLoadFiles/commendImages/1197/f1-736fa07c-02aa-4601-a229-99558fc808de.jpg border="0"></a></div>
+<div class="bz_top_07a2" ><a href='http://www.admaimai.com/Effect/dlgywj.html' target="_blank">¹úÓòÎÞ½®</a></div>
+</div>
+<div class="bz_top_04"><a href="http://www.admaimai.com/AdIntroduction/Brand.html" target="_blank"><img src="http://image1.admaimai.com/images/xinwen_top_09.gif"></a></div>
+</div>
+<div class="bz_top_07b" id="AdheadImage1" style="display:none;" onmouseover="DoHeadMouserOvers(1)" onmouseout="DoHeadOut(1)"><a href='http://www.admaimai.com/Effect/nmgxxxhwgg.html' target="_blank"><img src=http://image1.admaimai.com/UpLoadFiles/commendImages/1197/f2-df3dcd64-4f7f-4c44-b378-4500264509ff.jpg border="0"></a></div>
+<div class="bz_top_07b" id="AdheadImage2" style="display:none;" onmouseover="DoHeadMouserOvers(2)" onmouseout="DoHeadOut(2)"><a href='http://www.admaimai.com/Effect/hbhcm.html' target="_blank"><img src=http://image1.admaimai.com/UpLoadFiles/commendImages/1197/f2-14f44803-d6a8-4be6-83fc-4b895b7958c8.jpg border="0"></a></div>
+<div class="bz_top_07b" id="AdheadImage3" style="display:none;" onmouseover="DoHeadMouserOvers(3)" onmouseout="DoHeadOut(3)"><a href='http://www.admaimai.com/Effect/SSHH.html' target="_blank"><img src=http://image1.admaimai.com/UpLoadFiles/commendImages/1197/f2-921b30c8-a763-483a-ada9-4d0a87a2176d.jpg border="0"></a></div>
+<div class="bz_top_07b" id="AdheadImage4" style="display:none;" onmouseover="DoHeadMouserOvers(4)" onmouseout="DoHeadOut(4)"><a href='http://www.admaimai.com/Effect/qisexidi.html' target="_blank"><img src=http://image1.admaimai.com/UpLoadFiles/commendImages/1197/f2-46cedd39-cc99-4b53-807f-da3d0b6acc61.jpg border="0"></a></div>
+<div class="bz_top_07b" id="AdheadImage5" style="display:none;" onmouseover="DoHeadMouserOvers(5)" onmouseout="DoHeadOut(5)"><a href='http://www.admaimai.com/Effect/lanchengbohan.html' target="_blank"><img src=http://image1.admaimai.com/UpLoadFiles/commendImages/1197/f2-3416a82f-0eba-47ee-94a3-5ba06b03f57e.jpg border="0"></a></div>
+<div class="bz_top_07b" id="AdheadImage6" style="display:none;" onmouseover="DoHeadMouserOvers(6)" onmouseout="DoHeadOut(6)"><a href='http://www.admaimai.com/Effect/rongwei-Introduction.html' target="_blank"><img src=http://image1.admaimai.com/UpLoadFiles/commendImages/1197/f2-6c3cee80-2524-4d55-8767-95ba98cd3431.jpg border="0"></a></div>
+<div class="bz_top_07b" id="AdheadImage7" style="display:none;" onmouseover="DoHeadMouserOvers(7)" onmouseout="DoHeadOut(7)"><a href='http://www.admaimai.com/Effect/shanxisaier.html' target="_blank"><img src=http://image1.admaimai.com/UpLoadFiles/commendImages/1197/f2-7e200407-f429-491c-b550-7d2413f1ccb5.jpg border="0"></a></div>
+<div class="bz_top_07b" id="AdheadImage8" style="display:none;" onmouseover="DoHeadMouserOvers(8)" onmouseout="DoHeadOut(8)"><a href='http://www.admaimai.com/Effect/yuanhaiying2013.html' target="_blank"><img src=http://image1.admaimai.com/UpLoadFiles/commendImages/1197/f2-f2d389c9-960c-451e-b134-0950df5d5ac8.jpg border="0"></a></div>
+<div class="bz_top_07b" id="AdheadImage9" style="display:none;" onmouseover="DoHeadMouserOvers(9)" onmouseout="DoHeadOut(9)"><a href='http://www.admaimai.com/Effect/zhengliweir.html' target="_blank"><img src=http://image1.admaimai.com/UpLoadFiles/commendImages/1197/f2-d5939ca6-f67b-4f73-af90-bd4ec59df8c5.jpg border="0"></a></div>
+<div class="bz_top_07b" id="AdheadImage10" style="display:none;" onmouseover="DoHeadMouserOvers(10)" onmouseout="DoHeadOut(10)"><a href='http://www.admaimai.com/Effect/dlgywj.html' target="_blank"><img src=http://image1.admaimai.com/UpLoadFiles/commendImages/1197/f2-931d068d-00e0-43da-b596-5a2784524bc5.jpg border="0"></a></div>
+</div>
+<div class="bz_top_02">
+<div class="bz_top_08a">
+<div class="bz_top_03">
+<div class="xinwen_top_08a3"  id="heads"  onmousemove="DoMouseHeadsuoOver(5)"  onmouseout="DoMouseHeadsuoOut(5)"><a >ËùÓÐ¹ã¸æ×ÊÔ´</a></div>
+<div class="xinwen_top_08a1" id="head1"  onmousemove="DoMouseHeadOverCeHua(1)" onmouseout="DoMouseHeadOutCeHua(1)"><a href="http://www.admaimai.com/news/" target="_blank">ÐÂÎÅ</a></div>
+<div class="xinwen_top_08a1" id="head2"  onmousemove="DoMouseHeadOverCeHua(2)" onmouseout="DoMouseHeadOutCeHua(2)"><a href="http://www.admaimai.com/ShuJuJianCe/" target="_blank">Ã½Ìå¼à²â</a></div>
+<div class="xinwen_top_08a1" id="head3"  onmousemove="DoMouseHeadOverCeHua(3)" onmouseout="DoMouseHeadOutCeHua(3)"><a href="http://www.admaimai.com/zhishi/" target="_blank">ÎÊÌâ</a></div>
+<div class="xinwen_top_08a1" id="head4"  onmousemove="DoMouseHeadOverCeHua(4)" onmouseout="DoMouseHeadOutCeHua(4)"><a href="http://www.admaimai.com/SpecialColumn/" target="_blank">ÓªÏú×¨À¸</a></div>
+<div class="xinwen_top_08a2" id="head5"  onmousemove="DoMouseHeadOverCeHua(5)" onmouseout="DoMouseHeadOutCeHua(5)"><a href="http://www.admaimai.com/jinnang/" target="_blank">¹ã¸æ½õÄÒ</a></div>
+<div class="xinwen_top_08a1" id="head6"  onmousemove="DoMouseHeadOverCeHua(6)" onmouseout="DoMouseHeadOutCeHua(6)"><a href="http://www.admaimai.com/Contact/" target="_blank">ÕÐ´úÀí</a></div>
+<div class="xinwen_top_08a1" id="head7"  onmousemove="DoMouseHeadOverCeHua(7)" onmouseout="DoMouseHeadOutCeHua(7)"><a href="http://www.admaimai.com/adyellopage/" target="_blank">¹ã¸æ»ÆÒ³</a></div>
+<div class="xinwen_top_08a1" id="head8"  onmousemove="DoMouseHeadOverCeHua(8)" onmouseout="DoMouseHeadOutCeHua(8)"><a href="http://www.admaimai.com/utility/" target="_blank">ÊµÓÃ¹¤¾ß</a></div>
+<div class="xinwen_top_08a1" id="head9"  onmousemove="DoMouseHeadOverCeHua(9)" onmouseout="DoMouseHeadOutCeHua(9)"><a href="http://www.admaimai.com/Preview/" target="_blank">ÇøÓò¿â</a></div>
+<div class="xinwen_top_08a1" id="head10" onmousemove="DoMouseHeadOverCeHua(10)" onmouseout="DoMouseHeadOutCeHua(10)"><a href="http://www.admaimai.com/Interview/" target="_blank">ÈËÎï·ÃÌ¸</a></div>
+</div>
+</div>
+<div class="bz_top_08b">
+
+<div id="chhead1" style="display:none;float:left;" >
+
+<li><a href="http://www.admaimai.com/news/" target="_blank">¹ã¸æÐÂÎÅ</a></li>
+<li><a href="http://www.admaimai.com/news/list2-1.html" target="_blank">±¨Ö½</a></li>
+<li><a href="http://www.admaimai.com/news/list2-2.html" target="_blank">ÔÓÖ¾</a></li>
+<li><a href="http://www.admaimai.com/news/list2-3.html" target="_blank">µçÊÓ</a></li>
+<li><a href="http://www.admaimai.com/news/list2-4.html" target="_blank">¹ã²¥</a></li>
+<li><a href="http://www.admaimai.com/news/list2-5.html" target="_blank">»§Íâ</a></li>
+<li><a href="http://www.admaimai.com/news/list2-18.html" target="_blank">ÐÂÃ½Ìå</a></li>
+<li><a href="http://www.admaimai.com/news/list2-6.html" target="_blank">»¥ÁªÍø</a></li>
+<li><a href="http://www.admaimai.com/news/list2-19.html" target="_blank">Í¶×Ê</a></li>
+<li><a href="http://www.admaimai.com/news/list2-7.html#" target="_blank">ÖÆ×÷</a></li>
+<li><a href="http://www.admaimai.com/news/list2-8.html" target="_blank">²ß»®</a></li>
+<li><a href="http://www.admaimai.com/news/list2-9.html" target="_blank">Éè±¸</a></li>
+<li><a href="http://www.admaimai.com/news/list2-10.html" target="_blank">²ÄÁÏ</a></li>
+<li><a href="http://www.admaimai.com/Regulation/" target="_blank">¼à¹Ü</a></li>
+<li><a href="http://www.admaimai.com/news/list2-15.html" target="_blank">²ú¾­</a></li>
+<li><a href="http://www.admaimai.com/news/list2-16.html" target="_blank">¹«Ë¾</a></li>
+<li><a href="http://www.admaimai.com/Exhibit/" target="_blank">Õ¹»á</a></li>
+<li><a href="http://www.admaimai.com/Activities/" target="_blank">»î¶¯</a></li>
+<li><a href="http://www.admaimai.com/4A/" target="_blank">4A</a></li>
+</div>
+
+<div  id="chhead2"  style="display:none;float:left;">
+
+<li><a href="http://www.admaimai.com/shujujiance/tv.htm" target="_blank">µçÊÓ</a></li>
+<li><a href="http://www.admaimai.com/shujujiance/broadcast.htm" target="_blank">¹ã²¥</a></li>
+<li><a href="http://www.admaimai.com/shujujiance/newspaper.htm" target="_blank">±¨Ö½</a></li>
+<li><a href="http://www.admaimai.com/shujujiance/magazine.htm" target="_blank">ÔÓÖ¾</a></li>
+<li><a href="http://www.admaimai.com/shujujiance/outdoor.htm" target="_blank">»§Íâ</a></li>
+<li><a href="http://www.admaimai.com/shujujiance/newmedia.htm" target="_blank">ÐÂÃ½Ìå</a></li>
+<li><a href="http://www.admaimai.com/shujujiance/behavior.htm" target="_blank">ÐÐÎª</a></li>
+<li><a href="http://www.admaimai.com/shujujiance/estate.htm" target="_blank">²úÒµ</a></li>
+<li><a href="http://www.admaimai.com/shujujiance/company10.htm" target="_blank">»Û´ÏÑÐ¾¿</a></li>
+<li><a href="http://www.admaimai.com/shujujiance/company5.htm" target="_blank">ÈüÁ¢ÐÅ</a></li>
+<li><a href="http://www.admaimai.com/shujujiance/company6.htm" target="_blank">ÃÀÀ¼µÂ</a></li>
+<li><a href="http://www.admaimai.com/shujujiance/company4.htm" target="_blank">Äá¶ûÉ­</a></li>
+<li><a href="http://www.admaimai.com/shujujiance/company3.htm" target="_blank">ÐÂÉú´ú</a></li>
+<li><a href="http://www.admaimai.com/shujujiance/company5.htm" target="_blank">Ë÷¸£Èð</a></li>
+<li><a href="http://www.admaimai.com/shujujiance/company9.htm" target="_blank">ÊÀ¼Í»ªÎÄ</a></li>
+<li><a href="http://www.admaimai.com/shujujiance/company2.htm" target="_blank">°¬Èð</a></li>
+<li><a href="http://www.admaimai.com/shujujiance/company1.htm" target="_blank">CTR</a></li>
+</div>
+
+<div id="chhead3"  style="display:none;float:left;">
+
+<li><a href="http://www.admaimai.com/zhishi/synthesize.htm" target="_blank">¹ã¸æÖªÊ¶</a></li>
+<li><a href="http://www.admaimai.com/zhishi/newspaper.htm" target="_blank">±¨Ö½</a></li>
+<li><a href="http://www.admaimai.com/zhishi/magazine.htm" target="_blank">ÔÓÖ¾</a></li>
+<li><a href="http://www.admaimai.com/zhishi/tv.htm" target="_blank">µçÊÓ</a></li>
+<li><a href="http://www.admaimai.com/zhishi/broadcast.htm" target="_blank">¹ã²¥</a></li>
+<li><a href="http://www.admaimai.com/zhishi/outdoor.htm" target="_blank">»§Íâ</a></li>
+<li><a href="http://www.admaimai.com/zhishi/network&newmedia.htm" target="_blank">ÍøÂçÐÂÃ½Ìå</a></li>
+<li><a href="http://www.admaimai.com/zhishi/make&plan.htm" target="_blank">ÖÆ×÷²ß»®</a></li>
+<li><a href="http://www.admaimai.com/zhishi/equipment&material.htm" target="_blank">Éè±¸²ÄÁÏ</a></li>
+</div>
+
+<div id="chhead4" style="display:none;float:left;">
+
+<li><a href="http://www.admaimai.com/SpecialColumn/Market1.htm" target="_blank">Æ·ÅÆÓªÏú</a></li>
+<li><a href="http://www.admaimai.com/SpecialColumn/Market2.htm" target="_blank">ÊÐ³¡ÓªÏú</a></li>
+<li><a href="http://www.admaimai.com/SpecialColumn/Market3.htm" target="_blank">¹«¹ØÓªÏú</a></li>
+<li><a href="http://www.admaimai.com/SpecialColumn/Market4.htm" target="_blank">ÓªÏú²ß»®Êé</a></li>
+<li><a href="http://www.admaimai.com/SpecialColumn/Market5.htm" target="_blank">Ã½ÌåÓªÏú</a></li>
+<li><a href="http://www.admaimai.com/SpecialColumn/Market6.htm" target="_blank">ÆóÒµ¹ÜÀíÓªÏú</a></li>
+<li><a href="http://www.admaimai.com/SpecialColumn/Market7.htm" target="_blank">ÓªÏúÖ®ÐÐÒµ¹Û²ì</a></li>
+<li><a href="http://www.admaimai.com/SpecialColumn/Market8.htm" target="_blank">ÓªÏúÖ®´ÙÏú·½°¸</a></li>
+</div>
+
+<div id="chhead5" style="float:left;">
+
+<li><a href="http://www.admaimai.com/Legislation/" target="_blank">¹ã¸æ·¨ÂÉ</a></li>
+<li><a href="http://www.admaimai.com/Copywriter/" target="_blank">¹ã¸æÎÄ°¸</a></li>
+<li><a href="http://www.admaimai.com/View/" target="_blank">¹ã¸æ¹Ûµã</a></li>
+<li><a href="http://www.admaimai.com/Download/" target="_blank">×ÊÔ´ÏÂÔØ</a></li>
+<li><a href="http://www.admaimai.com/jinnang/works/" target="_blank">¹ã¸æ×÷Æ·</a></li>
+<li><a href="http://www.admaimai.com/jinnang/article/19/" target="_blank">¹ã¸æ´ó½±</a></li>
+<li><a href="http://www.admaimai.com/job/" target="_blank">¹ã¸æÕÐÆ¸ </a></li>
+<li><a>Ö÷³ÖÈË</a></li>
+</div>
+
+<div  id="chhead10" style="display:none;float:left;">
+
+<li><a href="http://www.admaimai.com/Legislation/" target="_blank">¹ã¸æ·¨ÂÉ</a></li>
+<li><a href="http://www.admaimai.com/Copywriter/" target="_blank">¹ã¸æÎÄ°¸</a></li>
+<li><a href="http://www.admaimai.com/View/" target="_blank">¹ã¸æ¹Ûµã</a></li>
+<li><a href="http://www.admaimai.com/Download/" target="_blank">×ÊÔ´ÏÂÔØ</a></li>
+<li><a href="http://www.admaimai.com/jinnang/works/" target="_blank">¹ã¸æ×÷Æ·</a></li>
+<li><a href="http://www.admaimai.com/jinnang/article/19/" target="_blank">¹ã¸æ´ó½±</a></li>
+<li><a href="http://www.admaimai.com/job/" target="_blank">¹ã¸æÕÐÆ¸ </a></li>
+<li><a>Ö÷³ÖÈË</a></li>
+</div>
+
+<div  id="chhead6" style="display:none;float:left;">
+
+<li><a href="http://www.admaimai.com/Contact/list.aspx?type=20" target="_blank">±¨Ö½ÕÐÉÌ</a></li>
+<li><a href="http://www.admaimai.com/Contact/list.aspx?type=21" target="_blank">ÔÓÖ¾ÕÐÉÌ</a></li>
+<li><a href="http://www.admaimai.com/Contact/list.aspx?type=25" target="_blank">µçÊÓÕÐÉÌ</a></li>
+<li><a href="http://www.admaimai.com/Contact/list.aspx?type=26" target="_blank">¹ã²¥ÕÐÉÌ</a></li>
+<li><a href="http://www.admaimai.com/Contact/list.aspx?type=28" target="_blank">»§Íâ¹ã¸æÕÐÉÌ</a></li>
+<li><a href="http://www.admaimai.com/Contact/list.aspx?type=27" target="_blank">ÍøÂçÐÂÃ½ÌåÕÐÉÌ</a></li>
+</div>
+
+<div  id="chhead7" style="display:none;float:left;">
+
+<li><a href="http://www.admaimai.com/adyellopage/4/" target="_blank">±¨Ö½</a></li>
+<li><a href="http://www.admaimai.com/adyellopage/5/" target="_blank">ÔÓÖ¾</a></li>
+<li><a href="http://www.admaimai.com/adyellopage/6/" target="_blank">µçÊÓ</a></li>
+<li><a href="http://www.admaimai.com/adyellopage/7/" target="_blank">¹ã²¥</a></li>
+<li><a href="http://www.admaimai.com/adyellopage/8/" target="_blank">ÍøÂç</a></li>
+<li><a href="http://www.admaimai.com/adyellopage/2/" target="_blank">¹ã¸æ¹«Ë¾</a></li>
+<li><a href="http://www.admaimai.com/adyellopage/3/" target="_blank">ÊµÓÃÍøÕ¾</a></li>
+<li><a href="http://www.admaimai.com/adyellopage/32/" target="_blank">³ö°æÉç</a></li>
+</div>
+
+<div  id="chhead8" style="display:none;float:left;">
+<li><a href="http://www.admaimai.com/utility/weizhang.htm" target="_blank">½»Í¨Î¥·¨</a></li>
+<li><a href="http://www.admaimai.com/utility/StandardCar.htm" target="_blank">³µ±ê´óÈ«</a></li>
+<li><a href="http://www.admaimai.com/utility/dreamindex.html" target="_blank">ÖÜ¹«½âÃÎ</a></li>
+<li><a href="http://www.admaimai.com/utility/quhao.htm" target="_blank">ÊÀ½çÇøºÅ</a></li>
+<li><a href="http://www.admaimai.com/utility/tianqi.htm" target="_blank">ÌìÆøÔ¤±¨</a></li>
+<li><a href="http://www.admaimai.com/utility/post.htm" target="_blank">ÓÊ±àÇøºÅ</a></li>
+<li><a href="http://www.admaimai.com/utility/day.htm" target="_blank">ÍòÄêÀú</a></li>
+<li><a href="http://www.admaimai.com/utility/chaodai.htm" target="_blank">ÀúÊ·³¯´ú±í</a></li>
+<li><a href="http://www.admaimai.com/utility/biaozhi.htm" target="_blank">½»Í¨±êÖ¾´óÈ«</a></li>
+<li><a href="http://www.admaimai.com/utility/ems.htm" target="_blank">¿ìµÝ²éÑ¯</a></li>
+<li><a href="http://www.admaimai.com/utility/suanming.htm" target="_blank">ÔÚÏßËãÃü</a></li>
+<li><a href="http://www.admaimai.com/utility/shouji.htm" target="_blank">ÊÖ»ú¹éÊôµØ</a></li>
+</div>
+
+<div  id="chhead9" style="display:none;float:left;">
+
+<li><a href="http://www.admaimai.com/Preview/110000c0.htm" target="_blank">±±¾©</a></li>
+<li><a href="http://www.admaimai.com/Preview/130000c0.htm" target="_blank">ºÓ±±</a></li>
+<li><a href="http://www.admaimai.com/Preview/330000c0.htm" target="_blank">Õã½­</a></li>
+<li><a href="http://www.admaimai.com/Preview/320000c0.htm" target="_blank">½­ËÕ</a></li>
+<li><a href="http://www.admaimai.com/Preview/370000c0.htm" target="_blank">É½¶«</a></li>
+<li><a href="http://www.admaimai.com/Preview/420000c0.htm" target="_blank">ºþ±±</a></li>
+<li><a href="http://www.admaimai.com/Preview/360000c0.htm" target="_blank">½­Î÷</a></li>
+<li><a href="http://www.admaimai.com/Preview/430000c0.htm" target="_blank">ºþÄÏ</a></li>
+<li><a href="http://www.admaimai.com/Preview/450000c0.htm" target="_blank">¹ãÎ÷</a></li>
+<li><a href="http://www.admaimai.com/Preview/440000c0.htm" target="_blank">¹ã¶«</a></li>
+<li><a href="http://www.admaimai.com/Preview/410000c0.htm" target="_blank">ºÓÄÏ</a></li>
+<li><a href="http://www.admaimai.com/Preview/340000c0.htm" target="_blank">°²»Õ</a></li>
+<li><a href="http://www.admaimai.com/Preview/230000c0.htm" target="_blank">ºÚÁú½­</a></li>
+<li><a href="http://www.admaimai.com/Preview/210000c0.htm" target="_blank">ÁÉÄþ</a></li>
+<li><a href="http://www.admaimai.com/Preview/150000c0.htm" target="_blank">ÄÚÃÉ</a></li>
+<li><a href="http://www.admaimai.com/Preview/220000c0.htm" target="_blank">¼ªÁÖ</a></li>
+<li><a href="http://www.admaimai.com/Preview/610000c0.htm" target="_blank">ÉÂÎ÷</a></li>
+<li><a href="http://www.admaimai.com/Preview/530000c0.htm" target="_blank">ÔÆÄÏ</a></li>
+<li><a href="http://www.admaimai.com/Preview/140000c0.htm" target="_blank">É½Î÷</a></li>
+</div>
+</div>
+<div class="bz_top_09"  id="chheads" onmouseout="DoMouseHeadsuoOut1(5)" onmouseover="DoMouseHeadsuoOver(5)"  style="display:none;">
+<div class="xinwen_top_09a">
+<table width="100%"  border="0" cellspacing="10" cellpadding="0">
+<tr align="center">
+<td><a href="http://www.admaimai.com/newspaper/" target="_blank"><img src="http://image1.admaimai.com/imagesv4/headNews1.gif" align="absmiddle"></a> <a href="http://www.admaimai.com/newspaper/" target="_blank">±¨Ö½</a></td>
+<td><a href="http://www.admaimai.com/Magazine/" target="_blank"><img src="http://image1.admaimai.com/imagesv4/headNews2.gif" align="absmiddle"></a> <a href="http://www.admaimai.com/Magazine/" target="_blank">ÔÓÖ¾</a></td>
+<td><a href="http://www.admaimai.com/tv/" target="_blank"><img src="http://image1.admaimai.com/imagesv4/headNews3.gif" align="absmiddle"></a> <a href="http://www.admaimai.com/tv/" target="_blank">µçÊÓ</a></td>
+<td><a href="http://www.admaimai.com/BroadCast/" target="_blank"><img src="http://image1.admaimai.com/imagesv4/headNews4.gif" align="absmiddle"></a> <a href="http://www.admaimai.com/BroadCast/" target="_blank">¹ã²¥</a></td>
+<td><a href="http://www.admaimai.com/outdoor/" target="_blank"><img src="http://image1.admaimai.com/imagesv4/headNews5.gif" align="absmiddle"></a> <a href="http://www.admaimai.com/outdoor/" target="_blank">»§Íâ</a></td>
+<td><a href="http://www.admaimai.com/NewMedia/" target="_blank"><img src="http://image1.admaimai.com/imagesv4/headNews6.gif" align="absmiddle"></a> <a href="http://www.admaimai.com/NewMedia/" target="_blank">ÐÂÃ½Ìå</a></td>
+<td><a href="http://www.admaimai.com/Make/" target="_blank"><img src="http://image1.admaimai.com/imagesv4/headNews7.gif" align="absmiddle"></a> <a href="http://www.admaimai.com/Make/" target="_blank">ÖÆ×÷</a></td>
+<td><a href="http://www.admaimai.com/Plan/" target="_blank"><img src="http://image1.admaimai.com/imagesv4/headNews8.gif" align="absmiddle"></a> <a href="http://www.admaimai.com/Plan/" target="_blank">²ß»®</a></td>
+<td><a href="http://www.admaimai.com/Equipment/" target="_blank"><img src="http://image1.admaimai.com/imagesv4/headNews9.gif" align="absmiddle"></a> <a href="http://www.admaimai.com/Equipment/" target="_blank">Éè±¸</a></td>
+<td><a href="http://www.admaimai.com/Material/" target="_blank"><img src="http://image1.admaimai.com/imagesv4/headNews10.gif" align="absmiddle"></a> <a href="http://www.admaimai.com/Material/" target="_blank">²ÄÁÏ</a></td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+</div>
+<!--HeadPageEnd-->
+<div class="body-bg">
+<div class="xwzd-lf">
+
+<div class="weizhi">µ±Ç°Î»ÖÃ£º<a href="/">¹ã¸æÂòÂôÍø</a> > <a href="/Job/">ÕÐÆ¸</a> > <a href="List.aspx?C=2">¹ã¸æÕÒÈË</a> > <a href="List.aspx?P=520000">¹óÖÝÊ¡</a> > Õ¹Ê¾Ò³</div>
+
+<div class="zhengwen">
+ 
+<div class="zwnr01 zpbt">
+<li><span class="style9">³àË®ÊÐ·ÉÏèÃÎ¹ã¸æ¹«Ë¾ Æ½ÃæÉè¼ÆÊ¦</span><br />
+<span style="font-family:Arial;">@</span> 2018-06-09 17:58&nbsp; 180×Ö½Ú&nbsp; ¹óÖÝÊ¡¡¤×ñÒåÊÐ&nbsp; <span id="SpanHits">1064</span>ÈËÔÄ¶Á</li>
+</div>
+ 
+<div class="zwnr01 font14">
+<p><p>³àË®ÊÐ·ÉÏèÃÎ¹ã¸æ¹«Ë¾³ÉÁ¢ÓÚ2016Äê£¬ÊÇÒ»¼Ò¼¯Éè¼Æ¡¢ÖÆ×÷¡¢°²×°¡¢Î¬»¤ÎªÒ»ÌåµÄ×¨Òµ»¯¹ã¸æ·þÎñÉÌ£¬¹«Ë¾ÓµÓÐÒ»Ö§¸ß¼¨Ð§µÄÉè¼ÆÖÆ×÷°²×°ÍÅ¶Ó£¬×¨Òµ´ÓÊÂÐ´ÕæÅç»æ¡¢±êÊ¶±êÅÆ¡¢Õ¹°åÖÆ×÷¡¢·¢¹â×Ö¡¢¹ã¸æµÆÏä¡¢LEDÏÔÊ¾ÆÁ¡¢¾«Éñ±¤ÀÝµÈ»§ÄÚÍâ¹ã¸æÖÆ×÷ÏîÄ¿¡£</p>
+<p>¹«Ë¾¾­¹ýÒ»Äê¶àÒÔÀ´µÄ²»¶ÏÍêÉÆ¡¢·¢Õ¹ºÍ´´ÐÂ£¬ÒÑÔÚÊÐ³¡ÉÏÓ®µÃÁË·Ç³£ºÃµÄÐÅÓþ¡£¹«Ë¾ÏÖÓÐÔ±¹¤10ÓàÈË£¬</p></p>
+<p><p>³àË®ÊÐ·ÉÏè¹ã¸æ³ÏÆ¸£º</p>
+<p>1¡¢Æ½Ãæ¹ã¸æÉè¼ÆÊ¦;</p>
+<p>2¡¢°²×°Ê¦¸µ;</p>
+<p>3¡¢¹ã¸æ¹«Ë¾¸ß¼¶¹ÜÀí1Ãû¡£</p>
+<p>Ð½×Ê´ýÓöÃæÒé¡£</p></p>
+<p>13885227437</p>
+</div>
+ 
+ 
+<div class="zwnr01">
+<div class="btlf">¡¾<a href="javascript:__doPostBack(&#39;ctl00&#39;,&#39;&#39;)"><span class="STYLE4">¶ÔÎÒÓÐÓÃ</span></a> <span class="STYLE6">0</span> ¡¿¡¾<a href="javascript:__doPostBack(&#39;ctl01&#39;,&#39;&#39;)"><span class="STYLE4">·ÖÏí´ËÎÄ</span></a>¡¿</div>
+<div class="btrh"><a href="/Job/"><img src="images/img-fh02.jpg" /></a></div>
+</div>
+ 
+</div>
+ 
+ 
+<div class="jiance-lb02">
+<div class="gy01">
+<div class="btlf STYLE2">¹óÖÝÊ¡ÆäËüÕÐÆ¸ÐÅÏ¢</div>
+</div>
+<!--Middle1PageStart-->
+<div class="a4lb martop5">
+
+<li><span class="bt"><a href="5703.htm" target="_blank">³àË®ÊÐ·ÉÏèÃÎ¹ã¸æ¹«Ë¾ Æ½ÃæÉè¼ÆÊ¦</a></span><span class="rq">06.09 17:58</span><span class="rq2">×ñÒåÊÐ</span></li>
+
+<li><span class="bt"><a href="5702.htm" target="_blank">³àË®·ÉÏè¹ã¸æ¹«Ë¾ Æ½Ãæ¹ã¸æÉè¼ÆÊ¦</a></span><span class="rq">06.08 10:56</span><span class="rq2">×ñÒåÊÐ</span></li>
+
+<li><span class="bt"><a href="5625.htm" target="_blank">¹óÑô¹¤Ö®½³¹ã¸æÓÐÏÞ¹«Ë¾ ÕÐÈË</a></span><span class="rq">08.21 09:34</span><span class="rq2">¹óÑôÊÐ</span></li>
+
+<li><span class="bt"><a href="4267.htm" target="_blank">¹óÑôÔÆÑÒµÂ±¤¹ã¸æÉè¼ÆÖÆ×÷²¿ Æ½ÃæÉè¼Æ¹ã¸æÉè¼Æ</a></span><span class="rq">07.17 13:24</span><span class="rq2">¹óÑôÊÐ</span></li>
+
+<li><span class="bt"><a href="4266.htm" target="_blank">¹ã¶«Ê¡¹ã¸æ¹É·ÝÓÐÏÞ¹«Ë¾ Æ½ÃæÉè¼ÆÊ¦</a></span><span class="rq">07.17 13:22</span><span class="rq2">¹óÑôÊÐ</span></li>
+
+</div>
+<!--Middle1PageEnd-->
+</div>
+ 
+<!--Middle2PageStart-->
+<div class="jiance-lb02">
+<div class="gy01">
+<div class="btlf STYLE2"><a href="http://sns.admaimai.com/" target="_blank">¹ã¸æÈËÂöÈ¦</a></div>
+<div class="btrh"><a href="http://sns.admaimai.com/" target="_blank">¸ü¶à..</a></div>
+</div>
+<div class="martop5">
+
+<div class="hy-hd01">
+<div class="img_bg02">
+<div class="img_bg02-b"><a href="http://sns.admaimai.com/u13595" target="_blank">
+<img src="http://sns.admaimai.com/UserFilesThumbnail/13595/Logo48.JPG" /></a></div>
+</div>
+<div class="hy02"><a href="http://sns.admaimai.com/u13595" target="_blank" class="style1">ÉÏº£½â·ÅÈÕ±¨»§ÍâÃ½Ìå</a></div>
+</div>
+
+<div class="hy-hd01">
+<div class="img_bg02">
+<div class="img_bg02-b"><a href="http://sns.admaimai.com/u206175" target="_blank">
+<img src="http://sns.admaimai.com/UserFilesThumbnail/206175/Logo48.jpg" /></a></div>
+</div>
+<div class="hy02"><a href="http://sns.admaimai.com/u206175" target="_blank" class="style1">3M,°¬Àû£¬É½±¾¡£</a></div>
+</div>
+
+<div class="hy-hd01">
+<div class="img_bg02">
+<div class="img_bg02-b"><a href="http://sns.admaimai.com/u31430" target="_blank">
+<img src="http://sns.admaimai.com/UserFilesThumbnail/31430/Logo48.jpg" /></a></div>
+</div>
+<div class="hy02"><a href="http://sns.admaimai.com/u31430" target="_blank" class="style1">°Í¿Æ¹âµç</a></div>
+</div>
+
+<div class="hy-hd01">
+<div class="img_bg02">
+<div class="img_bg02-b"><a href="http://sns.admaimai.com/u115406" target="_blank">
+<img src="http://sns.admaimai.com/UserFilesThumbnail/115406/Logo48.jpg" /></a></div>
+</div>
+<div class="hy02"><a href="http://sns.admaimai.com/u115406" target="_blank" class="style1">kingplan</a></div>
+</div>
+
+<div class="hy-hd01">
+<div class="img_bg02">
+<div class="img_bg02-b"><a href="http://sns.admaimai.com/u180995" target="_blank">
+<img src="http://sns.admaimai.com/UserFilesThumbnail/180995/Logo48.jpg" /></a></div>
+</div>
+<div class="hy02"><a href="http://sns.admaimai.com/u180995" target="_blank" class="style1">Í¶×Êµ£±£</a></div>
+</div>
+
+<div class="hy-hd01">
+<div class="img_bg02">
+<div class="img_bg02-b"><a href="http://sns.admaimai.com/u60197" target="_blank">
+<img src="http://sns.admaimai.com/UserFilesThumbnail/60197/Logo48.JPG" /></a></div>
+</div>
+<div class="hy02"><a href="http://sns.admaimai.com/u60197" target="_blank" class="style1">·è¿ñµÄÖí</a></div>
+</div>
+
+<div class="hy-hd01">
+<div class="img_bg02">
+<div class="img_bg02-b"><a href="http://sns.admaimai.com/u148089" target="_blank">
+<img src="http://sns.admaimai.com/UserFilesThumbnail/148089/Logo48.jpg" /></a></div>
+</div>
+<div class="hy02"><a href="http://sns.admaimai.com/u148089" target="_blank" class="style1">denghaimei</a></div>
+</div>
+
+<div class="hy-hd01">
+<div class="img_bg02">
+<div class="img_bg02-b"><a href="http://sns.admaimai.com/u215837" target="_blank">
+<img src="http://sns.admaimai.com/UserFilesThumbnail/215837/Logo48.jpg" /></a></div>
+</div>
+<div class="hy02"><a href="http://sns.admaimai.com/u215837" target="_blank" class="style1">ºþÄÏÒæÑôÔ¶´ó¹ã¸æÓÐÏÞÔðÈÎ¹«Ë¾</a></div>
+</div>
+
+<div class="hy-hd01">
+<div class="img_bg02">
+<div class="img_bg02-b"><a href="http://sns.admaimai.com/u165882" target="_blank">
+<img src="http://sns.admaimai.com/UserFilesThumbnail/165882/Logo48.jpg" /></a></div>
+</div>
+<div class="hy02"><a href="http://sns.admaimai.com/u165882" target="_blank" class="style1">¹ã¸æÅç»æ»ú</a></div>
+</div>
+
+<div class="hy-hd01">
+<div class="img_bg02">
+<div class="img_bg02-b"><a href="http://sns.admaimai.com/u113166" target="_blank">
+<img src="http://sns.admaimai.com/UserFilesThumbnail/113166/Logo48.jpg" /></a></div>
+</div>
+<div class="hy02"><a href="http://sns.admaimai.com/u113166" target="_blank" class="style1">ÎÄ±ùÓê</a></div>
+</div>
+
+<div class="hy-hd01">
+<div class="img_bg02">
+<div class="img_bg02-b"><a href="http://sns.admaimai.com/u250306" target="_blank">
+<img src="http://sns.admaimai.com/UserFilesThumbnail/250306/Logo48.jpg" /></a></div>
+</div>
+<div class="hy02"><a href="http://sns.admaimai.com/u250306" target="_blank" class="style1">ÀÖÓ¨</a></div>
+</div>
+
+<div class="hy-hd01">
+<div class="img_bg02">
+<div class="img_bg02-b"><a href="http://sns.admaimai.com/u143818" target="_blank">
+<img src="http://sns.admaimai.com/UserFilesThumbnail/143818/Logo48.jpg" /></a></div>
+</div>
+<div class="hy02"><a href="http://sns.admaimai.com/u143818" target="_blank" class="style1">²©Ô¶ËÜ½º</a></div>
+</div>
+
+<div class="hy-hd01">
+<div class="img_bg02">
+<div class="img_bg02-b"><a href="http://sns.admaimai.com/u303018" target="_blank">
+<img src="http://sns.admaimai.com/UserFilesThumbnail/303018/Logo48.jpg" /></a></div>
+</div>
+<div class="hy02"><a href="http://sns.admaimai.com/u303018" target="_blank" class="style1">ÀøººÕ¹ÀÀ</a></div>
+</div>
+
+<div class="hy-hd01">
+<div class="img_bg02">
+<div class="img_bg02-b"><a href="http://sns.admaimai.com/u242933" target="_blank">
+<img src="http://sns.admaimai.com/UserFilesThumbnail/242933/Logo48.jpg" /></a></div>
+</div>
+<div class="hy02"><a href="http://sns.admaimai.com/u242933" target="_blank" class="style1">½­ËÕ´óÁ¼Ôì¿Æ¹¤Ã³ÓÐÏÞ¹«Ë¾</a></div>
+</div>
+
+<div class="hy-hd01">
+<div class="img_bg02">
+<div class="img_bg02-b"><a href="http://sns.admaimai.com/u168764" target="_blank">
+<img src="http://sns.admaimai.com/UserFilesThumbnail/168764/Logo48.jpg" /></a></div>
+</div>
+<div class="hy02"><a href="http://sns.admaimai.com/u168764" target="_blank" class="style1">°¬¹¤</a></div>
+</div>
+
+<div class="hy-hd01">
+<div class="img_bg02">
+<div class="img_bg02-b"><a href="http://sns.admaimai.com/u34456" target="_blank">
+<img src="http://sns.admaimai.com/UserFilesThumbnail/34456/Logo48.jpg" /></a></div>
+</div>
+<div class="hy02"><a href="http://sns.admaimai.com/u34456" target="_blank" class="style1">°®ÀöÉ¯¸ó</a></div>
+</div>
+
+<div class="hy-hd01">
+<div class="img_bg02">
+<div class="img_bg02-b"><a href="http://sns.admaimai.com/u199819" target="_blank">
+<img src="http://sns.admaimai.com/UserFilesThumbnail/199819/Logo48.jpg" /></a></div>
+</div>
+<div class="hy02"><a href="http://sns.admaimai.com/u199819" target="_blank" class="style1">ÈÊÔóÒ½Ò©</a></div>
+</div>
+
+<div class="hy-hd01">
+<div class="img_bg02">
+<div class="img_bg02-b"><a href="http://sns.admaimai.com/u269484" target="_blank">
+<img src="http://sns.admaimai.com/UserFilesThumbnail/269484/Logo48.jpg" /></a></div>
+</div>
+<div class="hy02"><a href="http://sns.admaimai.com/u269484" target="_blank" class="style1">Èº²ßÌìÏÂ</a></div>
+</div>
+
+</div>
+</div>
+
+<div class="jiance-lb02">
+<div class="gy01">
+<div class="btlf STYLE2"><a href="http://tieba.admaimai.com/" target="_blank">¹ã¸æÌù°É</a></div>
+<div class="btrh" id="DivMmo" style="display:none;"><a href="http://passport.admaimai.com/regsmall.aspx?returnurl=http%3a//www.admaimai.com/job/aforstaticpage/middle2page.aspx" onclick="show_spe('',this.href + '&sdomain=' + escape('www.admaimai.com'),456,386);return false;">×¢²á</a> | <a href="http://passport.admaimai.com/loginsmall.aspx?returnurl=http%3a//www.admaimai.com/job/aforstaticpage/middle2page.aspx&sdomain=" onclick="show_spe('',this.href + escape('www.admaimai.com'),257,274);return false;">µÇÂ¼</a></div>
+</div>
+<div class="martop5">
+
+<li>[<a href="http://tieba.admaimai.com/List.aspx?Id=2" target="_blank">±¨Ö½Ã½Ìå</a>] <a href="http://tieba.admaimai.com/Detail.aspx?Id=96109" target="_blank">ÈíÄ¤Ìì»¨ µÆÏäÄ¤ ¶¯¸ÐµÆÏä </a>&nbsp;&nbsp;<span class="STYLE7">2019-04-23 15:35</span></li>
+
+<li>[<a href="http://tieba.admaimai.com/List.aspx?Id=2" target="_blank">±¨Ö½Ã½Ìå</a>] <a href="http://tieba.admaimai.com/Detail.aspx?Id=96108" target="_blank">ÈíÄ¤Ìì»¨ µÆÏäÄ¤ ¶¯¸ÐµÆÏä </a>&nbsp;&nbsp;<span class="STYLE7">2019-04-23 15:35</span></li>
+
+<li>[<a href="http://tieba.admaimai.com/List.aspx?Id=54" target="_blank">Ã½ÌåÕÐ¹ã¸æ´úÀí</a>] <a href="http://tieba.admaimai.com/Detail.aspx?Id=96106" target="_blank">¸ßÌúÃ½Ìå¡¶Ê±´úÁÐ³µ¡·¶¯³µÔÓÖ¾È«¹úÕÐÉÌºÏ×÷</a>&nbsp;&nbsp;<span class="STYLE7">2019-04-04 16:23</span></li>
+
+<li>[<a href="http://tieba.admaimai.com/List.aspx?Id=18" target="_blank">¹ã¸æÖÆ×÷</a>] <a href="http://tieba.admaimai.com/Detail.aspx?Id=96105" target="_blank">ÇØ»´Çø¿¨×ÓÃÅË«Áú´óµÀÖÜ±ß±£½àÇåÏ´¹«Ë¾ ÄÏ¾©ÐèÒª±£½àÇåÏ´×ÉÑ¯µç»°</a>&nbsp;&nbsp;<span class="STYLE7">2019-04-03 20:49</span></li>
+
+<li>[<a href="http://tieba.admaimai.com/List.aspx?Id=25" target="_blank">ÏîÄ¿¹©Çó</a>] <a href="http://tieba.admaimai.com/Detail.aspx?Id=96104" target="_blank">ÄÏ¾©½­ÄþÇøºêÔË´óµÀÉÏÔª´ó½ÖÖÜ±ß¿ª»Ä±£½àµØÌº²£Á§ÇåÏ´Ìá¹©×ÉÑ¯µç»°</a>&nbsp;&nbsp;<span class="STYLE7">2019-04-03 20:45</span></li>
+
+</div>
+</div>
+<!--Middle2PageEnd-->
+ 
+</div>
+ 
+<!--Middle3PageStart-->
+<div class="xwzd-rh">
+
+<div>
+<script type="text/javascript">
+/*250*250£¬´´½¨ÓÚ2013-10-28*/
+var cpro_id = "u1397353";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script>
+</div>
+
+<div class="sousuo-02">
+<span class="STYLE5">Ö°Î»ËÑË÷£º</span><input type="text" onkeypress="if(event.keyCode==13){document.getElementById('BtnSearch').click();return false;}" value="ÇëÊäÈë¹Ø¼ü×Ö" id="TxtKey" onfocus="if(this.value=='ÇëÊäÈë¹Ø¼ü×Ö')this.value='';" onblur="if(this.value=='')this.value='ÇëÊäÈë¹Ø¼ü×Ö';" style="width: 100px;" />
+<input onclick="location = 'List.aspx?Q=' + escape(document.getElementById('TxtKey').value);" id="BtnSearch" type="button" value="ËÑË÷" />
+</div>
+
+<div class="xwzd01">
+<div class="xwzd02">
+<div class="btlf STYLE2"><a href="List.aspx?c=1">4AÕÒÈË</a></div>
+<div class="btrh"><a href="List.aspx?c=1">¸ü¶à..</a></div>
+</div>
+<div class="xwzd02-li01">
+
+<li><a href="5709.htm">¹ã²¥Ã½Ìå¹«Ë¾ ÕÐ¹ã¸æÏúÊÛ/ÕÐÉÌ¾­Àí</a></li>
+
+<li><a href="5701.htm">ºÚ»¡ÊýÂëÉîÛÚ·Ö¹«Ë¾ ¹ã¸æ¿Í»§×¨Ô±</a></li>
+
+<li><a href="5700.htm">ºÚ»¡ÊýÂëÉîÛÚ·Ö¹«Ë¾ ²ßÂÔÎÄ°¸</a></li>
+
+<li><a href="5698.htm"> ÄñÈË¹âµç 4A·½°¸ÏîÄ¿Éè¼ÆÊ¦</a></li>
+
+<li><a href="5670.htm"> ÉÂÎ÷´óÊ¦ÐÖÆóÒµÓªÏú²ß»®ÓÐÏÞ¹«Ë¾ </a></li>
+
+<li><a href="5626.htm">±±¾©ÊÐÍâÉÌÍ¶×ÊÆóÒµ·þÎñÖÐÐÄ Ä³ÖªÃû</a></li>
+
+<li><a href="5589.htm">±±¾©ÌìÒ»¹ú¼Ê¹ã¸æÓÐÏÞ¹«Ë¾ ¸ß¼¶¿Í»§</a></li>
+
+<li><a href="5510.htm">ÎäººÌì³È´´¼û¹ã¸æ²ß»®ÓÐÏÞ¹«Ë¾ ¹ã¸æ</a></li>
+
+<li><a href="5508.htm">ÉîÛÚÊÐÖÇÃÀ¹ã¸æÓÐÏÞ¹«Ë¾ ¿Í·þ£Á£Å</a></li>
+
+<li><a href="5446.htm">VivaKi£¨ÑôÊ¨ÈñÆæ£©  Æ½ÃæÃ½½é¹ºÂò</a></li>
+
+</div>
+</div>
+<div class="xwzd03"></div>
+
+<div class="martop6"><a href="http://www.admaimai.com/job/81.htm" target="_blank">
+<img src="http://image1.admaimai.com/UpLoadFiles/commendImages/490/24de9c3f-5345-4fba-b2b7-79ae8d479bf8.gif" width="250" height="80" /></a></div>
+
+<div class="martop6"><a href="http://www.admaimai.com/job/70.htm" target="_blank">
+<img src="http://image1.admaimai.com/UpLoadFiles/commendImages/490/c49e3273-81e4-481b-9071-d7b0795163b2.gif" width="250" height="80" /></a></div>
+
+<div class="martop6"><a href="http://www.admaimai.com/job/16.htm" target="_blank">
+<img src="http://image1.admaimai.com/UpLoadFiles/commendImages/490/5938b827-1a1c-4e2d-998a-2ad7eff44408.gif" width="250" height="80" /></a></div>
+
+<div class="martop6"><a href="http://www.admaimai.com/job/15.htm" target="_blank">
+<img src="http://image1.admaimai.com/UpLoadFiles/commendImages/490/21881810-9e47-4dec-b7cf-69b732044680.gif" width="250" height="80" /></a></div>
+
+<div class="martop6"><a href="http://www.admaimai.com/job/76.htm" target="_blank">
+<img src="http://image1.admaimai.com/UpLoadFiles/commendImages/490/019d2cca-cd3e-4f3e-9d34-d67494e800d9.gif" width="250" height="80" /></a></div>
+
+
+<div class="xwzd01-ph">
+<div class="xwzd02">
+<div class="btlf STYLE2"><a>±¾ÖÜÈÈÃÅÕÐÆ¸</a></div>
+</div>
+<div class="martop5">
+
+</div>
+</div>
+<div class="xwzd03"></div>
+</div>
+<!--Middle3PageEnd-->
+
+
+<div class="ap"></div>
+</div></div><!--FootPageStart-->
+
+<div class="bottom2013">
+<div class="bot_dfz">
+<div class="bot_dfz01">
+<div class="bot_dfz_lf"><a href="http://china.admaimai.com/subject/" target="_blank"><span class="bot_dfz_f2">È«¹ú366¸öµØ·½Õ¾³ÏÕ÷¼ÓÃË</span></a>&nbsp;&nbsp;<a href="http://china.admaimai.com/conventions.html" target="_blank"><span class="bot_dfz_f1">¼ÓÃË´ó»á</span></a>&nbsp;&nbsp;<a href="http://china.admaimai.com/Handle.html" target="_blank" class="bot_dfz_f1"><span class="bot_dfz_f1">Ë÷È¡ÃÅÆ±</span></a></div>
+<div class="bot_dfz_rh"><a href="http://www.admaimai.com/Stratagem/RedirectURL.aspx?u=http://seo.chinaz.com/?q=www.admaimai.com" target="_blank">SE0Ö¸Êý</a>&nbsp;&nbsp;<a href="http://www.admaimai.com/Stratagem/RedirectURL.aspx?u=http://alexa.chinaz.com/Index.asp?domain=http://www.admaimai.com" target="_blank">ÊÀ½çÅÅÃû</a>&nbsp;&nbsp;<a href="http://china.admaimai.com/subject/" target="_blank">µØ·½Õ¾¼ÓÃË</a>&nbsp;&nbsp;<a href="http://china.admaimai.com/subject/jmxz.html" target="_blank">¼ÓÃËÐëÖª</a>&nbsp;&nbsp;<a href="http://china.admaimai.com/subject/cfhb.html" target="_blank">²Æ¸»»Ø±¨</a>&nbsp;&nbsp;<a href="http://china.admaimai.com/subject/ptys.html" target="_blank">Æ½Ì¨ÓÅÊÆ</a>&nbsp;&nbsp;<a href="http://china.admaimai.com/subject/cjwt.html" target="_blank">³£¼ûÎÊÌâ</a>&nbsp;&nbsp;<a href="http://china.admaimai.com/subject/jmlc.html" target="_blank">¼ÓÃËÁ÷³Ì</a></div>
+</div>
+<div class="bot_dfz02"><script type="text/javascript" src="/inc/adv1Detail/1593.js"></script></div>
+</div>
+</div>
+<div class="bottom2013_1">
+<div class="bottom2013">
+<div class="bottom2013_lf">ÈÕ¾ù70Íò¹ã¸æÖ÷À´ÕâÀïÑ¡¹º¹ã¸æ×ÊÔ´£¡Êý°ÙÍò¹ã¸æ²úÆ·&nbsp;&nbsp;½«¹ã¸æÂòÂôÍø</div>
+<div class="bottom2013_1a"><a href="javascript:;" onclick="try{this.style.behavior='url(#default#homepage)';this.setHomePage(location.href);}catch(e){try{netscape.security.PrivilegeManager.enablePrivilege('UniversalXPConnect');Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch).setCharPref('browser.startup.homepage', location.href);}catch(e){alert('´Ë²Ù×÷±»ä¯ÀÀÆ÷¾Ü¾ø£¡\nÇëÔÚä¯ÀÀÆ÷µØÖ·À¸ÊäÈë¡°about:config¡±²¢»Ø³µ\nÈ»ºó½«[signed.applets.codebase_principal_support]µÄÖµÉèÖÃÎªtrue,Ë«»÷¼´¿É¡£');}}">ÉèÎªÊ×Ò³</a></div>
+<div class="bottom2013_1b"><a href="javascript:;" onclick="try{window.external.addFavorite(location.href,document.title);}catch(e){try{window.sidebar.addPanel(document.title,location.href,'');}catch(e){alert('¼ÓÈëÊÕ²ØÊ§°Ü£¬ÇëÊ¹ÓÃCtrl+D½øÐÐÌí¼Ó');}}" >¼ÓÈëÊÕ²Ø</a></div>
+<div class="bottom2013_rh"><a href="http://www.admaimai.com/Stratagem/RedirectURL.aspx?u=http://seo.chinaz.com/?q=www.admaimai.com" target="_blank">SEOÖ¸Êý</a>&nbsp;&nbsp;<a href="http://www.admaimai.com/Stratagem/RedirectURL.aspx?u=http://alexa.chinaz.com/Index.asp?domain=http://www.admaimai.com" target="_blank">ÊÀ½çÅÅÃû</a>&nbsp;&nbsp;<a href="http://www.admaimai.com/UpHelp/KeyRanking.html" target="_blank">¹Ø¼ü´Ê</a></div>
+</div>
+</div>
+<div class="bottom2013_2">
+<div class="bottom2013">
+<div class="bottom2013_2a">
+<li>×Ü»ú£º010-56292999</li>
+<li>´«Õæ£º010-67686234</li>
+<li>×ÉÑ¯Í¨£º400-005-0111£¨Ãâ³¤Í¾£©</li>
+<li>E-mail£ºkevin@admaimai.com</li>
+<li>ÆóÒµQQ£º2880090193</li>
+<li>CEO QQ£º712378999</li>
+</div>
+</div>
+</div>
+<div class="bottom2013_3">
+<div class="bottom2013">
+<div class="bottom2013_3a">
+<li><a href="http://www.admaimai.com/BuyAD/" target="_blank"><span>Âò¼ÒÈëÃÅ</span></a></li>
+<li><a href="http://www.admaimai.com/UpHelp/CustomerDetail.aspx?id=5" target="_blank">Âò¼ÒºÃ´¦</a></li>
+<li><a href="http://www.admaimai.com/UpHelp/CustomerDetail.aspx?id=6" target="_blank">Âò¼ÒÊ¹ÓÃ</a></li>
+<li><a href="http://www.admaimai.com/Buyers/" target="_blank">Çó¹ºÐÅÏ¢</a></li>
+<li><a href="http://www.admaimai.com/tender/" target="_blank">¹ã¸æÕÐ±ê</a></li>
+</div>
+<div class="bottom2013_3a">
+<li><a href="http://www.admaimai.com/Sell/" target="_blank"><span>Âô¼ÒÈëÃÅ</span></a></li>
+<li><a href="http://www.admaimai.com/UpHelp/CustomerDetail.aspx?id=14" target="_blank">ºÎÎªÂô¼Ò</a></li>
+<li><a href="http://www.admaimai.com/shop/" target="_blank">¹ã¸æÉÌÆÌ</a></li>
+<li><a href="http://www.admaimai.com/UpHelp/CustomerDetail.aspx?id=59" target="_blank">Ð§¹ûÈçºÎ</a></li>
+</div>
+<div class="bottom2013_3a">
+<li><span>ÍøÕ¾²úÆ·</span></li>
+<li><a href="http://www.admaimai.com/ExIntroduction/" target="_blank">×ÉÑ¯Í¨</a></li>
+<li><a href="http://www.admaimai.com/AdIntroduction/" target="_blank">¹ã¸æÍ¨</a></li>
+<li><a href="http://www.admaimai.com/baojia/" target="_blank">¹ã¸æÎ»</a></li>
+</div>
+<div class="bottom2013_3a">
+<li><a href="http://www.admaimai.com/about/index.html" target="_blank"><span>¹ØÓÚ¹ã¸æÂòÂôÍø</span></a></li>
+<li><a href="http://www.admaimai.com/about/index.html" target="_blank">ÍøÕ¾¼ò½é</a></li>
+<li><a href="http://www.admaimai.com/UpHelp/KeyRanking.html" target="_blank">¹Ø¼ü´Ê</a></li>
+<li><a href="http://www.admaimai.com/about/Dynamic.html" target="_blank">ÍøÕ¾¶¯Ì¬</a></li>
+<li><a href="http://www.admaimai.com/about/Memorabilia.html" target="_blank">´óÊÂ¼Ç</a></li>
+</div>
+<div class="bottom2013_3a">
+<li><span>¹Ø×¢ÎÒÃÇ</span></li>
+<li><a href="http://www.admaimai.com/Stratagem/RedirectURL.aspx?u=http://weibo.com/admaimai/profile?topnav=1&wvr=3.6" target="_blank">ÐÂÀËÎ¢²©</a></li>
+<li><a href="http://www.admaimai.com/QQ/" target="_blank">ÍøÕ¾QQÈº</a></li>
+</div>
+<div class="bottom2013_3a">
+<li><span>Óë¹ã¸æÂòÂôÍøºÏ×÷</span></li>
+<li><a href="http://china.admaimai.com/subject/" target="_blank">´úÀí¼ÓÃË</a></li>
+<li><a href="http://www.admaimai.com/about/SocialRecruitment.html" target="_blank">ÈË²ÅÕÐÆ¸</a></li>
+<li>ÆäËüºÏ×÷</li>
+</div>
+<div class="bottom2013_3b"></div>
+<div class="bottom2013_3c">
+<div class="bottom2013_lf">
+<a href="http://www.admaimai.com/about/index.html" target="_blank">¹ØÓÚÎÒÃÇ</a> | <a href="http://www.admaimai.com/about/ContactUs.html" target="_blank">ÁªÏµ·½Ê½</a> | <a href="http://www.admaimai.com/ExIntroduction/" target="_blank">¹ã¸æ·þÎñ</a> | <a href="http://www.admaimai.com/UpHelp/Map.html" target="_blank">ÍøÕ¾µØÍ¼</a> | <a href="http://www.admaimai.com/about/MediaReports.html" target="_blank">Ã½Ìå±¨µÀ</a> | <a href="http://www.admaimai.com/about/Qualification.html" target="_blank">ÍøÕ¾×ÊÖÊ</a> | <a href="http://www.admaimai.com/ExIntroduction/list4.htm" target="_blank">¸¶¿îÍ¾¾¶</a> | <a href="http://www.admaimai.com/sitemap.xml" target="_blank">sitemap</a><br>
+<font style="font-family:Arial;">&copy;</font> 2017 ¹ã¸æÂòÂôÍø&nbsp;&nbsp;<a href="http://www.miibeian.gov.cn/" target="_blank">¾©ICP±¸07040713ºÅ</a>&nbsp;&nbsp;<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502035890" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+    <img src="/images/beianbgs.png" style="float:left; width: 22px;" />
+    <span>¾©¹«Íø°²±¸ 11010502035890ºÅ</span>
+</a>&nbsp;&nbsp;<a href="javascript:void(0);void('http://www.admaimai.com/about/fwb.html');" target="_self">·¨ÂÉ¹ËÎÊ£º½­ÂÉÊ¦</a></div>
+<div class="bottom2013_rh"><A href="http://www.admaimai.com/news/ad201303122-ad99299.html" target="_blank"><img src="http://www.admaimai.com/images/b2013_1.gif" /></A> <A href="http://www.huawen.hk/" target="_blank"><img src="http://www.admaimai.com/images/b2013_2.gif" /></A> <A href="http://www.admaimai.com/news/ad201308202-ad105552.html" target="_blank"><img src="http://www.admaimai.com/images/b2013_3.gif" /></A></div>
+</div>
+<div class="bottom2013_3c">
+<div class="bottom2013_lf">ÈíÖøµÇ×ÖµÚ0759953ºÅ</div>
+<div class="bottom2013_lf" style="margin-left:55px;">ÈíÖøµÇ×ÖµÚ0760138ºÅ</div>
+<div class="bottom2013_lf" style="margin-left:55px;">ÈíÖøµÇ×ÖµÚ0718756ºÅ</div>
+<div class="bottom2013_lf" style="margin-left:55px;">ÈíÖøµÇ×ÖµÚ0717068ºÅ</div>
+<div class="bottom2013_lf" style="margin-left:55px;">ÈíÖøµÇ×ÖµÚ0754253ºÅ</div>
+<div class="bottom2013_lf" style="margin-left:56px;">ÈíÖøµÇ×ÖµÚ0755697ºÅ</div>
+<div class="bottom2013_lf" style="margin-left:0px;">
+<a href="http://www.admaimai.com/news/ad201501272-ad120834.html" target="_blank">¹ú¼Ò¼¶¸ßÐÂ¼¼ÊõÆóÒµ</a>&nbsp;&nbsp;<a href="http://www.admaimai.com/news/ad201409012-ad117927.html" target="_blank">±±¾©×¨¾«ÌØÐÂÈÏ¶¨ÆóÒµ</a>&nbsp;&nbsp;&nbsp;<a href="http://www.admaimai.com/news/ad201412252-ad120257.html" target="_blank">ÉÏº£¹ÉÈ¨½»Ò×ÖÐÐÄ¹ÒÅÆÉÏÊÐÆóÒµ</a>&nbsp;&nbsp;&nbsp;<a href="http://www.admaimai.com/news/ad201411282-ad119758.html" target="_blank">ÖÐ¹úÆ·ÅÆ´«²¥×¿Ô½³É¾Í½±</a>&nbsp;&nbsp;<a href="http://www.admaimai.com/news/ad201411282-ad119758.html" target="_blank">ÖÐ¹úÆ·ÅÆ´«²¥×î¾ßÓ°ÏìÁ¦¼ÛÖµÆ½Ì¨</a>&nbsp;&nbsp;<a href="http://www.admaimai.com/news/ad201412192-ad120170.html" target="_blank">ÖÐ¹ú¹ã¸æÐÐÒµÄê¶ÈÈËÎï¼ÛÖµ´´ÐÂ½±</a><br>
+<a href="http://www.admaimai.com/news/ad201408212-ad117673.html" target="_blank">×î¼ÑÉÌÒµÄ£Ê½´´ÐÂ½±</a>&nbsp;&nbsp;<a href="http://www.admaimai.com/news/ad201411282-ad119758.html" target="_blank">ÑÇÖÞÆ·ÅÆÂÛÌ³ÀíÊÂµ¥Î»</a>&nbsp;&nbsp;&nbsp;<a href="http://www.admaimai.com/news/ad201407082-ad116813.html" target="_blank">×î¾ßÍ¶×Ê¼ÛÖµ½±</a>&nbsp;&nbsp;&nbsp;<a href="http://www.admaimai.com/news/ad201407082-ad116813.html" target="_blank">×î¾ßÓ°ÏìÁ¦ÐÂÃ½ÌåÃÅ»§</a>&nbsp;&nbsp;&nbsp;<a href="http://www.admaimai.com/news/ad201407082-ad116813.html" target="_blank">×î¾ß·¢Õ¹Ç±Á¦ÐÐÒµÃÅ»§</a>&nbsp;&nbsp;&nbsp;<a href="http://www.admaimai.com/news/ad201412252-ad120257.html" target="_blank">ÉÏº£¹ÉÈ¨½»Ò×ÖÐÐÄ&nbsp;&nbsp;ÆóÒµ¼ò³Æ£º°ÂÕÜ¹ú¼Ê&nbsp;&nbsp;¹ÉÆ±´úÂë£º202950</a></div>
+</div>
+
+</div>
+</div>
+ <script src='http://w.cnzz.com/c.php?id=30054717' language='JavaScript'></script>
+<!--FootPageEnd-->
+<script type="text/javascript" src="/Job/hit.ashx?Id=5703"></script> 
+<script type="text/javascript">
+    $.get("/GetCurrentUserName.ashx", { Action: "get" }, function (data, textStatus) {
+        this;
+        if (data == "")
+            document.getElementById("DivMmo").style.display = "";
+    });
+</script>
+
+ 
+    </form>
+</body>
+</html>
+

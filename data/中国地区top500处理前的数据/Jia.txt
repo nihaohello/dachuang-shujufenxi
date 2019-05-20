@@ -1,0 +1,900 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title></title>
+	<script type="text/javascript" src="//ued.jia.com/js/common/jquery-1.9.1.js"></script>
+	<style>
+		.total{width:275px;height:200px;margin:60px auto;text-align:center;}
+		.total h3{font-size:16px;color:#666;margin-top:45px;text-indent:7px;font-family:"å¾®è½¯éé»";font-weight:normal;}
+		.total p{font-size:12px;color:#999;}
+		.total p a{color:#005aa0;}
+		#totalSecond{color:#cf0000;}
+	</style>
+</head>
+
+<body>
+<div class="total">
+	<img src="//www.jia.com/pinpai/public/images/to_404.png">
+	<h3>ç½ç«ååå·æï¼é©¬ä¸ä¸ºæ¨æ¢å¤æ­£å¸¸ï¼</h3>
+	<p>å°å¨<span id="totalSecond">3</span>ç§åèªå¨è½¬å¥<a href="//www.jia.com/">é½å®¶é¦é¡µ</a></p>
+</div>
+<script type="text/javascript">
+	var second=3;  
+	var timerId; 
+	$(document).ready(function() {
+		second = $("#totalSecond").text();  
+		timerId = window.setInterval("redirect()", 1000);
+	});
+	function redirect(){  
+		if(second < 0){  
+			window.clearInterval(timerId);//æ¸é¤  
+			window.location.href="//www.jia.com/"
+		}  
+		else{  
+			$("#totalSecond").text(second--);  
+		}  
+	} 
+</script>
+<script type="text/javascript">
+var TJJ={};
+TJJ.UserCookieName = "JIA_user_name";
+TJJ.AreaCookieName = "jia_city_id";
+TJJ.t1 = (new Date).getTime();
+TJJ.action = function(){};
+TJJ.track= function(){};
+</script>
+<script src="//fastued2.jia.com/js/tjj.min.js" type="text/javascript"></script>
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title></title>
+	<script type="text/javascript" src="//ued.jia.com/js/common/jquery-1.9.1.js"></script>
+	<style>
+		.total{width:275px;height:200px;margin:60px auto;text-align:center;}
+		.total h3{font-size:16px;color:#666;margin-top:45px;text-indent:7px;font-family:"å¾®è½¯éé»";font-weight:normal;}
+		.total p{font-size:12px;color:#999;}
+		.total p a{color:#005aa0;}
+		#totalSecond{color:#cf0000;}
+	</style>
+</head>
+
+<body>
+<div class="total">
+	<img src="//www.jia.com/pinpai/public/images/to_404.png">
+	<h3>ç½ç«ååå·æï¼é©¬ä¸ä¸ºæ¨æ¢å¤æ­£å¸¸ï¼</h3>
+	<p>å°å¨<span id="totalSecond">3</span>ç§åèªå¨è½¬å¥<a href="//www.jia.com/">é½å®¶é¦é¡µ</a></p>
+</div>
+<script type="text/javascript">
+	var second=3;  
+	var timerId; 
+	$(document).ready(function() {
+		second = $("#totalSecond").text();  
+		timerId = window.setInterval("redirect()", 1000);
+	});
+	function redirect(){  
+		if(second < 0){  
+			window.clearInterval(timerId);//æ¸é¤  
+			window.location.href="//www.jia.com/"
+		}  
+		else{  
+			$("#totalSecond").text(second--);  
+		}  
+	} 
+</script>
+<script type="text/javascript">
+var TJJ={};
+TJJ.UserCookieName = "JIA_user_name";
+TJJ.AreaCookieName = "jia_city_id";
+TJJ.t1 = (new Date).getTime();
+TJJ.action = function(){};
+TJJ.track= function(){};
+</script>
+<script src="//fastued2.jia.com/js/tjj.min.js" type="text/javascript"></script>
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title></title>
+	<script type="text/javascript" src="//ued.jia.com/js/common/jquery-1.9.1.js"></script>
+	<style>
+		.total{width:275px;height:200px;margin:60px auto;text-align:center;}
+		.total h3{font-size:16px;color:#666;margin-top:45px;text-indent:7px;font-family:"å¾®è½¯éé»";font-weight:normal;}
+		.total p{font-size:12px;color:#999;}
+		.total p a{color:#005aa0;}
+		#totalSecond{color:#cf0000;}
+	</style>
+</head>
+
+<body>
+<div class="total">
+	<img src="//www.jia.com/pinpai/public/images/to_404.png">
+	<h3>ç½ç«ååå·æï¼é©¬ä¸ä¸ºæ¨æ¢å¤æ­£å¸¸ï¼</h3>
+	<p>å°å¨<span id="totalSecond">3</span>ç§åèªå¨è½¬å¥<a href="//www.jia.com/">é½å®¶é¦é¡µ</a></p>
+</div>
+<script type="text/javascript">
+	var second=3;  
+	var timerId; 
+	$(document).ready(function() {
+		second = $("#totalSecond").text();  
+		timerId = window.setInterval("redirect()", 1000);
+	});
+	function redirect(){  
+		if(second < 0){  
+			window.clearInterval(timerId);//æ¸é¤  
+			window.location.href="//www.jia.com/"
+		}  
+		else{  
+			$("#totalSecond").text(second--);  
+		}  
+	} 
+</script>
+<script type="text/javascript">
+var TJJ={};
+TJJ.UserCookieName = "JIA_user_name";
+TJJ.AreaCookieName = "jia_city_id";
+TJJ.t1 = (new Date).getTime();
+TJJ.action = function(){};
+TJJ.track= function(){};
+</script>
+<script src="//fastued2.jia.com/js/tjj.min.js" type="text/javascript"></script>
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title></title>
+	<script type="text/javascript" src="//ued.jia.com/js/common/jquery-1.9.1.js"></script>
+	<style>
+		.total{width:275px;height:200px;margin:60px auto;text-align:center;}
+		.total h3{font-size:16px;color:#666;margin-top:45px;text-indent:7px;font-family:"å¾®è½¯éé»";font-weight:normal;}
+		.total p{font-size:12px;color:#999;}
+		.total p a{color:#005aa0;}
+		#totalSecond{color:#cf0000;}
+	</style>
+</head>
+
+<body>
+<div class="total">
+	<img src="//www.jia.com/pinpai/public/images/to_404.png">
+	<h3>ç½ç«ååå·æï¼é©¬ä¸ä¸ºæ¨æ¢å¤æ­£å¸¸ï¼</h3>
+	<p>å°å¨<span id="totalSecond">3</span>ç§åèªå¨è½¬å¥<a href="//www.jia.com/">é½å®¶é¦é¡µ</a></p>
+</div>
+<script type="text/javascript">
+	var second=3;  
+	var timerId; 
+	$(document).ready(function() {
+		second = $("#totalSecond").text();  
+		timerId = window.setInterval("redirect()", 1000);
+	});
+	function redirect(){  
+		if(second < 0){  
+			window.clearInterval(timerId);//æ¸é¤  
+			window.location.href="//www.jia.com/"
+		}  
+		else{  
+			$("#totalSecond").text(second--);  
+		}  
+	} 
+</script>
+<script type="text/javascript">
+var TJJ={};
+TJJ.UserCookieName = "JIA_user_name";
+TJJ.AreaCookieName = "jia_city_id";
+TJJ.t1 = (new Date).getTime();
+TJJ.action = function(){};
+TJJ.track= function(){};
+</script>
+<script src="//fastued2.jia.com/js/tjj.min.js" type="text/javascript"></script>
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title></title>
+	<script type="text/javascript" src="//ued.jia.com/js/common/jquery-1.9.1.js"></script>
+	<style>
+		.total{width:275px;height:200px;margin:60px auto;text-align:center;}
+		.total h3{font-size:16px;color:#666;margin-top:45px;text-indent:7px;font-family:"å¾®è½¯éé»";font-weight:normal;}
+		.total p{font-size:12px;color:#999;}
+		.total p a{color:#005aa0;}
+		#totalSecond{color:#cf0000;}
+	</style>
+</head>
+
+<body>
+<div class="total">
+	<img src="//www.jia.com/pinpai/public/images/to_404.png">
+	<h3>ç½ç«ååå·æï¼é©¬ä¸ä¸ºæ¨æ¢å¤æ­£å¸¸ï¼</h3>
+	<p>å°å¨<span id="totalSecond">3</span>ç§åèªå¨è½¬å¥<a href="//www.jia.com/">é½å®¶é¦é¡µ</a></p>
+</div>
+<script type="text/javascript">
+	var second=3;  
+	var timerId; 
+	$(document).ready(function() {
+		second = $("#totalSecond").text();  
+		timerId = window.setInterval("redirect()", 1000);
+	});
+	function redirect(){  
+		if(second < 0){  
+			window.clearInterval(timerId);//æ¸é¤  
+			window.location.href="//www.jia.com/"
+		}  
+		else{  
+			$("#totalSecond").text(second--);  
+		}  
+	} 
+</script>
+<script type="text/javascript">
+var TJJ={};
+TJJ.UserCookieName = "JIA_user_name";
+TJJ.AreaCookieName = "jia_city_id";
+TJJ.t1 = (new Date).getTime();
+TJJ.action = function(){};
+TJJ.track= function(){};
+</script>
+<script src="//fastued2.jia.com/js/tjj.min.js" type="text/javascript"></script>
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title></title>
+	<script type="text/javascript" src="//ued.jia.com/js/common/jquery-1.9.1.js"></script>
+	<style>
+		.total{width:275px;height:200px;margin:60px auto;text-align:center;}
+		.total h3{font-size:16px;color:#666;margin-top:45px;text-indent:7px;font-family:"å¾®è½¯éé»";font-weight:normal;}
+		.total p{font-size:12px;color:#999;}
+		.total p a{color:#005aa0;}
+		#totalSecond{color:#cf0000;}
+	</style>
+</head>
+
+<body>
+<div class="total">
+	<img src="//www.jia.com/pinpai/public/images/to_404.png">
+	<h3>ç½ç«ååå·æï¼é©¬ä¸ä¸ºæ¨æ¢å¤æ­£å¸¸ï¼</h3>
+	<p>å°å¨<span id="totalSecond">3</span>ç§åèªå¨è½¬å¥<a href="//www.jia.com/">é½å®¶é¦é¡µ</a></p>
+</div>
+<script type="text/javascript">
+	var second=3;  
+	var timerId; 
+	$(document).ready(function() {
+		second = $("#totalSecond").text();  
+		timerId = window.setInterval("redirect()", 1000);
+	});
+	function redirect(){  
+		if(second < 0){  
+			window.clearInterval(timerId);//æ¸é¤  
+			window.location.href="//www.jia.com/"
+		}  
+		else{  
+			$("#totalSecond").text(second--);  
+		}  
+	} 
+</script>
+<script type="text/javascript">
+var TJJ={};
+TJJ.UserCookieName = "JIA_user_name";
+TJJ.AreaCookieName = "jia_city_id";
+TJJ.t1 = (new Date).getTime();
+TJJ.action = function(){};
+TJJ.track= function(){};
+</script>
+<script src="//fastued2.jia.com/js/tjj.min.js" type="text/javascript"></script>
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title></title>
+	<script type="text/javascript" src="//ued.jia.com/js/common/jquery-1.9.1.js"></script>
+	<style>
+		.total{width:275px;height:200px;margin:60px auto;text-align:center;}
+		.total h3{font-size:16px;color:#666;margin-top:45px;text-indent:7px;font-family:"å¾®è½¯éé»";font-weight:normal;}
+		.total p{font-size:12px;color:#999;}
+		.total p a{color:#005aa0;}
+		#totalSecond{color:#cf0000;}
+	</style>
+</head>
+
+<body>
+<div class="total">
+	<img src="//www.jia.com/pinpai/public/images/to_404.png">
+	<h3>ç½ç«ååå·æï¼é©¬ä¸ä¸ºæ¨æ¢å¤æ­£å¸¸ï¼</h3>
+	<p>å°å¨<span id="totalSecond">3</span>ç§åèªå¨è½¬å¥<a href="//www.jia.com/">é½å®¶é¦é¡µ</a></p>
+</div>
+<script type="text/javascript">
+	var second=3;  
+	var timerId; 
+	$(document).ready(function() {
+		second = $("#totalSecond").text();  
+		timerId = window.setInterval("redirect()", 1000);
+	});
+	function redirect(){  
+		if(second < 0){  
+			window.clearInterval(timerId);//æ¸é¤  
+			window.location.href="//www.jia.com/"
+		}  
+		else{  
+			$("#totalSecond").text(second--);  
+		}  
+	} 
+</script>
+<script type="text/javascript">
+var TJJ={};
+TJJ.UserCookieName = "JIA_user_name";
+TJJ.AreaCookieName = "jia_city_id";
+TJJ.t1 = (new Date).getTime();
+TJJ.action = function(){};
+TJJ.track= function(){};
+</script>
+<script src="//fastued2.jia.com/js/tjj.min.js" type="text/javascript"></script>
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title></title>
+	<script type="text/javascript" src="//ued.jia.com/js/common/jquery-1.9.1.js"></script>
+	<style>
+		.total{width:275px;height:200px;margin:60px auto;text-align:center;}
+		.total h3{font-size:16px;color:#666;margin-top:45px;text-indent:7px;font-family:"å¾®è½¯éé»";font-weight:normal;}
+		.total p{font-size:12px;color:#999;}
+		.total p a{color:#005aa0;}
+		#totalSecond{color:#cf0000;}
+	</style>
+</head>
+
+<body>
+<div class="total">
+	<img src="//www.jia.com/pinpai/public/images/to_404.png">
+	<h3>ç½ç«ååå·æï¼é©¬ä¸ä¸ºæ¨æ¢å¤æ­£å¸¸ï¼</h3>
+	<p>å°å¨<span id="totalSecond">3</span>ç§åèªå¨è½¬å¥<a href="//www.jia.com/">é½å®¶é¦é¡µ</a></p>
+</div>
+<script type="text/javascript">
+	var second=3;  
+	var timerId; 
+	$(document).ready(function() {
+		second = $("#totalSecond").text();  
+		timerId = window.setInterval("redirect()", 1000);
+	});
+	function redirect(){  
+		if(second < 0){  
+			window.clearInterval(timerId);//æ¸é¤  
+			window.location.href="//www.jia.com/"
+		}  
+		else{  
+			$("#totalSecond").text(second--);  
+		}  
+	} 
+</script>
+<script type="text/javascript">
+var TJJ={};
+TJJ.UserCookieName = "JIA_user_name";
+TJJ.AreaCookieName = "jia_city_id";
+TJJ.t1 = (new Date).getTime();
+TJJ.action = function(){};
+TJJ.track= function(){};
+</script>
+<script src="//fastued2.jia.com/js/tjj.min.js" type="text/javascript"></script>
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title></title>
+	<script type="text/javascript" src="//ued.jia.com/js/common/jquery-1.9.1.js"></script>
+	<style>
+		.total{width:275px;height:200px;margin:60px auto;text-align:center;}
+		.total h3{font-size:16px;color:#666;margin-top:45px;text-indent:7px;font-family:"å¾®è½¯éé»";font-weight:normal;}
+		.total p{font-size:12px;color:#999;}
+		.total p a{color:#005aa0;}
+		#totalSecond{color:#cf0000;}
+	</style>
+</head>
+
+<body>
+<div class="total">
+	<img src="//www.jia.com/pinpai/public/images/to_404.png">
+	<h3>ç½ç«ååå·æï¼é©¬ä¸ä¸ºæ¨æ¢å¤æ­£å¸¸ï¼</h3>
+	<p>å°å¨<span id="totalSecond">3</span>ç§åèªå¨è½¬å¥<a href="//www.jia.com/">é½å®¶é¦é¡µ</a></p>
+</div>
+<script type="text/javascript">
+	var second=3;  
+	var timerId; 
+	$(document).ready(function() {
+		second = $("#totalSecond").text();  
+		timerId = window.setInterval("redirect()", 1000);
+	});
+	function redirect(){  
+		if(second < 0){  
+			window.clearInterval(timerId);//æ¸é¤  
+			window.location.href="//www.jia.com/"
+		}  
+		else{  
+			$("#totalSecond").text(second--);  
+		}  
+	} 
+</script>
+<script type="text/javascript">
+var TJJ={};
+TJJ.UserCookieName = "JIA_user_name";
+TJJ.AreaCookieName = "jia_city_id";
+TJJ.t1 = (new Date).getTime();
+TJJ.action = function(){};
+TJJ.track= function(){};
+</script>
+<script src="//fastued2.jia.com/js/tjj.min.js" type="text/javascript"></script>
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title></title>
+	<script type="text/javascript" src="//ued.jia.com/js/common/jquery-1.9.1.js"></script>
+	<style>
+		.total{width:275px;height:200px;margin:60px auto;text-align:center;}
+		.total h3{font-size:16px;color:#666;margin-top:45px;text-indent:7px;font-family:"å¾®è½¯éé»";font-weight:normal;}
+		.total p{font-size:12px;color:#999;}
+		.total p a{color:#005aa0;}
+		#totalSecond{color:#cf0000;}
+	</style>
+</head>
+
+<body>
+<div class="total">
+	<img src="//www.jia.com/pinpai/public/images/to_404.png">
+	<h3>ç½ç«ååå·æï¼é©¬ä¸ä¸ºæ¨æ¢å¤æ­£å¸¸ï¼</h3>
+	<p>å°å¨<span id="totalSecond">3</span>ç§åèªå¨è½¬å¥<a href="//www.jia.com/">é½å®¶é¦é¡µ</a></p>
+</div>
+<script type="text/javascript">
+	var second=3;  
+	var timerId; 
+	$(document).ready(function() {
+		second = $("#totalSecond").text();  
+		timerId = window.setInterval("redirect()", 1000);
+	});
+	function redirect(){  
+		if(second < 0){  
+			window.clearInterval(timerId);//æ¸é¤  
+			window.location.href="//www.jia.com/"
+		}  
+		else{  
+			$("#totalSecond").text(second--);  
+		}  
+	} 
+</script>
+<script type="text/javascript">
+var TJJ={};
+TJJ.UserCookieName = "JIA_user_name";
+TJJ.AreaCookieName = "jia_city_id";
+TJJ.t1 = (new Date).getTime();
+TJJ.action = function(){};
+TJJ.track= function(){};
+</script>
+<script src="//fastued2.jia.com/js/tjj.min.js" type="text/javascript"></script>
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title></title>
+	<script type="text/javascript" src="//ued.jia.com/js/common/jquery-1.9.1.js"></script>
+	<style>
+		.total{width:275px;height:200px;margin:60px auto;text-align:center;}
+		.total h3{font-size:16px;color:#666;margin-top:45px;text-indent:7px;font-family:"å¾®è½¯éé»";font-weight:normal;}
+		.total p{font-size:12px;color:#999;}
+		.total p a{color:#005aa0;}
+		#totalSecond{color:#cf0000;}
+	</style>
+</head>
+
+<body>
+<div class="total">
+	<img src="//www.jia.com/pinpai/public/images/to_404.png">
+	<h3>ç½ç«ååå·æï¼é©¬ä¸ä¸ºæ¨æ¢å¤æ­£å¸¸ï¼</h3>
+	<p>å°å¨<span id="totalSecond">3</span>ç§åèªå¨è½¬å¥<a href="//www.jia.com/">é½å®¶é¦é¡µ</a></p>
+</div>
+<script type="text/javascript">
+	var second=3;  
+	var timerId; 
+	$(document).ready(function() {
+		second = $("#totalSecond").text();  
+		timerId = window.setInterval("redirect()", 1000);
+	});
+	function redirect(){  
+		if(second < 0){  
+			window.clearInterval(timerId);//æ¸é¤  
+			window.location.href="//www.jia.com/"
+		}  
+		else{  
+			$("#totalSecond").text(second--);  
+		}  
+	} 
+</script>
+<script type="text/javascript">
+var TJJ={};
+TJJ.UserCookieName = "JIA_user_name";
+TJJ.AreaCookieName = "jia_city_id";
+TJJ.t1 = (new Date).getTime();
+TJJ.action = function(){};
+TJJ.track= function(){};
+</script>
+<script src="//fastued2.jia.com/js/tjj.min.js" type="text/javascript"></script>
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title></title>
+	<script type="text/javascript" src="//ued.jia.com/js/common/jquery-1.9.1.js"></script>
+	<style>
+		.total{width:275px;height:200px;margin:60px auto;text-align:center;}
+		.total h3{font-size:16px;color:#666;margin-top:45px;text-indent:7px;font-family:"å¾®è½¯éé»";font-weight:normal;}
+		.total p{font-size:12px;color:#999;}
+		.total p a{color:#005aa0;}
+		#totalSecond{color:#cf0000;}
+	</style>
+</head>
+
+<body>
+<div class="total">
+	<img src="//www.jia.com/pinpai/public/images/to_404.png">
+	<h3>ç½ç«ååå·æï¼é©¬ä¸ä¸ºæ¨æ¢å¤æ­£å¸¸ï¼</h3>
+	<p>å°å¨<span id="totalSecond">3</span>ç§åèªå¨è½¬å¥<a href="//www.jia.com/">é½å®¶é¦é¡µ</a></p>
+</div>
+<script type="text/javascript">
+	var second=3;  
+	var timerId; 
+	$(document).ready(function() {
+		second = $("#totalSecond").text();  
+		timerId = window.setInterval("redirect()", 1000);
+	});
+	function redirect(){  
+		if(second < 0){  
+			window.clearInterval(timerId);//æ¸é¤  
+			window.location.href="//www.jia.com/"
+		}  
+		else{  
+			$("#totalSecond").text(second--);  
+		}  
+	} 
+</script>
+<script type="text/javascript">
+var TJJ={};
+TJJ.UserCookieName = "JIA_user_name";
+TJJ.AreaCookieName = "jia_city_id";
+TJJ.t1 = (new Date).getTime();
+TJJ.action = function(){};
+TJJ.track= function(){};
+</script>
+<script src="//fastued2.jia.com/js/tjj.min.js" type="text/javascript"></script>
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title></title>
+	<script type="text/javascript" src="//ued.jia.com/js/common/jquery-1.9.1.js"></script>
+	<style>
+		.total{width:275px;height:200px;margin:60px auto;text-align:center;}
+		.total h3{font-size:16px;color:#666;margin-top:45px;text-indent:7px;font-family:"å¾®è½¯éé»";font-weight:normal;}
+		.total p{font-size:12px;color:#999;}
+		.total p a{color:#005aa0;}
+		#totalSecond{color:#cf0000;}
+	</style>
+</head>
+
+<body>
+<div class="total">
+	<img src="//www.jia.com/pinpai/public/images/to_404.png">
+	<h3>ç½ç«ååå·æï¼é©¬ä¸ä¸ºæ¨æ¢å¤æ­£å¸¸ï¼</h3>
+	<p>å°å¨<span id="totalSecond">3</span>ç§åèªå¨è½¬å¥<a href="//www.jia.com/">é½å®¶é¦é¡µ</a></p>
+</div>
+<script type="text/javascript">
+	var second=3;  
+	var timerId; 
+	$(document).ready(function() {
+		second = $("#totalSecond").text();  
+		timerId = window.setInterval("redirect()", 1000);
+	});
+	function redirect(){  
+		if(second < 0){  
+			window.clearInterval(timerId);//æ¸é¤  
+			window.location.href="//www.jia.com/"
+		}  
+		else{  
+			$("#totalSecond").text(second--);  
+		}  
+	} 
+</script>
+<script type="text/javascript">
+var TJJ={};
+TJJ.UserCookieName = "JIA_user_name";
+TJJ.AreaCookieName = "jia_city_id";
+TJJ.t1 = (new Date).getTime();
+TJJ.action = function(){};
+TJJ.track= function(){};
+</script>
+<script src="//fastued2.jia.com/js/tjj.min.js" type="text/javascript"></script>
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title></title>
+	<script type="text/javascript" src="//ued.jia.com/js/common/jquery-1.9.1.js"></script>
+	<style>
+		.total{width:275px;height:200px;margin:60px auto;text-align:center;}
+		.total h3{font-size:16px;color:#666;margin-top:45px;text-indent:7px;font-family:"å¾®è½¯éé»";font-weight:normal;}
+		.total p{font-size:12px;color:#999;}
+		.total p a{color:#005aa0;}
+		#totalSecond{color:#cf0000;}
+	</style>
+</head>
+
+<body>
+<div class="total">
+	<img src="//www.jia.com/pinpai/public/images/to_404.png">
+	<h3>ç½ç«ååå·æï¼é©¬ä¸ä¸ºæ¨æ¢å¤æ­£å¸¸ï¼</h3>
+	<p>å°å¨<span id="totalSecond">3</span>ç§åèªå¨è½¬å¥<a href="//www.jia.com/">é½å®¶é¦é¡µ</a></p>
+</div>
+<script type="text/javascript">
+	var second=3;  
+	var timerId; 
+	$(document).ready(function() {
+		second = $("#totalSecond").text();  
+		timerId = window.setInterval("redirect()", 1000);
+	});
+	function redirect(){  
+		if(second < 0){  
+			window.clearInterval(timerId);//æ¸é¤  
+			window.location.href="//www.jia.com/"
+		}  
+		else{  
+			$("#totalSecond").text(second--);  
+		}  
+	} 
+</script>
+<script type="text/javascript">
+var TJJ={};
+TJJ.UserCookieName = "JIA_user_name";
+TJJ.AreaCookieName = "jia_city_id";
+TJJ.t1 = (new Date).getTime();
+TJJ.action = function(){};
+TJJ.track= function(){};
+</script>
+<script src="//fastued2.jia.com/js/tjj.min.js" type="text/javascript"></script>
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title></title>
+	<script type="text/javascript" src="//ued.jia.com/js/common/jquery-1.9.1.js"></script>
+	<style>
+		.total{width:275px;height:200px;margin:60px auto;text-align:center;}
+		.total h3{font-size:16px;color:#666;margin-top:45px;text-indent:7px;font-family:"å¾®è½¯éé»";font-weight:normal;}
+		.total p{font-size:12px;color:#999;}
+		.total p a{color:#005aa0;}
+		#totalSecond{color:#cf0000;}
+	</style>
+</head>
+
+<body>
+<div class="total">
+	<img src="//www.jia.com/pinpai/public/images/to_404.png">
+	<h3>ç½ç«ååå·æï¼é©¬ä¸ä¸ºæ¨æ¢å¤æ­£å¸¸ï¼</h3>
+	<p>å°å¨<span id="totalSecond">3</span>ç§åèªå¨è½¬å¥<a href="//www.jia.com/">é½å®¶é¦é¡µ</a></p>
+</div>
+<script type="text/javascript">
+	var second=3;  
+	var timerId; 
+	$(document).ready(function() {
+		second = $("#totalSecond").text();  
+		timerId = window.setInterval("redirect()", 1000);
+	});
+	function redirect(){  
+		if(second < 0){  
+			window.clearInterval(timerId);//æ¸é¤  
+			window.location.href="//www.jia.com/"
+		}  
+		else{  
+			$("#totalSecond").text(second--);  
+		}  
+	} 
+</script>
+<script type="text/javascript">
+var TJJ={};
+TJJ.UserCookieName = "JIA_user_name";
+TJJ.AreaCookieName = "jia_city_id";
+TJJ.t1 = (new Date).getTime();
+TJJ.action = function(){};
+TJJ.track= function(){};
+</script>
+<script src="//fastued2.jia.com/js/tjj.min.js" type="text/javascript"></script>
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title></title>
+	<script type="text/javascript" src="//ued.jia.com/js/common/jquery-1.9.1.js"></script>
+	<style>
+		.total{width:275px;height:200px;margin:60px auto;text-align:center;}
+		.total h3{font-size:16px;color:#666;margin-top:45px;text-indent:7px;font-family:"å¾®è½¯éé»";font-weight:normal;}
+		.total p{font-size:12px;color:#999;}
+		.total p a{color:#005aa0;}
+		#totalSecond{color:#cf0000;}
+	</style>
+</head>
+
+<body>
+<div class="total">
+	<img src="//www.jia.com/pinpai/public/images/to_404.png">
+	<h3>ç½ç«ååå·æï¼é©¬ä¸ä¸ºæ¨æ¢å¤æ­£å¸¸ï¼</h3>
+	<p>å°å¨<span id="totalSecond">3</span>ç§åèªå¨è½¬å¥<a href="//www.jia.com/">é½å®¶é¦é¡µ</a></p>
+</div>
+<script type="text/javascript">
+	var second=3;  
+	var timerId; 
+	$(document).ready(function() {
+		second = $("#totalSecond").text();  
+		timerId = window.setInterval("redirect()", 1000);
+	});
+	function redirect(){  
+		if(second < 0){  
+			window.clearInterval(timerId);//æ¸é¤  
+			window.location.href="//www.jia.com/"
+		}  
+		else{  
+			$("#totalSecond").text(second--);  
+		}  
+	} 
+</script>
+<script type="text/javascript">
+var TJJ={};
+TJJ.UserCookieName = "JIA_user_name";
+TJJ.AreaCookieName = "jia_city_id";
+TJJ.t1 = (new Date).getTime();
+TJJ.action = function(){};
+TJJ.track= function(){};
+</script>
+<script src="//fastued2.jia.com/js/tjj.min.js" type="text/javascript"></script>
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title></title>
+	<script type="text/javascript" src="//ued.jia.com/js/common/jquery-1.9.1.js"></script>
+	<style>
+		.total{width:275px;height:200px;margin:60px auto;text-align:center;}
+		.total h3{font-size:16px;color:#666;margin-top:45px;text-indent:7px;font-family:"å¾®è½¯éé»";font-weight:normal;}
+		.total p{font-size:12px;color:#999;}
+		.total p a{color:#005aa0;}
+		#totalSecond{color:#cf0000;}
+	</style>
+</head>
+
+<body>
+<div class="total">
+	<img src="//www.jia.com/pinpai/public/images/to_404.png">
+	<h3>ç½ç«ååå·æï¼é©¬ä¸ä¸ºæ¨æ¢å¤æ­£å¸¸ï¼</h3>
+	<p>å°å¨<span id="totalSecond">3</span>ç§åèªå¨è½¬å¥<a href="//www.jia.com/">é½å®¶é¦é¡µ</a></p>
+</div>
+<script type="text/javascript">
+	var second=3;  
+	var timerId; 
+	$(document).ready(function() {
+		second = $("#totalSecond").text();  
+		timerId = window.setInterval("redirect()", 1000);
+	});
+	function redirect(){  
+		if(second < 0){  
+			window.clearInterval(timerId);//æ¸é¤  
+			window.location.href="//www.jia.com/"
+		}  
+		else{  
+			$("#totalSecond").text(second--);  
+		}  
+	} 
+</script>
+<script type="text/javascript">
+var TJJ={};
+TJJ.UserCookieName = "JIA_user_name";
+TJJ.AreaCookieName = "jia_city_id";
+TJJ.t1 = (new Date).getTime();
+TJJ.action = function(){};
+TJJ.track= function(){};
+</script>
+<script src="//fastued2.jia.com/js/tjj.min.js" type="text/javascript"></script>
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title></title>
+	<script type="text/javascript" src="//ued.jia.com/js/common/jquery-1.9.1.js"></script>
+	<style>
+		.total{width:275px;height:200px;margin:60px auto;text-align:center;}
+		.total h3{font-size:16px;color:#666;margin-top:45px;text-indent:7px;font-family:"å¾®è½¯éé»";font-weight:normal;}
+		.total p{font-size:12px;color:#999;}
+		.total p a{color:#005aa0;}
+		#totalSecond{color:#cf0000;}
+	</style>
+</head>
+
+<body>
+<div class="total">
+	<img src="//www.jia.com/pinpai/public/images/to_404.png">
+	<h3>ç½ç«ååå·æï¼é©¬ä¸ä¸ºæ¨æ¢å¤æ­£å¸¸ï¼</h3>
+	<p>å°å¨<span id="totalSecond">3</span>ç§åèªå¨è½¬å¥<a href="//www.jia.com/">é½å®¶é¦é¡µ</a></p>
+</div>
+<script type="text/javascript">
+	var second=3;  
+	var timerId; 
+	$(document).ready(function() {
+		second = $("#totalSecond").text();  
+		timerId = window.setInterval("redirect()", 1000);
+	});
+	function redirect(){  
+		if(second < 0){  
+			window.clearInterval(timerId);//æ¸é¤  
+			window.location.href="//www.jia.com/"
+		}  
+		else{  
+			$("#totalSecond").text(second--);  
+		}  
+	} 
+</script>
+<script type="text/javascript">
+var TJJ={};
+TJJ.UserCookieName = "JIA_user_name";
+TJJ.AreaCookieName = "jia_city_id";
+TJJ.t1 = (new Date).getTime();
+TJJ.action = function(){};
+TJJ.track= function(){};
+</script>
+<script src="//fastued2.jia.com/js/tjj.min.js" type="text/javascript"></script>
+</body>
+</html>
+

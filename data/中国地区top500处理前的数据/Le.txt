@@ -1,0 +1,816 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>åºéæç¤º_ä¹è§ç½</title>
+<meta name="keywords" content="åºéæç¤º - ä¹è§ç½"/>
+<link rel="Shortcut Icon" href="http://www.le.com/favicon.ico" />
+<!--topcss-->
+<link rel="stylesheet" type="text/css" href= "http://css.letvcdn.com/lc03_css/201804/04/14/27/koala/head_v1-head.css"/>   
+<link type="text/css" rel="stylesheet" href="http://css.letvcdn.com/lc06_css/201801/15/15/09/koala/error-error404.css" />
+<!--abcjs-->
+<script src="//js.letvcdn.com/lc02_js/201711/22/15/12/lepc/base-basis.js"></script>
+<script type="text/javascript">
+	var vidList= [31474069,31474106,31474105,31474103,31474102,31474101,31474099,31474097,31474096]; 
+</script>
+<script>var __INFO__={pageInfo:{cid:999}}</script>
+<style>
+.error-box{ background: url(http://i0.letvimg.com/lc07_img/201801/17/18/27/banner.png) center 0 no-repeat #e9e9e9; }
+.error-txt { visibility:hidden;}
+.error-recommend { padding-top:170px;}
+.error-video{ left: 1px;top: 42px;width: 532px;height: 301px;}
+.video-logo { position:absolute;right:456px;top:53px;width:65px;height:24px;z-index:100}
+.video-logo img,.video-logo a{ display:block;width:100%;}
+</style>
+<!--common_response_css_end-->
+</head>
+<body>
+<script>"use strict";(function(){var w=window,d=document;var addEvent=function(obj,evt,fn){(typeof window.addEventListener==="function")?obj.addEventListener(evt,fn,false):obj.attachEvent("on"+evt,fn)};var resolutions=[1024,1280,1440],events=[],timer=null,curClass="";var change=function(){for(var i=resolutions.length-1;i>=0;i--){if(d.documentElement.clientWidth>resolutions[i]){if("resp-"+resolutions[i]!==curClass){curClass="resp-"+resolutions[i];if(/resp-/.test(d.body.className)){d.body.className=d.body.className.replace(/resp-\d{4}/,curClass)}else{d.body.className=d.body.className==""?curClass:d.body.className+" "+curClass}emiter()}return}}if("resp-"+resolutions[0]!==curClass){curClass="resp-"+resolutions[0];if(/resp-/.test(d.body.className)){d.body.className=d.body.className.replace(/resp-\d{4}/,curClass)}else{d.body.className=d.body.className==""?curClass:d.body.className+" "+curClass}emiter()}};var emiter=function(){for(var i=events.length-1;i>=0;i--){events[i](curClass)}};var filter=function(fn){var _events=[];for(var i=events.length-1;i>=0;i--){if(events[i]!==fn){_events.push(events[i])}}return _events};addEvent(w,"resize",function(){clearTimeout(timer);timer=setTimeout(change,50)});change();w.responseCss={reset:function(config){resolutions=config;change();return this},onChange:function(fn){fn&&events.push(fn);return this},offEvent:function(fn){(fn)?events=filter(fn):events=[];return this}}})();</script>       
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,45,0" width="1" height="1" style="position:absolute; top:0; left:0; z-index:-1000;">
+              <param name="movie" value="http://irs01.net/MTFlashStore.swf">
+              <param name="quality" value="high">
+              <param name="wmode" value="transparent">
+              <param value="always" name="allowScriptAccess">
+              <embed src="http://irs01.net/MTFlashStore.swf" width="1" height="1" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="http://irs01.net/MTFlashStore.swf" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,45,0" wmode="transparent" allowscriptaccess="always"></embed>
+</object>
+<div class="column"><div class="play_head" style=" height: 64px;">
+<!--é¡¶é¨å¯¼èª-->
+<!--<style>
+/**å¤´é¨ææå**/
+.resp-1024 .le_head.emotion{background-image:url(http://i1.letvimg.com/lc02_img/201803/02/10/07/1006/1280x60.jpg);}/*èæ¯å¾-1280*/
+.resp-1280 .le_head.emotion{background-image:url(http://i0.letvimg.com/lc02_img/201803/02/10/07/1006/1440x60.jpg);}/*èæ¯å¾-1440*/
+.resp-1440 .le_head.emotion{background-image:url(http://i1.letvimg.com/lc02_img/201803/02/10/07/1006/1920x60.jpg);}/*èæ¯å¾-1920*/
+.white_head .emotion .le_logo i{  
+    background-image: url(//i2.letvimg.com/lc07_img/201803/01/14/52/logo_red.png);
+    background-image: url(//static.letvcdn.com/lc04_phone/201803/01/15/01/logo_red.svg),none;
+    background-image: url(//i3.letvimg.com/lc06_img/201804/04/11/32/logo_red.png)\9;
+}
+</style>-->   
+<div class="le_head emotion">
+<div class="head_inner">
+<script type="text/javascript">
+~function(){
+    var logo = {
+        999:'home',
+        1:'movie',
+        2:'tv',
+        3:'ent',
+        5:'comic',
+        7:'paike',
+        9:'music',
+        10:'fun',
+        11:'zongyi',
+        14:'auto',
+        16:'jilu',
+        19:'best',
+        20:'fashion',
+        22:'lefinance',
+        23:'travel',
+        30:'life',
+        34:'qinzi',
+        35:'pets',
+        36:'ad',
+        37:'girls',
+        38:'health',
+        51:'games',
+        52:'vip',
+        99:'home',
+        100:'live',
+        104:'games',
+        1009:'news',
+        1010:'rank',
+        1020:'tech',
+        1021:'edu',
+        1026:'gongyi',
+        1029:'ugc',
+        1030:'xiaoyuan',
+        1035:'levr',
+        1036:'chuang',
+        1041:'ju',
+        1043:'hot'
+    }
+    var cid = (__INFO__.pageInfo && __INFO__.pageInfo.cid) ? __INFO__.pageInfo.cid : __INFO__.cid ? __INFO__.cid : 99;
+    if(__INFO__.isPGC && __INFO__.ugcCid){cid = __INFO__.ugcCid}
+    document.write('<h1 class="le_logo logo_'+logo[cid]+'"><a class="link_logo" href="//www.le.com/"><i></i></a></h1>');
+}();
+</script>
+<div class="channel_area">
+    <a class="channel_home" href="//www.le.com/">
+        <i class="icon_font icon_home"></i>
+        <span class="icon_text">é¦é¡µ</span>
+    </a>
+    <a class="channel_more" href="javascript:;">
+        <i class="icon_font icon_nav"></i>
+        <span class="icon_text">å¯¼èª</span>
+        <i class="icon_arrow_b"></i>
+        <i class="ico_arrow_t"></i>
+    </a>
+</div>
+
+<div class="le_search">
+    <form class="j-formsearchbox" action="http://so.le.com/s">
+        <i class="icon_font icon_search"></i>
+        <input type="text" class="search_input" name="wd" value="" maxlength="" autocomplete="off">
+        <input type="hidden" name="from" value="pc">
+        <input type="hidden" name="index" value="0">
+        <input type="hidden" name="ref" value="click">
+       <div class="icon_search_hot">
+          <a href="http://top.le.com/" target="_blank">
+           <div class="case1"></div>
+            <div class="case2"></div>
+           <div class="case3"></div>
+         </a>
+     </div>
+        <button type="submit" class="search_btn">æç´¢</button>
+    </form>
+</div>
+
+<div class="user_bar j_user_bar">
+<div class="user_inner j_user_action">
+    <div class="user_item user_vip j_user_vip">
+        <a class="user_link"  target="_blank">
+            <i class="icon_font icon_vip"></i><br>
+            <span class="user_text j_user_text">å¼éä¼å</span>
+        </a>
+    </div>
+    <div class="user_item user_upload" style='display:none;'>
+        <a class="user_link" href="//chuang.le.com/video/gotoUpload" target="_blank">
+            <i class="icon_font icon_upload"></i><br>
+            <span class="user_text">ä¸ä¼ </span>
+        </a>
+    </div>
+    <div class="user_item user_msg j_user_msg">
+        <a class="user_link" href="javascript:;" target="_blank">
+            <i class="icon_font icon_msg"></i><br>
+            <span class="user_text">æ¶æ¯</span>
+        </a>
+    </div>
+    <div class="user_item user_playlist j_user_playlist">
+        <a class="user_link" href="javascript:;" target="_blank">
+            <i class="icon_font icon_play"></i><br>
+            <span class="user_text">çè¿</span>
+        </a>
+    </div>
+    <div class="user_state j_user_state">
+        <!--æªç»å½-->
+        <div class="user_item nologin" style="display: none;">
+            <a class="user_link" href="javascript:;">
+                <span class="nl_pic"></span><br>
+                <span class="user_text">æªç»å½</span>
+            </a>
+        </div>
+        <!--ç»å½å-->
+        <div class="user_item logined" target="_blank">
+            <a class="user_link" href="javascript:;">
+                <img class="user_pic" src="http://i0.letvimg.com/img/201207/30/tx200.png">
+            </a>
+        </div>
+    </div>
+</div>
+
+<!--å¼¹çª-->
+<!--ä¸ªäººä¸­å¿å¼¹çª-->
+<div class="user_pop personal_pop">
+    <i class="ico_arrow_t"></i>
+    <div class="user_top">
+        <div class="user_info">
+            <div class="info_inner">
+                <a class="name" title="yuanxiantest4" href="http://my.le.com?ref=cardname" target="_blank">yuanxiantest</a>
+                <span class="vip_level">
+                    <a href="http://yuanxian.le.com/?ref=cardV" target="_blank">
+                        <i class="myVip" data-state-report="ch=topNav&amp;pg=userTips&amp;bk=FV&amp;link=click" title="ä¹æ¬¡åå½±è§ä¼å"></i>
+                    </a>
+                    <a href="http://vip.lesports.com/pay/" target="_blank">
+                        <i class="sportVip" data-state-report="ch=topNav&amp;pg=userTips&amp;bk=SV&amp;link=click" title=""></i>
+                    </a>
+                    <a href="http://my.le.com/?ref=gradeicon" target="_blank">
+                        <i class="myLevel" data-state-report="ch=topNav&amp;pg=userTips&amp;bk=level&amp;link=click" title="æçç­çº§64ï¼äº«å1.1åå éä¸­ï¼è·ç¦»ä¸æ¬¡åçº§è¿å·®100000å¤©">
+                            <u class="level_num">64</u></i>
+                    </a>
+                </span>
+            </div>
+        </div>
+        <ul class="main_list">
+            <li data-state-report="ch=topNav&amp;pg=userTips&amp;bk=userCenter&amp;link=click">
+                <a href="http://i.le.com/?ref=usercenter" target="_blank"><i class="icon_font icon_home1"></i><span class="p_title">æçä¸»é¡µ</span></a>
+            </li>
+            <li data-state-report="ch=topNav&amp;pg=userTips&amp;bk=setting&amp;link=click">
+                <a href="http://i.le.com/setting/index/" target="_blank"><i class="icon_font icon_set"></i><span class="p_title">å¸å·è®¾ç½®</span></a>
+            </li>
+            <li data-state-report="ch=topNav&amp;pg=userTips&amp;bk=community&amp;link=click">
+                <a href="http://bbs.le.com/" target="_blank"><i class="icon_font icon_bbs"></i><span class="p_title">æçç¤¾åº</span></a>
+            </li>
+            <li class="last" data-state-report="ch=topNav&amp;pg=userTips&amp;bk=myVip&amp;link=click">
+                <a href="http://i.le.com/account?ref=xdlmb" target="_blank"><i class="icon_font icon_levip"></i><span class="p_title">å½±è§ä¼å</span></a>
+            </li>
+        </ul>
+        <ul class="sign_list">
+            <li>
+                <i class="ico_gift"></i>
+                <span class="sign_text">ç­¾å°éå¥½ç¤¼ï¼</span>
+                <a class="sign_btn j_sign_in_btn" href="http://jifen.le.com/" target="_blank" data-state-report="ch=topNav&amp;pg=userTips&amp;bk=piclink&amp;link=click">ç­¾å°</a>
+            </li>
+            <li>
+                <i class="ico_jifen"></i>
+                <span class="sign_text">å«éä½ çç§¯åå§ï¼</span>
+                <a class="sign_btn" href="javascript:;" data-state-report="ch=topNav&amp;pg=userTips&amp;bk=jifen&amp;link=click">ç«å³å«é</a>
+            </li>
+        </ul>
+    </div>
+    <ul class="btn_list">
+        <li><a href="javascript:;" class="user_btn">éåº</a></li>
+        <li><a href="javascript:;" class="user_btn">åæ¢è´¦å·</a></li>
+    </ul>
+</div>
+
+<!--æ¶æ¯å¼¹çª-->
+<div class="user_pop msg_pop j_msg_pop">
+    <i class="ico_arrow_t"></i>
+    <div class="msg_inner"></div>
+</div>
+
+<!--æ­æ¾è®°å½å¼¹çª-->
+<div class="user_pop record_pop j_record_pop">
+    <i class="ico_arrow_t"></i>
+</div>
+</div>
+<div class="H-tg" data-state-area="ch=www&amp;pg=index&amp;bk=H-tg"></div>
+<!--å¯¼èªä¸ææ¡-->
+<div class="nav_more_pop">
+    <div class="nav_top">
+        <ul class="nav_list">
+            <li><a href="http://tv.le.com" target="_blank">çµè§å§</a></li>
+            <li><a href="http://movie.le.com" target="_blank">çµå½±</a></li>
+            <li><a href="http://comic.le.com" target="_blank">å¨æ¼«</a></li>
+            <li><a href="http://zongyi.le.com" target="_blank">ç»¼èº</a></li>
+            <li><a href="http://news.le.com" target="_blank">èµè®¯</a></li>
+            <li><a href="http://ent.le.com" target="_blank">å¨±ä¹</a></li>
+            <li><a href="http://hot.le.com/" target="_blank">ç­ç¹</a></li>
+            <li><a href="http://life.le.com/" target="_blank">çæ´»</a></li>
+            <li><a href="http://fun.le.com" target="_blank">æç¬</a></li>
+            <li><a href="http://best.le.com" target="_blank">ç½å§</a></li>
+            <li><a href="http://music.le.com" target="_blank">é³ä¹</a></li>
+            <li><a href="http://edu.le.com" target="_blank">æè²</a></li>
+            <li><a href="http://tech.le.com" target="_blank">ç§æ</a></li>
+            <li><a href="http://qinzi.le.com" target="_blank">äº²å­</a></li>
+            <li><a href="http://pets.le.com/" target="_blank">èå® </a></li>
+            <li><a href="http://auto.le.com"  target="_blank">æ±½è½¦</a></li>
+            <li><a href="http://jilu.le.com" target="_blank">çºªå½ç</a></li>
+            <li><a href="http://travel.le.com" target="_blank">ææ¸¸</a></li>
+            <li><a href="http://fashion.le.com" target="_blank">é£å°</a></li>
+            <li><a href="http://games.le.com" target="_blank">æ¸¸æ</a></li>
+            <li><a href=" http://vip.le.com/?ref=ym0101"  target="_blank">ä¼å</a></li>
+        </ul>
+        <ul class="nav_list vip_list">
+            <li class="nav_more_vip"><a href="http://vip.le.com/?ref=ym0101"  target="_blank"><img src="http://i2.letvimg.com/lc05_img/201612/30/11/37/vip.png"><span>ä¼å</span></a></li>
+            <li><a href="http://yuanxian.le.com/paySearchPage/index.shtml?ref=syhydhx1" target="_blank">ç­æ å¤§ç</a></li>
+            <li><a href="https://ibuy.le.com/v2/buy/package.html?ref=navhead_2112_010&fromurl=http%3A%2F%2Fvip.le.com%26cid%3D1003#type=42" target="_blank">å¼éä¼å</a></li>
+        </ul>
+    </div>
+    <div class="nav_btm">
+        <ul class="nav_list">
+            <li><a href="http://www.lemall.com/letvLink.html?tp=1" target="_blank">è¶çº§çµè§</a></li>
+            <li><a href="http://www.lemall.com/letvLink.html?tp=0" target="_blank">ä¹è§åå</a></li>
+            <li><a href="http://bbs.le.com/" target="_blank">ä¹è¿·ç¤¾åº</a></li>
+            <li><a href="http://mobile.le.com/?ref=2035" target="_blank">APPä¸è½½</a></li>
+        </ul>
+    </div>
+</div>
+
+<div class="so_result hot_so">
+    <h5 class="so_title">ç­é¨æç´¢</h5>
+    <ul class="so_list"></ul>
+    <div class="so_right"></div>
+</div>
+</div>
+</div>
+
+<script type="text/javascript">
+    var cid = (__INFO__.pageInfo && __INFO__.pageInfo.cid) ? __INFO__.pageInfo.cid : __INFO__.cid ? __INFO__.cid : 99;
+    if(cid == 99){
+        $('.channel_home').hide();
+        $('.channel_more').hide();
+    }else if(cid == 999){
+        $('.channel_home').hide();
+    }
+</script> 
+<!--/é¡¶é¨å¯¼èª-->
+</div></div>
+<div class="error-box">
+  <div class="error-wrap">
+    <div class='video-logo'><a href='https://www.lemall.com/chao4/x55m.html?cpsid=letv.com' target="_blank"><img src='http://i3.letvimg.com/lc02_img/201801/17/18/32/logo.png'/></a></div>
+    <div class="error-txt">
+        <h2>æ±æ­ï¼æ¨è®¿é®çé¡µé¢ä¸¢å¤±äº...</h2>
+    	<p>1.è¯·å¨ä¹è§è§é¢ç½ç«åéæ°æç´¢èç®æèæ£æ¥ç½åæ¯å¦æ­£ç¡®ï¼</p>
+    	<p>2.è¯·è§çæä»¬ä¸ºæ¨æ¨èçç²¾å½©è§é¢ï¼</p>
+        <p>3.è¿å¥<a href="http://bbs.le.com/forum-gid-195.html" style="font-weight:bold;">ä¹è¿·ç¤¾åº</a>æ¾ä¹è§å·¥ç¨å¸è§£å³é®é¢</p>
+    </div>
+
+    <div class="error-video" id="video"></div>
+    <div class="error-recommend">
+      <div class="title">
+        <h2 class="H201">è¿äºå¥½è´§ç­ä½ ç¿»çå­</h2>
+        <ul class="other">
+          <li class="Li02"><a href="http://pc.le.com/"><i></i><b>çµè</b></a></li>
+          <li class="Li03"><a href="http://mobile.le.com/shop/?hdletv32"><i></i><b>çµè§</b></a></li>
+          <li class="Li04"><a href="http://mobile.le.com/"><i></i><b>ææº</b></a></li>
+          <li class="Li01">åæ­¥æ­åº</li>
+        </ul>
+      </div>
+      <div data-itemhldr="dl" data-statectn="recommend" class="list clearfix" id="recommend"></div>
+    </div>
+   
+    <!--<div class="error-video" id="flash_player"></div>-->
+  </div>
+</div>
+<div class="Foot">
+        <div class="footer">
+          <div class="footerLeft">
+              <h4>ä¹è§è§é¢</h4>
+              <ul>
+                <li><a href="//aboutus.le.com/index.html" target="_blank" rel="nofollow">å³äºä¹è§</a></li>
+                <li><a href="//aboutus.le.com/service/index.html" target="_blank" rel="nofollow">äº§åæå¡</a></li>
+                <li><a href="//q.letv.com" target="_blank" rel="nofollow">æè§åé¦</a></li>
+                <li><a href="//aboutus.le.com/invest/index.shtml" target="_blank" rel="nofollow">æèµèå³ç³»</a></li>
+
+                <li><a href="//aboutus.le.com/copyright/index.html" target="_blank" rel="nofollow">æå©å£°æ</a></li>
+                <li><a href="//job.le.com/" target="_blank" rel="nofollow">æèä¿¡æ¯</a></li>
+                <li><a href="//aboutus.le.com/contact/index.html" target="_blank" rel="nofollow">èç³»æ¹å¼</a></li>
+                <li><a rel="nofollow" target="_blank" href="//aboutus.le.com/privacy/index.html">éç§æä¿æ¤</a></li>
+
+                <li><a href="//www.le.com/sitemap/movie_1.html" target="_blank">ç½ç«å°å¾</a></li>
+                <li><a href="//www.le.com/help/index.html" target="_blank" rel="nofollow">å¸®å©ä¸­å¿</a></li>
+                <li><a href="//shop.le.com/dkh.html" target="_blank" rel="nofollow">å¤§å®¢æ·éé</a></li>  
+
+               <li><a rel="nofollow" target="_blank" href="//aboutus.le.com/partner/index.html">åä½ä¼ä¼´</a></li>
+                <li><a rel="nofollow" target="_blank" href="//aboutus.le.com/link/index.shtml">åæé¾æ¥</a></li>
+                <li><a rel="nofollow" target="_blank" href="//sec.le.com">ä¹è§å®å¨</a></li>
+              </ul>
+          </div>
+          <div class="footerCen">
+            <h4>åä½ä¼ä¼´</h4>
+            <ul>
+                <li><a href="http://dangjian.cn/" target="_blank" title="åå»ºç½">åå»ºç½</a></li>
+                <li><a href="http://v.baidu.com" target="_blank" title="ç¾åº¦è§é¢">ç¾åº¦è§é¢</a></li>
+                <li><a href="http://www.360kan.com/" target="_blank" title="360å½±è§">360å½±è§</a></li>
+                <li><a href="http://www.lemall.com" target="_blank" title="ä¹è§TV">ä¹è§TV</a></li>
+                <li><a href="https://leshiwang.tmall.com" target="_blank" title="ä¹è§å¤©ç«åº">ä¹è§å¤©ç«åº</a></li>
+                <li><a href="http://v.sogou.com" target="_blank" title="æçå½±è§">æçå½±è§</a></li>
+                <li><a href="http://www.wasu.cn" target="_blank" title="åæ°TV">åæ°TV</a></li>
+                <li><a href="http://shouji.baidu.com" target="_blank" title="ç¾åº¦ææºå©æ">ç¾åº¦ææºå©æ</a></li>
+                <li><a href="http://zhushou.360.cn" target="_blank" title="360ææºå©æ">360ææºå©æ</a></li>
+                <li><a href="http://www.wandoujia.com/apps" target="_blank" title="è±è±è">è±è±è</a></li>
+                <li><a href="http://www.meipai.com" target="_blank" title="ç¾ææç¬è§é¢">ç¾ææç¬è§é¢</a></li>
+                <li><a href="http://www.nxtv.com.cn/" target="_blank" title="å®å¤å¹¿æ­çµè§å°">å®å¤å¹¿æ­çµè§å°</a></li>
+                <li><a href="http://www.xiankan.com" target="_blank" title="åç">åç</a></li>
+                <li><a href="https://123.sogou.com" target="_blank" title="æçå¯¼èª">æçå¯¼èª</a></li>
+                <li><a href="http://www.kaolafm.com/" target="_blank" title="èæFM">èæFM</a></li>
+                <li><a href="http://kan.2345.com" target="_blank" title="2345å½±è§å¤§å¨">2345å½±è§å¤§å¨</a></li>
+            </ul>
+          </div>
+          <div class="footerRight">
+               <h4>ä¹è§å¨æ</h4>
+<ul>
+    <li style="clear:both"><a href="http://app.bbtnews.com.cn/?app=article&amp;controller=article&amp;action=show&amp;contentid=232231&amp;from=singlemessage&amp;isappinstalled=0" target="_blank" title="ä¹è§è¶çº§çµè§äº®ç¸å®¶åä¼">ä¹è§è¶çº§çµè§äº®ç¸å®¶åä¼</a></li>
+    <li class="hide_1024"><a href="http://digi.163.com/17/1226/18/D6JPJR20001680NS.html" target="_blank" title="ä¹è§è¶çº§çµè§New/Leanç³»å 1899åèµ·å®">ä¹è§è¶çº§çµè§New/Leanç³»å 1899åèµ·å®</a></li>
+
+    <li><a href="https://www.toutiao.com/a6552795049631941127/" target="_blank" title="ä¹è§åå¸75å¯¸è¶çº§çµè§">ä¹è§åå¸75å¯¸è¶çº§çµè§</a></li>
+    <li class="hide_1024"><a href="http://www.techweb.com.cn/news/2018-04-02/2651588.shtml" target="_blank" title="ä¹è§çµæè¾è®¯ å¯å¨414 å¼å¯ãè¿å¤§åç¨ã">ä¹è§çµæè¾è®¯ å¯å¨414 å¼å¯ãè¿å¤§åç¨ã</a></li>
+
+    <li><a href="http://www.techweb.com.cn/news/2018-03-20/2647399.shtml" target="_blank" title="ä¹è§è¶çº§çµè§äº²ç¬ä¿¡åé¦ä¹è¿·">ä¹è§è¶çº§çµè§äº²ç¬ä¿¡åé¦ä¹è¿·</a></li>
+    <li class="hide_1024"><a href="http://www.techweb.com.cn/news/2018-04-04/2652461.shtml" target="_blank" title="ä¹è§çµæè¾è®¯åæ¨ä¹è§è¶çº§å®¶åº­ä¼å">ä¹è§çµæè¾è®¯åæ¨ä¹è§è¶çº§å®¶åº­ä¼å</a></li>
+</ul>
+          </div>
+        </div>
+        <div class="footerBot">
+                <p class="p2"><a href="//www.miibeian.gov.cn/publish/query/indexFirst.action" target="_blank" rel="nofollow">äº¬ICPå¤09045969</a><a href="//www.miibeian.gov.cn/publish/query/indexFirst.action" target="_blank" rel="nofollow">äº¬ICPè¯060072å·</a><a href="//aboutus.le.com/wlspxkz.shtml" target="_blank" rel="nofollow">ä¿¡æ¯ç½ç»ä¼ æ­è§å¬èç®è®¸å¯è¯0105097å·</a><img alt="äº¬å¬ç½å®å¤" src="//i2.letvimg.com/lc06_img/201602/29/16/21/ghs.png"><a rel="nofollow" href="//www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000099" target="_blank">äº¬å¬ç½å®å¤ï¼11000002000099å·</a><a href="//www.12377.cn" target="_blank" rel="nofollow"> ä¸­å½äºèç½ä¸¾æ¥ä¸­å¿</a><span style="margin-right:16px">è¿æ³åä¸è¯ä¿¡æ¯ä¸¾æ¥çµè¯ï¼10109000</span><span>ä¸¾æ¥é®ç®±ï¼jubao@le.com</span></p>
+                <p class="p3"><a href="//i1.letvimg.com/lc07_img/201902/15/10/24/pic.jpg" target="_blank" rel="nofollow">ç½ç»æåç»è¥è®¸å¯è¯ äº¬ç½æã2019ã0722-050å·</a><a href="//i3.letvimg.com/lc01_img/201508/04/11/04/medicine2015-0012.jpg" target="_blank" rel="nofollow">äºèç½è¯åä¿¡æ¯æå¡èµæ ¼è¯ä¹¦ (äº¬)-ç»è¥æ§-2015-0012</a><a href='http://i0.letvimg.com/lc04_img/201903/19/10/24/3.jpg'  target="_blank" atl="è¥ä¸æ§ç§">è¥ä¸æ§ç§</a><img width="20" height="20" alt="ä¸­å½äºèç½è¯ä¿¡èç" data-src="//i1.letvimg.com/img/201301/18/xy.png" src="//i1.letvimg.com/img/201301/18/xy.png"><a title="ä¸­å½äºèç½è¯ä¿¡èç" href="//www.itrust.org.cn/yz/pjwx.asp?wm=1769389051" target="_blank" rel="nofollow">ä¸­å½äºèç½è¯ä¿¡èç</a><a title="ç½ä¸æå®³ä¿¡æ¯ä¸¾æ¥ä¸åº" href="//report.12377.cn:13225/toreportinputNormal_anis.do" target="_blank" rel="nofollow">ç½ä¸æå®³ä¿¡æ¯ä¸¾æ¥ä¸åº</a></p>
+                <p class="p3"><a title="ç½ç»åºçæå¡è®¸å¯è¯" href="//aboutus.le.com/wlcbfwxkz/index.shtml" target="_blank" rel="nofollow">ç½ç»åºçæå¡è®¸å¯è¯</a><a title="å¹¿æ­çµè§èç®å¶ä½ç»è¥è®¸å¯è¯" href="//aboutus.le.com/gbdsjm/index.shtml" target="_blank" rel="nofollow">å¹¿æ­çµè§èç®å¶ä½ç»è¥è®¸å¯è¯</a><span>Copyright Â© 2004-2018 ä¹è§è§é¢ï¼le.comï¼All rights reserved.</span></p>
+        </div>
+    </div>                   
+<script type="text/javascript">
+//æç´¢æ¡å³é®è¯	
+(function(){
+    var __INFO__ = LETV.using.call(window, '__INFO__') ;
+   __INFO__.search_word = ['è¶çº§çµè§'];
+   __INFO__.currentChannel = 'é¢é';
+   __INFO__.currentChannelHref = 'http://live.letv.com/';//äºçº§é¢éé¾
+})(); 
+</script>
+<script type="text/javascript" src="http://js.letvcdn.com/lc07_js/201803/13/20/01/totalPlayer.js"></script>
+<script type="text/javascript" src="http://jstatic.letvcdn.com/sdk/passport.js"></script>
+<script type="text/javascript" src="http://jstatic.letvcdn.com/sdk/report_sdk.js"></script>
+<script type="text/javascript" src="http://sdk-m.le.com/navhead/new_navhead.js"></script>
+<script src="http://js.letvcdn.com/lc03_js/201801/15/15/15/lepc/error-systemError.js"></script>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>åºéæç¤º_ä¹è§ç½</title>
+<meta name="keywords" content="åºéæç¤º - ä¹è§ç½"/>
+<link rel="Shortcut Icon" href="http://www.le.com/favicon.ico" />
+<!--topcss-->
+<link rel="stylesheet" type="text/css" href= "http://css.letvcdn.com/lc03_css/201804/04/14/27/koala/head_v1-head.css"/>   
+<link type="text/css" rel="stylesheet" href="http://css.letvcdn.com/lc06_css/201801/15/15/09/koala/error-error404.css" />
+<!--abcjs-->
+<script src="//js.letvcdn.com/lc02_js/201711/22/15/12/lepc/base-basis.js"></script>
+<script type="text/javascript">
+	var vidList= [31474069,31474106,31474105,31474103,31474102,31474101,31474099,31474097,31474096]; 
+</script>
+<script>var __INFO__={pageInfo:{cid:999}}</script>
+<style>
+.error-box{ background: url(http://i0.letvimg.com/lc07_img/201801/17/18/27/banner.png) center 0 no-repeat #e9e9e9; }
+.error-txt { visibility:hidden;}
+.error-recommend { padding-top:170px;}
+.error-video{ left: 1px;top: 42px;width: 532px;height: 301px;}
+.video-logo { position:absolute;right:456px;top:53px;width:65px;height:24px;z-index:100}
+.video-logo img,.video-logo a{ display:block;width:100%;}
+</style>
+<!--common_response_css_end-->
+</head>
+<body>
+<script>"use strict";(function(){var w=window,d=document;var addEvent=function(obj,evt,fn){(typeof window.addEventListener==="function")?obj.addEventListener(evt,fn,false):obj.attachEvent("on"+evt,fn)};var resolutions=[1024,1280,1440],events=[],timer=null,curClass="";var change=function(){for(var i=resolutions.length-1;i>=0;i--){if(d.documentElement.clientWidth>resolutions[i]){if("resp-"+resolutions[i]!==curClass){curClass="resp-"+resolutions[i];if(/resp-/.test(d.body.className)){d.body.className=d.body.className.replace(/resp-\d{4}/,curClass)}else{d.body.className=d.body.className==""?curClass:d.body.className+" "+curClass}emiter()}return}}if("resp-"+resolutions[0]!==curClass){curClass="resp-"+resolutions[0];if(/resp-/.test(d.body.className)){d.body.className=d.body.className.replace(/resp-\d{4}/,curClass)}else{d.body.className=d.body.className==""?curClass:d.body.className+" "+curClass}emiter()}};var emiter=function(){for(var i=events.length-1;i>=0;i--){events[i](curClass)}};var filter=function(fn){var _events=[];for(var i=events.length-1;i>=0;i--){if(events[i]!==fn){_events.push(events[i])}}return _events};addEvent(w,"resize",function(){clearTimeout(timer);timer=setTimeout(change,50)});change();w.responseCss={reset:function(config){resolutions=config;change();return this},onChange:function(fn){fn&&events.push(fn);return this},offEvent:function(fn){(fn)?events=filter(fn):events=[];return this}}})();</script>       
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,45,0" width="1" height="1" style="position:absolute; top:0; left:0; z-index:-1000;">
+              <param name="movie" value="http://irs01.net/MTFlashStore.swf">
+              <param name="quality" value="high">
+              <param name="wmode" value="transparent">
+              <param value="always" name="allowScriptAccess">
+              <embed src="http://irs01.net/MTFlashStore.swf" width="1" height="1" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="http://irs01.net/MTFlashStore.swf" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,45,0" wmode="transparent" allowscriptaccess="always"></embed>
+</object>
+<div class="column"><div class="play_head" style=" height: 64px;">
+<!--é¡¶é¨å¯¼èª-->
+<!--<style>
+/**å¤´é¨ææå**/
+.resp-1024 .le_head.emotion{background-image:url(http://i1.letvimg.com/lc02_img/201803/02/10/07/1006/1280x60.jpg);}/*èæ¯å¾-1280*/
+.resp-1280 .le_head.emotion{background-image:url(http://i0.letvimg.com/lc02_img/201803/02/10/07/1006/1440x60.jpg);}/*èæ¯å¾-1440*/
+.resp-1440 .le_head.emotion{background-image:url(http://i1.letvimg.com/lc02_img/201803/02/10/07/1006/1920x60.jpg);}/*èæ¯å¾-1920*/
+.white_head .emotion .le_logo i{  
+    background-image: url(//i2.letvimg.com/lc07_img/201803/01/14/52/logo_red.png);
+    background-image: url(//static.letvcdn.com/lc04_phone/201803/01/15/01/logo_red.svg),none;
+    background-image: url(//i3.letvimg.com/lc06_img/201804/04/11/32/logo_red.png)\9;
+}
+</style>-->   
+<div class="le_head emotion">
+<div class="head_inner">
+<script type="text/javascript">
+~function(){
+    var logo = {
+        999:'home',
+        1:'movie',
+        2:'tv',
+        3:'ent',
+        5:'comic',
+        7:'paike',
+        9:'music',
+        10:'fun',
+        11:'zongyi',
+        14:'auto',
+        16:'jilu',
+        19:'best',
+        20:'fashion',
+        22:'lefinance',
+        23:'travel',
+        30:'life',
+        34:'qinzi',
+        35:'pets',
+        36:'ad',
+        37:'girls',
+        38:'health',
+        51:'games',
+        52:'vip',
+        99:'home',
+        100:'live',
+        104:'games',
+        1009:'news',
+        1010:'rank',
+        1020:'tech',
+        1021:'edu',
+        1026:'gongyi',
+        1029:'ugc',
+        1030:'xiaoyuan',
+        1035:'levr',
+        1036:'chuang',
+        1041:'ju',
+        1043:'hot'
+    }
+    var cid = (__INFO__.pageInfo && __INFO__.pageInfo.cid) ? __INFO__.pageInfo.cid : __INFO__.cid ? __INFO__.cid : 99;
+    if(__INFO__.isPGC && __INFO__.ugcCid){cid = __INFO__.ugcCid}
+    document.write('<h1 class="le_logo logo_'+logo[cid]+'"><a class="link_logo" href="//www.le.com/"><i></i></a></h1>');
+}();
+</script>
+<div class="channel_area">
+    <a class="channel_home" href="//www.le.com/">
+        <i class="icon_font icon_home"></i>
+        <span class="icon_text">é¦é¡µ</span>
+    </a>
+    <a class="channel_more" href="javascript:;">
+        <i class="icon_font icon_nav"></i>
+        <span class="icon_text">å¯¼èª</span>
+        <i class="icon_arrow_b"></i>
+        <i class="ico_arrow_t"></i>
+    </a>
+</div>
+
+<div class="le_search">
+    <form class="j-formsearchbox" action="http://so.le.com/s">
+        <i class="icon_font icon_search"></i>
+        <input type="text" class="search_input" name="wd" value="" maxlength="" autocomplete="off">
+        <input type="hidden" name="from" value="pc">
+        <input type="hidden" name="index" value="0">
+        <input type="hidden" name="ref" value="click">
+       <div class="icon_search_hot">
+          <a href="http://top.le.com/" target="_blank">
+           <div class="case1"></div>
+            <div class="case2"></div>
+           <div class="case3"></div>
+         </a>
+     </div>
+        <button type="submit" class="search_btn">æç´¢</button>
+    </form>
+</div>
+
+<div class="user_bar j_user_bar">
+<div class="user_inner j_user_action">
+    <div class="user_item user_vip j_user_vip">
+        <a class="user_link"  target="_blank">
+            <i class="icon_font icon_vip"></i><br>
+            <span class="user_text j_user_text">å¼éä¼å</span>
+        </a>
+    </div>
+    <div class="user_item user_upload" style='display:none;'>
+        <a class="user_link" href="//chuang.le.com/video/gotoUpload" target="_blank">
+            <i class="icon_font icon_upload"></i><br>
+            <span class="user_text">ä¸ä¼ </span>
+        </a>
+    </div>
+    <div class="user_item user_msg j_user_msg">
+        <a class="user_link" href="javascript:;" target="_blank">
+            <i class="icon_font icon_msg"></i><br>
+            <span class="user_text">æ¶æ¯</span>
+        </a>
+    </div>
+    <div class="user_item user_playlist j_user_playlist">
+        <a class="user_link" href="javascript:;" target="_blank">
+            <i class="icon_font icon_play"></i><br>
+            <span class="user_text">çè¿</span>
+        </a>
+    </div>
+    <div class="user_state j_user_state">
+        <!--æªç»å½-->
+        <div class="user_item nologin" style="display: none;">
+            <a class="user_link" href="javascript:;">
+                <span class="nl_pic"></span><br>
+                <span class="user_text">æªç»å½</span>
+            </a>
+        </div>
+        <!--ç»å½å-->
+        <div class="user_item logined" target="_blank">
+            <a class="user_link" href="javascript:;">
+                <img class="user_pic" src="http://i0.letvimg.com/img/201207/30/tx200.png">
+            </a>
+        </div>
+    </div>
+</div>
+
+<!--å¼¹çª-->
+<!--ä¸ªäººä¸­å¿å¼¹çª-->
+<div class="user_pop personal_pop">
+    <i class="ico_arrow_t"></i>
+    <div class="user_top">
+        <div class="user_info">
+            <div class="info_inner">
+                <a class="name" title="yuanxiantest4" href="http://my.le.com?ref=cardname" target="_blank">yuanxiantest</a>
+                <span class="vip_level">
+                    <a href="http://yuanxian.le.com/?ref=cardV" target="_blank">
+                        <i class="myVip" data-state-report="ch=topNav&amp;pg=userTips&amp;bk=FV&amp;link=click" title="ä¹æ¬¡åå½±è§ä¼å"></i>
+                    </a>
+                    <a href="http://vip.lesports.com/pay/" target="_blank">
+                        <i class="sportVip" data-state-report="ch=topNav&amp;pg=userTips&amp;bk=SV&amp;link=click" title=""></i>
+                    </a>
+                    <a href="http://my.le.com/?ref=gradeicon" target="_blank">
+                        <i class="myLevel" data-state-report="ch=topNav&amp;pg=userTips&amp;bk=level&amp;link=click" title="æçç­çº§64ï¼äº«å1.1åå éä¸­ï¼è·ç¦»ä¸æ¬¡åçº§è¿å·®100000å¤©">
+                            <u class="level_num">64</u></i>
+                    </a>
+                </span>
+            </div>
+        </div>
+        <ul class="main_list">
+            <li data-state-report="ch=topNav&amp;pg=userTips&amp;bk=userCenter&amp;link=click">
+                <a href="http://i.le.com/?ref=usercenter" target="_blank"><i class="icon_font icon_home1"></i><span class="p_title">æçä¸»é¡µ</span></a>
+            </li>
+            <li data-state-report="ch=topNav&amp;pg=userTips&amp;bk=setting&amp;link=click">
+                <a href="http://i.le.com/setting/index/" target="_blank"><i class="icon_font icon_set"></i><span class="p_title">å¸å·è®¾ç½®</span></a>
+            </li>
+            <li data-state-report="ch=topNav&amp;pg=userTips&amp;bk=community&amp;link=click">
+                <a href="http://bbs.le.com/" target="_blank"><i class="icon_font icon_bbs"></i><span class="p_title">æçç¤¾åº</span></a>
+            </li>
+            <li class="last" data-state-report="ch=topNav&amp;pg=userTips&amp;bk=myVip&amp;link=click">
+                <a href="http://i.le.com/account?ref=xdlmb" target="_blank"><i class="icon_font icon_levip"></i><span class="p_title">å½±è§ä¼å</span></a>
+            </li>
+        </ul>
+        <ul class="sign_list">
+            <li>
+                <i class="ico_gift"></i>
+                <span class="sign_text">ç­¾å°éå¥½ç¤¼ï¼</span>
+                <a class="sign_btn j_sign_in_btn" href="http://jifen.le.com/" target="_blank" data-state-report="ch=topNav&amp;pg=userTips&amp;bk=piclink&amp;link=click">ç­¾å°</a>
+            </li>
+            <li>
+                <i class="ico_jifen"></i>
+                <span class="sign_text">å«éä½ çç§¯åå§ï¼</span>
+                <a class="sign_btn" href="javascript:;" data-state-report="ch=topNav&amp;pg=userTips&amp;bk=jifen&amp;link=click">ç«å³å«é</a>
+            </li>
+        </ul>
+    </div>
+    <ul class="btn_list">
+        <li><a href="javascript:;" class="user_btn">éåº</a></li>
+        <li><a href="javascript:;" class="user_btn">åæ¢è´¦å·</a></li>
+    </ul>
+</div>
+
+<!--æ¶æ¯å¼¹çª-->
+<div class="user_pop msg_pop j_msg_pop">
+    <i class="ico_arrow_t"></i>
+    <div class="msg_inner"></div>
+</div>
+
+<!--æ­æ¾è®°å½å¼¹çª-->
+<div class="user_pop record_pop j_record_pop">
+    <i class="ico_arrow_t"></i>
+</div>
+</div>
+<div class="H-tg" data-state-area="ch=www&amp;pg=index&amp;bk=H-tg"></div>
+<!--å¯¼èªä¸ææ¡-->
+<div class="nav_more_pop">
+    <div class="nav_top">
+        <ul class="nav_list">
+            <li><a href="http://tv.le.com" target="_blank">çµè§å§</a></li>
+            <li><a href="http://movie.le.com" target="_blank">çµå½±</a></li>
+            <li><a href="http://comic.le.com" target="_blank">å¨æ¼«</a></li>
+            <li><a href="http://zongyi.le.com" target="_blank">ç»¼èº</a></li>
+            <li><a href="http://news.le.com" target="_blank">èµè®¯</a></li>
+            <li><a href="http://ent.le.com" target="_blank">å¨±ä¹</a></li>
+            <li><a href="http://hot.le.com/" target="_blank">ç­ç¹</a></li>
+            <li><a href="http://life.le.com/" target="_blank">çæ´»</a></li>
+            <li><a href="http://fun.le.com" target="_blank">æç¬</a></li>
+            <li><a href="http://best.le.com" target="_blank">ç½å§</a></li>
+            <li><a href="http://music.le.com" target="_blank">é³ä¹</a></li>
+            <li><a href="http://edu.le.com" target="_blank">æè²</a></li>
+            <li><a href="http://tech.le.com" target="_blank">ç§æ</a></li>
+            <li><a href="http://qinzi.le.com" target="_blank">äº²å­</a></li>
+            <li><a href="http://pets.le.com/" target="_blank">èå® </a></li>
+            <li><a href="http://auto.le.com"  target="_blank">æ±½è½¦</a></li>
+            <li><a href="http://jilu.le.com" target="_blank">çºªå½ç</a></li>
+            <li><a href="http://travel.le.com" target="_blank">ææ¸¸</a></li>
+            <li><a href="http://fashion.le.com" target="_blank">é£å°</a></li>
+            <li><a href="http://games.le.com" target="_blank">æ¸¸æ</a></li>
+            <li><a href=" http://vip.le.com/?ref=ym0101"  target="_blank">ä¼å</a></li>
+        </ul>
+        <ul class="nav_list vip_list">
+            <li class="nav_more_vip"><a href="http://vip.le.com/?ref=ym0101"  target="_blank"><img src="http://i2.letvimg.com/lc05_img/201612/30/11/37/vip.png"><span>ä¼å</span></a></li>
+            <li><a href="http://yuanxian.le.com/paySearchPage/index.shtml?ref=syhydhx1" target="_blank">ç­æ å¤§ç</a></li>
+            <li><a href="https://ibuy.le.com/v2/buy/package.html?ref=navhead_2112_010&fromurl=http%3A%2F%2Fvip.le.com%26cid%3D1003#type=42" target="_blank">å¼éä¼å</a></li>
+        </ul>
+    </div>
+    <div class="nav_btm">
+        <ul class="nav_list">
+            <li><a href="http://www.lemall.com/letvLink.html?tp=1" target="_blank">è¶çº§çµè§</a></li>
+            <li><a href="http://www.lemall.com/letvLink.html?tp=0" target="_blank">ä¹è§åå</a></li>
+            <li><a href="http://bbs.le.com/" target="_blank">ä¹è¿·ç¤¾åº</a></li>
+            <li><a href="http://mobile.le.com/?ref=2035" target="_blank">APPä¸è½½</a></li>
+        </ul>
+    </div>
+</div>
+
+<div class="so_result hot_so">
+    <h5 class="so_title">ç­é¨æç´¢</h5>
+    <ul class="so_list"></ul>
+    <div class="so_right"></div>
+</div>
+</div>
+</div>
+
+<script type="text/javascript">
+    var cid = (__INFO__.pageInfo && __INFO__.pageInfo.cid) ? __INFO__.pageInfo.cid : __INFO__.cid ? __INFO__.cid : 99;
+    if(cid == 99){
+        $('.channel_home').hide();
+        $('.channel_more').hide();
+    }else if(cid == 999){
+        $('.channel_home').hide();
+    }
+</script> 
+<!--/é¡¶é¨å¯¼èª-->
+</div></div>
+<div class="error-box">
+  <div class="error-wrap">
+    <div class='video-logo'><a href='https://www.lemall.com/chao4/x55m.html?cpsid=letv.com' target="_blank"><img src='http://i3.letvimg.com/lc02_img/201801/17/18/32/logo.png'/></a></div>
+    <div class="error-txt">
+        <h2>æ±æ­ï¼æ¨è®¿é®çé¡µé¢ä¸¢å¤±äº...</h2>
+    	<p>1.è¯·å¨ä¹è§è§é¢ç½ç«åéæ°æç´¢èç®æèæ£æ¥ç½åæ¯å¦æ­£ç¡®ï¼</p>
+    	<p>2.è¯·è§çæä»¬ä¸ºæ¨æ¨èçç²¾å½©è§é¢ï¼</p>
+        <p>3.è¿å¥<a href="http://bbs.le.com/forum-gid-195.html" style="font-weight:bold;">ä¹è¿·ç¤¾åº</a>æ¾ä¹è§å·¥ç¨å¸è§£å³é®é¢</p>
+    </div>
+
+    <div class="error-video" id="video"></div>
+    <div class="error-recommend">
+      <div class="title">
+        <h2 class="H201">è¿äºå¥½è´§ç­ä½ ç¿»çå­</h2>
+        <ul class="other">
+          <li class="Li02"><a href="http://pc.le.com/"><i></i><b>çµè</b></a></li>
+          <li class="Li03"><a href="http://mobile.le.com/shop/?hdletv32"><i></i><b>çµè§</b></a></li>
+          <li class="Li04"><a href="http://mobile.le.com/"><i></i><b>ææº</b></a></li>
+          <li class="Li01">åæ­¥æ­åº</li>
+        </ul>
+      </div>
+      <div data-itemhldr="dl" data-statectn="recommend" class="list clearfix" id="recommend"></div>
+    </div>
+   
+    <!--<div class="error-video" id="flash_player"></div>-->
+  </div>
+</div>
+<div class="Foot">
+        <div class="footer">
+          <div class="footerLeft">
+              <h4>ä¹è§è§é¢</h4>
+              <ul>
+                <li><a href="//aboutus.le.com/index.html" target="_blank" rel="nofollow">å³äºä¹è§</a></li>
+                <li><a href="//aboutus.le.com/service/index.html" target="_blank" rel="nofollow">äº§åæå¡</a></li>
+                <li><a href="//q.letv.com" target="_blank" rel="nofollow">æè§åé¦</a></li>
+                <li><a href="//aboutus.le.com/invest/index.shtml" target="_blank" rel="nofollow">æèµèå³ç³»</a></li>
+
+                <li><a href="//aboutus.le.com/copyright/index.html" target="_blank" rel="nofollow">æå©å£°æ</a></li>
+                <li><a href="//job.le.com/" target="_blank" rel="nofollow">æèä¿¡æ¯</a></li>
+                <li><a href="//aboutus.le.com/contact/index.html" target="_blank" rel="nofollow">èç³»æ¹å¼</a></li>
+                <li><a rel="nofollow" target="_blank" href="//aboutus.le.com/privacy/index.html">éç§æä¿æ¤</a></li>
+
+                <li><a href="//www.le.com/sitemap/movie_1.html" target="_blank">ç½ç«å°å¾</a></li>
+                <li><a href="//www.le.com/help/index.html" target="_blank" rel="nofollow">å¸®å©ä¸­å¿</a></li>
+                <li><a href="//shop.le.com/dkh.html" target="_blank" rel="nofollow">å¤§å®¢æ·éé</a></li>  
+
+               <li><a rel="nofollow" target="_blank" href="//aboutus.le.com/partner/index.html">åä½ä¼ä¼´</a></li>
+                <li><a rel="nofollow" target="_blank" href="//aboutus.le.com/link/index.shtml">åæé¾æ¥</a></li>
+                <li><a rel="nofollow" target="_blank" href="//sec.le.com">ä¹è§å®å¨</a></li>
+              </ul>
+          </div>
+          <div class="footerCen">
+            <h4>åä½ä¼ä¼´</h4>
+            <ul>
+                <li><a href="http://dangjian.cn/" target="_blank" title="åå»ºç½">åå»ºç½</a></li>
+                <li><a href="http://v.baidu.com" target="_blank" title="ç¾åº¦è§é¢">ç¾åº¦è§é¢</a></li>
+                <li><a href="http://www.360kan.com/" target="_blank" title="360å½±è§">360å½±è§</a></li>
+                <li><a href="http://www.lemall.com" target="_blank" title="ä¹è§TV">ä¹è§TV</a></li>
+                <li><a href="https://leshiwang.tmall.com" target="_blank" title="ä¹è§å¤©ç«åº">ä¹è§å¤©ç«åº</a></li>
+                <li><a href="http://v.sogou.com" target="_blank" title="æçå½±è§">æçå½±è§</a></li>
+                <li><a href="http://www.wasu.cn" target="_blank" title="åæ°TV">åæ°TV</a></li>
+                <li><a href="http://shouji.baidu.com" target="_blank" title="ç¾åº¦ææºå©æ">ç¾åº¦ææºå©æ</a></li>
+                <li><a href="http://zhushou.360.cn" target="_blank" title="360ææºå©æ">360ææºå©æ</a></li>
+                <li><a href="http://www.wandoujia.com/apps" target="_blank" title="è±è±è">è±è±è</a></li>
+                <li><a href="http://www.meipai.com" target="_blank" title="ç¾ææç¬è§é¢">ç¾ææç¬è§é¢</a></li>
+                <li><a href="http://www.nxtv.com.cn/" target="_blank" title="å®å¤å¹¿æ­çµè§å°">å®å¤å¹¿æ­çµè§å°</a></li>
+                <li><a href="http://www.xiankan.com" target="_blank" title="åç">åç</a></li>
+                <li><a href="https://123.sogou.com" target="_blank" title="æçå¯¼èª">æçå¯¼èª</a></li>
+                <li><a href="http://www.kaolafm.com/" target="_blank" title="èæFM">èæFM</a></li>
+                <li><a href="http://kan.2345.com" target="_blank" title="2345å½±è§å¤§å¨">2345å½±è§å¤§å¨</a></li>
+            </ul>
+          </div>
+          <div class="footerRight">
+               <h4>ä¹è§å¨æ</h4>
+<ul>
+    <li style="clear:both"><a href="http://app.bbtnews.com.cn/?app=article&amp;controller=article&amp;action=show&amp;contentid=232231&amp;from=singlemessage&amp;isappinstalled=0" target="_blank" title="ä¹è§è¶çº§çµè§äº®ç¸å®¶åä¼">ä¹è§è¶çº§çµè§äº®ç¸å®¶åä¼</a></li>
+    <li class="hide_1024"><a href="http://digi.163.com/17/1226/18/D6JPJR20001680NS.html" target="_blank" title="ä¹è§è¶çº§çµè§New/Leanç³»å 1899åèµ·å®">ä¹è§è¶çº§çµè§New/Leanç³»å 1899åèµ·å®</a></li>
+
+    <li><a href="https://www.toutiao.com/a6552795049631941127/" target="_blank" title="ä¹è§åå¸75å¯¸è¶çº§çµè§">ä¹è§åå¸75å¯¸è¶çº§çµè§</a></li>
+    <li class="hide_1024"><a href="http://www.techweb.com.cn/news/2018-04-02/2651588.shtml" target="_blank" title="ä¹è§çµæè¾è®¯ å¯å¨414 å¼å¯ãè¿å¤§åç¨ã">ä¹è§çµæè¾è®¯ å¯å¨414 å¼å¯ãè¿å¤§åç¨ã</a></li>
+
+    <li><a href="http://www.techweb.com.cn/news/2018-03-20/2647399.shtml" target="_blank" title="ä¹è§è¶çº§çµè§äº²ç¬ä¿¡åé¦ä¹è¿·">ä¹è§è¶çº§çµè§äº²ç¬ä¿¡åé¦ä¹è¿·</a></li>
+    <li class="hide_1024"><a href="http://www.techweb.com.cn/news/2018-04-04/2652461.shtml" target="_blank" title="ä¹è§çµæè¾è®¯åæ¨ä¹è§è¶çº§å®¶åº­ä¼å">ä¹è§çµæè¾è®¯åæ¨ä¹è§è¶çº§å®¶åº­ä¼å</a></li>
+</ul>
+          </div>
+        </div>
+        <div class="footerBot">
+                <p class="p2"><a href="//www.miibeian.gov.cn/publish/query/indexFirst.action" target="_blank" rel="nofollow">äº¬ICPå¤09045969</a><a href="//www.miibeian.gov.cn/publish/query/indexFirst.action" target="_blank" rel="nofollow">äº¬ICPè¯060072å·</a><a href="//aboutus.le.com/wlspxkz.shtml" target="_blank" rel="nofollow">ä¿¡æ¯ç½ç»ä¼ æ­è§å¬èç®è®¸å¯è¯0105097å·</a><img alt="äº¬å¬ç½å®å¤" src="//i2.letvimg.com/lc06_img/201602/29/16/21/ghs.png"><a rel="nofollow" href="//www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000099" target="_blank">äº¬å¬ç½å®å¤ï¼11000002000099å·</a><a href="//www.12377.cn" target="_blank" rel="nofollow"> ä¸­å½äºèç½ä¸¾æ¥ä¸­å¿</a><span style="margin-right:16px">è¿æ³åä¸è¯ä¿¡æ¯ä¸¾æ¥çµè¯ï¼10109000</span><span>ä¸¾æ¥é®ç®±ï¼jubao@le.com</span></p>
+                <p class="p3"><a href="//i1.letvimg.com/lc07_img/201902/15/10/24/pic.jpg" target="_blank" rel="nofollow">ç½ç»æåç»è¥è®¸å¯è¯ äº¬ç½æã2019ã0722-050å·</a><a href="//i3.letvimg.com/lc01_img/201508/04/11/04/medicine2015-0012.jpg" target="_blank" rel="nofollow">äºèç½è¯åä¿¡æ¯æå¡èµæ ¼è¯ä¹¦ (äº¬)-ç»è¥æ§-2015-0012</a><a href='http://i0.letvimg.com/lc04_img/201903/19/10/24/3.jpg'  target="_blank" atl="è¥ä¸æ§ç§">è¥ä¸æ§ç§</a><img width="20" height="20" alt="ä¸­å½äºèç½è¯ä¿¡èç" data-src="//i1.letvimg.com/img/201301/18/xy.png" src="//i1.letvimg.com/img/201301/18/xy.png"><a title="ä¸­å½äºèç½è¯ä¿¡èç" href="//www.itrust.org.cn/yz/pjwx.asp?wm=1769389051" target="_blank" rel="nofollow">ä¸­å½äºèç½è¯ä¿¡èç</a><a title="ç½ä¸æå®³ä¿¡æ¯ä¸¾æ¥ä¸åº" href="//report.12377.cn:13225/toreportinputNormal_anis.do" target="_blank" rel="nofollow">ç½ä¸æå®³ä¿¡æ¯ä¸¾æ¥ä¸åº</a></p>
+                <p class="p3"><a title="ç½ç»åºçæå¡è®¸å¯è¯" href="//aboutus.le.com/wlcbfwxkz/index.shtml" target="_blank" rel="nofollow">ç½ç»åºçæå¡è®¸å¯è¯</a><a title="å¹¿æ­çµè§èç®å¶ä½ç»è¥è®¸å¯è¯" href="//aboutus.le.com/gbdsjm/index.shtml" target="_blank" rel="nofollow">å¹¿æ­çµè§èç®å¶ä½ç»è¥è®¸å¯è¯</a><span>Copyright Â© 2004-2018 ä¹è§è§é¢ï¼le.comï¼All rights reserved.</span></p>
+        </div>
+    </div>                   
+<script type="text/javascript">
+//æç´¢æ¡å³é®è¯	
+(function(){
+    var __INFO__ = LETV.using.call(window, '__INFO__') ;
+   __INFO__.search_word = ['è¶çº§çµè§'];
+   __INFO__.currentChannel = 'é¢é';
+   __INFO__.currentChannelHref = 'http://live.letv.com/';//äºçº§é¢éé¾
+})(); 
+</script>
+<script type="text/javascript" src="http://js.letvcdn.com/lc07_js/201803/13/20/01/totalPlayer.js"></script>
+<script type="text/javascript" src="http://jstatic.letvcdn.com/sdk/passport.js"></script>
+<script type="text/javascript" src="http://jstatic.letvcdn.com/sdk/report_sdk.js"></script>
+<script type="text/javascript" src="http://sdk-m.le.com/navhead/new_navhead.js"></script>
+<script src="http://js.letvcdn.com/lc03_js/201801/15/15/15/lepc/error-systemError.js"></script>
+
+</body>
+</html>

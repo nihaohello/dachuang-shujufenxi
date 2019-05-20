@@ -1,0 +1,1066 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="model_url" content="http://mobile.163.com/special/videoindex/" />
+<title>手机视频 网易手机</title>
+<meta name="description" content="手机视频,网易手机视频栏目,为用户提供最新的手机视频评测,第一时间展现新机发布会现场盛况，特色栏目佟掌柜砖机等，为用户提供多视角解读，最新的移动互联网视频资讯和最新的手机开发者教程一网打尽，我们将竭尽所能为用户提供更多精彩手机视频资讯，敬请留意网易手机频道." />
+<meta name="keywords" content="手机视频,最新手机,手机发布会,佟掌柜砖机,手机视频,苹果手机视频,iPhone视频,三星手机视频,网易手机" />
+<script>if((/_touchall=1/.test(location.search)||!/auto|house|home|bbs|blog/.test(location.host))&&!/\/dy.163.com\/v2/.test(location.href)&&!(document.documentElement&&document.documentElement.getAttribute("phone"))&&!/163.com\/keywords\//.test(location.href)&&/163\.com/.test(location.host)&&!/_pc=1/.test(location.search)&&/android.*?mobile|ipod|blackberry|bb\d+|phone/i.test(navigator.userAgent))document.write('<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no"/><div style="position:fixed;width:100%;height:100%;background:#fff"><div style="position:absolute;top:50%;left:0;width:100%;height:40px;margin-top:-40px;text-align:center;background:url(//static.ws.126.net/utf8/endpage/image/loading.gif) no-repeat top center;padding-top:40px;color:#666">页面加载中 ...</div></div><script src="//static.ws.126.net/f2e/system/touchall/collect/foot~M2Tn9VR49xqt.js"'+' defer><'+'/script><plaintext style="display:none">');</script>
+<script>
+if(/https:.*\.163.com\/keywords\//.test(window.location.href)){
+	window.location.href = window.location.href.replace("https://","http://")
+}
+</script>
+
+<script>if((/_touchall=1/.test(location.search)||!/auto|house|home|bbs|blog/.test(location.host))&&!/\/dy.163.com\/v2/.test(location.href)&&!(document.documentElement&&document.documentElement.getAttribute("phone"))&&!/163.com\/keywords\//.test(location.href)&&/163\.com/.test(location.host)&&!/_pc=1/.test(location.search)&&/android.*?mobile|ipod|blackberry|bb\d+|phone/i.test(navigator.userAgent))document.write('<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no"/><div style="position:fixed;width:100%;height:100%;background:#fff"><div style="position:absolute;top:50%;left:0;width:100%;height:40px;margin-top:-40px;text-align:center;background:url(//static.ws.126.net/utf8/endpage/image/loading.gif) no-repeat top center;padding-top:40px;color:#666">页面加载中 ...</div></div><script src="//static.ws.126.net/f2e/system/touchall/collect/foot~M2Tn9VR49xqt.js"'+' defer><'+'/script><plaintext style="display:none">');</script>
+<script>
+if(/https:.*\.163.com\/keywords\//.test(window.location.href)){
+	window.location.href = window.location.href.replace("https://","http://")
+}
+</script>
+<link href="http://static.ws.126.net/f2e/mobile/common/css/mobile.pyhZhReS5fpj.37.css" rel="stylesheet" type="text/css" />
+<script src="http://img1.cache.netease.com/cnews/js/ntes_jslib_1.x.js" type="text/javascript" charset="gb2312"></script>
+<script src="http://img1.cache.netease.com/f2e/lib/js/ne.js"></script>
+<base target="_blank" />
+<link href="http://static.ws.126.net/cnews/css07/style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+/*common*/
+p { margin:0 }
+.area { width:960px; margin:0 auto; text-align:left }
+.area-main { float:left; width:640px; }
+.area-sub { float:right; width:320px; }
+.topImg { width:640px; padding:0 }
+.top-sub { padding:0 0 0 16px; width:304px; _padding:0 0 0 12px; _width:308px; overflow:hidden }
+.top-brLine { border-right:1px solid #d8d8d8; }
+.tborder { border-top:1px solid #d8d8d8; }
+.topImg { height:453px; background-color:#333 }
+.top-sub li { float:left; margin:0 0 4px 4px; width:148px; height:148px; }
+.top-sub li a { display:inline-block; width:148px; height:148px; position:relative; vertical-align:top }
+.top-sub li a span { position:absolute; left:0; top:0; width:120px; height:148px; padding:0 14px; display:none; font-weight:bold}
+.top-sub li a:hover { overflow:hidden; }
+.top-sub li a:hover span { display:inline-block; width:120px; height:148px; line-height:148px; background-color:#57bae8; opacity:0.9; filter:alpha(opacity=90); -moz-opacity:0.9; color:#fff; text-decoration:none }
+.hidden-640 { width:639px; overflow:hidden; padding:0 0 46px 0; }
+.area-sub-main { padding:20px 0 0 20px; width:300px; overflow:hidden }
+/*title*/
+.titleBar { height:45px; line-height:45px; border-bottom:1px solid #d8d8d8; text-align:left; padding:0 0 2px 0 }
+.titleBar .b-title { font-size:24px; width:170px; text-align:left; font-family:\5FAE\8F6F\96C5\9ED1; color:#0094c8; float:left; border-bottom:2px solid #0094c8; height:45px; line-height:45px; position:relative; _bottom:-2px; }
+.titleBar a.more { float:right; position:relative; bottom:-22px; height:15px; line-height:15px; display:inline-block; background:url(http://static.ws.126.net/mobile/img10/videoMobile/iconList.png) 28px -150px no-repeat; padding-right:43px; color:#666; }
+.titleBar .s-title { font-family:\5FAE\8F6F\96C5\9ED1; font-size:20px; padding:0 0 0 20px; }
+.s-title { font-family:\5FAE\8F6F\96C5\9ED1; font-size:20px; }
+h3.title-h3s { background: url("http://static.ws.126.net/cnews/news2012/img/icons-sprites-v3.png") no-repeat scroll 0 -143px transparent; font-size: 14px; height:16px; overflow:hidden; margin:0 0 15px 0; padding:0 0 0 9px; }
+.area-sub .titleBar { _padding:0 0 4px 0 }
+/*list*/
+.imgList-widget-2 { width:690px; }
+.imgList-widget-2 li { width:160px; height:180px; float:left; margin:22px 70px 0 0 }
+.imgList-widget-2 li a { display:inline-block; width:160px; height:180px; background-color:#f7f7f7; }
+.imgList-widget-2 li img { vertical-align:top }
+.imgList-widget-2 li p { padding:8px 8px 0 8px; text-align:left }
+.imgList-widget-2 li span.playCount { background:url(http://static.ws.126.net/mobile/img10/videoMobile/iconList.png) 0 -240px no-repeat; display:inline-block; height:16px; line-height:16px; padding:0 18px 0 20px; }
+.imgList-widget-2 li span.commentCount { background:url(http://static.ws.126.net/mobile/img10/videoMobile/iconList.png) 0 -270px no-repeat; display:inline-block; height:16px; line-height:16px; padding:0 0 0 21px; }
+.imgList-widget-2 li a:hover { background-color:#57bae8; color:#fff }
+.imgList-widget-2 li a:hover span.playCount { background-position:0 -299px }
+.imgList-widget-2 li a:hover span.commentCount { background-position:0 -330px }
+.imgText-widget-1 { overflow: hidden; padding-top: 10px; }
+.mod-imgText { clear: both; line-height: 0; }
+.imgText-widget-3 img { padding-bottom: 12px; }
+.imgText-widget-3 img { margin: 0 12px 0 0; }
+.imgText-widget-3 span.playCount { background:url(http://static.ws.126.net/mobile/img10/videoMobile/iconList.png) 0 -179px no-repeat; display:inline-block; height:16px; line-height:16px; padding:0 18px 0 20px; }
+.imgText-widget-3 span.commentCount { background:url(http://static.ws.126.net/mobile/img10/videoMobile//iconList.png) 0 -210px no-repeat; display:inline-block; height:16px; line-height:16px; padding:0 0 0 21px; }
+.mod-imgText img { float: left; line-height: 21px; padding-bottom: 2px; }
+.area-sub .main-title { font-size: 14px; font-weight: bold; height: 20px; line-height: 20px; margin-bottom: 5px; overflow: hidden; }
+.imgText-widget-3 p { color: #888888; line-height: 22px; }
+.imgText-widget-3 p.info { padding:8px 0 0 0 }
+.main-list li { background:url("http://static.ws.126.net/cnews/news2012/img/icons-sprites-v3.png") no-repeat scroll 0 -138px transparent; clear: both; font-size: 14px; height: 20px; line-height: 24px; padding-left: 9px;margin: 8px 0 7px 0; clear: both; overflow: hidden;  }
+.imgList-widget-4 { width:315px }
+.imgList-widget-4 p { padding:8px 0 16px 0 }
+.imgList-widget-4 li { float:left; margin:0 15px 0 0 }
+.imgList-widget-5 { width:340px; }
+.imgList-widget-5 p { padding:8px 0 16px 0 }
+.imgList-widget-5 li { float:left; margin:0 40px 0 0 }
+.connection p { padding:0 0 12px 0 }
+/*silder*/
+.topArea-slider { float:left; width:640px; height:453px; position:relative; }
+.fn_focus { height: 299px; width: 636px; clear: both; overflow: hidden; position: relative; }
+.focus_ctrls { position: absolute; bottom: 15px; right: 0px; width: 140px; z-index: 1; background-color:#333; padding:15px 0 }
+.focus_ctrls .current { background-position:0 -113px }
+.focus_ctrls li { background:url(http://static.ws.126.net/mobile/img10/videoMobile//iconList.png) 0 -88px no-repeat; height: 10px; width: 10px; cursor: pointer; float: left; margin-left: 10px; _margin-left: 8px; display: inline-block; text-indent: -999em; }
+.focus_ctrls_licai { top: 10px; right: 10px; }
+.focus_show { width: 640px; color: gray; position: relative; height:453px; overflow:hidden; }
+.focus_show .current { display: block; }
+.focus_panel { float:left; display:none; width:640px; }
+#fn_focus:hover #fn_focus_prev_next { display:block; }
+#fn_focus_prev_next { position: absolute; top: 160px; height: 0; width: 0; display:none; _display:block; }
+#fn_focus_prev_next a, #fn_focus_prev_next a:visited { border-radius: 21px; font-size: 36px; height: 42px; line-height: 42px; width: 42px; background-color: #333; color: #fff; outline: none; display:block; text-align:center; opacity: 0.6; *filter: alpha(opacity=60);
+filter: alpha(opacity=60)\0; }
+#fn_focus_prev_next a:hover { text-decoration:none; opacity: 1; *filter: alpha(opacity=100);
+filter: alpha(opacity=100)\0; }
+#fn_focus_prev_next .prev { margin-left: 15px; }
+#fn_focus_prev_next .next { position: absolute; top: 0; margin-left: 580px; }
+.focus_panel_text { height:73px; line-height:73px; text-indent:19px; font-family: "Microsoft YaHei", "微软雅黑", serif; background-color:#333; white-space:nowrap; overflow:hidden; text-overflow: ellipsis; width:100%; }
+.focus_panel_text a, .focus_panel_text a:visited { color:#fff; font-size:18px; }
+/*headerbg*/
+.wrapperbg { background: #F8F8F8 url("http://static.ws.126.net/cnews/news2012/img/b_line.gif") left bottom repeat-x; border-top: 1px solid #DDDDDD; width:100%; margin: auto; }
+.main-content { background: none repeat scroll 0 0 #FFFFFF; clear: both; margin: 0 auto; width: 960px; }
+/*新闻导航*/
+.nav-channel { margin: 0 auto; width: 960px; text-align: center; }
+.nav-channel .nav { color: #FFFFFF; float: left; height: 40px; line-height: 40px; }
+.nav-channel .nav .nav-blue { float:left; height: 35px; background: none repeat scroll 0 0 #F8F8F8; border-top:5px solid #0094c8; }
+.nav-channel .nav .nav-black { float:left; height: 35px; background: none repeat scroll 0 0 #EDEDED; border-top:5px solid #333333; }
+.nav-channel .nav a { border-right: 1px solid #ccc; border-bottom:1px solid #ccc; float: left; width:136px; height:34px; line-height:34px; font-size:14px; position: relative; }
+.nav-channel .nav a .new { position: absolute; right: 0; top: -7px; width: 21px; height: 14px; overflow: hidden; text-indent: -999em; background: url("http://static.ws.126.net/cnews/news2012/img/notice_new.png") no-repeat; cursor: pointer; }
+.nav-channel .nav .current { color: #0094c8; float: left; font-size: 14px; font-weight: bold; background: none repeat scroll 0 0 #FFFFFF; border-bottom:1px solid #fff; padding: 0; width: 136px; }
+.nav-channel .nav a.current:visited { color: #044C82; }
+.nav-channel .nav a.current:hover { color: #BA2636; }
+.nav-channel .nav .first { border-left:1px solid #D4D4D4; }
+.nav-channel .nav a, .nav a:visited { color: #252525; }
+.nav-channel .nav a:hover { color:  #BA2636; }
+.nav-black a, .nav-black a:visited { color:#585858 }
+.nav-black a { border-bottom: 1px solid #e4e4e4; border-right: 1px solid #e4e4e4; }
+/*gg*/
+.gg-area-650 { float:left; width:650px; height:100px; margin-right:10px; overflow:hidden }
+.gg-area-300 { float:right; width:300px; height:100px; overflow:hidden }
+/*导航*/
+.yodao-weather-icon { float:left; }
+.channel { line-height: 21px; margin: 0 auto; width: 960px; }
+.channel .attlogo { float: left; height: 24px; padding-top: 26px; overflow: hidden; }
+.channel h1 { float: left; height: 24px; margin: 26px 12px 0 2px; overflow: hidden; width: 107px; }
+.channel .weather { float: right; height: 48px; overflow: hidden; padding-top:12px; width: 170px; }
+.date-temperature { line-height: 18px; padding-top: 4px; padding-right: 10px; }
+.weather-temperature { color: #BEBEBE; }
+.date-temperature, .date-temperature a { color:#bebebe; }
+.hidden { display: none; }
+/*列表前的小图标*/
+.I_V_, .I_N_V_, .I_NV_, .I_A_, .I_N_G_, .I_N_PIC_, .I_PIC_, .I_C_, .I_R_, .I_SN_, .I_T_, .I_NM_, .I_L_, .I_TN_ { padding:2px 0 2px 20px; background-image:url(http://static.ws.126.net/cnews/news2012/img/icons-new-v2.png); background-repeat:no-repeat; }
+.I_V_, .I_N_V_, .I_NV_ { background-position:0 center; }   /*视频小图标 Icon-video*/
+.I_A_, .I_N_G_ { background-position:-440px center; }/*图集小图标 Icon-news-gallery*/
+.I_N_PIC_, .I_PIC_ { background-position:-880px center; }/*图片小图标 Icon-news-picture*/
+.I_C_ { background-position:-1320px center; } /*评论小图标Icon-comment*/
+.I_R_ { background-position:-1760px center; }/*专题小图标 Icon-report*/
+.I_SN_ { background-position:-2200px center; } /*滚动小图标 Icon-scroll-news*/
+.I_T_ { background-position:-2640px center; } /*访谈小图标*/
+.I_NM_ { background-position:-3080px center; } /*试听小图标*/
+.I_L_ { background-position:-3520px center; } /*live直播小图标 Icon-live*/
+.I_TN_ { background-position:-3960px center; } /*头条小图标 Icon-top-news*/
+/*底部链接*/
+.footer-links { line-height: 26px; }
+.footer-links span { margin: 0 10px; color:#ddd; }
+/* 页脚模块 */
+.footerbg { height: 270px; border-top:1px solid #dddddd; background:none repeat-x scroll 0 0 #F8F8F8; }
+.footer {/*height: 262px;*/ margin: 0 auto; width: 960px; }
+.footer-channel { width:161px; float:left; padding: 20px 0 0 0; }
+.footer-content { float: left; }
+.other-info { padding: 20px 0 20px 25px; }
+.news-sub { width:180px; height:270px; float:left; border-left:1px solid #dddddd; }
+.other-channels { width:340px; height:270px; float:left; border-left:1px solid #dddddd; }
+.other-info { float: left; height: 230px; width: 251px; border-left:1px solid #dddddd; }
+.footer-module-content h3 { padding: 30px 0 10px 30px; color:#808080; font-weight:bold; }
+.footer-module-content h3 a, .footer-module-content h3 a:visited { color:#808080; font-weight:bold; }
+.footer-module-content h3 a:hover { color:#ba2636; }
+.footer-module-content p a, .footer-module-content p a:visited { color: #888888; float: left; height: 28px; line-height: 28px; padding-left: 30px; padding-right: 25px; }
+.footer-module-content p a:hover { color:#ba2636; }
+.hot-keys a { padding: 0 10px; }
+.hot-keys span, .hot-keys a, .hot-keys a:visited { color: #333333; line-height: 28px; }
+.hot-keys a:hover { color:#ba2636; }
+.footer-module-content { width:510px }
+.footer-module-content li { float:left; width:127px; text-align:left }
+/*底部微博分享*/
+.passport-entry { float:left; padding:2px 0 0 0; }
+.passport-entry a { padding: 0 3px; }
+.passport-entry .weibo a, .passport-entry .mail a, .passport-entry .rss a, .passport-entry .weibo a:hover, .passport-entry .mail a:hover, .passport-entry .rss a:hover { display: block; height: 33px; width: 33px; background-image:url(http://static.ws.126.net/cnews/news2012/img/icons-sprites-v3.png); background-repeat:no-repeat; -webkit-transition: background 0.3s cubic-bezier(.17, .67, .88, 1.25), color 0.2s linear; -moz-transition: background 0.3s cubic-bezier(.17, .67, .88, 1.25), color 0.2s linear; -o-transition: background 0.3s cubic-bezier(.17, .67, .88, 1.25), color 0.2s linear; transition: background 0.3s cubic-bezier(.17, .67, .88, 1.25), color 0.2s linear; }
+.passport-entry .weibo a { background-position:0 0; }
+.passport-entry .mail a { background-position:-40px 0; }
+.passport-entry .rss a { background-position:-80px 0; }
+.passport-entry .weibo a:hover { background-position:0 -35px; }
+.passport-entry .mail a:hover { background-position:-40px -35px; }
+.passport-entry .rss a:hover { background-position:-80px -35px; }
+/*lofter*/
+.passport-entry .lofter a,.passport-entry .lofter a:hover{display:block;height:33px;width:33px;background-repeat:no-repeat;-webkit-transition:background .3s cubic-bezier(.17,.67,.88,1.25),color .2s linear;-moz-transition:background .3s cubic-bezier(.17,.67,.88,1.25),color .2s linear;-o-transition:background .3s cubic-bezier(.17,.67,.88,1.25),color .2s linear;transition:background .3s cubic-bezier(.17,.67,.88,1.25),color .2s linear}
+.passport-entry .lofter a{background-image: url(http://static.ws.126.net/f2e/travel/index2014/images/ne_foot_icon_light.png);background-position: -112px -116px;}
+.passport-entry .lofter a:hover{background-image: url(http://static.ws.126.net/f2e/travel/index2014/images/ne_foot_icon_light.png);background-position: -69px -116px;}
+/*rank*/
+.ui-rank-number li { background:none }
+.ui-rank-number .ui-rank-top { background: none repeat scroll 0 0 #0094C8; }
+.ui-rank-number li span { background: none repeat scroll 0 0 #A2A2A2; color: #FFFFFF; display: inline-block; font-family: Arial, Helvetica, sans-serif; height: 18px; line-height: 18px; margin-right: 10px; text-align: center; width: 18px; }
+<br />
+</style>
+</head>
+<body>
+<!--头部导航!--> 
+<div class="ntes_nav_wrap">
+	<div class="ntes-nav" id="js_N_nav">
+		<div class="ntes-nav-main clearfix">
+			<div class="c-fl">
+				<div class="ntes-nav-select ntes-nav-select-wide ntes-nav-app js_N_navSelect c-fl" tabindex="0">
+					<a href="http://www.163.com/#f=topnav" class="ntes-nav-select-title ntes-nav-entry-bgblack" data-module-name="n_topnavapp">应用<em class="ntes-nav-select-arr"></em></a>
+					<div class="ntes-nav-select-pop">
+						<ul class="ntes-nav-select-list clearfix">
+							<li data-module-name="n_topnavapplist_t_0">
+								<a href="http://m.163.com/newsapp/#f=topnav"><span><em class="ntes-nav-app-newsapp">网易新闻</em></span></a>
+							</li>
+							<li data-module-name="n_topnavapplist_t_1">
+								<a href="http://music.163.com/#f=topnav"><span><em class="ntes-nav-app-msc">网易云音乐</em></span></a>
+							</li>
+							<li data-module-name="n_topnavapplist_t_2">
+								<a href="http://yuedu.163.com/#f=topnav"><span><em class="ntes-nav-app-yuedu">网易云阅读</em></span></a>
+							</li>
+							<li data-module-name="n_topnavapplist_t_3">
+								<a href="http://note.youdao.com/#f=topnav"><span><em class="ntes-nav-app-note">有道云笔记</em></span></a>
+							</li>
+							<li data-module-name="n_topnavapplist_t_4">
+								<a href="http://www.icourse163.org/mobile.htm?from=163app&utm_source=163.com&utm_medium=web_app&utm_campaign=business"><span><em class="ntes-nav-app-ht">大学MOOC</em></span></a>
+							</li>
+							<li data-module-name="n_topnavapplist_t_5">
+								<a href="http://open.163.com/#f=topnav"><span><em class="ntes-nav-app-open">网易公开课</em></span></a>
+							</li>
+							<li data-module-name="n_topnavapplist_t_6">
+								<a href="http://caipiao.163.com/mobile/client_cp.jsp#from=yingyong"><span><em class="ntes-nav-app-cp">网易彩票</em></span></a>
+							</li>
+							<li data-module-name="n_topnavapplist_t_7">
+								<a href="http://cidian.youdao.com/?vendor=topnav"><span><em class="ntes-nav-app-cd">有道词典</em></span></a>
+							</li>
+							<li data-module-name="n_topnavapplist_t_8">
+								<a href="http://mail.163.com/client/dl.html?from=mail46"><span><em class="ntes-nav-app-mail">邮箱大师</em></span></a>
+							</li>
+							<li data-module-name="n_topnavapplist_t_9">
+								<a href="http://www.lofter.com/?act=qb163rk_20141031_01"><span><em class="ntes-nav-app-lofter">LOFTER</em></span></a>
+							</li>
+							<li data-module-name="n_topnavapplist_t_10">
+								<a href="http://study.163.com/client/download.htm?from=163app&utm_source=163.com&utm_medium=web_app&utm_campaign=business"><span><em class="ntes-nav-app-study">网易云课堂</em></span></a>
+							</li>
+							<li class="last" data-module-name="n_topnavapplist_t_11">
+								<a href="http://x.163.com/buy/index.html#/m/apps/front/mall/productlist?source=163webapp"><span><em class="ntes-nav-app-qingguo">青果商城</em></span></a>
+							</li>
+						</ul>
+					</div>
+				</div>
+				<a class="ntes-nav-entry-wide c-fl" href="http://www.163.com/" title="网易首页">网易首页</a>
+			</div>
+			<div class="c-fr">
+				<div class="c-fl">
+					<div class="c-fl" id="js_N_navLoginBefore">
+						<div id="js_N_navHighlight" class="js_loginframe ntes-nav-login">
+							<a href="http://reg.163.com/" class="ntes-nav-login-title">登录</a>
+                            <div class="ntes-nav-loginframe-pop" id="urs-login-block" style="display:none;height: 167px;"></div>
+							<!-- <div class="ntes-nav-loginframe-pop" id="js_N_login_wrap" style="display:none">
+								<div class="ntes-loginframe clearfix">
+									<div class="ntes-loginframe-blank clearfix">
+										<span class="ntes-loginframe-tips">网易邮箱/常用邮箱登录 </span>
+										<label class="ntes-loginframe-label clearfix"><span class="loginframe-hidden">账号：</span>
+											<input id="js_loginframe_username" type="text" class="ntes-loginframe-label-ipt" placeholder="网易邮箱/常用邮箱">
+										</label>
+									</div>
+									<div class="ntes-loginframe-blank clearfix">
+										<label class="ntes-loginframe-label clearfix"><span class="loginframe-hidden">密码：</span>
+											<input type="password" class="ntes-loginframe-label-ipt" placeholder="请输入密码">
+										</label>
+										<span class="ntes-loginframe-label mt6 mb6 clearfix">
+											<label class="c-fl">
+												<input type="checkbox" name="autologin" class="ntes-loginframe-checkbox">
+												<span class="c-fl">十天内免登录</span>
+											</label>
+											<a href="http://reg.163.com/RecoverPassword.shtml?f=www" class="c-fr">忘记密码？</a>
+										</span>
+										<div class="ntes-loginframe-hot-link mb6 clearfix">
+											<a href="http://mail.163.com/client/dl.html?from=mail46">免费下载网易官方手机邮箱应用</a>
+										</div>
+										<button class="ntes-loginframe-btn">
+											登　录
+										</button>
+									</div>
+								</div>
+							</div> -->
+						</div>
+						<div class="ntes-nav-select ntes-nav-select-wide js_N_navSelect c-fl">
+							<a class="ntes-nav-select-title" data-module-name="n_topnavreg" href="http://reg.email.163.com/mailregAll/reg0.jsp?from=163navi&regPage=163">注册免费邮箱<em class="ntes-nav-select-arr"></em></a>
+							<div class="ntes-nav-select-pop">
+                                <ul class="ntes-nav-select-list clearfix" style="width:210px;">
+                                    <li class="JS_NTES_LOG_FE">
+                                        <a href="http://reg.vip.163.com/register.m?from=topnav"><span style="width:190px;">注册VIP邮箱（特权邮箱，付费）</span></a>
+                                    </li>
+                                    <li class="last JS_NTES_LOG_FE">
+                                        <a href="http://mail.163.com/client/dl.html?from=mail46"><span style="width:190px;">免费下载网易官方手机邮箱应用</span></a>
+                                    </li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="c-fl" id="js_N_NavLoginAfter"  style="display:none">
+						<span class="c-fl mr6">欢迎您，</span>
+						<div id="js_N_logined_warp" data-module-name="n_topnavlogined" class="js_N_navSelect ntes-nav-logined" tabindex="0">
+							<span class="ntes-nav-select-title ntes-nav-logined-userinfo"><span id="js_N_navUsername" class="ntes-nav-logined-username"></span><em class="ntes-nav-select-arr"></em></span>
+							<div id="js_login_suggest_wrap" class="ntes-nav-select-pop">
+								<ul id="js_logined_suggest" class="ntes-nav-select-list clearfix"></ul>
+							</div>
+						</div>
+						<a class="ntes-nav-entry-wide c-fl" target="_self" href="http://reg.163.com/Logout.jsp" id="js_N_navLogout">安全退出</a>
+					</div>
+				</div>
+				<ul class="ntes-nav-inside">
+					<li data-module-name="n_topnavkaola">
+						<div class="ntes-nav-select js_N_navSelect c-fl" tabindex="0">
+							<a id="js_kaola_url" href="http://rd.da.netease.com/redirect?t=Vc8G344566&p=null&proId=1922&target=http%3A%2F%2Fwww.kaola.com%2F%3Ftag%3Dbe3d8d027a530881037ef01d304eb505" class="ntes-nav-select-title ntes-nav-entry-bgblack"><em class="ntes-nav-entry-kaola">网易考拉</em><em class="ntes-nav-select-arr"></em><span class="ntes-nav-msg ntes-nav-kaola-msg" id="js_N_navKaolaMsg"><em class="ntes-nav-msg-num"></em></span></a>
+							<div class="ntes-nav-select-pop ntes-nav-select-pop-kaola">
+								<ul class="ntes-nav-select-list clearfix">
+									<li>
+                                        <a href="http://rd.da.netease.com/redirect?t=578e0688eac33c80&p=e17af55c&proId=1024&target=https%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F32597.shtml%3Ftag%3Dbe3d8d027a530881037ef01d304eb505"><span>1000元现金礼包</span></a>
+                                    </li>
+                                    <li>
+                                        <a href="http://rd.da.netease.com/redirect?t=5768b8fc26c33c80&p=e17af55c&proId=1024&target=http%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F30953.shtml%3Ftag%3Dbe3d8d027a530881037ef01d304eb505"><span>进口好货9.9元包邮</span></a>
+                                    </li>
+                                    <li>
+                                        <a href="http://rd.da.netease.com/redirect?t=5894707186433c80&p=e17af55c&proId=1024&target=https%3A%2F%2Fwww.kaola.com%2Factivity%2FflashSaleIndex%2Fshow.html%3Ftag%3Dbe3d8d027a530881037ef01d304eb505"><span>今日限时抢购</span></a>
+                                    </li>
+									<li>
+										<a href="http://rd.da.netease.com/redirect?t=hKWSGbS2Rw&p=CbkiaN&proId=1922&target=http%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F11990.shtml%3Ftag%3Dbe3d8d027a530881037ef01d304eb505"><span>母婴专区</span></a>
+									</li>
+									<li>
+										<a href="http://rd.da.netease.com/redirect?t=I3Qaaw&p=zbga4U&proId=1024&target=http%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F3219.html%3Ftag%3Dbe3d8d027a530881037ef01d304eb505"><span>美容彩妆</span></a>
+									</li>
+									<li>
+										<a href="http://rd.da.netease.com/redirect?t=fsgZIu10Bz&p=hJziDS&proId=1922&target=http%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F11667.shtml%3Ftag%3Dbe3d8d027a530881037ef01d304eb505"><span>家居日用</span></a>
+									</li>
+									<li>
+										<a href="http://rd.da.netease.com/redirect?t=OaAxeOxD3p&p=vstfIh&proId=1922&target=http%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F11884.shtml%3Ftag%3Dbe3d8d027a530881037ef01d304eb505"><span>进口美食</span></a>
+									</li>
+									<li>
+										<a href="http://rd.da.netease.com/redirect?t=KApRocvHmn&p=NNOB1N&proId=1922&target=http%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F12026.shtml%3Ftag%3Dbe3d8d027a530881037ef01d304eb505"><span>营养保健</span></a>
+									</li>
+									<li class="last">
+										<a href="http://rd.da.netease.com/redirect?t=tfv0nFeBxd&p=59bHmS&proId=1922&target=http%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F12116.shtml%3Ftag%3Dbe3d8d027a530881037ef01d304eb505"><span>海外直邮</span></a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</li>
+					<li data-module-name="n_topnavmail">
+						<div class="ntes-nav-select js_N_navSelect c-fl" tabindex="0">
+							<a id="js_mail_url" href="http://email.163.com/#from=163nav_icon" class="ntes-nav-select-title ntes-nav-entry-bgblack"><em class="ntes-nav-entry-mail">邮箱</em><em class="ntes-nav-select-arr"></em><span class="ntes-nav-msg" id="js_N_navMailMsg"><em class="ntes-nav-msg-num"></em></span></a>
+							<div class="ntes-nav-select-pop ntes-nav-select-pop-mail">
+								<ul class="ntes-nav-select-list clearfix">
+									<li>
+										<a href="http://email.163.com/#f=topnav"><span>免费邮箱</span></a>
+									</li>
+									<li>
+										<a href="http://vipmail.163.com/#f=topnav"><span>VIP邮箱</span></a>
+									</li>
+									<li>
+										<a href="http://qiye.163.com/#f=topnav"><span>企业邮箱</span></a>
+									</li>
+									<li>
+										<a href="http://reg.email.163.com/mailregAll/reg0.jsp?from=ntes_nav&regPage=163"><span>免费注册</span></a>
+									</li>
+									<li>
+										<a href="http://reg.email.163.com/unireg/call.do?cmd=register.entrance&flow=mobile&from=ntes_nav"><span>快速注册</span></a>
+									</li>
+									<li class="last">
+										<a href="http://mail.163.com/dashi/dlpro.html?from=mail46"><span>客户端下载</span></a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</li>
+					<li data-module-name="n_topnavpay">
+						<div class="ntes-nav-select js_N_navSelect c-fl" tabindex="0">
+							<a href="http://pay.163.com/" class="ntes-nav-select-title ntes-nav-entry-bgblack"><em class="ntes-nav-entry-money">支付</em><em class="ntes-nav-select-arr"></em></a>
+							<div class="ntes-nav-select-pop ntes-nav-select-pop-temp">
+								<ul class="ntes-nav-select-list clearfix">
+									<li>
+										<a href="http://pay.163.com/#f=topnav"><span>一卡通充值</span></a>
+									</li>
+									<li>
+										<a href="http://ecard.163.com/script/index#f=topnav"><span>一卡通购买</span></a>
+									</li>
+									<li>
+										<a href="https://epay.163.com/"><span>我的网易支付</span></a>
+									</li>
+									<li>
+                                        <a href="https://3c.163.com/?from=wangyimenhu16"><span>网易智造</span></a>
+                                    </li>
+									<li>
+                                        <a href="https://i.epay.126.net/a/8a/static/188activity.html?utm_source=163&utm_medium=bar_pc&utm_campaign=1888cashfest&mmd=163&mpl=bar_pc&mkw=1888cashfest"><span>网易理财送1888元</span></a>
+                                    </li>
+                                    <li class="last">
+                                        <a href="https://pop.lmlc.com/web/activity/practiceGold/index.html?from=tgn163ws"><span>立马理财新人礼</span></a>
+                                    </li>
+								</ul>
+							</div>
+						</div>
+					</li>
+					<li data-module-name="n_topnavdianshang">
+						<div class="ntes-nav-select js_N_navSelect c-fl" tabindex="0">
+							<a href="http://baoxian.163.com/car/?from=mhgwc" class="ntes-nav-select-title ntes-nav-entry-bgblack"><em class="ntes-nav-entry-cart">电商</em><em class="ntes-nav-select-arr"></em></a>
+							<div class="ntes-nav-select-pop ntes-nav-select-pop-temp">
+								<ul class="ntes-nav-select-list clearfix">
+									<li>
+										<a href="http://caipiao.163.com/?from=wscj"><span>彩票</span></a>
+									</li>
+									<li>
+										<a href="http://888.163.com/?from=tgnh1"><span>网易1元购</span></a>
+									</li>
+									<li>
+										<a href="http://fa.163.com/optg/activity/model/hhtDrawNewActivity/page/index?from=tgnws"><span>贵金属</span></a>
+									</li>
+									<li>
+										<a href="http://baoxian.163.com/?from=wscj"><span>车险</span></a>
+									</li>
+									<li>
+										<a href="http://you.163.com?from=web_in_wydaohang">
+										<span>严选</span>
+										</a>
+									</li>
+									<li>
+										<a href="http://piao.163.com/?from=wscj"><span>电影票</span></a>
+									</li>
+									<li>
+										<a href="http://trip.163.com/?from=wscj"><span>火车票</span></a>
+									</li>
+									<li>
+										<a href="https://zc.163.com?utm_source=newspc&utm_medium=home_pc&utm_campaign=Crowdfunding&mmd=newspc&mpl=home_pc&mkw=Crowdfunding"><span>网易众筹</span></a>
+									</li>
+									<li class="last">
+										<a href="http://x.163.com/buy/index.html#/m/apps/front/mall/productlist?source=163webbuy"><span>青果商城</span></a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</li>
+					<li data-module-name="n_topnavhuatian">
+						<div class="ntes-nav-select js_N_navSelect c-fl" tabindex="0">
+							<a id="js_love_url" href="http://yuehui.163.com/searchphoto.do?from=wsdh" class="ntes-nav-select-title ntes-nav-entry-bgblack"><em class="ntes-nav-entry-huatian">同城约会</em><em class="ntes-nav-select-arr"></em><span class="ntes-nav-msg" id="js_N_navHuatianMsg"><em class="ntes-nav-msg-num"></em></span></a>
+							<div class="ntes-nav-select-pop ntes-nav-select-pop-huatian">
+								<ul class="ntes-nav-select-list clearfix">
+									<li>
+										<a href="http://yuehui.163.com/searchusers.do?from=wsdh"><span>找缘分</span></a>
+									</li>
+									<li>
+										<a href="http://yuehui.163.com/searchqa.do?from=wsdh"><span>恋爱真心话</span></a>
+									</li>
+									<li>
+										<a href="http://yuehui.163.com/?from=wsdh"><span>我的同城约会</span></a>
+									</li>
+									<li class="last">
+										<a href="http://yuehui.163.com/app?from=wsdh"><span>下载同城约会APP</span></a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</li>
+					<li data-module-name="n_topnavlofter">
+						<div class="ntes-nav-select js_N_navSelect c-fl" tabindex="0">
+							<a id="js_lofter_icon_url" href="http://www.lofter.com/entry?act=qb163sydl_20140917_01&from=163top" class="ntes-nav-select-title ntes-nav-entry-bgblack"><em class="ntes-nav-entry-lofter">LOFTER</em><em class="ntes-nav-select-arr"></em><span class="ntes-nav-msg" id="js_N_navLofterMsg"><em class="ntes-nav-msg-num"></em></span></a>
+							<div class="ntes-nav-select-pop ntes-nav-select-pop-lofter">
+								<ul id="js_lofter_pop_url" class="ntes-nav-select-list clearfix">
+									<li>
+										<a href="http://www.lofter.com/entry?act=qb163sydl_20140917_03&from=163top"><span>进入LOFTER</span></a>
+									</li>
+									<li>
+										<a href="http://www.lofter.com/entry?act=qb163sydl_20140917_04&from=163top&target=http://www.lofter.com/activity"><span>热门话题</span></a>
+									</li>
+									<li>
+										<a href="http://www.lofter.com/selections?act=qb163sydl_20140917_05"><span>专题精选</span></a>
+									</li>
+									<li class="last">
+										<a href="http://www.lofter.com/entry?act=qb163sydl_20140917_06&from=163top&target=http://www.lofter.com/app"><span>下载LOFTER客户端</span></a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</li>
+					<li data-module-name="n_topnavstudy">
+						<div class="ntes-nav-select js_N_navSelect c-fl" tabindex="0">
+							<a id="js_study_icon_url" href="http://study.163.com/?utm_source=163.com&utm_medium=web_topnav&utm_campaign=business" class="ntes-nav-select-title ntes-nav-entry-bgblack"><em class="ntes-nav-entry-study">网易云课堂</em><em class="ntes-nav-select-arr"></em><span class="ntes-nav-msg" id="js_N_navStudyMsg"><em class="ntes-nav-msg-num"></em></span></a>
+							<div class="ntes-nav-select-pop ntes-nav-select-pop-study">
+								<ul id="js_study_pop_url" class="ntes-nav-select-list clearfix">
+									<li>
+				<a href="http://study.163.com/smartSpec/intro.htm?utm_source=163.com&utm_medium=web_topnav&utm_campaign=business"><span>微专业-升职通道</span></a>
+				</li>
+				<li>
+				<a href="http://study.163.com/category/it/?utm_source=163.com&utm_medium=web_topnav&utm_campaign=business"><span>编程开发</span></a>
+				</li>
+				<li>
+				<a href="http://study.163.com/category/design/?utm_source=163.com&utm_medium=web_topnav&utm_campaign=business"><span>产品设计</span></a>
+				</li>
+				<li>
+				<a href="http://study.163.com/category/lifestyle/?utm_source=163.com&utm_medium=web_topnav&utm_campaign=business"><span>生活方式</span></a>
+				</li>
+				<li>
+				<a href="http://study.163.com/category/office-productivity/?utm_source=163.com&utm_medium=web_topnav&utm_campaign=business"><span>办公效率</span></a>
+				</li>
+				<li>
+				<a href="http://study.163.com/category/occupation/?utm_source=163.com&utm_medium=web_topnav&utm_campaign=business"><span>职业发展</span></a>
+				</li>
+				<li>
+				<a href="http://study.163.com/category/photography/?utm_source=163.com&utm_medium=web_topnav&utm_campaign=business"><span>摄影影视</span></a>
+				</li>
+				<li class="last">
+				<a href="http://study.163.com/category/kid/?utm_source=163.com&utm_medium=web_topnav&utm_campaign=business"><span>亲子育儿</span></a>
+				</li>
+								</ul>
+							</div>
+						</div>
+					</li>
+					<li data-module-name="n_topnavbobo">
+						<div class="ntes-nav-select js_N_navSelect c-fl" tabindex="0">
+							<a id="js_bobo_url" href="http://www.bobo.com/?f=163.homeNav" class="ntes-nav-select-title ntes-nav-entry-bgblack"><em class="ntes-nav-entry-bobo">BOBO</em><em class="ntes-nav-select-arr"></em><span class="ntes-nav-msg" id="js_N_navBoboMsg"><em class="ntes-nav-msg-num"></em></span></a>
+							<div class="ntes-nav-select-pop ntes-nav-select-pop-bobo">
+								<ul class="ntes-nav-select-list clearfix">
+									<li>
+										<a href="http://www.bobo.com/?f=163.homeNav1"><span>网易最热娱乐社区</span></a>
+									</li>
+									<li>
+										<a href="http://www.bobo.com/anchor/?f=163.homeNav2"><span>直播—海量女神</span></a>
+									</li>
+									<li>
+										<a href="http://www.bobo.com/special/bulletin/?f=163.homeNav3"><span>资讯—女神信息</span></a>
+									</li>
+									<li>
+										<a href="http://love.bobo.com/10000?sss=loveshift&index=true&f=jy_163daohang"><span>交友—美女语聊</span></a>
+									</li>
+									<li>
+                                        <a href="http://prpr.bobo.com/?from=pr_163ntes-nav"><span>动漫—舔屏神器</span></a>
+                                    </li>
+									<li class="last">
+										<a href="http://www.bobo.com/special/android/?f=163.homeNav6"><span>下载BoBo直播App</span></a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</li>
+					<li data-module-name="n_topnavmobile">
+						<div class="ntes-nav-select js_N_navSelect c-fl" tabindex="0">
+							<a href="http://www.163.com/newsapp/#f=163nav" class="ntes-nav-mobile-title ntes-nav-entry-bgblack"><em class="ntes-nav-entry-mobile">移动端</em></a>
+							<div class="qrcode-img">
+								<a href="http://www.163.com/newsapp/#f=163nav"><img src="http://img1.cache.netease.com/f2e/include/common_nav/images/topapp.jpg"></a>
+							</div>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript" src="http://img3.cache.netease.com/cnews/js/ntes_jslib_1.x.js"></script>
+<script type="text/javascript" src="https://ursdoccdn.nosdn.127.net/webzj_cdn101/message_170510.js"></script>
+<script src="http://img2.cache.netease.com/f2e/include/common_nav/js/common_nav.VRDxthZRpqJI.27.js"></script>
+<script>(function() {
+    var nav_value = {
+        platform : ""
+    };
+    var nav = {
+        detect : function() {
+            if (navigator.platform.indexOf("Win") > -1) {
+                nav_value.platform = "ua-win";
+            } else if (navigator.platform.indexOf("Mac") > -1) {
+                nav_value.platform = "ua-mac";
+            } else if (navigator.platform.indexOf("iPad") > -1 || navigator.platform.indexOf("iPhone") > -1) {
+                nav_value.platform = "ua-ios";
+            } else {
+                return false
+            }
+            ;
+        },
+        init : function() {
+            this.detect();
+            if (nav_value.platform) {
+                NTES("html").addCss(nav_value.platform);
+            };
+        }
+    };
+    nav.init();
+})();
+NTES.ready(function(){
+    var $ = NTES;
+    var App = NTESCommonNavigator.core.Controller,
+        Event = NTESCommonNavigator.core.Event.Base,
+        ModelEvent = NTESCommonNavigator.core.Event.Model, 
+        app = NTESCommonNavigator.utils.app = App(); //添加全局登录响应.
+        
+        app.bind(Event.DATA_CHANGED, function(data){});
+        
+        app.bind(ModelEvent.MAIL_INFO_LOADED, function(data){});
+        
+        app.bind(ModelEvent.LOFTER_INFO_LOADED, function(data){});
+        
+    app.refresh();
+});
+</script>
+<div class="wrapperbg" id="wrapperbgId"> 
+  <!--通用顶部导航--> 
+  <div class="N-nav-channel JS_NTES_LOG_FE" data-module-name="xwwzy_11_headdaohang">
+    <a class="first" href="http://news.163.com/">新闻</a><a href="http://sports.163.com/">体育</a><a href="http://sports.163.com/nba/">NBA</a><a href="http://ent.163.com/">娱乐</a><a href="http://money.163.com/">财经</a><a href="http://money.163.com/stock/">股票</a><a id="_link_auto" href="http://auto.163.com/">汽车</a><a href="http://tech.163.com/">科技</a><a href="http://mobile.163.com/">手机</a><a href="http://digi.163.com/">数码</a><a href="http://lady.163.com/">女人</a><a href="http://v.163.com/">直播</a><a href="http://v.163.com/special/video/#tuijian">视频</a><a href="http://travel.163.com/">旅游</a><a id="houseUrl" href="http://house.163.com/">房产</a><a href="http://home.163.com/" id="homeUrl">家居</a><a href="http://edu.163.com/">教育</a><a href="http://book.163.com/">读书</a><a id="_link_game" href="http://play.163.com/">游戏</a><a href="http://jiankang.163.com/">健康</a><a href="http://caipiao.163.com/#from=dh">彩票</a><a href="http://baoxian.163.com/car/?from=dh">车险</a><a href="http://rd.da.netease.com/redirect?t=EDWF4PlZfp&p=z4qw3T&proId=1024&target=http%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F10194.shtml%3Ftag%3Dbe3d8d027a530881037ef01d304eb505">海淘</a><a href="https://www.lmlc.com/web/activity/bind_index.html?from=tgn163dh2">理财</a><a class="last" href="http://jiu.163.com">酒香</a>
+</div> 
+  <!--头部广告 650+300整体 --> 
+   
+  <!--导航--> 
+    <!--logo导航--> 
+  <!--logo导航-->
+                <div class="channel">
+        <div class="clearfix">
+            <h1><a name="top" href="http://mobile.163.com/"><img width="107" height="24" alt="网易手机" src="http://static.ws.126.net/mobile/img09/sy1131/logo.gif"><br>网易手机</a></h1>
+            <span class="attlogo"><a href="http://v.mobile.163.com/"><img alt="手机视频" src="http://static.ws.126.net/mobile/img10/videoMobile/mobilevideo_logo.png" height="24"><br>手机视频</a></span>
+        </div>
+        <!--新闻导航-->
+        <span class="blank9"></span>
+        <div class="nav-channel clearfix" >
+            <div class="nav">
+                <div class="nav-blue">
+                     <a class="first current" href="http://v.mobile.163.com/">手机视频</a>                     <a href="http://v.mobile.163.com/newmobile">新机发布</a>                     <a href="http://v.mobile.163.com/evaluate">新机测评</a>                     <a href="http://v.mobile.163.com/app">移动应用</a>                     <a href="http://v.mobile.163.com/dev">手机开发者专区</a>                     <a href="http://v.mobile.163.com/newtech">前沿科技</a>                     <a href="http://v.mobile.163.com/ad">创意广告</a>                </div>
+            </div>
+        </div>
+    </div>
+    <!--logo导航-e-->  <!--logo导航-e--> 
+</div>
+<!--头部导航!-e--> 
+<span class="blank20"></span> 
+<!--内容开始!-->
+<div class="main-content">   <div class="area">
+    <div class="area-main topArea-slider topImg" id="fn_focus">
+      <ul class="focus_ctrls focus_ctrls_semantic">
+        <li class="current">1</li>
+        <li>2</li>
+        <li>3</li>
+        <li>4</li>
+        <li>5</li>
+        <li>6</li>
+      </ul>
+      <div class="focus_show" id="focus_show">                       <div  class="focus_panel current "  class="focus_panel">
+        <a href="http://v.mobile.163.com/video/2015/1/8/L/VAEQVIK8L.html"><img src="http://img4.cache.netease.com/mobile/2015/1/23/20150123112219e1caa.jpg" alt="http://v.mobile.163.com/video/2015/1/8/L/VAEQVIK8L.html" width="640" height="380" /></a>
+        <div class="focus_panel_text">
+          <h3><a href="http://v.mobile.163.com/video/2015/1/8/L/VAEQVIK8L.html">CES2015 新奇产品 趣味评奖</a></h3>
+        </div>
+        </div>
+                    <div  class="focus_panel">
+        <a href="http://v.mobile.163.com/video/2014/12/G/E/VADR4BEGE.html"><img src="http://img1.cache.netease.com/mobile/2015/1/23/20150123111906cbb30.jpg" alt="http://v.mobile.163.com/video/2014/12/G/E/VADR4BEGE.html" width="640" height="380" /></a>
+        <div class="focus_panel_text">
+          <h3><a href="http://v.mobile.163.com/video/2014/12/G/E/VADR4BEGE.html">网易手机2015年终策划：机情编辑部</a></h3>
+        </div>
+        </div>
+                    <div  class="focus_panel">
+        <a href="http://v.mobile.163.com/video/2015/1/R/F/VAFCT1PRF.html"><img src="http://img6.cache.netease.com/mobile/2015/1/23/201501231106181a1a5.jpg" alt="http://v.mobile.163.com/video/2015/1/R/F/VAFCT1PRF.html" width="640" height="380" /></a>
+        <div class="focus_panel_text">
+          <h3><a href="http://v.mobile.163.com/video/2015/1/R/F/VAFCT1PRF.html">3分钟看完小米2015年度发布会</a></h3>
+        </div>
+        </div>
+                    <div  class="focus_panel">
+        <a href="http://v.mobile.163.com/video/2015/1/2/M/VAEBRR72M.html"><img src="http://img3.cache.netease.com/mobile/2015/1/23/20150123110801ac3bc.jpg" alt="http://v.mobile.163.com/video/2015/1/2/M/VAEBRR72M.html" width="640" height="380" /></a>
+        <div class="focus_panel_text">
+          <h3><a href="http://v.mobile.163.com/video/2015/1/2/M/VAEBRR72M.html"> CES2015抢鲜看:LG G Flex2受热捧</a></h3>
+        </div>
+        </div>
+                    <div  class="focus_panel">
+        <a href="http://v.mobile.163.com/video/2014/12/N/K/VABVUC0NK.html"><img src="http://img5.cache.netease.com/mobile/2015/1/23/2015012311115763918.jpg" alt="http://v.mobile.163.com/video/2014/12/N/K/VABVUC0NK.html" width="640" height="380" /></a>
+        <div class="focus_panel_text">
+          <h3><a href="http://v.mobile.163.com/video/2014/12/N/K/VABVUC0NK.html">2分钟回顾《理想主义者创业故事》</a></h3>
+        </div>
+        </div>
+                    <div  class="focus_panel">
+        <a href="http://v.mobile.163.com/video/2014/11/Q/U/VA9P763QU.html"><img src="http://img4.cache.netease.com/mobile/2015/1/23/20150123111330da8f6.jpg" alt="http://v.mobile.163.com/video/2014/11/Q/U/VA9P763QU.html" width="640" height="380" /></a>
+        <div class="focus_panel_text">
+          <h3><a href="http://v.mobile.163.com/video/2014/11/Q/U/VA9P763QU.html">2014年科技行业精彩瞬间</a></h3>
+        </div>
+        </div>
+       </div>
+    <div class="clear"></div>
+    <div id="fn_focus_prev_next"> <a href="#prev" hidefocus="true" target="_self" class="prev">&lt;</a> <a href="#next" hidefocus="true" target="_self" class="next">&gt;</a> </div>
+  </div>
+  <div class="area-sub top-sub">
+    <ul>
+                        <li><a href="http://v.mobile.163.com/video/2014/2/0/K/V9KUGJG0K.html"><img src="http://img1.cache.netease.com/mobile/2014/3/3/20140303113917028d0.jpg" height="148" width="148" alt="http://v.mobile.163.com/video/2014/2/0/K/V9KUGJG0K.html" /><span class="hoverPlay">索尼Z2 新机预览</span></a></li>
+                  <li><a href="http://v.mobile.163.com/video/2014/1/C/3/V9IJK50C3.html"><img src="http://img6.cache.netease.com/mobile/2014/3/3/2014030311360500e28.jpg" height="148" width="148" alt="http://v.mobile.163.com/video/2014/1/C/3/V9IJK50C3.html" /><span class="hoverPlay">Ravijour智能文胸</span></a></li>
+                  <li><a href="http://v.mobile.163.com/video/2014/2/3/H/V9JL8GB3H.html"><img src="http://img2.cache.netease.com/mobile/2014/3/3/201403031131332bf4f.jpg" height="148" width="148" alt="http://v.mobile.163.com/video/2014/2/3/H/V9JL8GB3H.html" /><span class="hoverPlay">谷歌眼镜迷你游戏</span></a></li>
+                  <li><a href="http://v.mobile.163.com/video/2014/3/C/I/V9LFLBMCI.html"><img src="http://img6.cache.netease.com/mobile/2014/3/3/201403031129021f3f5.jpg" height="148" width="148" alt="http://v.mobile.163.com/video/2014/3/C/I/V9LFLBMCI.html" /><span class="hoverPlay">苹果iPhone 6C</span></a></li>
+                  <li><a href="http://v.mobile.163.com/video/2014/2/9/U/V9L12899U.html"><img src="http://img6.cache.netease.com/mobile/2014/3/3/201403031126101d2da.jpg" height="148" width="148" alt="http://v.mobile.163.com/video/2014/2/9/U/V9L12899U.html" /><span class="hoverPlay">三星智能手表试玩</span></a></li>
+                  <li><a href="http://v.mobile.163.com/video/2014/2/A/I/V9L05REAI.html"><img src="http://img3.cache.netease.com/mobile/2014/3/3/20140303112411fcde4.jpg" height="148" width="148" alt="http://v.mobile.163.com/video/2014/2/A/I/V9L05REAI.html" /><span class="hoverPlay">HTC Desire816新机</span></a></li>
+          </ul>
+  </div>
+</div>
+<!--头部-e--> 
+<span class="blank20"></span>
+<div class="area">
+  <div class="area-main">
+    <div class="titleBar clearfix">
+      <h2 class="b-title"><a href="http://v.mobile.163.com/evaluate">新机测评</a></h2>
+      <a class="more" href="http://v.mobile.163.com/evaluate">更多</a></div>
+    <div class="hidden-640 top-brLine">
+      <ul class="imgList-widget-2">
+                              <li><a href="http://v.mobile.163.com/video/2013/5/6/B/V8UCK9T6B.html"><img src="http://img5.cache.netease.com/mobile/2013/7/10/2013071016391525e5f.jpg" height="120" width="160" alt="HTC One 王自如详细评测" />
+          <p>HTC One 王自如详细评测</p>
+                              <p><span class="playCount">27728</span><span class="commentCount">17</span></p>
+           </a></li>
+                      <li><a href="http://v.mobile.163.com/video/2013/6/H/D/V916NO7HD.html"><img src="http://img1.cache.netease.com/mobile/2013/7/10/20130710163641ab58b.jpg" height="120" width="160" alt="魅族MX2手机极限测试" />
+          <p>魅族MX2手机极限测试</p>
+                              <p><span class="playCount">12324</span><span class="commentCount">1</span></p>
+           </a></li>
+                      <li><a href="http://v.mobile.163.com/video/2013/5/D/0/V8UG3QMD0.html"><img src="http://img1.cache.netease.com/mobile/2013/7/10/20130710163413e57cf.jpg" height="120" width="160" alt="首款Sailfish OS手机体验" />
+          <p>首款Sailfish OS手机体验</p>
+                              <p><span class="playCount">3310</span><span class="commentCount">0</span></p>
+           </a></li>
+                      <li><a href="http://v.mobile.163.com/video/2013/6/4/E/V90B20A4E.html"><img src="http://img1.cache.netease.com/mobile/2013/7/10/20130710163228172fc.jpg" height="120" width="160" alt="三星Galaxy S4极限测试" />
+          <p>三星Galaxy S4极限测试</p>
+                              <p><span class="playCount">6179</span><span class="commentCount">0</span></p>
+           </a></li>
+                      <li><a href="http://v.mobile.163.com/video/2013/6/6/6/V90D3H566.html"><img src="http://img6.cache.netease.com/mobile/2013/7/10/2013071016300325b6a.jpg" height="120" width="160" alt="IOS 7 测试版存在的BUG" />
+          <p>IOS 7 测试版存在的BUG</p>
+                              <p><span class="playCount">1694</span><span class="commentCount">0</span></p>
+           </a></li>
+                      <li><a href="http://v.mobile.163.com/video/2013/6/4/V/V90D3VV4V.html"><img src="http://img1.cache.netease.com/mobile/2013/7/10/2013071016271296b0f.jpg" height="120" width="160" alt="iPhone 5 汽油燃烧测试" />
+          <p>iPhone 5 汽油燃烧测试</p>
+                              <p><span class="playCount">1666</span><span class="commentCount">0</span></p>
+           </a></li>
+              </ul>
+    </div>
+  </div>
+  <div class="area-sub">
+    <div class="titleBar clearfix">
+      <h2 class="s-title">大家都在看</h2>
+    </div>
+    <div class="area-sub-main">
+      <ul class="mod-list main-list ui-rank-number">
+                                <li><span  class="ui-rank-top" >1</span><a href="">HTC One 王自如详细评测</a></li>
+                <li><span  class="ui-rank-top" >2</span><a href="">魅族MX2手机极限测试</a></li>
+                <li><span  class="ui-rank-top" >3</span><a href="">首款Sailfish OS手机体验</a></li>
+                <li><span >4</span><a href="">三星Galaxy S4极限测试</a></li>
+                <li><span >5</span><a href="">IOS 7 测试版存在的BUG</a></li>
+                <li><span >6</span><a href="">iPhone 5 汽油燃烧测试</a></li>
+              </ul>
+    </div>
+  </div>
+</div>
+<!--第一栏-e-->
+<div class="area">
+  <div class="area-main">
+    <div class="titleBar clearfix top-brLine">
+      <h2 class="b-title"><a href="http://v.mobile.163.com/newmobile">新机发布</a></h2>
+      <a class="more" href="http://v.mobile.163.com/newmobile">更多</a></div>
+    <div class="hidden-640 top-brLine">
+      <ul class="imgList-widget-2">
+                              <li><a href="http://v.mobile.163.com/video/2013/7/0/P/V91U0440P.html"><img src="http://img5.cache.netease.com/mobile/2013/7/10/20130710165546a7a3d.jpg" height="120" width="160" alt="佟掌柜砖机第三期" />
+          <p>佟掌柜砖机第三期</p>
+                              <p><span class="playCount">3864</span><span class="commentCount">8</span></p>
+           </a></li>
+                      <li><a href="http://v.mobile.163.com/video/2013/5/S/5/V8V6E21S5.html"><img src="http://img3.cache.netease.com/mobile/2013/7/10/201307101652475b48f.jpg" height="120" width="160" alt="Google Nexus4白色版开箱" />
+          <p>Google Nexus4白色版开箱</p>
+                              <p><span class="playCount">4730</span><span class="commentCount">1</span></p>
+           </a></li>
+                      <li><a href="http://v.mobile.163.com/video/2013/7/D/E/V92APH9DE.html"><img src="http://img3.cache.netease.com/mobile/2013/7/10/20130710164944eec9b.jpg" height="120" width="160" alt="诺基亚双卡新机208发布" />
+          <p>诺基亚双卡新机208发布</p>
+                              <p><span class="playCount">2768</span><span class="commentCount">0</span></p>
+           </a></li>
+                      <li><a href="http://v.mobile.163.com/video/2013/6/Q/H/V8VM2E2QH.html"><img src="http://img5.cache.netease.com/mobile/2013/7/10/2013071016461912456.jpg" height="120" width="160" alt="索尼XperiaM双核新机发布" />
+          <p>索尼XperiaM双核新机发布</p>
+                              <p><span class="playCount">2242</span><span class="commentCount">0</span></p>
+           </a></li>
+                      <li><a href="http://v.mobile.163.com/video/2013/6/0/3/V90VEG803.html"><img src="http://img2.cache.netease.com/mobile/2013/7/10/20130710164415dc183.jpg" height="120" width="160" alt="三星S4 Zoom真机上手体验" />
+          <p>三星S4 Zoom真机上手体验</p>
+                              <p><span class="playCount">3234</span><span class="commentCount">0</span></p>
+           </a></li>
+                      <li><a href="http://v.mobile.163.com/video/2013/5/8/1/V8U5EGE81.html"><img src="http://img3.cache.netease.com/mobile/2013/7/10/20130710164216b64bb.jpg" height="120" width="160" alt="NEC推出全球首款水冷手机" />
+          <p>NEC推出全球首款水冷手机</p>
+                              <p><span class="playCount">21971</span><span class="commentCount">3</span></p>
+           </a></li>
+              </ul>
+    </div>
+  </div>
+  <div class="area-sub">
+    <div class="titleBar clearfix">
+      <h2 class="s-title">最新发布</h2>
+    </div>
+    <div class="area-sub-main">
+                        <h3 class="title-h3s fB"><a href="http://v.mobile.163.com/video/2017/6/L/J/VCN464PLJ.html">2007年1月9日乔布斯发布第一代iPhone视频</a></h3>
+      <div class="mod-imgText imgText-widget-3 clearfix"><a href="http://v.mobile.163.com/video/2017/6/L/J/VCN464PLJ.html"><img width="90" height="90" alt="" title="" src="http://vimg3.ws.126.net/image/snapshot/2017/6/L/L/VCN464PLL_120~90.jpg"></a>
+        <p>2007年1月9日乔布斯发布第一代iPhone视频...</p>
+        <p class="info"><span class="playCount">0</span><span class="commentCount">0</span></p>
+      </div>
+       <span class="blank9"></span>
+      <ul class="mod-list main-list">
+                                <li><a href="http://v.mobile.163.com/video/2017/6/9/L/VCLLIT79L.html">OPPO R11发布暨浙江卫视年中盛典备播视频</a></li>
+                <li><a href="http://v.mobile.163.com/video/2017/5/H/I/VCK9PP1HI.html">HUAWEI nova 2 高颜值 爱自拍</a></li>
+                <li><a href="http://v.mobile.163.com/video/2017/5/G/I/VCK8V6RGI.html">航拍苹果待完工“宇宙飞船”新总部--Apple Park</a></li>
+                <li><a href="http://v.mobile.163.com/video/2017/5/1/F/VCJKC7C1F.html">660°高温铝水浇在50部iPhone5c上 太残忍</a></li>
+                <li><a href="http://v.mobile.163.com/video/2017/5/3/4/VCJIJ4R34.html">HTC新旗舰U11边缘触控演示</a></li>
+                <li><a href="http://v.mobile.163.com/video/2017/5/3/N/VCJIHPG3N.html">HTC新旗舰机U11边框触控体验展示</a></li>
+                <li><a href="http://v.mobile.163.com/video/2017/5/6/V/VCIDOUA6V.html">国外DIY大神三星S8最牛改造</a></li>
+                <li><a href="http://v.mobile.163.com/video/2017/4/L/E/VCH2P97LE.html">国外网友虐待三星S8电池希望爆炸</a></li>
+                <li><a href="http://v.mobile.163.com/video/2017/4/U/T/VCGTMIVUT.html">三星GalaxyS8上手直播</a></li>
+              </ul>
+    </div>
+  </div>
+</div>
+<!--第二栏-e-->
+<div class="area">
+  <div class="area-main">
+    <div class="titleBar clearfix top-brLine">
+      <h2 class="b-title"><a href="http://v.mobile.163.com/newtech">前沿科技</a></h2>
+      <a class="more" href="http://v.mobile.163.com/newtech">更多</a></div>
+    <div class="hidden-640 top-brLine">
+      <ul class="imgList-widget-2">
+                              <li><a href="http://v.mobile.163.com/video/2013/5/0/8/V8UILC108.html"><img src="http://img4.cache.netease.com/mobile/2013/7/10/201307101711441c4a2.jpg" height="120" width="160" alt="未来将实现的10大新科技" />
+          <p>未来将实现的10大新科技</p>
+                              <p><span class="playCount">1966</span><span class="commentCount">0</span></p>
+           </a></li>
+                      <li><a href="http://v.mobile.163.com/video/2013/6/C/Q/V90KND9CQ.html"><img src="http://img1.cache.netease.com/mobile/2013/7/10/20130710170849f1b2a.jpg" height="120" width="160" alt="Google热气球 网络计划" />
+          <p>Google热气球 网络计划</p>
+                              <p><span class="playCount">1104</span><span class="commentCount">1</span></p>
+           </a></li>
+                      <li><a href="http://v.mobile.163.com/video/2013/6/P/3/V916M2TP3.html"><img src="http://img4.cache.netease.com/mobile/2013/7/10/20130710170614ae2ff.jpg" height="120" width="160" alt="iwatch智能手表概念视频" />
+          <p>iwatch智能手表概念视频</p>
+                              <p><span class="playCount">1194</span><span class="commentCount">0</span></p>
+           </a></li>
+                      <li><a href="http://v.mobile.163.com/video/2013/6/S/I/V8VGMVOSI.html"><img src="http://img4.cache.netease.com/mobile/2013/7/10/201307101704426f4b2.jpg" height="120" width="160" alt="August用手机控制门锁" />
+          <p>August用手机控制门锁</p>
+                              <p><span class="playCount">1271</span><span class="commentCount">0</span></p>
+           </a></li>
+                      <li><a href="http://v.mobile.163.com/video/2013/6/E/S/V90D28MES.html"><img src="http://img2.cache.netease.com/mobile/2013/7/10/2013071017025541068.jpg" height="120" width="160" alt="3D打印机 制造Google眼镜" />
+          <p>3D打印机 制造Google眼镜</p>
+                              <p><span class="playCount">1438</span><span class="commentCount">0</span></p>
+           </a></li>
+                      <li><a href="http://v.mobile.163.com/video/2013/6/L/H/V90QCF7LH.html"><img src="http://img1.cache.netease.com/mobile/2013/7/10/20130710165847313d0.jpg" height="120" width="160" alt="手机进化史 手机历史回顾" />
+          <p>手机进化史 手机历史回顾</p>
+                              <p><span class="playCount">1471</span><span class="commentCount">10</span></p>
+           </a></li>
+              </ul>
+    </div>
+  </div>
+  <div class="area-sub">
+    <div class="titleBar clearfix">
+      <h2 class="s-title">视频达人</h2>
+    </div>
+    <div class="area-sub-main">
+      <ul class="imgList-widget-4 clearfix">
+                              <li><a href="http://mobile.163.com/special/wangziru/"><img src="http://img5.cache.netease.com/mobile/2013/8/8/201308081655390a257.jpg" height="90" width="90" alt="王自如" /></a>
+          <p><a href="http://mobile.163.com/special/wangziru/">王自如</a></p>
+        </li>
+                      <li><a href="http://mobile.163.com/special/okeiv/"><img src="http://img2.cache.netease.com/mobile/2013/8/8/201308081710309903b.jpg" height="90" width="90" alt="Okei" /></a>
+          <p><a href="http://mobile.163.com/special/okeiv/">Okei</a></p>
+        </li>
+                      <li><a href="http://mobile.163.com/special/htgz/"><img src="http://img2.cache.netease.com/mobile/2013/8/8/20130808174814bdb53.jpg" height="90" width="90" alt="汉堂" /></a>
+          <p><a href="http://mobile.163.com/special/htgz/">汉堂</a></p>
+        </li>
+              </ul>
+      <span class="blank20"></span><span class="blank6"></span>
+      <div class="ggarea-300"><a href="http://mobile.163.com/"><img src="http://static.ws.126.net/mobile/2013/8/8/weixin.png" height="226" width="300" /></a></div>
+    </div>
+  </div>
+</div>
+<!--第三栏-e-->
+<div class="area">
+  <div class="area-main">
+    <div class="titleBar clearfix top-brLine">
+      <h2 class="b-title"><a href="http://v.mobile.163.com/dev">手机开发者专区</a></h2>
+      <a class="more" href="http://v.mobile.163.com/dev">更多</a></div>
+    <div class="hidden-640 top-brLine">
+      <ul class="imgList-widget-2">
+                              <li><a href="http://mobile.163.com/special/googlevsapplenewyork/"><img src="http://img6.cache.netease.com/mobile/2013/8/8/201308081531058fb53.jpg" height="120" width="160" alt="Google vs Apple" />
+          <p>Google vs Apple</p>
+          <p><span class="playCount">516</span><span class="commentCount">0</span></p>
+          </a></li>
+                      <li><a href="http://mobile.163.com/special/jobs1995/"><img src="http://img4.cache.netease.com/mobile/2013/8/8/20130808152852098ae.jpg" height="120" width="160" alt="乔布斯：遗失的访谈" />
+          <p>乔布斯：遗失的访谈</p>
+          <p><span class="playCount">814</span><span class="commentCount">0</span></p>
+          </a></li>
+                      <li><a href="http://mobile.163.com/special/stanfordios5v/"><img src="http://img4.cache.netease.com/mobile/2013/8/8/20130808152611efe9f.jpg" height="120" width="160" alt="iPhone应用程序开发(iOS5)" />
+          <p>iPhone应用程序开发(iOS5)</p>
+          <p><span class="playCount">315</span><span class="commentCount">0</span></p>
+          </a></li>
+                      <li><a href="http://mobile.163.com/special/androiddevmississippi/"><img src="http://img5.cache.netease.com/mobile/2013/8/8/20130808155502687ad.jpg" height="120" width="160" alt="Android应用程序开发" />
+          <p>Android应用程序开发</p>
+          <p><span class="playCount">798</span><span class="commentCount">0</span></p>
+          </a></li>
+                      <li><a href="http://mobile.163.com/special/stanfordv/"><img src="http://img1.cache.netease.com/mobile/2013/8/8/20130808152209ae5e5.jpg" height="120" width="160" alt="网页技术开发手机应用" />
+          <p>网页技术开发手机应用</p>
+          <p><span class="playCount">519</span><span class="commentCount">0</span></p>
+          </a></li>
+                      <li><a href="http://v.mobile.163.com/video/2013/8/U/P/V94OI4PUP.html"><img src="http://img4.cache.netease.com/mobile/2013/8/8/20130808152412c3925.jpg" height="120" width="160" alt="Android开发环境搭建" />
+          <p>Android开发环境搭建</p>
+          <p><span class="playCount">918</span><span class="commentCount">0</span></p>
+          </a></li>
+              </ul>
+    </div>
+  </div>
+  <div class="area-sub">
+    <div class="titleBar clearfix">
+      <h2 class="s-title">合作机构</h2>
+    </div>
+    <div class="area-sub-main">
+      <ul class="imgList-widget-5 clearfix">
+                              <li><a href="http://open.163.com/"><img src="http://img3.cache.netease.com/mobile/2013/8/2/201308021741599fa6a.jpg" height="90" width="130" alt="网易公开课" title="网易公开课" /></a>
+          <p><a href="http://open.163.com/">网易公开课</a></p>
+        </li>
+                      <li><a href="http://mobile.163.com/special/zealer/"><img src="http://img3.cache.netease.com/mobile/2013/8/2/20130802180036f1cd1.jpg" height="90" width="130" alt="Zealer中国" title="Zealer中国" /></a>
+          <p><a href="http://mobile.163.com/special/zealer/">Zealer中国</a></p>
+        </li>
+                      <li><a href="http://mobile.163.com/special/51cto/"><img src="http://img1.cache.netease.com/mobile/2013/7/30/20130730165638f0085.jpg" height="90" width="130" alt="51CTO" title="51CTO" /></a>
+          <p><a href="http://mobile.163.com/special/51cto/">51CTO</a></p>
+        </li>
+                      <li><a href="http://mobile.163.com/special/neonan/"><img src="http://img2.cache.netease.com/mobile/2013/8/2/2013080217425497638.jpg" height="90" width="130" alt="牛男网" title="牛男网" /></a>
+          <p><a href="http://mobile.163.com/special/neonan/">牛男网</a></p>
+        </li>
+              </ul>
+    </div>
+    <div class="area-sub-main tborder connection">
+      <h2 class="s-title">合作联系</h2>
+      <span class="blank15"></span>
+      <p>合作电话： 010-82558163</p>
+      <p>频道热线： 010-82558163</p>
+    </div>
+  </div>
+</div>
+<!--第四栏-e-->
+</div>
+<!--footer开始--> 
+<div class="footerbg clear">
+    <div class="footer ">
+        <div class="footer-channel">
+            <a href="http://mobile.163.com/"><img width="129" height="86" border="0" title="网易" alt="网易" src="http://static.ws.126.net/mobile/img10/videoMobile/mobile-attitude-logo.png"></a>
+        </div>
+        <div class="footer-content">
+            <!--新闻频道底部导航列表-->
+            <div class="news-sub footer-module-content">
+              <ul>
+                <li>
+                  <h3>手机</h3>
+                  <p><a href="http://mobile.163.com/newmobile/">新机资讯</a><a href="http://mobile.163.com/review/
+">原创评测</a><a href="http://mobile.163.com/mobileshow/">有机可图</a><a href="http://mobile.163.com/special/">专题报道</a></p>
+                </li>
+                <li>
+                  <h3>移动互联网</h3>
+                  <p><a href="http://mobile.163.com/special/view/">移动我来评</a><a href="http://mobile.163.com/special/salon/">五城汇沙龙</a><a href="http://mobile.163.com/special/app/">酷软新视野</a><a href="http://mobile.163.com/special/appstory/">APP成长记</a><a href="http://mobile.163.com/special/chuangye/">创业投资</a></p>
+                </li>
+                <li>
+                  <h3>手机库</h3>
+                  <p><a href="http://product.mobile.163.com/">选机中心</a><a href="http://product.mobile.163.com/rank/1.html">热门手机</a><a href="http://product.mobile.163.com/rank/2.html">最新手机</a><a href="http://product.mobile.163.com/rank/brand.html">热门手机品牌</a></p>
+                </li>
+                <li>
+                  <h3>手机论坛</h3>
+                  <p><a href="http://club.tech.163.com/list/mobile_activ.html">活动专区</a><a href="http://club.tech.163.com/list/mobile_skill.html">玩机技巧</a><a href="http://club.tech.163.com/list/mobile_blas.html">手机拍照</a><a href="http://club.tech.163.com/list/mobile_dairy.html">美机体验记</a></p>
+                </li>
+              </ul>
+            </div>
+            <!--新闻频道底部导航列表-->
+            <div class="other-info ">
+                <span class="blank20"></span><span class="blank12"></span>
+                <div class="passport-entry">
+                    <div class="lofter left"><a href="http://www.lofter.com/?act=qb163rk_20141031_03"></a></div>
+                    <div class="mail left"><a href="http://email.163.com/"></a></div>
+                    <div class="rss left"><a rel="nofollow"  href="http://www.163.com/rss"></a></div>
+<a href="http://study.163.com/?utm_source=163.com&utm_medium=web_bottomlogo&utm_campaign=business" class="ic_cloudapp_ft"></a>
+<div class="ic_newsapp_ft">
+    <a href="http://www.163.com/newsapp/#f=down"></a>
+</div>
+<style type="text/css">
+.footerbg .passport-entry .lofter a,.passport-entry .lofter a:hover{
+display: block; height: 33px; width: 33px; background-image: url(http://static.ws.126.net/f2e/travel/international_travel_mart/images/lofter_v20160217.png); background-repeat:no-repeat;  -webkit-transition: background 0.3s cubic-bezier(.17, .67, .88, 1.25), color 0.2s linear; -moz-transition: background 0.3s cubic-bezier(.17, .67, .88, 1.25), color 0.2s linear; -o-transition: background 0.3s cubic-bezier(.17, .67, .88, 1.25), color 0.2s linear; transition: background 0.3s cubic-bezier(.17, .67, .88, 1.25), color 0.2s linear;
+}
+.footerbg .passport-entry .lofter a{ background-position:0 0; }
+.footerbg .passport-entry .lofter a:hover{ background-position:0px -35px; }
+    .ic_newsapp_ft{float:left;_display:inline;width: 26px;height: 30px;border-left: 1px solid #cbcbcb;padding-left: 16px;margin-left: 10px;}
+    .ic_newsapp_ft a{display: block;width: 26px;height: 30px;background:url(http://static.ws.126.net/f2e/news/index2015/img/newsapp.png) no-repeat;_background:url(http://static.ws.126.net/f2e/news/index2015/img/newsapp_8.png) no-repeat;background-position: 0 0;-webkit-transition:background 0.3s cubic-bezier(.17, .67, .88, 1.25);-moz-transition:background 0.3s cubic-bezier(.17, .67, .88, 1.25);-o-transition:background 0.3s cubic-bezier(.17, .67, .88, 1.25);transition:background 0.3s cubic-bezier(.17, .67, .88, 1.25);}
+    .ic_newsapp_ft a:hover{background-position: 0 -31px;}
+    .ic_cloudapp_ft{float:left;width: 33px;height: 33px;margin-right: 10px;background:url(http://static.ws.126.net/f2e/news/res/img/cloudapp.png) no-repeat;_background:url(http://static.ws.126.net/f2e/news/res/img/cloudapp_8.png) no-repeat;background-position: 0 0;-webkit-transition:background 0.3s cubic-bezier(.17, .67, .88, 1.25);-moz-transition:background 0.3s cubic-bezier(.17, .67, .88, 1.25);-o-transition:background 0.3s cubic-bezier(.17, .67, .88, 1.25);transition:background 0.3s cubic-bezier(.17, .67, .88, 1.25);}
+    .ic_cloudapp_ft:hover{background-position: 0 -34px;}
+</style>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</div> 
+<!--通用底部导航：--> 
+<div class="N-nav-bottom">
+	<div class="N-nav-bottom-main">
+		<div class="ntes_foot_link">
+			<span class="N-nav-bottom-copyright"><span class="N-nav-bottom-copyright-icon">&copy;</span> 1997-2019 网易公司版权所有</span> 
+			<a href="http://corp.163.com/">About NetEase</a> | 
+			<a href="http://gb.corp.163.com/gb/about/overview.html">公司简介</a> | 
+			<a href="http://gb.corp.163.com/gb/contactus.html">联系方法</a> | 
+			<a href="http://corp.163.com/gb/job/job.html">招聘信息</a> | 
+			<a href="http://help.163.com/">客户服务</a> | 
+			<a href="http://gb.corp.163.com/gb/legal.html">隐私政策</a> | 
+			<a href="http://emarketing.163.com/">广告服务</a> | 
+			<a href="http://sitemap.163.com/">网站地图</a> | 
+			<a href="http://jubao.aq.163.com/">不良信息举报</a>
+		</div>
+	</div>
+	<style>
+	.N-nav-bottom-sub{width: 960px; margin:0 auto; position: relative; height: 0px; z-index: 1000; }
+	.ne_foot_feedback_box{width: 360px; height: 270px; position: absolute; z-index: 9999; bottom: 34px; right: 0; display: none; }
+	.ne_foot_feedback_box .feedback_close{width: 11px; height: 11px; background: url(http://img1.cache.netease.com/f2e/www/feedback/images/box_close.png) no-repeat; position: absolute; right: 8px; top: 7px; font-size: 0; overflow: hidden; text-indent: -9990em; }
+	.ne_foot_feedback_box .feedback_cor{width: 19px; height: 13px; background: url(http://img1.cache.netease.com/f2e/www/feedback/images/box_cor.png) no-repeat; position: absolute; left: 236px; top: 250px; }
+	.ne_foot_feedback_box .feedback_box{border:1px solid #cdcdcd; background: #fff; width: 358px; height: 250px; overflow: hidden; }
+	.ne_foot_feedback_box .feedback_box iframe{display: block; border: 0; width: 100%; height: 250px; overflow: hidden; }
+	</style>
+	<div class="N-nav-bottom-sub" id="N-nav-bottom-sub"></div>
+	<script>
+	(function(){
+		if(!window.NTES) return;
+		function showFeedbackBox(x,y){
+			var footmainNd = NTES('.N-nav-bottom-main')[0];
+			var feedbacklinkNd = NTES('.ne_foot_feedback_link')[0];
+			if(!footmainNd){
+				window.open(feedbacklinkNd.href);
+				return;
+			};
+			var x = x;
+			var y = y;
+			if(x){
+				NTES(".ne_foot_feedback_box")[0].style.top = x +"px";
+			}else{
+				x = feedbacklinkNd.offsetLeft - footmainNd.offsetLeft + (feedbacklinkNd.offsetWidth/2) - 246;
+				if(NTES.browser.msie && (parseInt(NTES.browser.version) == 7 ||parseInt(NTES.browser.version) == 6)){
+					x = feedbacklinkNd.offsetLeft + (feedbacklinkNd.offsetWidth/2) - 246;
+				}
+				NTES(".ne_foot_feedback_box")[0].style.left = x +"px";
+			}
+			if(y){
+				NTES(".ne_foot_feedback_box")[0].style.top = y +"px";
+			}
+			NTES(".ne_foot_feedback_box")[0].style.display = "block";
+		}
+		function bindFeedbackBoxClose(){
+			NTES(".ne_foot_feedback_box .feedback_close").addEvent("click",function(){
+				NTES(".ne_foot_feedback_box")[0].style.display = "none";
+				return false;
+			});
+		}
+		NTES(".ne_foot_feedback_link").addEvent("click",function(){
+			if(NTES("#ne_foot_feedback_box")){
+				showFeedbackBox();
+			}else{
+				var boxNd = document.createElement("div");
+				boxNd.className = "ne_foot_feedback_box";
+				boxNd.id = "ne_foot_feedback_box";
+				boxNd.innerHTML = '<a href="javascript:;" target="_self" class="feedback_close">关闭</a> <span class="feedback_cor"></span> <div class="feedback_box"> <iframe src="//www.163.com/special/0077450P/feedback_window.html" frameborder="0" witdh="100%" height="290" scrolling="no"></iframe> </div>';
+				document.getElementById('N-nav-bottom-sub').appendChild(boxNd);
+				window.setTimeout(function(){
+					showFeedbackBox();
+					bindFeedbackBoxClose();
+				},500);
+			}
+			return false;
+		});
+	})();
+	</script>
+</div> 
+<!--footer-e--> 
+<script type="text/javascript" language="JavaScript" src="http://static.ws.126.net/cnews/js/ntes_jslib_1.x.js" charset="gb2312"></script> 
+<script type="text/javascript" language="JavaScript" src="http://static.ws.126.net/cnews/js/ntes_jslib_ui_0.x.js" charset="gb2312"></script> 
+<script type="text/javascript" language="JavaScript" src=" http://img1.cache.netease.com/cnews/js/ntes_ui/ntes_ui_slide_0.3.0_min.js" charset="gb2312"></script> 
+<script type="text/javascript">
+//切换
+new NTES.ui.Carousel( $("#fn_focus .focus_ctrls li") ,$("#focus_show .focus_panel") , "current" , { prev: $("#fn_focus_prev_next .prev") , next :$("#fn_focus_prev_next .next"),event: "click" , interval : 5000,duration: 2000,auto: true });
+</script> 
+<script>!function(t){function n(){}function i(){var t=Math.round((+new Date-E)/1e3);return 0>t?0:t}function e(t){var n=t.className,i=l(t),e={script:1,style:1,link:1,img:1,hr:1,br:1},a=!0;return e[i]?a=!1:/blank\d/.test(n)&&(a=!1),a}function a(n){g||(h&&window._ntes_sendInfo?(t.each(b,function(t,n){u(n)}),g=!0):b.push(n)),g&&u(n)}function r(t){return 10>t?t.toString():t>62?"z":String.fromCharCode(t+(36>t?55:61))}function o(t,n){if(!n)return t;var i=t.length-1,e=t.charCodeAt(i);return 58>e?e-=48:91>e?e-=55:123>e&&(e-=61),t.substr(0,i)+r(e+n)}function c(t,n,i){n&&n.setAttribute((i?"_":"")+"jcid",t)}function f(t){if(t){var n=this.getAttribute("href")||"";m++;var e="/ntes_p?"+_+"&_nct="+i()+"&_nah="+escape(n)+"&_nat={id}_"+t;a(e)}}function u(t){_ntes_sendInfo("jc",_ntes_src_addr+t.replace("{id}",h))}function s(t,n,i){for(var e=0,a={a:1,area:1};!a[l(t)]&&!(i=t.getAttribute("_jcid"));)if(t=t.parentNode,!t.tagName||e++>5)return;var r=t;if(!i)for(;t&&t!=n&&!(i=t.getAttribute("jcid"));)t=t.parentNode;r&&i&&f.call(r,i)}function l(t){return t.tagName.toLowerCase()}function d(n,i,e){if("iframe"!=l(n))i(n,e);else{var a,r=v(n),o=function(){if("function"==typeof a&&a.call(this),r=v(n)){var o=r.body;t(o).addEvent("click",function(t){var n=t.target;s(n,o)}),i(o,e)}};r&&/^http/.test(r.location.href)?o():n.attachEvent?n.attachEvent("onload",o):(a=n.onload,n.onload=o)}}function v(t){var n;try{n=t.contentDocument}catch(i){}if(!n&&t.contentWindow){try{var e=t.contentWindow.document;"object"==typeof e&&(n=e)}catch(i){}if(!n)return null}var a=1;try{n.location&&(a=0)}catch(i){}return a?null:n}var h,p,_="_nacc=siteclick&_npurl="+escape(document.URL),m=0,g=!1,b=[],w=document.body,y=t(window),j=window.performance,E=j&&j.timing?j.timing.connectStart:+new Date,A=[function(t,n,i){c(t+r(i.start||1),n,i.all)},function(n,i,e){var a=e.start||1;t("a",i).each(function(t,i){c(n+r(a++),i)})},function(n,i,a){for(var o=1,f=a.level||1,u=[i],s=0;f>s;s++){var d=[];t.each(u,function(n,i){var a=0;"a"==l(i)||/ntes-nav-select/.test(i.className)||t.each(i.children,function(t,n){e(n)&&(d.push(n),a++)}),a||d.push(i)}),u=d}t.each(u,function(t,i){c(n+r(o++),i)})},function(n,i){var e=t(">form",i);e[0]&&e.addEvent("submit",function(){f.call(this,n+"1")})},function(n,i,e){var a=t(e.h,i),o=t(e.b,i);if(a&&o){var f=e.step||10,u=2;c(n+"1",i),a.each(function(t,i){c(n+r(u+t*f),i)}),o.each(function(t,i){c(n+r(u+t*f+1),i)})}},function(n,i,a){var o=a.union||"",f={};if(/^[\s\d,]+$/.test(o)){var u=0;t.each(o.split(/\s*,\s*/),function(t,n){if(n=parseInt(n))for(var i=0;n>i;i++)f[u++]=t})}var s=2;c(n+"1",i);var l=parseInt(a.step)||10,d=t(a.h,i);if(d&&v){t.each(d,function(t,i){c(n+r(t*l+s),i)});var v=t(a.b,i);t.each(v,function(i,a){var o=i*l+s+1,u=a.children;if(0==u.length)u=[a];else for(;1==u.length;)u=u[0].children;var d=0;t.each(u,function(t,i){e(i)&&("undefined"!=typeof f[t]&&(d=f[t]),c(n+r(o+d),i),d++)})})}}];n.prototype={init:function(n,e){n&&5==n.length&&(h=n),p||(p=Math.random()<(e||.1),p&&(t("body").addEvent("click",function(t){s(t.target,w)}),t.ready(function(){function t(){n&&(a("/ntes_u?"+n+"&_nct="+i()+"&_mcn="+m+e),n=0)}var n=_+"&_nch={id}",e="",r="&_msl="+i();y.addEvent("load",function(){e="&_msl="+i()}),a("/ntes_u?"+n+r),y.addEvent("beforeunload",t);var o=navigator.userAgent.toLowerCase();!/compatible/.test(o)&&/firefox/.test(o)&&y.addEvent("unload",t)}),this.retain&&this.area(w,this.retain)))},area:function(n,i){var e=this,a=function(t,n){e.area(t,n)};for(var r in i){var o=i[r],c=0;/(.*?)\*$/.test(r)&&(r=RegExp.$1,c=1);var f=r?/^#/.test(r)?t(r):t(r,n):[n];t.util.isArray(f)||(f=[f]);for(var u=0;u<f.length;u++){var s=c?o[0]:o[u];if(s&&f[u])if(s.i)for(var l=s.s||1,v=0;l>v;v++)s.j=v,this.zone(f[u+v],s);else d(f[u],a,s)}}},zone:function(n,i){var e=o(i.i,i.j),a=A[i.f||0],r=i.p||{};n&&a&&(r.dyn?t(n).addEvent("mouseover",function(){for(var t,i=n.children[0];i&&(t=i.children[0]);)i=t;i&&!i.getAttribute("jdyn")&&(a(e,n,r),i.setAttribute("jdyn",1))}):d(n,function(t){a(e,t,r)}))},batch:function(t){p?this.area(w,t):this.retain=t}},window._aCM=new n}(NTES),function(){_aCM.init("sja09"),setTimeout(function(){_aCM.batch({"#js_N_nav":[{"":[{"":[{i:"111",f:2,p:{level:5}}]}]}],"#wrapperbgId":[{">.N-nav-channel":[{"":[{i:"211",f:1}]}],h1:[{"":[{i:"221",f:1}]}],".attlogo":[{"":[{i:"231",f:1}]}],".nav-blue":[{"":[{i:"241",f:1}]}]}],">.main-content":[{">.area":[{"#fn_focus_prev_next":[{i:"311",f:1}],".focus_panel":[{i:"312",f:1,s:6}],li:[0,0,0,0,0,0,{i:"318"},{i:"319"},{i:"31A"},{i:"31B"},{i:"31C"},{i:"31D"}]},{".titleBar":[{i:"321",f:1}],li:[{i:"322",s:20}]},{".titleBar":[{i:"331",f:1}],".hidden-640":[{i:"332",f:1}],".title-h3s":[{i:"333",f:1}],".mod-imgText":[{i:"334",f:1}],".mod-list":[{i:"335",f:2}]},{".titleBar":[{i:"341",f:1}],".ggarea-300":[{i:"342",f:1}],li:[{i:"343",s:9}]},{".titleBar":[{i:"351",f:1}],".tborder":[{i:"352"}],li:[{i:"353",s:10}]}]}],".footer":[{">.footer-channel":[{"":[{i:"411",f:1}]}],li:[{">p":[{i:"421"}]},{">p":[{i:"431"}]},{">p":[{i:"441"}]},{">p":[{i:"451"}]}],".weibo":[{"":[{i:"461",f:1}]}],".mail":[{"":[{i:"471",f:1}]}],".rss":[{"":[{i:"481",f:1}]}]}],".N-nav-bottom-main":[{"":[{"":[{i:"511",f:1}]}]}]})},50)}();</script>
+<!-- START WRating v1.0 -->
+<!-- END WRating v1.0 -->
+<script src="http://analytics.163.com/ntes.js" type="text/javascript"></script>
+    <script language="javascript" type="text/javascript">
+    _ntes_nacc = "mobile"; //站点ID。
+    neteaseTracker();
+</script>
+<!-- big data statistics -->
+
+<!-- big data analysis 0628 -->
+<script src="https://static.ws.126.net/f2e/products/analysis/js/analysis0628.350ctAoOoFtN.1.js"></script>
+</body>
+</html>

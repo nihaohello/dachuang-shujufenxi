@@ -1,0 +1,2355 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE HTML PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.2//EN" "http://www.openmobilealliance.org/tech/DTD/xhtml-mobile12.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-CN" dir="ltr">
+
+<head>
+ <!-- data-info:v:20190510_15856779;a:da6b580c-e291-4914-8c94-a9e89d16161a;cn:5;az:{did:e676481d24d242d2bf61dbf23bf32fe6, rid: 5, sn: easia-prod-hp, dt: 2019-04-28T02:34:59.6267237Z, bt: 2019-05-10T23:14:20.2330019Z};ddpi:1;dpio:;dpi:1;dg:downlevel.pc;th:start;PageName:startPage;m:zh-cn;cb:;l:zh-cn;mu:zh-cn;ud:{cid:,vk:homepage,n:,l:zh-cn,ck:};xd:AAF5Fe;ovc:f;al:;fxd:f;xdpub:2019-05-03 02:01:03Z;xdmap:2019-05-20 13:12:54Z;axd:;f:msnallexpusers,muidflt14cf,muidflt19cf,muidflt29cf,muidflt51cf,muidflt52cf,muidflt314cf,platagyedge2cf,pnehp1cf,audexhp1cf,artgly4cf,gallery5cf;userOptOut:false;userOptOutOptions: -->
+ 
+ <link rel="canonical" href="http://www.msn.cn/zh-cn/" />
+ 
+
+ <title>MSN 中国</title>
+ <meta name="description" content="MSN中国提供最新的国内、国际、娱乐，科技，体育，财经，健康，健身，生活，美食， 旅游等资讯。"/>
+ 
+<meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1" />
+ <link rel="stylesheet" href="//static-global-s-msn-com.akamaized.net/hp-eas/zh-cn/homepage/_sc/css/b443689a-9ba8c85c/direction=ltr.locales=zh-cn.themes=start.dpi=resolution1x/42-b8ee35-4e3b0a9b/90-67c322-ee5f2b10/2a-1f1669-a46408a9/9b-ba6b1f-f94d3276/ab-52fe22-a648eab2/86-b413d7-63b61fa3/d1-7801d5-68ddb2ab/7a-660b57-4534563a/75-a00681-654638bf/35-e52796-da4f6698?ver=20190510_15856779&amp;fdhead=msnallexpusers,muidflt14cf,muidflt19cf,muidflt29cf,muidflt51cf,muidflt52cf,muidflt314cf,platagyedge2cf,pnehp1cf,audexhp1cf,artgly4cf,gallery5cf&amp;csopd=20190501174254&amp;csopdb=20190502232315" type="text/css" media="all" />
+ <script type="text/javascript">//<![CDATA[
+(function(n,t){function h(n,i,r){typeof n!="string"&&(r=i,i=n,n=t);i&&i.splice||(r=i,i=[]);n==it?a=!0:n==rt&&(v=!0);l(n,i,r,!1,!1)}function l(n,t,i,r,f,e){var s,y;if(!n||!c[n]){var h=ot(n,t),o=h.dependencyNotFound,l=h.resolved;if(o){typeof u[o]=="undefined"&&(u[o]=[]);u[o].push(e||{i:n,d:t,f:i,r:r,s:f});return}s=typeof i=="function";y=v&&a&&s&&!f;y?et(n,i,l,r):ft(s,n,i,l,r)}}function ft(n,t,i,r,u){var f;f=n?i.apply(null,r):i;d(t,f,u)}function et(n,t,i,r){setTimeout(function(){var u=t.apply(null,i);d(n,u,r)},1)}function d(t,i,r){r&&(i={});t&&(i?(c[t]=i,f.push(t),g()):n.console&&console.error("Dependencies resolved, but object still not defined (or is otherwise falsey). id:"+t+"; typeof obj: "+typeof i))}function g(){var t,s,h,i,o,c,r,n;if(e)e&&(e=2);else{t=[];do{for(e=1,h=f.length,i=0;i<h;i++)o=f[i],c=u[o]||[],t=t.concat(c),delete u[o];for(f=[],s=t.length,r=0;r<s;r++)n=t[r],l(n.i,n.d,n.f,n.r,n.s,n);t=[]}while(e>1);e=0}}function ot(n,t){for(var e,i=[],r,o=t?t.length:0,u=0;u<o;u++){var f=t[u],s=c[f],h=typeof s!="undefined";if(!h){if(e=st(n,f),e){i.push(e);continue}r||(r=f);break}i.push(s)}return o===i.length?{resolved:i}:{dependencyNotFound:r}}function st(i,r){var f=k.exec(r),e,u;if(f){if(e=f[1],u=n[e],u!==t)return u;s||(s=setTimeout(nt,w))}}function nt(){var i,r,e,o,h;s=0;i=!1;for(r in u)e=k.exec(r),e&&(o=e[1],h=n[o],h!==t?f.push(r):i=!0);i&&!s&&(s=setTimeout(nt,w));f.length&&g()}function ht(n,t,i){if((typeof n!="object"||n&&n.splice)&&(i=t,t=n,n={}),t&&t.splice||(i=t,t=[]),ct(n.js),i){var r,u=n.synchronous||!1;l(r,t,i,!0,u)}}function ct(n){if(typeof n=="string")tt(n);else if(n)for(var t=0;t<n.length;t++)tt(n[t])}function tt(n){if(!b[n]){b[n]=1;var i=o.getElementsByTagName("script")[0],t=o.createElement("script");t.src=n;t.onload=t.onreadystatechange=function(){this.readyState&&this.readyState!="loaded"&&this.readyState!="complete"||(t.onload=t.onreadystatechange=null,t.parentNode&&t.parentNode.removeChild(t))};i.parentNode.insertBefore(t,i)}}function lt(n){return ut?n?i.now():Math.round(i.now()):new Date-y}var it=n._jsLoaderAsyncCanary||"c.dom",rt="c.pageReveal",a=!1,v=typeof n._jsLoaderRevealMode=="undefined"?!0:n._jsLoaderRevealMode,i=n.performance,ut=i&&typeof i.now=="function",r=" ----- ",y=((i||{}).timing||{}).navigationStart||+new Date,o=n.document,p=null;try{p=n.localStorage}catch(at){}var c={date:Date,document:o,image:n.Image,localStorage:p,location:o&&o.location,navigator:navigator,pageStart:y,pageTime:lt,screen:n.screen,window:n},u={},f=[],e,w=50,s,b={},k=/^window\.(.+)$/;h.amd={jQuery:1};h.is=function(n){return typeof c[n]!="undefined"};n.define=h;n.require=ht;h.showUserMarks=function(){var n=["Mark Name"+r+"Start time in ms"];return i.getEntriesByType("mark").forEach(function(t){n.push(t.name+r+t.startTime+"ms")}),n.join("\n")};h.showUserMeasures=function(){var n=["Measure name"+r+"Start time in ms"+r+"Duration in ms"];return i.getEntriesByType("measure").forEach(function(t){n.push(t.name+r+t.startTime+"ms"+r+t.duration+"ms")}),n.join("\n")}})(window);define("navigation",["escape","location","document"],function(n,t,i){function o(t,i,r){var u=t[i],e,f;if(!u||u.length===0)return"";for(e="",f=0;f<u.length;f++)u[f]&&(e=e+r+i+"="+n.urlPart(u[f]),r==="?"&&(r="&"));return e}function u(n,t,i){var s=function(n){return n=n.replace(/\+/g," "),decodeURIComponent(n)},u={},o,e;if(n)for(n=n.split("#")[0],o=n.split("&"),e=0;e<o.length;e++){var h=o[e].split("="),r=h[0],f=h[1];i&&(r=s(r),f&&(f=s(f)));t||r==="item"?(u[r]||(u[r]=[]),u[r].push(f)):u[r]=f}return u}function f(n){var t=i.createElement("a");return t.href=n,{protocol:t.protocol,host:t.host,hostName:t.hostname,port:t.port,path:t.pathname,hash:t.hash,query:t.search,origin:t.origin}}function e(n){return f(n).hostName}var r={getUrl:function(n){return r.filter?r.filter(n):n},navigate:function(n,i){r.filter&&(n=r.filter(n));i?t.replace(n):t.href=n},getHostName:e,parseUrl:f,isLocal:function(n){var i=e(n);return!i||t.hostname==i},getParams:u,getParamsFromUrl:function(n,t,i){var r=n.split("?")[1];return u(r,t,i)},mergeQueryStringParams:function(t,i){var s,f,e,h,r,c;if(i){if(s=t.split("?"),s[1]){f=u(s[1],!1,!0);for(r in i)f[r]=i[r]}else f=i;t=s[0];e="?";h="item";for(r in f)r!==h&&(t+=f[r]?e+n.urlPart(r)+"="+n.urlPart(f[r]):e+n.urlPart(r),e==="?"&&(e="&"));c=o(f,h,e);t=t+c}return t},filter:null};return r});define("logging",["window"],function(n){function r(n,t){if(n.addEventListener)n.addEventListener("error",t,!1);else if(n.onerror){var i=n.onerror;n.onerror=function(n,r,u,f,e){return i(n,r,u,f,e),t(n,r,u,f,e)}}else n.onerror=t}function t(t){n.console&&(console.error||console.log)(t)}function u(){}function f(){}function e(t){(n.console||{}).timeStamp?console.timeStamp(t):(n.performance||{}).mark&&n.performance.mark(t)}var i=0;return r(n,function(n){return i++,n&&t("[SCRIPTERROR] "+n),!0}),{error:t,fatalError:t,unhandledErrorCount:function(){return i},perfMark:e,warning:u,information:f}})//]]></script><script type="text/javascript" src="//static-global-s-msn-com.akamaized.net/hp-eas/_h/4c59fa2c/webcore/externalscripts/jquery/jquery-1.11.1.min.js"></script>
+ 
+ <style>@media screen and (max-width:78.99em) and (min-width:58.875em){.layout-none:not(.mod1) .pos2{left:0}}.ie8 .grid .pick4~li.pick{display:none}.todaystripe .todayshowcasead:hover{opacity:1}.spartan #main .paging-container.snap{overflow-x:hidden}#addRemoveSectionsModalContainer #addRemoveSectionsModal{display:block}.tmx.mobile .superbowl .matchupstripe{margin:0 auto}.stripecontainer .stripeouter.noborder{height:33.7rem}html[dir='rtl'] .ie8 .mip>ul>li.triptych h3+a{border-right:0}html[dir='ltr'] .ie8 .mip>ul>li.triptych h3+a{border-left:0}.meflyouts .integratedskype .signin>ul li:first-child{display:none}.tmx.pc.webkit.chrome .stripecontent ul{overflow-x:hidden}.meflyouts .bingrewards{display:none}.mobile .galleryinfo .img-divider{display:none}.homepage.tmx.pc.chrome #main .one-col,.homepage.tmx.pc.chrome #main .two-col,.homepage.tmx.pc.chrome #main .three-col{margin-right:-.016rem;margin-left:-.016rem}.homepage.midlevel .pagingsection>button.show,.channelplayerpage.midlevel .pagingsection>button.show{display:none}.settings.start.tmx.pc .globalsettings .social.twitter{display:none}</style>
+</head>
+
+<body class="startpage sp center-content start">
+ 
+
+
+<div class="head">
+<div>
+<div id="topnav">
+ <ul class="verticalsnav">
+ <li  class="current">
+<a href="/zh-cn">主页</a>
+</li>
+ <li >
+<a href="/zh-cn/news">资讯</a>
+</li>
+ <li >
+<a href="/zh-cn/weather">天气</a>
+</li>
+ <li >
+<a href="/zh-cn/entertainment">娱乐</a>
+</li>
+ <li >
+<a href="/zh-cn/lifestyle">生活</a>
+</li>
+ <li >
+<a href="/zh-cn/money">财经</a>
+</li>
+
+ <li class="more">
+<a href="#nav">更多 ></a>
+<ul>
+ <li >
+<a href="/zh-cn/sports">体育</a>
+</li>
+ <li >
+<a href="/zh-cn/autos">汽车</a>
+</li>
+ <li >
+<a href="/zh-cn/health">健康</a>
+</li>
+ <li >
+<a href="/zh-cn/foodanddrink">美食</a>
+</li>
+ <li >
+<a href="/zh-cn/travel">旅游</a>
+</li>
+ </ul>
+</li>
+ </ul>
+</div>
+  <div id="header-common">
+<div class="header">
+<div class="header-logo">
+  <a class="logo" href="/zh-cn" tabindex="2">
+ 
+
+<img alt="" height="20" width="20" src="//static-global-s-msn-com.akamaized.net/hp-eas/sc/82/c22c7d.gif" />
+</a>
+ <a class="vertical" href="/zh-cn" tabindex="2">msn</a>
+
+
+
+</div>
+<div id="header-links">
+ <a href="http://www.outlook.com/">Outlook.com</a>
+ <span>|</span>
+ <a href="/zh-cn/settings/markettoggle"><img alt="zh-cn" src="//static-global-s-msn-com.akamaized.net/hp-eas/sc/6a/a62410.gif" /></a>
+
+<a class="navigation" href="#nav">
+<img  alt="转到导航" width="27" height="20" src="//static-global-s-msn-com.akamaized.net/hp-eas/sc/57/a49b8d.gif" />
+                    </a>
+                </div>
+            </div>
+        </div>
+
+ 
+<div id="header-search">
+<form action="http://www.bing.com/search?scope=web" method="get" id="srchfrm">
+<div class="searchbox">
+<input type="text" id="q" name="q" value="" />
+<input type="hidden" name="form" value="PRCNDL" />
+  <input type="hidden" name="httpsmsn" value="1">
+   <input type="hidden" name="refig" value="da6b580ce29149148c94a9e89d16161a">
+<input type="submit" class="text" value="网页搜索" title="网页搜索"/>
+ </div>
+</form>
+</div>
+
+</div>
+ 
+ 
+<div class="upgradebrowser">
+ 您正在使用较旧版本的浏览器。为了获得最佳 MSN 中文网体验，请使用<a href="http://support2.microsoft.com/kb/2999871/zh-cn">受支持的版本</a>。
+</div>
+
+
+
+</div>
+<div id="maincontent">
+ 
+<div id="main"  data-region="main">
+ 
+
+ 
+ <div class="today">
+
+
+	<div class="weatodaytile"  data-module-id="startpage|todayDownlevel|section|DownlevelMiniWeather|WeatherTodayTileModule"   data-aop="todayweathersd_weathertodaythreedaystilemodule">
+<a  href="/zh-cn/weather/today/%e5%8c%97%e4%ba%ac,%e4%b8%ad%e5%9b%bd%e5%a4%a7%e9%99%86/we-city?iso=CN&amp;el=Qo7cgUA39x8740M6IfRpiQ%3D%3D" data-loc="lat=39.91&amp;long=116.39&amp;c=%E5%8C%97%E4%BA%AC&amp;cn=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86&amp;iso=CN&amp;type=1">
+<div class="weatileleft">
+<img class="skycond" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB8MNzQ.img?m=6&amp;o=true&amp;u=true&amp;n=true&amp;w=40&amp;h=40"
+
+data-src="{&quot;default&quot;:&quot;//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB8MNzQ.img?m=6&amp;o=true&amp;u=true&amp;n=true&amp;w=40&amp;h=40&quot;}"
+alt="晴" title="晴" data-icon="28" />
+	<div><span class="currentcond">20&#176;</span><span class="tempunit">C</span></div>
+</div>
+<div class="weatileright">
+<span class="weacity">北京</span>
+<span class="skytext">今日, 晴</span>
+<span class="tempavghigh">高温 31&#176;</span>
+<span class="tempavglow">低温 13&#176;</span>
+</div>
+	</a>
+
+ <div class="edit"  data-aop="change">
+<a class="edithome" href="#" aria-label="更改位置或温度单位" data-degreetype="C" 
+data-home="搜索位置/城市" title="更改">更改</a>
+</div>
+<div class="weapopup" role="dialog" aria-labelledby="weaaddlocation-label"  data-aop="editweatherflyout"  data-region="editweatherflyout">
+<div class="weaddn wpopbg"></div>
+<div class="weaddn wpopctn">
+<a class="close"  role="button" href="#" title="关闭">关闭</a>
+ 
+
+<div class="weaaddlocation">
+
+<form  action="/zh-cn/weather/search" data-action="/zh-cn/weather/ajax/places/search/" method="get"  class="nogps">
+ 
+<p class="label" id="weaaddlocation-label">设置默认位置</p>
+<div class="add-loc-as-container">
+<input name="q" class="query" accesskey="L" autocomplete="off" type="search" aria-autocomplete="list"
+value="" maxlength="250" data-auto-suggest-settings='{&quot;market&quot;:&quot;zh-cn&quot;,&quot;mode&quot;:&quot;AS&quot;,&quot;baseurl&quot;:&quot;/zh-cn/weather/today&quot;,&quot;action&quot;:&quot;sethome&quot;,&quot;method&quot;:&quot;custom&quot;,&quot;selector&quot;:&quot;.weaaddlocation&quot;,&quot;urltype&quot;:&quot;GeoLocation&quot;,&quot;formcode&quot;:&quot;&quot;,&quot;lat&quot;:30.6458,&quot;lon&quot;:104.084}'
+                   placeholder="搜索位置/城市" data-seemoretext="按 &lt;Enter&gt; 查看更多内容" data-autosuggestdelay="100"
+                   aria-label="搜索位置/城市"  />
+<button type="submit" title ="搜索" class="searchbtn" 
+  aria-label="搜索">
+<span class="x-screen-reader">搜索</span>               
+            </button>
+        </div>
+        <div class="nolocerr" aria-live="assertive" data-message="无 &#39;{0}&#39; 相关结果"></div>
+<div class="errmsg" aria-hidden="true" data-error-in-service-message="发生意外错误，请重试。"></div>
+<div class="suggestmsg"></div>
+<div class="autosuggestresults" ></div>
+ 
+</form>
+</div>
+
+ 
+
+
+
+<button  class="donebutton disabled" disabled="disabled" title="完成">完成</button>
+</div>
+</div>
+	</div>
+ </div>
+ <div class="stripe first">
+<h2>今天</h2>    <a href="https://mini.eastday.com:443/a/190518151434139.html?qid=02034&amp;li=BBOXPUT" >
+<img alt="范冰冰赵薇一辈子不忘的男人，参加葬礼时， 范冰冰几乎情绪失控" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AABxDgv.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=472&amp;y=209" title="范冰冰赵薇一辈子不忘的男人，参加葬礼时， 范冰冰几乎情绪失控 - 东方头条" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://mini.eastday.com:443/a/190518151434139.html?qid=02034&amp;li=BBOXPUT" >
+
+范冰冰赵薇一辈子不忘的男人，参加葬礼时， 范冰冰几乎情绪失控    </a>
+
+</li>
+ <li >
+     <a href="/zh-cn/money/news/%e6%9d%83%e6%b8%b8%e5%a4%a7%e7%bb%93%e5%b1%80%e5%9b%bd%e5%86%85%e6%97%a0%e6%b3%95%e4%b8%8a%e7%ba%bf-%e7%bd%91%e5%8f%8b%e8%85%be%e8%ae%af%e6%80%95%e6%88%91%e4%bb%ac%e7%bf%98%e7%8f%ad%e5%90%97%ef%bc%9f/ar-AABBMzz?li=BBOXPUT" >
+
+权游大结局国内无法上线 网友：腾讯怕我们翘班吗？    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520122331372.html?qid=02034&amp;li=BBOXPUT" >
+
+中国男篮世界杯12人名单竞争惨烈，阿不都沙拉木一优势打动李楠    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190411204946394.html?qid=02034&amp;li=BBOXPUT" >
+
+因丑闻在韩国待不下去，来到中国却爆红，还被网友称第一美女    </a>
+
+</li>
+ <li >
+     <a href="https://3w.huanqiu.com:443/a/c93cce/7MHX4AfePE4?agt=35&amp;li=BBOXPUT" >
+
+《美国队长3》中唯一的中国演员，却只两秒镜头，心酸又伟大    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/zh-cn/entertainment" >娱乐</a></h2>    <a href="https://mini.eastday.com:443/a/190519135204444.html?qid=02034&amp;li=BBVBIuQ" >
+<img alt="曾把胡歌“吻”到吐的她，机场穿波点裙现身，腰身粗壮胖到认不出" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AABzqUm.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=219&amp;y=68" title="曾把胡歌“吻”到吐的她，机场穿波点裙现身，腰身粗壮胖到认不出 - 东方头条" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://mini.eastday.com:443/a/190519135204444.html?qid=02034&amp;li=BBVBIuQ" >
+
+曾把胡歌“吻”到吐的她，机场穿波点裙现身，腰身粗壮胖到认不出    </a>
+
+</li>
+ <li >
+     <a href="/zh-cn/entertainment/entertainmentnews/%e5%8e%9f%e6%9d%a5%e8%bf%99%e6%89%8d%e6%98%af%e3%80%8a%e6%9d%83%e6%b8%b8%e3%80%8b%e7%ac%ac%e5%85%ab%e5%ad%a3%e6%9c%80%e5%a4%a7%e7%9c%8b%e7%82%b9%ef%bc%81%e5%a4%a7%e7%bb%93%e5%b1%80%e5%9c%a8%e5%9b%bd%e5%86%85%e6%92%ad%e5%87%ba%e7%ab%9f%e7%84%b6%e6%98%af%e8%bf%99%e6%a0%b7%e2%80%a6%e2%80%a6%ef%bc%81%ef%bc%9f/ar-AABxGV5?li=BBVBIuQ" >
+
+原来这才是《权游》第八季最大看点！大结局在国内播出竟然是这样……！？    </a>
+
+</li>
+ <li >
+     <a href="http://ex.chinadaily.com.cn:80/exchange/partners/82/rss/channel/language/columns/v0m20b/stories/WS5ce1fd7ca3104842260bc8a1.html?li=BBVBIuQ" >
+
+对剧情不满 权游剧迷请愿重拍第八季    </a>
+
+</li>
+ <li >
+     <a href="https://3w.huanqiu.com:443/a/c93cce/7MPm5unFznW?agt=35&amp;li=BBVBIuQ" >
+
+六小龄童开始卖东西了，价格昂贵遭网友吐槽：别把情怀当成买卖    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520074736586.html?qid=02034&amp;li=BBVBIuQ" >
+
+沈腾，我年轻帅到认不出, 黄磊， 我当年堪比校草, 沙溢: 你们聊    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/zh-cn/news" >资讯</a></h2>    <a href="https://mini.eastday.com:443/a/190517105624137.html?qid=02034&amp;li=BBR6DzK" >
+<img alt="曾是国家一级演员，却面临无戏可拍局面，如今拍小视频成为网红" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AABujja.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=321&amp;y=315" title="曾是国家一级演员，却面临无戏可拍局面，如今拍小视频成为网红 - 东方头条" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://mini.eastday.com:443/a/190517105624137.html?qid=02034&amp;li=BBR6DzK" >
+
+曾是国家一级演员，却面临无戏可拍局面，如今拍小视频成为网红    </a>
+
+</li>
+ <li >
+     <a href="https://3w.huanqiu.com:443/a/c93cce/7MOPF6PXZMk?agt=35&amp;li=BBR6DzK" >
+
+街拍抖音达人章若楠！全网最美女孩，网友：终于出来了！    </a>
+
+</li>
+ <li >
+     <a href="/zh-cn/news/international/%e7%bb%99%e7%b1%b3%e5%85%b0%e8%be%be%e5%8f%af%e5%84%bf%e4%b9%b0%e9%92%bb%e7%9f%b3%e3%80%81%e9%80%81%e5%8d%a1%e6%88%b4%e7%8f%8a%e6%b3%95%e6%8b%89%e5%88%a9%e2%80%a6%e2%80%a6%e8%bf%99%e4%bd%8d%e4%ba%9a%e6%b4%b2%e7%9b%96%e8%8c%a8%e6%af%94%e5%a6%82%e4%bb%8a%e5%8d%b4%e8%a2%ab%e9%80%9a%e7%bc%89%e4%ba%86%ef%bc%9f%ef%bc%81/ss-AABr4b5?li=BBR6DzK" >
+
+给米兰达可儿买钻石、送卡戴珊法拉利……这位亚洲盖茨比如今却被通缉了？！    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520131643198.html?qid=02034&amp;li=BBR6DzK" >
+
+曾是网红鼻祖，因身材走形无戏可拍，今逆袭成功人气却回不到从前    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520144958864.html?qid=02034&amp;li=BBR6DzK" >
+
+那些做网络主播的年轻女孩，最后都嫁给了谁    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/zh-cn/money" >财经</a></h2>    <a href="https://mini.eastday.com:443/a/190519194945039.html?qid=02034&amp;li=BBR75ge" >
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AABAeGi.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=181&amp;y=68" title="80后大学刚毕业就成中国首富，舍友都不知情，9年来赚到2百亿 - 东方头条" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://mini.eastday.com:443/a/190519194945039.html?qid=02034&amp;li=BBR75ge" >
+
+80后刚毕业就成中国首富 舍友都不知情    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190519233353615.html?qid=02034&amp;li=BBR75ge" >
+
+瑞幸、拼多多上市背后的砸钱金主    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520105044002.html?qid=02034&amp;li=BBR75ge" >
+
+喜茶发展存隐忧 估值被疑水分大    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520083011584.html?qid=02034&amp;li=BBR75ge" >
+
+孙正义是天才还是疯子    </a>
+
+</li>
+ <li >
+     <a href="/zh-cn/money/news/%e8%82%a1%e5%b8%82%e6%94%b6%e8%af%84-%e4%b8%89%e5%a4%a7%e8%82%a1%e6%8c%87%e8%a7%a6%e5%ba%95%e5%9b%9e%e5%8d%87-%e6%b2%aa%e6%8c%87%e5%be%ae%e8%b7%8c04percent/ar-AABCoee?li=BBR75ge" >
+
+股市收评|三大股指触底回升 沪指微跌0.4%    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/zh-cn/sports" >体育</a></h2>    <a href="/zh-cn/sports/news/71%e5%b2%81%e6%96%bd%e7%93%a6%e8%be%9b%e6%a0%bc%e9%81%ad%e9%a3%9e%e8%b8%b9%e5%ae%89%e7%84%b6%e6%97%a0%e6%81%99-%e7%bd%91%e5%8f%8b%e7%a1%ac%e6%b1%89%ef%bc%81/ar-AABCfwI?li=BBVwU1V" >
+<img alt="JOHANNESBURG, SOUTH AFRICA - MAY 18:  Arnold Schwarzenegger is seen during the A..." height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AABC846.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=254&amp;y=2396" title="Arnold Sports Festival Africa 2019 - Getty" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/zh-cn/sports/news/71%e5%b2%81%e6%96%bd%e7%93%a6%e8%be%9b%e6%a0%bc%e9%81%ad%e9%a3%9e%e8%b8%b9%e5%ae%89%e7%84%b6%e6%97%a0%e6%81%99-%e7%bd%91%e5%8f%8b%e7%a1%ac%e6%b1%89%ef%bc%81/ar-AABCfwI?li=BBVwU1V" >
+
+71岁施瓦辛格遭飞踹安然无恙 网友：硬汉！    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520105803745.html?qid=02034&amp;li=BBVwU1V" >
+
+猛龙双加时胜雄鹿！东决总比分1比2    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520091709835.html?qid=02034&amp;li=BBVwU1V" >
+
+猛料！ 湖人两大交易方案浮出水面    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520002454771.html?qid=02034&amp;li=BBVwU1V" >
+
+梅西6季进球50+ 欧洲金靴稳了!    </a>
+
+</li>
+ <li >
+     <a href="https://3w.huanqiu.com:443/a/a4d1ef/7MPfUC7EX8Q?agt=35&amp;li=BBVwU1V" >
+
+逆转绝杀纪录 中超第10轮不该错过    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/zh-cn/autos" >汽车</a></h2>    <a href="https://mini.eastday.com:443/a/190520073134626.html?qid=02034&amp;li=BBV3mC0" >
+<img alt="很多司机把汽车扔太阳底下暴晒，错！教你3招，三伏天高温也不怕" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AABABOC.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=245&amp;y=207" title="很多司机把汽车扔太阳底下暴晒，错！教你3招，三伏天高温也不怕 - 东方头条" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://mini.eastday.com:443/a/190520073134626.html?qid=02034&amp;li=BBV3mC0" >
+
+很多司机把汽车扔太阳底下暴晒，错！教你3招，三伏天高温也不怕    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520092223653.html?qid=02034&amp;li=BBV3mC0" >
+
+想买车一步到位？35万买这几款大尺寸SUV，能满足你的需求    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520041135506.html?qid=02034&amp;li=BBV3mC0" >
+
+为啥聪明人采用这样的开车姿势？    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520052252917.html?qid=02034&amp;li=BBV3mC0" >
+
+实拍红旗L5 V12 气场完胜劳斯莱斯    </a>
+
+</li>
+ <li >
+     <a href="/zh-cn/autos/news/%e8%83%bd%e8%80%85%e7%9a%84%e7%aa%81%e7%a0%b4-%e8%af%95%e9%a9%be%e5%ae%9d%e9%a9%acx1%e6%8f%92%e6%b7%b7%e9%87%8c%e7%a8%8b%e5%8d%87%e7%ba%a7%e7%89%88/ar-AABAHFq?li=BBV3mC0" >
+
+试驾宝马X1插混里程升级版    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/zh-cn/lifestyle" >生活</a></h2>    <a href="https://mini.eastday.com:443/a/190520051452346.html?qid=02034&amp;li=BBVzKv5" >
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AABAG9E.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="刘亦菲到底胖了多少？硬是将牛仔裤穿成了紧身裤，看着好尴尬 - 由 Shanghai Song Heng Network Technology Co., Ltd. 提供" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://mini.eastday.com:443/a/190520051452346.html?qid=02034&amp;li=BBVzKv5" >
+
+刘亦菲到底胖了多少？硬是将牛仔裤穿成了紧身裤，看着好尴尬    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520032717958.html?qid=02034&amp;li=BBVzKv5" >
+
+杨幂双马尾搭“女仆装”好可爱！长筒靴+小皮鞋仿佛回到20岁    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520100016298.html?qid=02034&amp;li=BBVzKv5" >
+
+巩俐获跃动她影亚洲首奖，穿金黄百褶裙和老公撒狗粮    </a>
+
+</li>
+ <li >
+     <a href="https://3w.huanqiu.com:443/a/c93cce/7MOPCkvsG3e?agt=35&amp;li=BBVzKv5" >
+
+当110斤林志玲与86斤唐嫣同穿抹胸裙，网友：看完瞬间不想减肥了    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520101247774.html?qid=02034&amp;li=BBVzKv5" >
+
+42岁赵薇实力逆袭，减肥成功显嫩不止15岁！    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/zh-cn/health" >健康</a></h2>    <a href="https://mini.eastday.com:443/a/190519102236951.html?qid=02034&amp;li=BBVA02W" >
+<img alt="夏夜跑步凉爽惬意，夜跑虽好，也得注意这些问题哦" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAByMtq.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=339&amp;y=60" title="夏夜跑步凉爽惬意，夜跑虽好，也得注意这些问题哦 - 东方头条" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://mini.eastday.com:443/a/190519102236951.html?qid=02034&amp;li=BBVA02W" >
+
+夏夜跑步凉爽惬意，夜跑虽好，也得注意这些问题哦    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520140115609.html?qid=02034&amp;li=BBVA02W" >
+
+敲重点！四个高燃脂动作，让你暴瘦30斤    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190519142226616.html?qid=02034&amp;li=BBVA02W" >
+
+54岁张曼玉街头被偶遇，素颜无眉毛弯腰驼背，女神形象一去不返    </a>
+
+</li>
+ <li >
+     <a href="https://3w.huanqiu.com:443/a/c36dc8/7MOnRnqRDY4?agt=35&amp;li=BBVA02W" >
+
+认知不足、服药依从性差仍是影响高血压治疗和控制的关键    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520105429300.html?qid=02034&amp;li=BBVA02W" >
+
+5个方法帮您预防肥胖、顺利减肥    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/zh-cn/foodanddrink" >美食</a></h2>    <a href="https://mini.eastday.com:443/a/190520111416217.html?qid=02034&amp;li=BBVA0rI" >
+<img alt="曾连续霸占日本美食大赏一位的焦糖布丁，在家也能做！" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AABBw6y.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="曾连续霸占日本美食大赏一位的焦糖布丁，在家也能做！ - 东方头条" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://mini.eastday.com:443/a/190520111416217.html?qid=02034&amp;li=BBVA0rI" >
+
+曾连续霸占日本美食大赏一位的焦糖布丁，在家也能做！    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190519164950644.html?qid=02034&amp;li=BBVA0rI" >
+
+什么品种的樱桃好吃，哪里能买到那样品种的樱桃    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520123544878.html?qid=02034&amp;li=BBVA0rI" >
+
+夏天想吃凉皮？味香麻辣、劲道爽口，色香味俱全    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190518070031496.html?qid=02034&amp;li=BBVA0rI" >
+
+饭后营养小甜品，西米露味道正宗还香醇    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190517202042195.html?qid=02034&amp;li=BBVA0rI" >
+
+这道不允许拍照的网红甜品，你吃过吗？    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/zh-cn/news/techandscience" >科技</a></h2>    <a href="https://mini.eastday.com:443/a/190507174836959.html?qid=02034&amp;li=BBVzrUA" >
+<img alt="马云花巨资打造蚂蚁森林，已经过去3年，现状看完让人不敢相信" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAB4eO8.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=2732&amp;y=592" title="Interview with Jack Ma Yun, Alibaba Group Chairman, in Hangzhou, Zhejiang Provin... - getty" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://mini.eastday.com:443/a/190507174836959.html?qid=02034&amp;li=BBVzrUA" >
+
+马云花巨资打造蚂蚁森林，已经过去3年，现状看完让人不敢相信    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190516234257549.html?qid=02034&amp;li=BBVzrUA" >
+
+腾讯员工月薪7万！？程序员看了默默流泪    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190501114456218.html?qid=02034&amp;li=BBVzrUA" >
+
+爆！马云41岁得力干将去世，你还敢996吗？    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190518113538661.html?qid=02034&amp;li=BBVzrUA" >
+
+身家地位堪比王思聪，娶了16岁初恋女友，为照顾家人曾2次隐退    </a>
+
+</li>
+ <li >
+     <a href="/zh-cn/news/technology/%e8%b5%b4%e6%97%a5%e4%b8%93%e8%ae%bf%e7%b4%a2%e5%b0%bc%e7%94%b5%e8%a7%86%e9%ab%98%e5%b1%82%e8%ae%ba%e7%94%bb%e8%b4%a8%e6%88%91%e6%9c%89x1%e6%97%97%e8%88%b0%e7%89%88%e8%8a%af%e7%89%87%ef%bc%8c%e4%bd%a0%e5%91%a2%ef%bc%9f/ar-AABw2Yw?li=BBVzrUA" >
+
+赴日专访索尼电视高层：论画质我有X1旗舰版芯片，你呢？    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/zh-cn/travel" >旅游</a></h2>    <a href="https://mini.eastday.com:443/a/190519092324815.html?qid=02034&amp;li=BBV3dvg" >
+<img alt="一个是世界公主，一个是全球男神，葬礼上他亲吻她说：我永远爱你" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AABzp65.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=319&amp;y=235" title="一个是世界公主，一个是全球男神，葬礼上他亲吻她说：我永远爱你 - 东方头条" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://mini.eastday.com:443/a/190519092324815.html?qid=02034&amp;li=BBV3dvg" >
+
+一个是世界公主，一个是全球男神，葬礼上他亲吻她说：我永远爱你    </a>
+
+</li>
+ <li >
+     <a href="https://3w.huanqiu.com:443/a/c93cce/7MKeGQvGYTu?agt=35&amp;li=BBV3dvg" >
+
+同样是老公买的豪宅，赵丽颖的豪宅，刘诗诗的豪宅，差距一目了然    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190513235301173.html?qid=02034&amp;li=BBV3dvg" >
+
+泰国街头的“神僧”，坐油锅淡定自若，网友们一眼识破：我也行    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520010437519.html?qid=02034&amp;li=BBV3dvg" >
+
+女星上演制服诱惑，郑爽女仆惹人怜爱，迪丽热巴帅气，最美的是她    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190512085010123.html?qid=02034&amp;li=BBV3dvg" >
+
+世界公认的四位美女，中国仅一人上榜，不是杨幂也不是迪丽热巴！    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2>购物</h2>    <a href="https://s.click.taobao.com/t?e=m%3D2%26s%3Dsv69o%2Bz0HNscQipKwQzePCperVdZeJviK7Vc7tFgwiFRAdhuF14FMc3GFNOTCBBilovu%2FCElQOt72ZNtR6jffSM4MletD4imhZCwv4MwXc7umujYZ%2FdoVgBXgSuv7Sv7KtseCpInTy%2FkXkdea8kgYymBZ5ZWikN7RIhXpwzXCM5Pf2BYFhAHdG52R0giPkGksd%2B%2Ff4Fhw9ZeY%2By0blbhscYl7w3%2FA2kb" >
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBVS5cA.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="天猫超市推广 - Getty" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://s.click.taobao.com/t?e=m%3D2%26s%3Dsv69o%2Bz0HNscQipKwQzePCperVdZeJviK7Vc7tFgwiFRAdhuF14FMc3GFNOTCBBilovu%2FCElQOt72ZNtR6jffSM4MletD4imhZCwv4MwXc7umujYZ%2FdoVgBXgSuv7Sv7KtseCpInTy%2FkXkdea8kgYymBZ5ZWikN7RIhXpwzXCM5Pf2BYFhAHdG52R0giPkGksd%2B%2Ff4Fhw9ZeY%2By0blbhscYl7w3%2FA2kb" >
+
+天猫超市 | 天天特价，一站式购齐你的生活所需    </a>
+
+</li>
+ <li >
+     <a href="https://www.msn.cn/zh-cn/news/technology/%e2%80%9c%e8%b6%85%e4%b8%aa%e6%80%a7%e2%80%9d%e5%be%ae%e8%bd%af%e6%a1%8c%e9%9d%a2%e5%b8%a6%e6%9d%a5%e6%97%a0%e7%bc%9d%e8%b7%a8%e8%ae%be%e5%a4%87%e4%bd%93%e9%aa%8c%EF%BC%8C%e5%bf%ab%e6%9d%a5%e8%af%95%e8%af%95%e5%90%a7%EF%BC%81/ar-AAAVt5t" >
+
+“超个性”微软桌面带来无缝跨设备体验，快来试试吧！    </a>
+
+</li>
+ <li >
+     <a href="https://s.click.taobao.com/t?e=m%3D2%26s%3Di18V0Yzq6T8cQipKwQzePCperVdZeJviK7Vc7tFgwiFRAdhuF14FMU890EOQMzI%2FJ1gyddu7kN972ZNtR6jffSM4MletD4imhZCwv4MwXc6%2B0QjwQJlvMwBXgSuv7Sv7KtseCpInTy%2FkXkdea8kgYymBZ5ZWikN7RIhXpwzXCM5Pf2BYFhAHdJ4%2BXaYh9a5aJPwiig1bxLPGDF1NzTQoPw%3D%3D" >
+
+天猫国际 | 海量爆款天天特价    </a>
+
+</li>
+ <li >
+     <a href="/zh-cn/news/other/%e9%ab%98%e7%a7%91%e6%8a%80%e6%8a%a4%e7%9c%bc%e5%8f%b0%e7%81%af%e6%9d%a5%e8%a2%ad%ef%bc%8c%e5%bf%8d%e4%b8%8d%e4%bd%8f%e8%a6%81%e5%85%a5%e6%89%8b%e4%ba%86%ef%bc%81/ss-BBS5TPi?li=BBQTBmA" >
+
+高科技护眼台灯来袭，忍不住要入手了！    </a>
+
+</li>
+ <li >
+     <a href="/zh-cn/news/other/%e6%98%a5%e5%ad%a3%e6%8b%af%e6%95%91%e8%82%8c%e8%82%a4%e5%a4%a7%e4%bd%9c%e6%88%98%ef%bc%81%e4%b9%9d%e6%ac%be%e9%9d%a2%e8%86%9c%e5%8a%a9%e4%bd%a0%e4%b8%80%e8%87%82%e4%b9%8b%e5%8a%9b/ss-BBS2NHu?li=BBQTBmA" >
+
+春季拯救肌肤大作战！九款面膜助你一臂之力    </a>
+
+</li>
+ </ul>
+
+</div>
+
+ 
+</div>
+<div id="aside"  data-region="aside">
+ 
+</div>
+<div id="nav">
+ <ul class="verticalsnav">
+ <li  class="current">
+<a href="/zh-cn">主页</a>
+</li>
+ <li >
+<a href="/zh-cn/news">资讯</a>
+</li>
+ <li >
+<a href="/zh-cn/weather">天气</a>
+</li>
+ <li >
+<a href="/zh-cn/entertainment">娱乐</a>
+</li>
+ <li >
+<a href="/zh-cn/lifestyle">生活</a>
+</li>
+ <li >
+<a href="/zh-cn/money">财经</a>
+</li>
+ <li >
+<a href="/zh-cn/sports">体育</a>
+</li>
+ <li >
+<a href="/zh-cn/autos">汽车</a>
+</li>
+ <li >
+<a href="/zh-cn/health">健康</a>
+</li>
+ <li >
+<a href="/zh-cn/foodanddrink">美食</a>
+</li>
+ <li >
+<a href="/zh-cn/travel">旅游</a>
+</li>
+ </ul>
+</div>
+ </div>
+<div id="foot">
+<div> <a href="https://www.microsoft.com/zh-cn/">&#169; 2019 Microsoft</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkId=521839">隐私与 Cookie</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkID=246338">使用条款</a>
+ <a href="https://choice.microsoft.com/">微软广告</a>
+ <a href="https://jfe.qualtrics.com/form/SV_d4ir2X6Zkgjw0rb">反馈</a>
+ <a href="/zh-cn/">京ICP备10036305号</a>
+ <a href="https://aka.ms/msncncontact">商务合作</a>
+ <a href="https://go.microsoft.com/fwlink/?linkid=875132">广告</a>
+</div>
+</div>
+  <div>
+ <img src="//c.msn.cn/c.gif?udc=true&amp;rid=da6b580ce29149148c94a9e89d16161a&amp;rnd=636939548029624704&amp;rf=&amp;tp=http%253A%252F%252Fwww.msn.cn%252Fzh-cn%252F&amp;di=19579&amp;lng=zh-cn&amp;activityId=da6b580ce29149148c94a9e89d16161a&amp;d.dgk=downlevel.pc&amp;d.imd=0&amp;st.dpt=&amp;st.sdpt=&amp;subcvs=homepage&amp;pg.n=startpage&amp;pg.t=hp&amp;pg.c=&amp;pg.p=prime&amp;anoncknm=&amp;issso=0&amp;aadState=0" alt="image beacon" width="1" height="1" /><img src="//sb.scorecardresearch.com/p?c1=2&amp;c2=3000001&amp;cs_ucfr=1&amp;rn=636939548029624704&amp;c7=http%253A%252F%252Fwww.msn.cn%252Fzh-cn%252F&amp;c8=&amp;c9=" alt="image beacon" width="1" height="1" /><img src="//otf.msn.cn/c.gif?js=0&amp;evt=impr&amp;di=19579&amp;pi=&amp;ps=&amp;su=http%253A%252F%252Fwww.msn.cn%252Fzh-cn%252F&amp;mkt=zh-cn&amp;pp=False&amp;cv.partner=&amp;cv.publcat=&amp;st.dpt=&amp;st.sdpt=&amp;dv.Title1=&amp;cts=636939548029624704&amp;rf=&amp;rid=da6b580ce29149148c94a9e89d16161a&amp;cvs=Browser&amp;subcvs=homepage&amp;cv.entityId=&amp;cv.entitySrc=&amp;provid=&amp;ar=0&amp;d.dgk=downlevel.pc&amp;d.imd=0&amp;cv.parentId=&amp;isCorePV=&amp;pgIdx=&amp;pgTot=&amp;activityId=da6b580ce29149148c94a9e89d16161a&amp;pm=&amp;pg.n=startpage&amp;pg.t=hp&amp;pg.c=&amp;pg.p=prime&amp;anoncknm=&amp;issso=0&amp;ex=&amp;aadState=0" alt="image beacon" width="1" height="1" />
+</div>
+
+ 
+     <script>
+        require(["headData", "pageInstance", "mediator", "c.deferred"], function (headData, pageInstance, mediator)
+        {
+        var url = '//www.bizographics.com/collect/?fmt=gif&pid=7850';
+        if (headData && headData.clientSettings && headData.clientSettings.static_page)
+        {
+            mediator.pub(pageInstance.eventName);
+            var rid = pageInstance.getActivityId();
+            url = url.replace(/([?&]rid=)[^&#]*/i, "$1" + rid);
+            }
+        new Image().src = url.replace(/&amp;/g, '&');
+    });
+    </script>
+    <noscript>
+        <div>
+            <img data-src="//www.bizographics.com/collect/?fmt=gif&amp;pid=7850&amp;ts=noscript" width="1" height="1" alt="" />
+        </div>
+    </noscript>
+
+ 
+</body>
+ <!--MSNAvailToken--></html>
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE HTML PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.2//EN" "http://www.openmobilealliance.org/tech/DTD/xhtml-mobile12.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" dir="ltr">
+
+<head>
+ <meta http-equiv="refresh" content="1; url=http://www.msn.com/?refurl=%2fstatic-global-s-msn-com.akamaized.net%2fimg-resizer%2ftenant%2famp%2fentityid%2fAAB4eO8.img%3fh%3d194%26amp%3bw%3d300%26amp%3bm%3d6%26amp%3bq%3d60%26amp%3bu%3dt%26amp%3bo%3dt%26amp%3bl%3df%26amp%3bx%3d2732%26amp%3by%3d592">
+ <!-- data-info:v:20190510_15856779;a:9d269992-2e13-4242-b54d-8b578a853521;cn:17;az:{did:e676481d24d242d2bf61dbf23bf32fe6, rid: 17, sn: easia-prod-hp, dt: 2019-05-08T00:08:03.7036551Z, bt: 2019-05-10T23:14:20.2330019Z};ddpi:1;dpio:;dpi:1;dg:downlevel.pc;th:start;PageName:errorPage;m:en-us;cb:;l:en-us;mu:en-us;ud:{cid:,vk:,n:,l:en-us,ck:};xd:;ovc:f;al:;f:msnallexpusers,muidflt48cf,muidflt58cf,bingcollabedge1cf,bingcollabedge2cf,artgly2cf,artgly5cf,article3cf;userOptOut:false;userOptOutOptions: -->
+ 
+ 
+ 
+
+ <title>
+ Page not found - MSN
+</title>
+ 
+ 
+<meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1" />
+ <link rel="stylesheet" href="//static-global-s-msn-com.akamaized.net/hp-eas/en-us/homepage/_sc/css/b443689a-/direction=ltr.locales=en-us.themes=start.dpi=resolution1x/42-b8ee35-4e3b0a9b/2a-1f1669-a46408a9/ab-52fe22-a648eab2?ver=20190510_15856779&amp;fdhead=msnallexpusers,muidflt48cf,muidflt58cf,bingcollabedge1cf,bingcollabedge2cf,artgly2cf,artgly5cf,article3cf&amp;csopdb=20190502232315" type="text/css" media="all" />
+ <script type="text/javascript">//<![CDATA[
+(function(n,t){function h(n,i,r){typeof n!="string"&&(r=i,i=n,n=t);i&&i.splice||(r=i,i=[]);n==it?a=!0:n==rt&&(v=!0);l(n,i,r,!1,!1)}function l(n,t,i,r,f,e){var s,y;if(!n||!c[n]){var h=ot(n,t),o=h.dependencyNotFound,l=h.resolved;if(o){typeof u[o]=="undefined"&&(u[o]=[]);u[o].push(e||{i:n,d:t,f:i,r:r,s:f});return}s=typeof i=="function";y=v&&a&&s&&!f;y?et(n,i,l,r):ft(s,n,i,l,r)}}function ft(n,t,i,r,u){var f;f=n?i.apply(null,r):i;d(t,f,u)}function et(n,t,i,r){setTimeout(function(){var u=t.apply(null,i);d(n,u,r)},1)}function d(t,i,r){r&&(i={});t&&(i?(c[t]=i,f.push(t),g()):n.console&&console.error("Dependencies resolved, but object still not defined (or is otherwise falsey). id:"+t+"; typeof obj: "+typeof i))}function g(){var t,s,h,i,o,c,r,n;if(e)e&&(e=2);else{t=[];do{for(e=1,h=f.length,i=0;i<h;i++)o=f[i],c=u[o]||[],t=t.concat(c),delete u[o];for(f=[],s=t.length,r=0;r<s;r++)n=t[r],l(n.i,n.d,n.f,n.r,n.s,n);t=[]}while(e>1);e=0}}function ot(n,t){for(var e,i=[],r,o=t?t.length:0,u=0;u<o;u++){var f=t[u],s=c[f],h=typeof s!="undefined";if(!h){if(e=st(n,f),e){i.push(e);continue}r||(r=f);break}i.push(s)}return o===i.length?{resolved:i}:{dependencyNotFound:r}}function st(i,r){var f=k.exec(r),e,u;if(f){if(e=f[1],u=n[e],u!==t)return u;s||(s=setTimeout(nt,w))}}function nt(){var i,r,e,o,h;s=0;i=!1;for(r in u)e=k.exec(r),e&&(o=e[1],h=n[o],h!==t?f.push(r):i=!0);i&&!s&&(s=setTimeout(nt,w));f.length&&g()}function ht(n,t,i){if((typeof n!="object"||n&&n.splice)&&(i=t,t=n,n={}),t&&t.splice||(i=t,t=[]),ct(n.js),i){var r,u=n.synchronous||!1;l(r,t,i,!0,u)}}function ct(n){if(typeof n=="string")tt(n);else if(n)for(var t=0;t<n.length;t++)tt(n[t])}function tt(n){if(!b[n]){b[n]=1;var i=o.getElementsByTagName("script")[0],t=o.createElement("script");t.src=n;t.onload=t.onreadystatechange=function(){this.readyState&&this.readyState!="loaded"&&this.readyState!="complete"||(t.onload=t.onreadystatechange=null,t.parentNode&&t.parentNode.removeChild(t))};i.parentNode.insertBefore(t,i)}}function lt(n){return ut?n?i.now():Math.round(i.now()):new Date-y}var it=n._jsLoaderAsyncCanary||"c.dom",rt="c.pageReveal",a=!1,v=typeof n._jsLoaderRevealMode=="undefined"?!0:n._jsLoaderRevealMode,i=n.performance,ut=i&&typeof i.now=="function",r=" ----- ",y=((i||{}).timing||{}).navigationStart||+new Date,o=n.document,p=null;try{p=n.localStorage}catch(at){}var c={date:Date,document:o,image:n.Image,localStorage:p,location:o&&o.location,navigator:navigator,pageStart:y,pageTime:lt,screen:n.screen,window:n},u={},f=[],e,w=50,s,b={},k=/^window\.(.+)$/;h.amd={jQuery:1};h.is=function(n){return typeof c[n]!="undefined"};n.define=h;n.require=ht;h.showUserMarks=function(){var n=["Mark Name"+r+"Start time in ms"];return i.getEntriesByType("mark").forEach(function(t){n.push(t.name+r+t.startTime+"ms")}),n.join("\n")};h.showUserMeasures=function(){var n=["Measure name"+r+"Start time in ms"+r+"Duration in ms"];return i.getEntriesByType("measure").forEach(function(t){n.push(t.name+r+t.startTime+"ms"+r+t.duration+"ms")}),n.join("\n")}})(window);define("navigation",["escape","location","document"],function(n,t,i){function o(t,i,r){var u=t[i],e,f;if(!u||u.length===0)return"";for(e="",f=0;f<u.length;f++)u[f]&&(e=e+r+i+"="+n.urlPart(u[f]),r==="?"&&(r="&"));return e}function u(n,t,i){var s=function(n){return n=n.replace(/\+/g," "),decodeURIComponent(n)},u={},o,e;if(n)for(n=n.split("#")[0],o=n.split("&"),e=0;e<o.length;e++){var h=o[e].split("="),r=h[0],f=h[1];i&&(r=s(r),f&&(f=s(f)));t||r==="item"?(u[r]||(u[r]=[]),u[r].push(f)):u[r]=f}return u}function f(n){var t=i.createElement("a");return t.href=n,{protocol:t.protocol,host:t.host,hostName:t.hostname,port:t.port,path:t.pathname,hash:t.hash,query:t.search,origin:t.origin}}function e(n){return f(n).hostName}var r={getUrl:function(n){return r.filter?r.filter(n):n},navigate:function(n,i){r.filter&&(n=r.filter(n));i?t.replace(n):t.href=n},getHostName:e,parseUrl:f,isLocal:function(n){var i=e(n);return!i||t.hostname==i},getParams:u,getParamsFromUrl:function(n,t,i){var r=n.split("?")[1];return u(r,t,i)},mergeQueryStringParams:function(t,i){var s,f,e,h,r,c;if(i){if(s=t.split("?"),s[1]){f=u(s[1],!1,!0);for(r in i)f[r]=i[r]}else f=i;t=s[0];e="?";h="item";for(r in f)r!==h&&(t+=f[r]?e+n.urlPart(r)+"="+n.urlPart(f[r]):e+n.urlPart(r),e==="?"&&(e="&"));c=o(f,h,e);t=t+c}return t},filter:null};return r})//]]></script><script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jquery/jquery-1.9.1.min.js"></script>
+ 
+ 
+</head>
+
+<body class="e404 ep center-content start">
+ 
+
+
+<div class="head">
+<div>
+  <div id="header-common">
+<div class="header">
+<div class="header-logo">
+  <a class="logo" href="" tabindex="2">
+ 
+
+<img alt="" height="20" width="20" src="//static-global-s-msn-com.akamaized.net/hp-eas/sc/82/c22c7d.gif" />
+</a>
+
+
+
+</div>
+<div id="header-links">
+
+<a class="navigation" href="#nav">
+<img  alt="go to navigation" width="27" height="20" src="//static-global-s-msn-com.akamaized.net/hp-eas/sc/57/a49b8d.gif" />
+                    </a>
+                </div>
+            </div>
+        </div>
+
+ 
+<div id="header-search">
+<form action="http://www.bing.com/search?scope=web" method="get" id="srchfrm">
+<div class="searchbox">
+<input type="text" id="q" name="q" value="" />
+<input type="hidden" name="form" value="" />
+ <input type="hidden" name="mkt" value="en-us" />
+  <input type="hidden" name="httpsmsn" value="1">
+   <input type="hidden" name="refig" value="9d2699922e134242b54d8b578a853521">
+<input type="submit" class="text" value="web search" title="web search"/>
+ <div id="sw_as"> </div>
+ </div>
+</form>
+ <script type="text/javascript">
+            //<![CDATA[
+            var srchInput = document.getElementById("q");
+            function sj_be(el, evt, mth) {
+                if (el.addEventListener) {
+                    el.addEventListener(evt, mth, false);
+                }
+                else if (el.attachEvent) {
+                    el.attachEvent("on" + evt, mth);
+                }
+                else {
+                    el["on" + evt] = mth;
+                }
+            }
+
+            function sj_ue(el, evt, mth) {
+                if (el.removeEventListener) {
+                    el.removeEventListener(evt, mth, false);
+                }
+                else if (el.detachEvent) {
+                    el.detachEvent("on" + evt, mth);
+                }
+                else {
+                    el["on" + evt] = null;
+                }
+            }
+
+            function loadScript(url, callback) {
+                var script = document.createElement("script")
+                script.type = "text/javascript";
+
+                if (script.readyState) {
+                    script.onreadystatechange = function () {
+                        if (script.readyState == "loaded" || script.readyState == "complete") {
+                            script.onreadystatechange = null;
+                            callback();
+                        }
+                    };
+                }
+                else {
+                    script.onload = function () {
+                        callback();
+                    };
+                }
+
+                script.src = url;
+                document.getElementsByTagName("head")[0].appendChild(script);
+            }
+
+            function initAS() {
+                loadScript("http://www.bing.com/s/as/1436447/en.js", function () {
+                    var config = { u: 'http://api.bing.com/qsonhs.aspx?form=MSN005', tPN: 'Popular Now', f: 'srchfrm', i: 'q', r: 'AutoSugShared', o: 's+a+p+hs+', h: 1, k: 0, m: 8, d: 100, ol: 1, eHS: 1, spr: 0 };
+                    if (typeof window.sa_autosuggest != "undefined") {
+                        window["sa_inst"] = new window.sa_autosuggest(config);
+                        window["sa_inst"].init("sa_inst");
+                    }
+                });
+                sj_ue(srchInput, 'click', initAS);
+            }
+
+            if (srchInput) {
+                sj_be(srchInput, 'click', initAS);
+            }
+            //]]>
+        </script>
+</div>
+
+</div>
+ 
+
+
+</div>
+<div id="maincontent">
+ 
+<div id="main"  data-region="main">
+ 
+<div>
+<div class="article">
+<div class="articlehead">
+<h1  class="articletitle fg start">Whoops!</h1>
+<p class="articledesc">This page doesn’t exist or can’t be found.</p>
+<p class="articledesc">To find something you’ll like, click a category above or use the search box.</p>
+<br />
+</div>
+ <p>2019-05-20T13:13:48.6249434+00:00</p>
+<p>9d269992-2e13-4242-b54d-8b578a853521</p>
+</div>
+</div>
+  <div>
+<img src="//otf.msn.com/c.gif?evt=impr&amp;su=http%3A%2F%2Fwww.msn.com%2Fstatic-global-s-msn-com.akamaized.net%2Fimg-resizer%2Ftenant%2Famp%2Fentityid%2FAAB4eO8.img%3Fh%3D194%26amp%3Bw%3D300%26amp%3Bm%3D6%26amp%3Bq%3D60%26amp%3Bu%3Dt%26amp%3Bo%3Dt%26amp%3Bl%3Df%26amp%3Bx%3D2732%26amp%3By%3D592&amp;mkt=en-us&amp;pg.n=error404page&amp;pg.t=custcol&amp;pg.p=prime&amp;rid=9d269992-2e13-4242-b54d-8b578a853521&amp;mv=15&amp;rf=&amp;st.dpt=&amp;st.sdpt=&amp;cvs=browser&amp;subcvs=" width="1" height="1" />
+</div>
+
+
+ 
+</div>
+<div id="aside"  data-region="aside">
+ 
+</div>
+ </div>
+<div id="foot">
+<div> <a href="https://www.microsoft.com/en-us/">&#169; 2019 Microsoft</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkId=521839">Privacy &amp; Cookies</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkID=246338">Terms of use</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkID=286759">About our Ads</a>
+ <a href="https://jfe.qualtrics.com/form/SV_d4ir2X6Zkgjw0rb">Feedback</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkId=512703">Help</a>
+ <a href="/en-us/msn-worldwide">MSN Worldwide</a>
+ <a href="/en-us/newslettersignup">Newsletter</a>
+ <a href="https://go.microsoft.com/fwlink/?linkid=875132">Advertise</a>
+ <a href="https://blog.msn.com/">MSN Blog</a>
+ <a href="/en-us/news/us/about-us/ar-BBN0NAK">About Us</a>
+</div>
+</div>
+ 
+ 
+ 
+ 
+</body>
+</html>
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE HTML PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.2//EN" "http://www.openmobilealliance.org/tech/DTD/xhtml-mobile12.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-CN" dir="ltr">
+
+<head>
+ <!-- data-info:v:20190510_15856779;a:07adfe94-ae28-42c8-b283-36fd69acf080;cn:8;az:{did:e676481d24d242d2bf61dbf23bf32fe6, rid: 8, sn: easia-prod-hp, dt: 2019-04-28T03:23:55.1772590Z, bt: 2019-05-10T23:14:20.2330019Z};ddpi:1;dpio:;dpi:1;dg:downlevel.pc;th:start;PageName:startPage;m:zh-cn;cb:;l:zh-cn;mu:zh-cn;ud:{cid:,vk:homepage,n:,l:zh-cn,ck:};xd:AAF5Fe;ovc:f;al:;fxd:f;xdpub:2019-05-03 02:01:03Z;xdmap:2019-05-20 13:12:51Z;axd:;f:msnallexpusers,muidflt10cf,muidflt56cf,anaheim1cf;userOptOut:false;userOptOutOptions: -->
+ 
+ <link rel="canonical" href="http://www.msn.cn/zh-cn/" />
+ 
+
+ <title>MSN 中国</title>
+ <meta name="description" content="MSN中国提供最新的国内、国际、娱乐，科技，体育，财经，健康，健身，生活，美食， 旅游等资讯。"/>
+ 
+<meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1" />
+ <link rel="stylesheet" href="//static-global-s-msn-com.akamaized.net/hp-eas/zh-cn/homepage/_sc/css/b443689a-9ba8c85c/direction=ltr.locales=zh-cn.themes=start.dpi=resolution1x/42-b8ee35-4e3b0a9b/90-67c322-ee5f2b10/2a-1f1669-a46408a9/9b-ba6b1f-f94d3276/ab-52fe22-a648eab2/86-b413d7-63b61fa3/d1-7801d5-68ddb2ab/7a-660b57-4534563a/75-a00681-654638bf/35-e52796-da4f6698?ver=20190510_15856779&amp;fdhead=msnallexpusers,muidflt10cf,muidflt56cf,anaheim1cf&amp;csopd=20190501174254&amp;csopdb=20190502232315" type="text/css" media="all" />
+ <script type="text/javascript">//<![CDATA[
+(function(n,t){function h(n,i,r){typeof n!="string"&&(r=i,i=n,n=t);i&&i.splice||(r=i,i=[]);n==it?a=!0:n==rt&&(v=!0);l(n,i,r,!1,!1)}function l(n,t,i,r,f,e){var s,y;if(!n||!c[n]){var h=ot(n,t),o=h.dependencyNotFound,l=h.resolved;if(o){typeof u[o]=="undefined"&&(u[o]=[]);u[o].push(e||{i:n,d:t,f:i,r:r,s:f});return}s=typeof i=="function";y=v&&a&&s&&!f;y?et(n,i,l,r):ft(s,n,i,l,r)}}function ft(n,t,i,r,u){var f;f=n?i.apply(null,r):i;d(t,f,u)}function et(n,t,i,r){setTimeout(function(){var u=t.apply(null,i);d(n,u,r)},1)}function d(t,i,r){r&&(i={});t&&(i?(c[t]=i,f.push(t),g()):n.console&&console.error("Dependencies resolved, but object still not defined (or is otherwise falsey). id:"+t+"; typeof obj: "+typeof i))}function g(){var t,s,h,i,o,c,r,n;if(e)e&&(e=2);else{t=[];do{for(e=1,h=f.length,i=0;i<h;i++)o=f[i],c=u[o]||[],t=t.concat(c),delete u[o];for(f=[],s=t.length,r=0;r<s;r++)n=t[r],l(n.i,n.d,n.f,n.r,n.s,n);t=[]}while(e>1);e=0}}function ot(n,t){for(var e,i=[],r,o=t?t.length:0,u=0;u<o;u++){var f=t[u],s=c[f],h=typeof s!="undefined";if(!h){if(e=st(n,f),e){i.push(e);continue}r||(r=f);break}i.push(s)}return o===i.length?{resolved:i}:{dependencyNotFound:r}}function st(i,r){var f=k.exec(r),e,u;if(f){if(e=f[1],u=n[e],u!==t)return u;s||(s=setTimeout(nt,w))}}function nt(){var i,r,e,o,h;s=0;i=!1;for(r in u)e=k.exec(r),e&&(o=e[1],h=n[o],h!==t?f.push(r):i=!0);i&&!s&&(s=setTimeout(nt,w));f.length&&g()}function ht(n,t,i){if((typeof n!="object"||n&&n.splice)&&(i=t,t=n,n={}),t&&t.splice||(i=t,t=[]),ct(n.js),i){var r,u=n.synchronous||!1;l(r,t,i,!0,u)}}function ct(n){if(typeof n=="string")tt(n);else if(n)for(var t=0;t<n.length;t++)tt(n[t])}function tt(n){if(!b[n]){b[n]=1;var i=o.getElementsByTagName("script")[0],t=o.createElement("script");t.src=n;t.onload=t.onreadystatechange=function(){this.readyState&&this.readyState!="loaded"&&this.readyState!="complete"||(t.onload=t.onreadystatechange=null,t.parentNode&&t.parentNode.removeChild(t))};i.parentNode.insertBefore(t,i)}}function lt(n){return ut?n?i.now():Math.round(i.now()):new Date-y}var it=n._jsLoaderAsyncCanary||"c.dom",rt="c.pageReveal",a=!1,v=typeof n._jsLoaderRevealMode=="undefined"?!0:n._jsLoaderRevealMode,i=n.performance,ut=i&&typeof i.now=="function",r=" ----- ",y=((i||{}).timing||{}).navigationStart||+new Date,o=n.document,p=null;try{p=n.localStorage}catch(at){}var c={date:Date,document:o,image:n.Image,localStorage:p,location:o&&o.location,navigator:navigator,pageStart:y,pageTime:lt,screen:n.screen,window:n},u={},f=[],e,w=50,s,b={},k=/^window\.(.+)$/;h.amd={jQuery:1};h.is=function(n){return typeof c[n]!="undefined"};n.define=h;n.require=ht;h.showUserMarks=function(){var n=["Mark Name"+r+"Start time in ms"];return i.getEntriesByType("mark").forEach(function(t){n.push(t.name+r+t.startTime+"ms")}),n.join("\n")};h.showUserMeasures=function(){var n=["Measure name"+r+"Start time in ms"+r+"Duration in ms"];return i.getEntriesByType("measure").forEach(function(t){n.push(t.name+r+t.startTime+"ms"+r+t.duration+"ms")}),n.join("\n")}})(window);define("navigation",["escape","location","document"],function(n,t,i){function o(t,i,r){var u=t[i],e,f;if(!u||u.length===0)return"";for(e="",f=0;f<u.length;f++)u[f]&&(e=e+r+i+"="+n.urlPart(u[f]),r==="?"&&(r="&"));return e}function u(n,t,i){var s=function(n){return n=n.replace(/\+/g," "),decodeURIComponent(n)},u={},o,e;if(n)for(n=n.split("#")[0],o=n.split("&"),e=0;e<o.length;e++){var h=o[e].split("="),r=h[0],f=h[1];i&&(r=s(r),f&&(f=s(f)));t||r==="item"?(u[r]||(u[r]=[]),u[r].push(f)):u[r]=f}return u}function f(n){var t=i.createElement("a");return t.href=n,{protocol:t.protocol,host:t.host,hostName:t.hostname,port:t.port,path:t.pathname,hash:t.hash,query:t.search,origin:t.origin}}function e(n){return f(n).hostName}var r={getUrl:function(n){return r.filter?r.filter(n):n},navigate:function(n,i){r.filter&&(n=r.filter(n));i?t.replace(n):t.href=n},getHostName:e,parseUrl:f,isLocal:function(n){var i=e(n);return!i||t.hostname==i},getParams:u,getParamsFromUrl:function(n,t,i){var r=n.split("?")[1];return u(r,t,i)},mergeQueryStringParams:function(t,i){var s,f,e,h,r,c;if(i){if(s=t.split("?"),s[1]){f=u(s[1],!1,!0);for(r in i)f[r]=i[r]}else f=i;t=s[0];e="?";h="item";for(r in f)r!==h&&(t+=f[r]?e+n.urlPart(r)+"="+n.urlPart(f[r]):e+n.urlPart(r),e==="?"&&(e="&"));c=o(f,h,e);t=t+c}return t},filter:null};return r});define("logging",["window"],function(n){function r(n,t){if(n.addEventListener)n.addEventListener("error",t,!1);else if(n.onerror){var i=n.onerror;n.onerror=function(n,r,u,f,e){return i(n,r,u,f,e),t(n,r,u,f,e)}}else n.onerror=t}function t(t){n.console&&(console.error||console.log)(t)}function u(){}function f(){}function e(t){(n.console||{}).timeStamp?console.timeStamp(t):(n.performance||{}).mark&&n.performance.mark(t)}var i=0;return r(n,function(n){return i++,n&&t("[SCRIPTERROR] "+n),!0}),{error:t,fatalError:t,unhandledErrorCount:function(){return i},perfMark:e,warning:u,information:f}})//]]></script><script type="text/javascript" src="//static-global-s-msn-com.akamaized.net/hp-eas/_h/4c59fa2c/webcore/externalscripts/jquery/jquery-1.11.1.min.js"></script>
+ 
+ <style>@media screen and (max-width:78.99em) and (min-width:58.875em){.layout-none:not(.mod1) .pos2{left:0}}.ie8 .grid .pick4~li.pick{display:none}.todaystripe .todayshowcasead:hover{opacity:1}.spartan #main .paging-container.snap{overflow-x:hidden}#addRemoveSectionsModalContainer #addRemoveSectionsModal{display:block}.tmx.mobile .superbowl .matchupstripe{margin:0 auto}.stripecontainer .stripeouter.noborder{height:33.7rem}html[dir='rtl'] .ie8 .mip>ul>li.triptych h3+a{border-right:0}html[dir='ltr'] .ie8 .mip>ul>li.triptych h3+a{border-left:0}.meflyouts .integratedskype .signin>ul li:first-child{display:none}.tmx.pc.webkit.chrome .stripecontent ul{overflow-x:hidden}.meflyouts .bingrewards{display:none}.mobile .galleryinfo .img-divider{display:none}.homepage.tmx.pc.chrome #main .one-col,.homepage.tmx.pc.chrome #main .two-col,.homepage.tmx.pc.chrome #main .three-col{margin-right:-.016rem;margin-left:-.016rem}.homepage.midlevel .pagingsection>button.show,.channelplayerpage.midlevel .pagingsection>button.show{display:none}.settings.start.tmx.pc .globalsettings .social.twitter{display:none}</style>
+</head>
+
+<body class="startpage sp center-content start">
+ 
+
+
+<div class="head">
+<div>
+<div id="topnav">
+ <ul class="verticalsnav">
+ <li  class="current">
+<a href="/zh-cn">主页</a>
+</li>
+ <li >
+<a href="/zh-cn/news">资讯</a>
+</li>
+ <li >
+<a href="/zh-cn/weather">天气</a>
+</li>
+ <li >
+<a href="/zh-cn/entertainment">娱乐</a>
+</li>
+ <li >
+<a href="/zh-cn/lifestyle">生活</a>
+</li>
+ <li >
+<a href="/zh-cn/money">财经</a>
+</li>
+
+ <li class="more">
+<a href="#nav">更多 ></a>
+<ul>
+ <li >
+<a href="/zh-cn/sports">体育</a>
+</li>
+ <li >
+<a href="/zh-cn/autos">汽车</a>
+</li>
+ <li >
+<a href="/zh-cn/health">健康</a>
+</li>
+ <li >
+<a href="/zh-cn/foodanddrink">美食</a>
+</li>
+ <li >
+<a href="/zh-cn/travel">旅游</a>
+</li>
+ </ul>
+</li>
+ </ul>
+</div>
+  <div id="header-common">
+<div class="header">
+<div class="header-logo">
+  <a class="logo" href="/zh-cn" tabindex="2">
+ 
+
+<img alt="" height="20" width="20" src="//static-global-s-msn-com.akamaized.net/hp-eas/sc/82/c22c7d.gif" />
+</a>
+ <a class="vertical" href="/zh-cn" tabindex="2">msn</a>
+
+
+
+</div>
+<div id="header-links">
+ <a href="http://www.outlook.com/">Outlook.com</a>
+ <span>|</span>
+ <a href="/zh-cn/settings/markettoggle"><img alt="zh-cn" src="//static-global-s-msn-com.akamaized.net/hp-eas/sc/6a/a62410.gif" /></a>
+
+<a class="navigation" href="#nav">
+<img  alt="转到导航" width="27" height="20" src="//static-global-s-msn-com.akamaized.net/hp-eas/sc/57/a49b8d.gif" />
+                    </a>
+                </div>
+            </div>
+        </div>
+
+ 
+<div id="header-search">
+<form action="http://www.bing.com/search?scope=web" method="get" id="srchfrm">
+<div class="searchbox">
+<input type="text" id="q" name="q" value="" />
+<input type="hidden" name="form" value="PRCNDL" />
+  <input type="hidden" name="httpsmsn" value="1">
+   <input type="hidden" name="refig" value="07adfe94ae2842c8b28336fd69acf080">
+<input type="submit" class="text" value="网页搜索" title="网页搜索"/>
+ </div>
+</form>
+</div>
+
+</div>
+ 
+ 
+<div class="upgradebrowser">
+ 您正在使用较旧版本的浏览器。为了获得最佳 MSN 中文网体验，请使用<a href="http://support2.microsoft.com/kb/2999871/zh-cn">受支持的版本</a>。
+</div>
+
+
+
+</div>
+<div id="maincontent">
+ 
+<div id="main"  data-region="main">
+ 
+
+ 
+ <div class="today">
+
+
+	<div class="weatodaytile"  data-module-id="startpage|todayDownlevel|section|DownlevelMiniWeather|WeatherTodayTileModule"   data-aop="todayweathersd_weathertodaythreedaystilemodule">
+<a  href="/zh-cn/weather/today/%e5%8c%97%e4%ba%ac,%e4%b8%ad%e5%9b%bd%e5%a4%a7%e9%99%86/we-city?iso=CN&amp;el=Qo7cgUA39x8740M6IfRpiQ%3D%3D" data-loc="lat=39.91&amp;long=116.39&amp;c=%E5%8C%97%E4%BA%AC&amp;cn=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86&amp;iso=CN&amp;type=1">
+<div class="weatileleft">
+<img class="skycond" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB8MNzQ.img?m=6&amp;o=true&amp;u=true&amp;n=true&amp;w=40&amp;h=40"
+
+data-src="{&quot;default&quot;:&quot;//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB8MNzQ.img?m=6&amp;o=true&amp;u=true&amp;n=true&amp;w=40&amp;h=40&quot;}"
+alt="晴" title="晴" data-icon="28" />
+	<div><span class="currentcond">20&#176;</span><span class="tempunit">C</span></div>
+</div>
+<div class="weatileright">
+<span class="weacity">北京</span>
+<span class="skytext">今日, 晴</span>
+<span class="tempavghigh">高温 31&#176;</span>
+<span class="tempavglow">低温 13&#176;</span>
+</div>
+	</a>
+
+ <div class="edit"  data-aop="change">
+<a class="edithome" href="#" aria-label="更改位置或温度单位" data-degreetype="C" 
+data-home="搜索位置/城市" title="更改">更改</a>
+</div>
+<div class="weapopup" role="dialog" aria-labelledby="weaaddlocation-label"  data-aop="editweatherflyout"  data-region="editweatherflyout">
+<div class="weaddn wpopbg"></div>
+<div class="weaddn wpopctn">
+<a class="close"  role="button" href="#" title="关闭">关闭</a>
+ 
+
+<div class="weaaddlocation">
+
+<form  action="/zh-cn/weather/search" data-action="/zh-cn/weather/ajax/places/search/" method="get"  class="nogps">
+ 
+<p class="label" id="weaaddlocation-label">设置默认位置</p>
+<div class="add-loc-as-container">
+<input name="q" class="query" accesskey="L" autocomplete="off" type="search" aria-autocomplete="list"
+value="" maxlength="250" data-auto-suggest-settings='{&quot;market&quot;:&quot;zh-cn&quot;,&quot;mode&quot;:&quot;AS&quot;,&quot;baseurl&quot;:&quot;/zh-cn/weather/today&quot;,&quot;action&quot;:&quot;sethome&quot;,&quot;method&quot;:&quot;custom&quot;,&quot;selector&quot;:&quot;.weaaddlocation&quot;,&quot;urltype&quot;:&quot;GeoLocation&quot;,&quot;formcode&quot;:&quot;&quot;,&quot;lat&quot;:30.6458,&quot;lon&quot;:104.084}'
+                   placeholder="搜索位置/城市" data-seemoretext="按 &lt;Enter&gt; 查看更多内容" data-autosuggestdelay="100"
+                   aria-label="搜索位置/城市"  />
+<button type="submit" title ="搜索" class="searchbtn" 
+  aria-label="搜索">
+<span class="x-screen-reader">搜索</span>               
+            </button>
+        </div>
+        <div class="nolocerr" aria-live="assertive" data-message="无 &#39;{0}&#39; 相关结果"></div>
+<div class="errmsg" aria-hidden="true" data-error-in-service-message="发生意外错误，请重试。"></div>
+<div class="suggestmsg"></div>
+<div class="autosuggestresults" ></div>
+ 
+</form>
+</div>
+
+ 
+
+
+
+<button  class="donebutton disabled" disabled="disabled" title="完成">完成</button>
+</div>
+</div>
+	</div>
+ </div>
+ <div class="stripe first">
+<h2>今天</h2>    <a href="https://mini.eastday.com:443/a/190518151434139.html?qid=02034&amp;li=BBOXPUT" >
+<img alt="范冰冰赵薇一辈子不忘的男人，参加葬礼时， 范冰冰几乎情绪失控" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AABxDgv.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=472&amp;y=209" title="范冰冰赵薇一辈子不忘的男人，参加葬礼时， 范冰冰几乎情绪失控 - 东方头条" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://mini.eastday.com:443/a/190518151434139.html?qid=02034&amp;li=BBOXPUT" >
+
+范冰冰赵薇一辈子不忘的男人，参加葬礼时， 范冰冰几乎情绪失控    </a>
+
+</li>
+ <li >
+     <a href="/zh-cn/money/news/%e6%9d%83%e6%b8%b8%e5%a4%a7%e7%bb%93%e5%b1%80%e5%9b%bd%e5%86%85%e6%97%a0%e6%b3%95%e4%b8%8a%e7%ba%bf-%e7%bd%91%e5%8f%8b%e8%85%be%e8%ae%af%e6%80%95%e6%88%91%e4%bb%ac%e7%bf%98%e7%8f%ad%e5%90%97%ef%bc%9f/ar-AABBMzz?li=BBOXPUT" >
+
+权游大结局国内无法上线 网友：腾讯怕我们翘班吗？    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520122331372.html?qid=02034&amp;li=BBOXPUT" >
+
+中国男篮世界杯12人名单竞争惨烈，阿不都沙拉木一优势打动李楠    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190411204946394.html?qid=02034&amp;li=BBOXPUT" >
+
+因丑闻在韩国待不下去，来到中国却爆红，还被网友称第一美女    </a>
+
+</li>
+ <li >
+     <a href="https://3w.huanqiu.com:443/a/c93cce/7MHX4AfePE4?agt=35&amp;li=BBOXPUT" >
+
+《美国队长3》中唯一的中国演员，却只两秒镜头，心酸又伟大    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/zh-cn/entertainment" >娱乐</a></h2>    <a href="https://mini.eastday.com:443/a/190519135204444.html?qid=02034&amp;li=BBVBIuQ" >
+<img alt="曾把胡歌“吻”到吐的她，机场穿波点裙现身，腰身粗壮胖到认不出" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AABzqUm.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=219&amp;y=68" title="曾把胡歌“吻”到吐的她，机场穿波点裙现身，腰身粗壮胖到认不出 - 东方头条" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://mini.eastday.com:443/a/190519135204444.html?qid=02034&amp;li=BBVBIuQ" >
+
+曾把胡歌“吻”到吐的她，机场穿波点裙现身，腰身粗壮胖到认不出    </a>
+
+</li>
+ <li >
+     <a href="/zh-cn/entertainment/entertainmentnews/%e5%8e%9f%e6%9d%a5%e8%bf%99%e6%89%8d%e6%98%af%e3%80%8a%e6%9d%83%e6%b8%b8%e3%80%8b%e7%ac%ac%e5%85%ab%e5%ad%a3%e6%9c%80%e5%a4%a7%e7%9c%8b%e7%82%b9%ef%bc%81%e5%a4%a7%e7%bb%93%e5%b1%80%e5%9c%a8%e5%9b%bd%e5%86%85%e6%92%ad%e5%87%ba%e7%ab%9f%e7%84%b6%e6%98%af%e8%bf%99%e6%a0%b7%e2%80%a6%e2%80%a6%ef%bc%81%ef%bc%9f/ar-AABxGV5?li=BBVBIuQ" >
+
+原来这才是《权游》第八季最大看点！大结局在国内播出竟然是这样……！？    </a>
+
+</li>
+ <li >
+     <a href="http://ex.chinadaily.com.cn:80/exchange/partners/82/rss/channel/language/columns/v0m20b/stories/WS5ce1fd7ca3104842260bc8a1.html?li=BBVBIuQ" >
+
+对剧情不满 权游剧迷请愿重拍第八季    </a>
+
+</li>
+ <li >
+     <a href="https://3w.huanqiu.com:443/a/c93cce/7MPm5unFznW?agt=35&amp;li=BBVBIuQ" >
+
+六小龄童开始卖东西了，价格昂贵遭网友吐槽：别把情怀当成买卖    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520074736586.html?qid=02034&amp;li=BBVBIuQ" >
+
+沈腾，我年轻帅到认不出, 黄磊， 我当年堪比校草, 沙溢: 你们聊    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/zh-cn/news" >资讯</a></h2>    <a href="https://mini.eastday.com:443/a/190517105624137.html?qid=02034&amp;li=BBR6DzK" >
+<img alt="曾是国家一级演员，却面临无戏可拍局面，如今拍小视频成为网红" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AABujja.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=321&amp;y=315" title="曾是国家一级演员，却面临无戏可拍局面，如今拍小视频成为网红 - 东方头条" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://mini.eastday.com:443/a/190517105624137.html?qid=02034&amp;li=BBR6DzK" >
+
+曾是国家一级演员，却面临无戏可拍局面，如今拍小视频成为网红    </a>
+
+</li>
+ <li >
+     <a href="https://3w.huanqiu.com:443/a/c93cce/7MOPF6PXZMk?agt=35&amp;li=BBR6DzK" >
+
+街拍抖音达人章若楠！全网最美女孩，网友：终于出来了！    </a>
+
+</li>
+ <li >
+     <a href="/zh-cn/news/international/%e7%bb%99%e7%b1%b3%e5%85%b0%e8%be%be%e5%8f%af%e5%84%bf%e4%b9%b0%e9%92%bb%e7%9f%b3%e3%80%81%e9%80%81%e5%8d%a1%e6%88%b4%e7%8f%8a%e6%b3%95%e6%8b%89%e5%88%a9%e2%80%a6%e2%80%a6%e8%bf%99%e4%bd%8d%e4%ba%9a%e6%b4%b2%e7%9b%96%e8%8c%a8%e6%af%94%e5%a6%82%e4%bb%8a%e5%8d%b4%e8%a2%ab%e9%80%9a%e7%bc%89%e4%ba%86%ef%bc%9f%ef%bc%81/ss-AABr4b5?li=BBR6DzK" >
+
+给米兰达可儿买钻石、送卡戴珊法拉利……这位亚洲盖茨比如今却被通缉了？！    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520131643198.html?qid=02034&amp;li=BBR6DzK" >
+
+曾是网红鼻祖，因身材走形无戏可拍，今逆袭成功人气却回不到从前    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520144958864.html?qid=02034&amp;li=BBR6DzK" >
+
+那些做网络主播的年轻女孩，最后都嫁给了谁    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/zh-cn/money" >财经</a></h2>    <a href="https://mini.eastday.com:443/a/190519194945039.html?qid=02034&amp;li=BBR75ge" >
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AABAeGi.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=181&amp;y=68" title="80后大学刚毕业就成中国首富，舍友都不知情，9年来赚到2百亿 - 东方头条" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://mini.eastday.com:443/a/190519194945039.html?qid=02034&amp;li=BBR75ge" >
+
+80后刚毕业就成中国首富 舍友都不知情    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190519233353615.html?qid=02034&amp;li=BBR75ge" >
+
+瑞幸、拼多多上市背后的砸钱金主    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520105044002.html?qid=02034&amp;li=BBR75ge" >
+
+喜茶发展存隐忧 估值被疑水分大    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520083011584.html?qid=02034&amp;li=BBR75ge" >
+
+孙正义是天才还是疯子    </a>
+
+</li>
+ <li >
+     <a href="/zh-cn/money/news/%e8%82%a1%e5%b8%82%e6%94%b6%e8%af%84-%e4%b8%89%e5%a4%a7%e8%82%a1%e6%8c%87%e8%a7%a6%e5%ba%95%e5%9b%9e%e5%8d%87-%e6%b2%aa%e6%8c%87%e5%be%ae%e8%b7%8c04percent/ar-AABCoee?li=BBR75ge" >
+
+股市收评|三大股指触底回升 沪指微跌0.4%    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/zh-cn/sports" >体育</a></h2>    <a href="/zh-cn/sports/news/71%e5%b2%81%e6%96%bd%e7%93%a6%e8%be%9b%e6%a0%bc%e9%81%ad%e9%a3%9e%e8%b8%b9%e5%ae%89%e7%84%b6%e6%97%a0%e6%81%99-%e7%bd%91%e5%8f%8b%e7%a1%ac%e6%b1%89%ef%bc%81/ar-AABCfwI?li=BBVwU1V" >
+<img alt="JOHANNESBURG, SOUTH AFRICA - MAY 18:  Arnold Schwarzenegger is seen during the A..." height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AABC846.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=254&amp;y=2396" title="Arnold Sports Festival Africa 2019 - Getty" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/zh-cn/sports/news/71%e5%b2%81%e6%96%bd%e7%93%a6%e8%be%9b%e6%a0%bc%e9%81%ad%e9%a3%9e%e8%b8%b9%e5%ae%89%e7%84%b6%e6%97%a0%e6%81%99-%e7%bd%91%e5%8f%8b%e7%a1%ac%e6%b1%89%ef%bc%81/ar-AABCfwI?li=BBVwU1V" >
+
+71岁施瓦辛格遭飞踹安然无恙 网友：硬汉！    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520105803745.html?qid=02034&amp;li=BBVwU1V" >
+
+猛龙双加时胜雄鹿！东决总比分1比2    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520091709835.html?qid=02034&amp;li=BBVwU1V" >
+
+猛料！ 湖人两大交易方案浮出水面    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520002454771.html?qid=02034&amp;li=BBVwU1V" >
+
+梅西6季进球50+ 欧洲金靴稳了!    </a>
+
+</li>
+ <li >
+     <a href="https://3w.huanqiu.com:443/a/a4d1ef/7MPfUC7EX8Q?agt=35&amp;li=BBVwU1V" >
+
+逆转绝杀纪录 中超第10轮不该错过    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/zh-cn/autos" >汽车</a></h2>    <a href="https://mini.eastday.com:443/a/190520073134626.html?qid=02034&amp;li=BBV3mC0" >
+<img alt="很多司机把汽车扔太阳底下暴晒，错！教你3招，三伏天高温也不怕" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AABABOC.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=245&amp;y=207" title="很多司机把汽车扔太阳底下暴晒，错！教你3招，三伏天高温也不怕 - 东方头条" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://mini.eastday.com:443/a/190520073134626.html?qid=02034&amp;li=BBV3mC0" >
+
+很多司机把汽车扔太阳底下暴晒，错！教你3招，三伏天高温也不怕    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520092223653.html?qid=02034&amp;li=BBV3mC0" >
+
+想买车一步到位？35万买这几款大尺寸SUV，能满足你的需求    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520041135506.html?qid=02034&amp;li=BBV3mC0" >
+
+为啥聪明人采用这样的开车姿势？    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520052252917.html?qid=02034&amp;li=BBV3mC0" >
+
+实拍红旗L5 V12 气场完胜劳斯莱斯    </a>
+
+</li>
+ <li >
+     <a href="/zh-cn/autos/news/%e8%83%bd%e8%80%85%e7%9a%84%e7%aa%81%e7%a0%b4-%e8%af%95%e9%a9%be%e5%ae%9d%e9%a9%acx1%e6%8f%92%e6%b7%b7%e9%87%8c%e7%a8%8b%e5%8d%87%e7%ba%a7%e7%89%88/ar-AABAHFq?li=BBV3mC0" >
+
+试驾宝马X1插混里程升级版    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/zh-cn/lifestyle" >生活</a></h2>    <a href="https://mini.eastday.com:443/a/190520051452346.html?qid=02034&amp;li=BBVzKv5" >
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AABAG9E.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="刘亦菲到底胖了多少？硬是将牛仔裤穿成了紧身裤，看着好尴尬 - 由 Shanghai Song Heng Network Technology Co., Ltd. 提供" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://mini.eastday.com:443/a/190520051452346.html?qid=02034&amp;li=BBVzKv5" >
+
+刘亦菲到底胖了多少？硬是将牛仔裤穿成了紧身裤，看着好尴尬    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520032717958.html?qid=02034&amp;li=BBVzKv5" >
+
+杨幂双马尾搭“女仆装”好可爱！长筒靴+小皮鞋仿佛回到20岁    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520100016298.html?qid=02034&amp;li=BBVzKv5" >
+
+巩俐获跃动她影亚洲首奖，穿金黄百褶裙和老公撒狗粮    </a>
+
+</li>
+ <li >
+     <a href="https://3w.huanqiu.com:443/a/c93cce/7MOPCkvsG3e?agt=35&amp;li=BBVzKv5" >
+
+当110斤林志玲与86斤唐嫣同穿抹胸裙，网友：看完瞬间不想减肥了    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520101247774.html?qid=02034&amp;li=BBVzKv5" >
+
+42岁赵薇实力逆袭，减肥成功显嫩不止15岁！    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/zh-cn/health" >健康</a></h2>    <a href="https://mini.eastday.com:443/a/190519102236951.html?qid=02034&amp;li=BBVA02W" >
+<img alt="夏夜跑步凉爽惬意，夜跑虽好，也得注意这些问题哦" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAByMtq.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=339&amp;y=60" title="夏夜跑步凉爽惬意，夜跑虽好，也得注意这些问题哦 - 东方头条" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://mini.eastday.com:443/a/190519102236951.html?qid=02034&amp;li=BBVA02W" >
+
+夏夜跑步凉爽惬意，夜跑虽好，也得注意这些问题哦    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520140115609.html?qid=02034&amp;li=BBVA02W" >
+
+敲重点！四个高燃脂动作，让你暴瘦30斤    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190519142226616.html?qid=02034&amp;li=BBVA02W" >
+
+54岁张曼玉街头被偶遇，素颜无眉毛弯腰驼背，女神形象一去不返    </a>
+
+</li>
+ <li >
+     <a href="https://3w.huanqiu.com:443/a/c36dc8/7MOnRnqRDY4?agt=35&amp;li=BBVA02W" >
+
+认知不足、服药依从性差仍是影响高血压治疗和控制的关键    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520105429300.html?qid=02034&amp;li=BBVA02W" >
+
+5个方法帮您预防肥胖、顺利减肥    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/zh-cn/foodanddrink" >美食</a></h2>    <a href="https://mini.eastday.com:443/a/190520111416217.html?qid=02034&amp;li=BBVA0rI" >
+<img alt="曾连续霸占日本美食大赏一位的焦糖布丁，在家也能做！" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AABBw6y.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="曾连续霸占日本美食大赏一位的焦糖布丁，在家也能做！ - 东方头条" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://mini.eastday.com:443/a/190520111416217.html?qid=02034&amp;li=BBVA0rI" >
+
+曾连续霸占日本美食大赏一位的焦糖布丁，在家也能做！    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190519164950644.html?qid=02034&amp;li=BBVA0rI" >
+
+什么品种的樱桃好吃，哪里能买到那样品种的樱桃    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520123544878.html?qid=02034&amp;li=BBVA0rI" >
+
+夏天想吃凉皮？味香麻辣、劲道爽口，色香味俱全    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190518070031496.html?qid=02034&amp;li=BBVA0rI" >
+
+饭后营养小甜品，西米露味道正宗还香醇    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190517202042195.html?qid=02034&amp;li=BBVA0rI" >
+
+这道不允许拍照的网红甜品，你吃过吗？    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/zh-cn/news/techandscience" >科技</a></h2>    <a href="https://mini.eastday.com:443/a/190507174836959.html?qid=02034&amp;li=BBVzrUA" >
+<img alt="马云花巨资打造蚂蚁森林，已经过去3年，现状看完让人不敢相信" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAB4eO8.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=2732&amp;y=592" title="Interview with Jack Ma Yun, Alibaba Group Chairman, in Hangzhou, Zhejiang Provin... - getty" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://mini.eastday.com:443/a/190507174836959.html?qid=02034&amp;li=BBVzrUA" >
+
+马云花巨资打造蚂蚁森林，已经过去3年，现状看完让人不敢相信    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190516234257549.html?qid=02034&amp;li=BBVzrUA" >
+
+腾讯员工月薪7万！？程序员看了默默流泪    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190501114456218.html?qid=02034&amp;li=BBVzrUA" >
+
+爆！马云41岁得力干将去世，你还敢996吗？    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190518113538661.html?qid=02034&amp;li=BBVzrUA" >
+
+身家地位堪比王思聪，娶了16岁初恋女友，为照顾家人曾2次隐退    </a>
+
+</li>
+ <li >
+     <a href="/zh-cn/news/technology/%e8%b5%b4%e6%97%a5%e4%b8%93%e8%ae%bf%e7%b4%a2%e5%b0%bc%e7%94%b5%e8%a7%86%e9%ab%98%e5%b1%82%e8%ae%ba%e7%94%bb%e8%b4%a8%e6%88%91%e6%9c%89x1%e6%97%97%e8%88%b0%e7%89%88%e8%8a%af%e7%89%87%ef%bc%8c%e4%bd%a0%e5%91%a2%ef%bc%9f/ar-AABw2Yw?li=BBVzrUA" >
+
+赴日专访索尼电视高层：论画质我有X1旗舰版芯片，你呢？    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/zh-cn/travel" >旅游</a></h2>    <a href="https://mini.eastday.com:443/a/190519092324815.html?qid=02034&amp;li=BBV3dvg" >
+<img alt="一个是世界公主，一个是全球男神，葬礼上他亲吻她说：我永远爱你" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AABzp65.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=319&amp;y=235" title="一个是世界公主，一个是全球男神，葬礼上他亲吻她说：我永远爱你 - 东方头条" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://mini.eastday.com:443/a/190519092324815.html?qid=02034&amp;li=BBV3dvg" >
+
+一个是世界公主，一个是全球男神，葬礼上他亲吻她说：我永远爱你    </a>
+
+</li>
+ <li >
+     <a href="https://3w.huanqiu.com:443/a/c93cce/7MKeGQvGYTu?agt=35&amp;li=BBV3dvg" >
+
+同样是老公买的豪宅，赵丽颖的豪宅，刘诗诗的豪宅，差距一目了然    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190513235301173.html?qid=02034&amp;li=BBV3dvg" >
+
+泰国街头的“神僧”，坐油锅淡定自若，网友们一眼识破：我也行    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520010437519.html?qid=02034&amp;li=BBV3dvg" >
+
+女星上演制服诱惑，郑爽女仆惹人怜爱，迪丽热巴帅气，最美的是她    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190512085010123.html?qid=02034&amp;li=BBV3dvg" >
+
+世界公认的四位美女，中国仅一人上榜，不是杨幂也不是迪丽热巴！    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2>购物</h2>    <a href="https://s.click.taobao.com/t?e=m%3D2%26s%3Dsv69o%2Bz0HNscQipKwQzePCperVdZeJviK7Vc7tFgwiFRAdhuF14FMc3GFNOTCBBilovu%2FCElQOt72ZNtR6jffSM4MletD4imhZCwv4MwXc7umujYZ%2FdoVgBXgSuv7Sv7KtseCpInTy%2FkXkdea8kgYymBZ5ZWikN7RIhXpwzXCM5Pf2BYFhAHdG52R0giPkGksd%2B%2Ff4Fhw9ZeY%2By0blbhscYl7w3%2FA2kb" >
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBVS5cA.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="天猫超市推广 - Getty" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://s.click.taobao.com/t?e=m%3D2%26s%3Dsv69o%2Bz0HNscQipKwQzePCperVdZeJviK7Vc7tFgwiFRAdhuF14FMc3GFNOTCBBilovu%2FCElQOt72ZNtR6jffSM4MletD4imhZCwv4MwXc7umujYZ%2FdoVgBXgSuv7Sv7KtseCpInTy%2FkXkdea8kgYymBZ5ZWikN7RIhXpwzXCM5Pf2BYFhAHdG52R0giPkGksd%2B%2Ff4Fhw9ZeY%2By0blbhscYl7w3%2FA2kb" >
+
+天猫超市 | 天天特价，一站式购齐你的生活所需    </a>
+
+</li>
+ <li >
+     <a href="https://www.msn.cn/zh-cn/news/technology/%e2%80%9c%e8%b6%85%e4%b8%aa%e6%80%a7%e2%80%9d%e5%be%ae%e8%bd%af%e6%a1%8c%e9%9d%a2%e5%b8%a6%e6%9d%a5%e6%97%a0%e7%bc%9d%e8%b7%a8%e8%ae%be%e5%a4%87%e4%bd%93%e9%aa%8c%EF%BC%8C%e5%bf%ab%e6%9d%a5%e8%af%95%e8%af%95%e5%90%a7%EF%BC%81/ar-AAAVt5t" >
+
+“超个性”微软桌面带来无缝跨设备体验，快来试试吧！    </a>
+
+</li>
+ <li >
+     <a href="https://s.click.taobao.com/t?e=m%3D2%26s%3Di18V0Yzq6T8cQipKwQzePCperVdZeJviK7Vc7tFgwiFRAdhuF14FMU890EOQMzI%2FJ1gyddu7kN972ZNtR6jffSM4MletD4imhZCwv4MwXc6%2B0QjwQJlvMwBXgSuv7Sv7KtseCpInTy%2FkXkdea8kgYymBZ5ZWikN7RIhXpwzXCM5Pf2BYFhAHdJ4%2BXaYh9a5aJPwiig1bxLPGDF1NzTQoPw%3D%3D" >
+
+天猫国际 | 海量爆款天天特价    </a>
+
+</li>
+ <li >
+     <a href="/zh-cn/news/other/%e9%ab%98%e7%a7%91%e6%8a%80%e6%8a%a4%e7%9c%bc%e5%8f%b0%e7%81%af%e6%9d%a5%e8%a2%ad%ef%bc%8c%e5%bf%8d%e4%b8%8d%e4%bd%8f%e8%a6%81%e5%85%a5%e6%89%8b%e4%ba%86%ef%bc%81/ss-BBS5TPi?li=BBQTBmA" >
+
+高科技护眼台灯来袭，忍不住要入手了！    </a>
+
+</li>
+ <li >
+     <a href="/zh-cn/news/other/%e6%98%a5%e5%ad%a3%e6%8b%af%e6%95%91%e8%82%8c%e8%82%a4%e5%a4%a7%e4%bd%9c%e6%88%98%ef%bc%81%e4%b9%9d%e6%ac%be%e9%9d%a2%e8%86%9c%e5%8a%a9%e4%bd%a0%e4%b8%80%e8%87%82%e4%b9%8b%e5%8a%9b/ss-BBS2NHu?li=BBQTBmA" >
+
+春季拯救肌肤大作战！九款面膜助你一臂之力    </a>
+
+</li>
+ </ul>
+
+</div>
+
+ 
+</div>
+<div id="aside"  data-region="aside">
+ 
+</div>
+<div id="nav">
+ <ul class="verticalsnav">
+ <li  class="current">
+<a href="/zh-cn">主页</a>
+</li>
+ <li >
+<a href="/zh-cn/news">资讯</a>
+</li>
+ <li >
+<a href="/zh-cn/weather">天气</a>
+</li>
+ <li >
+<a href="/zh-cn/entertainment">娱乐</a>
+</li>
+ <li >
+<a href="/zh-cn/lifestyle">生活</a>
+</li>
+ <li >
+<a href="/zh-cn/money">财经</a>
+</li>
+ <li >
+<a href="/zh-cn/sports">体育</a>
+</li>
+ <li >
+<a href="/zh-cn/autos">汽车</a>
+</li>
+ <li >
+<a href="/zh-cn/health">健康</a>
+</li>
+ <li >
+<a href="/zh-cn/foodanddrink">美食</a>
+</li>
+ <li >
+<a href="/zh-cn/travel">旅游</a>
+</li>
+ </ul>
+</div>
+ </div>
+<div id="foot">
+<div> <a href="https://www.microsoft.com/zh-cn/">&#169; 2019 Microsoft</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkId=521839">隐私与 Cookie</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkID=246338">使用条款</a>
+ <a href="https://choice.microsoft.com/">微软广告</a>
+ <a href="https://jfe.qualtrics.com/form/SV_d4ir2X6Zkgjw0rb">反馈</a>
+ <a href="/zh-cn/">京ICP备10036305号</a>
+ <a href="https://aka.ms/msncncontact">商务合作</a>
+ <a href="https://go.microsoft.com/fwlink/?linkid=875132">广告</a>
+</div>
+</div>
+  <div>
+ <img src="//c.msn.cn/c.gif?udc=true&amp;rid=07adfe94ae2842c8b28336fd69acf080&amp;rnd=636939548704236432&amp;rf=&amp;tp=http%253A%252F%252Fwww.msn.cn%252Fzh-cn%252F%253Fli%253DBBR6DzK&amp;di=19579&amp;lng=zh-cn&amp;activityId=07adfe94ae2842c8b28336fd69acf080&amp;d.dgk=downlevel.pc&amp;d.imd=0&amp;st.dpt=&amp;st.sdpt=&amp;subcvs=homepage&amp;pg.n=startpage&amp;pg.t=hp&amp;pg.c=&amp;pg.p=prime&amp;anoncknm=&amp;issso=0&amp;aadState=0" alt="image beacon" width="1" height="1" /><img src="//sb.scorecardresearch.com/p?c1=2&amp;c2=3000001&amp;cs_ucfr=1&amp;rn=636939548704236432&amp;c7=http%253A%252F%252Fwww.msn.cn%252Fzh-cn%252F%253Fli%253DBBR6DzK&amp;c8=&amp;c9=" alt="image beacon" width="1" height="1" /><img src="//otf.msn.cn/c.gif?js=0&amp;evt=impr&amp;di=19579&amp;pi=&amp;ps=&amp;su=http%253A%252F%252Fwww.msn.cn%252Fzh-cn%252F%253Fli%253DBBR6DzK&amp;mkt=zh-cn&amp;pp=False&amp;cv.partner=&amp;cv.publcat=&amp;st.dpt=&amp;st.sdpt=&amp;dv.Title1=&amp;cts=636939548704236432&amp;rf=&amp;rid=07adfe94ae2842c8b28336fd69acf080&amp;cvs=Browser&amp;subcvs=homepage&amp;cv.entityId=&amp;cv.entitySrc=&amp;provid=&amp;ar=0&amp;d.dgk=downlevel.pc&amp;d.imd=0&amp;cv.parentId=BBR6DzK&amp;isCorePV=&amp;pgIdx=&amp;pgTot=&amp;activityId=07adfe94ae2842c8b28336fd69acf080&amp;pm=&amp;pg.n=startpage&amp;pg.t=hp&amp;pg.c=&amp;pg.p=prime&amp;anoncknm=&amp;issso=0&amp;ex=&amp;aadState=0" alt="image beacon" width="1" height="1" />
+</div>
+
+ 
+     <script>
+        require(["headData", "pageInstance", "mediator", "c.deferred"], function (headData, pageInstance, mediator)
+        {
+        var url = '//www.bizographics.com/collect/?fmt=gif&pid=7850';
+        if (headData && headData.clientSettings && headData.clientSettings.static_page)
+        {
+            mediator.pub(pageInstance.eventName);
+            var rid = pageInstance.getActivityId();
+            url = url.replace(/([?&]rid=)[^&#]*/i, "$1" + rid);
+            }
+        new Image().src = url.replace(/&amp;/g, '&');
+    });
+    </script>
+    <noscript>
+        <div>
+            <img data-src="//www.bizographics.com/collect/?fmt=gif&amp;pid=7850&amp;ts=noscript" width="1" height="1" alt="" />
+        </div>
+    </noscript>
+
+ 
+</body>
+ <!--MSNAvailToken--></html>
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE HTML PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.2//EN" "http://www.openmobilealliance.org/tech/DTD/xhtml-mobile12.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-CN" dir="ltr">
+
+<head>
+ <!-- data-info:v:20190510_15856779;a:e132d69a-c799-4045-8c6e-8b40303b62cb;cn:15;az:{did:e676481d24d242d2bf61dbf23bf32fe6, rid: 15, sn: easia-prod-hp, dt: 2019-05-08T00:07:02.8156052Z, bt: 2019-05-10T23:14:20.2330019Z};ddpi:1;dpio:;dpi:1;dg:downlevel.pc;th:start;PageName:startPage;m:zh-cn;cb:;l:zh-cn;mu:zh-cn;ud:{cid:,vk:homepage,n:,l:zh-cn,ck:};xd:AAF5Fe;ovc:f;al:;fxd:f;xdpub:2019-05-03 02:01:03Z;xdmap:2019-05-20 13:14:25Z;axd:;f:gholdout,muidflt51cf,muidflt299cf;userOptOut:false;userOptOutOptions: -->
+ 
+ <link rel="canonical" href="http://www.msn.cn/zh-cn/" />
+ 
+
+ <title>MSN 中国</title>
+ <meta name="description" content="MSN中国提供最新的国内、国际、娱乐，科技，体育，财经，健康，健身，生活，美食， 旅游等资讯。"/>
+ 
+<meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1" />
+ <link rel="stylesheet" href="//static-global-s-msn-com.akamaized.net/hp-eas/zh-cn/homepage/_sc/css/b443689a-9ba8c85c/direction=ltr.locales=zh-cn.themes=start.dpi=resolution1x/42-b8ee35-4e3b0a9b/90-67c322-ee5f2b10/2a-1f1669-a46408a9/9b-ba6b1f-f94d3276/ab-52fe22-a648eab2/86-b413d7-63b61fa3/d1-7801d5-68ddb2ab/7a-660b57-4534563a/75-a00681-654638bf/35-e52796-da4f6698?ver=20190510_15856779&amp;fdhead=gholdout,muidflt51cf,muidflt299cf&amp;csopd=20190501174254&amp;csopdb=20190502232315" type="text/css" media="all" />
+ <script type="text/javascript">//<![CDATA[
+(function(n,t){function h(n,i,r){typeof n!="string"&&(r=i,i=n,n=t);i&&i.splice||(r=i,i=[]);n==it?a=!0:n==rt&&(v=!0);l(n,i,r,!1,!1)}function l(n,t,i,r,f,e){var s,y;if(!n||!c[n]){var h=ot(n,t),o=h.dependencyNotFound,l=h.resolved;if(o){typeof u[o]=="undefined"&&(u[o]=[]);u[o].push(e||{i:n,d:t,f:i,r:r,s:f});return}s=typeof i=="function";y=v&&a&&s&&!f;y?et(n,i,l,r):ft(s,n,i,l,r)}}function ft(n,t,i,r,u){var f;f=n?i.apply(null,r):i;d(t,f,u)}function et(n,t,i,r){setTimeout(function(){var u=t.apply(null,i);d(n,u,r)},1)}function d(t,i,r){r&&(i={});t&&(i?(c[t]=i,f.push(t),g()):n.console&&console.error("Dependencies resolved, but object still not defined (or is otherwise falsey). id:"+t+"; typeof obj: "+typeof i))}function g(){var t,s,h,i,o,c,r,n;if(e)e&&(e=2);else{t=[];do{for(e=1,h=f.length,i=0;i<h;i++)o=f[i],c=u[o]||[],t=t.concat(c),delete u[o];for(f=[],s=t.length,r=0;r<s;r++)n=t[r],l(n.i,n.d,n.f,n.r,n.s,n);t=[]}while(e>1);e=0}}function ot(n,t){for(var e,i=[],r,o=t?t.length:0,u=0;u<o;u++){var f=t[u],s=c[f],h=typeof s!="undefined";if(!h){if(e=st(n,f),e){i.push(e);continue}r||(r=f);break}i.push(s)}return o===i.length?{resolved:i}:{dependencyNotFound:r}}function st(i,r){var f=k.exec(r),e,u;if(f){if(e=f[1],u=n[e],u!==t)return u;s||(s=setTimeout(nt,w))}}function nt(){var i,r,e,o,h;s=0;i=!1;for(r in u)e=k.exec(r),e&&(o=e[1],h=n[o],h!==t?f.push(r):i=!0);i&&!s&&(s=setTimeout(nt,w));f.length&&g()}function ht(n,t,i){if((typeof n!="object"||n&&n.splice)&&(i=t,t=n,n={}),t&&t.splice||(i=t,t=[]),ct(n.js),i){var r,u=n.synchronous||!1;l(r,t,i,!0,u)}}function ct(n){if(typeof n=="string")tt(n);else if(n)for(var t=0;t<n.length;t++)tt(n[t])}function tt(n){if(!b[n]){b[n]=1;var i=o.getElementsByTagName("script")[0],t=o.createElement("script");t.src=n;t.onload=t.onreadystatechange=function(){this.readyState&&this.readyState!="loaded"&&this.readyState!="complete"||(t.onload=t.onreadystatechange=null,t.parentNode&&t.parentNode.removeChild(t))};i.parentNode.insertBefore(t,i)}}function lt(n){return ut?n?i.now():Math.round(i.now()):new Date-y}var it=n._jsLoaderAsyncCanary||"c.dom",rt="c.pageReveal",a=!1,v=typeof n._jsLoaderRevealMode=="undefined"?!0:n._jsLoaderRevealMode,i=n.performance,ut=i&&typeof i.now=="function",r=" ----- ",y=((i||{}).timing||{}).navigationStart||+new Date,o=n.document,p=null;try{p=n.localStorage}catch(at){}var c={date:Date,document:o,image:n.Image,localStorage:p,location:o&&o.location,navigator:navigator,pageStart:y,pageTime:lt,screen:n.screen,window:n},u={},f=[],e,w=50,s,b={},k=/^window\.(.+)$/;h.amd={jQuery:1};h.is=function(n){return typeof c[n]!="undefined"};n.define=h;n.require=ht;h.showUserMarks=function(){var n=["Mark Name"+r+"Start time in ms"];return i.getEntriesByType("mark").forEach(function(t){n.push(t.name+r+t.startTime+"ms")}),n.join("\n")};h.showUserMeasures=function(){var n=["Measure name"+r+"Start time in ms"+r+"Duration in ms"];return i.getEntriesByType("measure").forEach(function(t){n.push(t.name+r+t.startTime+"ms"+r+t.duration+"ms")}),n.join("\n")}})(window);define("navigation",["escape","location","document"],function(n,t,i){function o(t,i,r){var u=t[i],e,f;if(!u||u.length===0)return"";for(e="",f=0;f<u.length;f++)u[f]&&(e=e+r+i+"="+n.urlPart(u[f]),r==="?"&&(r="&"));return e}function u(n,t,i){var s=function(n){return n=n.replace(/\+/g," "),decodeURIComponent(n)},u={},o,e;if(n)for(n=n.split("#")[0],o=n.split("&"),e=0;e<o.length;e++){var h=o[e].split("="),r=h[0],f=h[1];i&&(r=s(r),f&&(f=s(f)));t||r==="item"?(u[r]||(u[r]=[]),u[r].push(f)):u[r]=f}return u}function f(n){var t=i.createElement("a");return t.href=n,{protocol:t.protocol,host:t.host,hostName:t.hostname,port:t.port,path:t.pathname,hash:t.hash,query:t.search,origin:t.origin}}function e(n){return f(n).hostName}var r={getUrl:function(n){return r.filter?r.filter(n):n},navigate:function(n,i){r.filter&&(n=r.filter(n));i?t.replace(n):t.href=n},getHostName:e,parseUrl:f,isLocal:function(n){var i=e(n);return!i||t.hostname==i},getParams:u,getParamsFromUrl:function(n,t,i){var r=n.split("?")[1];return u(r,t,i)},mergeQueryStringParams:function(t,i){var s,f,e,h,r,c;if(i){if(s=t.split("?"),s[1]){f=u(s[1],!1,!0);for(r in i)f[r]=i[r]}else f=i;t=s[0];e="?";h="item";for(r in f)r!==h&&(t+=f[r]?e+n.urlPart(r)+"="+n.urlPart(f[r]):e+n.urlPart(r),e==="?"&&(e="&"));c=o(f,h,e);t=t+c}return t},filter:null};return r});define("logging",["window"],function(n){function r(n,t){if(n.addEventListener)n.addEventListener("error",t,!1);else if(n.onerror){var i=n.onerror;n.onerror=function(n,r,u,f,e){return i(n,r,u,f,e),t(n,r,u,f,e)}}else n.onerror=t}function t(t){n.console&&(console.error||console.log)(t)}function u(){}function f(){}function e(t){(n.console||{}).timeStamp?console.timeStamp(t):(n.performance||{}).mark&&n.performance.mark(t)}var i=0;return r(n,function(n){return i++,n&&t("[SCRIPTERROR] "+n),!0}),{error:t,fatalError:t,unhandledErrorCount:function(){return i},perfMark:e,warning:u,information:f}})//]]></script><script type="text/javascript" src="//static-global-s-msn-com.akamaized.net/hp-eas/_h/4c59fa2c/webcore/externalscripts/jquery/jquery-1.11.1.min.js"></script>
+ 
+ <style>@media screen and (max-width:78.99em) and (min-width:58.875em){.layout-none:not(.mod1) .pos2{left:0}}.ie8 .grid .pick4~li.pick{display:none}.todaystripe .todayshowcasead:hover{opacity:1}.spartan #main .paging-container.snap{overflow-x:hidden}#addRemoveSectionsModalContainer #addRemoveSectionsModal{display:block}.tmx.mobile .superbowl .matchupstripe{margin:0 auto}.stripecontainer .stripeouter.noborder{height:33.7rem}html[dir='rtl'] .ie8 .mip>ul>li.triptych h3+a{border-right:0}html[dir='ltr'] .ie8 .mip>ul>li.triptych h3+a{border-left:0}.meflyouts .integratedskype .signin>ul li:first-child{display:none}.tmx.pc.webkit.chrome .stripecontent ul{overflow-x:hidden}.meflyouts .bingrewards{display:none}.mobile .galleryinfo .img-divider{display:none}.homepage.tmx.pc.chrome #main .one-col,.homepage.tmx.pc.chrome #main .two-col,.homepage.tmx.pc.chrome #main .three-col{margin-right:-.016rem;margin-left:-.016rem}.homepage.midlevel .pagingsection>button.show,.channelplayerpage.midlevel .pagingsection>button.show{display:none}.settings.start.tmx.pc .globalsettings .social.twitter{display:none}</style>
+</head>
+
+<body class="startpage sp center-content start">
+ 
+
+
+<div class="head">
+<div>
+<div id="topnav">
+ <ul class="verticalsnav">
+ <li  class="current">
+<a href="/zh-cn">主页</a>
+</li>
+ <li >
+<a href="/zh-cn/news">资讯</a>
+</li>
+ <li >
+<a href="/zh-cn/weather">天气</a>
+</li>
+ <li >
+<a href="/zh-cn/entertainment">娱乐</a>
+</li>
+ <li >
+<a href="/zh-cn/lifestyle">生活</a>
+</li>
+ <li >
+<a href="/zh-cn/money">财经</a>
+</li>
+
+ <li class="more">
+<a href="#nav">更多 ></a>
+<ul>
+ <li >
+<a href="/zh-cn/sports">体育</a>
+</li>
+ <li >
+<a href="/zh-cn/autos">汽车</a>
+</li>
+ <li >
+<a href="/zh-cn/health">健康</a>
+</li>
+ <li >
+<a href="/zh-cn/foodanddrink">美食</a>
+</li>
+ <li >
+<a href="/zh-cn/travel">旅游</a>
+</li>
+ </ul>
+</li>
+ </ul>
+</div>
+  <div id="header-common">
+<div class="header">
+<div class="header-logo">
+  <a class="logo" href="/zh-cn" tabindex="2">
+ 
+
+<img alt="" height="20" width="20" src="//static-global-s-msn-com.akamaized.net/hp-eas/sc/82/c22c7d.gif" />
+</a>
+ <a class="vertical" href="/zh-cn" tabindex="2">msn</a>
+
+
+
+</div>
+<div id="header-links">
+ <a href="http://www.outlook.com/">Outlook.com</a>
+ <span>|</span>
+ <a href="/zh-cn/settings/markettoggle"><img alt="zh-cn" src="//static-global-s-msn-com.akamaized.net/hp-eas/sc/6a/a62410.gif" /></a>
+
+<a class="navigation" href="#nav">
+<img  alt="转到导航" width="27" height="20" src="//static-global-s-msn-com.akamaized.net/hp-eas/sc/57/a49b8d.gif" />
+                    </a>
+                </div>
+            </div>
+        </div>
+
+ 
+<div id="header-search">
+<form action="http://www.bing.com/search?scope=web" method="get" id="srchfrm">
+<div class="searchbox">
+<input type="text" id="q" name="q" value="" />
+<input type="hidden" name="form" value="PRCNDL" />
+  <input type="hidden" name="httpsmsn" value="1">
+   <input type="hidden" name="refig" value="e132d69ac79940458c6e8b40303b62cb">
+<input type="submit" class="text" value="网页搜索" title="网页搜索"/>
+ </div>
+</form>
+</div>
+
+</div>
+ 
+ 
+<div class="upgradebrowser">
+ 您正在使用较旧版本的浏览器。为了获得最佳 MSN 中文网体验，请使用<a href="http://support2.microsoft.com/kb/2999871/zh-cn">受支持的版本</a>。
+</div>
+
+
+
+</div>
+<div id="maincontent">
+ 
+<div id="main"  data-region="main">
+ 
+
+ 
+ <div class="today">
+
+
+	<div class="weatodaytile"  data-module-id="startpage|todayDownlevel|section|DownlevelMiniWeather|WeatherTodayTileModule"   data-aop="todayweathersd_weathertodaythreedaystilemodule">
+<a  href="/zh-cn/weather/today/%e5%8c%97%e4%ba%ac,%e4%b8%ad%e5%9b%bd%e5%a4%a7%e9%99%86/we-city?iso=CN&amp;el=Qo7cgUA39x8740M6IfRpiQ%3D%3D" data-loc="lat=39.91&amp;long=116.39&amp;c=%E5%8C%97%E4%BA%AC&amp;cn=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86&amp;iso=CN&amp;type=1">
+<div class="weatileleft">
+<img class="skycond" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB8MNzQ.img?m=6&amp;o=true&amp;u=true&amp;n=true&amp;w=40&amp;h=40"
+
+data-src="{&quot;default&quot;:&quot;//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB8MNzQ.img?m=6&amp;o=true&amp;u=true&amp;n=true&amp;w=40&amp;h=40&quot;}"
+alt="晴" title="晴" data-icon="28" />
+	<div><span class="currentcond">20&#176;</span><span class="tempunit">C</span></div>
+</div>
+<div class="weatileright">
+<span class="weacity">北京</span>
+<span class="skytext">今日, 晴</span>
+<span class="tempavghigh">高温 31&#176;</span>
+<span class="tempavglow">低温 13&#176;</span>
+</div>
+	</a>
+
+ <div class="edit"  data-aop="change">
+<a class="edithome" href="#" aria-label="更改位置或温度单位" data-degreetype="C" 
+data-home="搜索位置/城市" title="更改">更改</a>
+</div>
+<div class="weapopup" role="dialog" aria-labelledby="weaaddlocation-label"  data-aop="editweatherflyout"  data-region="editweatherflyout">
+<div class="weaddn wpopbg"></div>
+<div class="weaddn wpopctn">
+<a class="close"  role="button" href="#" title="关闭">关闭</a>
+ 
+
+<div class="weaaddlocation">
+
+<form  action="/zh-cn/weather/search" data-action="/zh-cn/weather/ajax/places/search/" method="get"  class="nogps">
+ 
+<p class="label" id="weaaddlocation-label">设置默认位置</p>
+<div class="add-loc-as-container">
+<input name="q" class="query" accesskey="L" autocomplete="off" type="search" aria-autocomplete="list"
+value="" maxlength="250" data-auto-suggest-settings='{&quot;market&quot;:&quot;zh-cn&quot;,&quot;mode&quot;:&quot;AS&quot;,&quot;baseurl&quot;:&quot;/zh-cn/weather/today&quot;,&quot;action&quot;:&quot;sethome&quot;,&quot;method&quot;:&quot;custom&quot;,&quot;selector&quot;:&quot;.weaaddlocation&quot;,&quot;urltype&quot;:&quot;GeoLocation&quot;,&quot;formcode&quot;:&quot;&quot;,&quot;lat&quot;:30.6458,&quot;lon&quot;:104.084}'
+                   placeholder="搜索位置/城市" data-seemoretext="按 &lt;Enter&gt; 查看更多内容" data-autosuggestdelay="100"
+                   aria-label="搜索位置/城市"  />
+<button type="submit" title ="搜索" class="searchbtn" 
+  aria-label="搜索">
+<span class="x-screen-reader">搜索</span>               
+            </button>
+        </div>
+        <div class="nolocerr" aria-live="assertive" data-message="无 &#39;{0}&#39; 相关结果"></div>
+<div class="errmsg" aria-hidden="true" data-error-in-service-message="发生意外错误，请重试。"></div>
+<div class="suggestmsg"></div>
+<div class="autosuggestresults" ></div>
+ 
+</form>
+</div>
+
+ 
+
+
+
+<button  class="donebutton disabled" disabled="disabled" title="完成">完成</button>
+</div>
+</div>
+	</div>
+ </div>
+ <div class="stripe first">
+<h2>今天</h2>    <a href="https://mini.eastday.com:443/a/190518151434139.html?qid=02034&amp;li=BBOXPUT" >
+<img alt="范冰冰赵薇一辈子不忘的男人，参加葬礼时， 范冰冰几乎情绪失控" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AABxDgv.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=472&amp;y=209" title="范冰冰赵薇一辈子不忘的男人，参加葬礼时， 范冰冰几乎情绪失控 - 东方头条" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://mini.eastday.com:443/a/190518151434139.html?qid=02034&amp;li=BBOXPUT" >
+
+范冰冰赵薇一辈子不忘的男人，参加葬礼时， 范冰冰几乎情绪失控    </a>
+
+</li>
+ <li >
+     <a href="/zh-cn/money/news/%e6%9d%83%e6%b8%b8%e5%a4%a7%e7%bb%93%e5%b1%80%e5%9b%bd%e5%86%85%e6%97%a0%e6%b3%95%e4%b8%8a%e7%ba%bf-%e7%bd%91%e5%8f%8b%e8%85%be%e8%ae%af%e6%80%95%e6%88%91%e4%bb%ac%e7%bf%98%e7%8f%ad%e5%90%97%ef%bc%9f/ar-AABBMzz?li=BBOXPUT" >
+
+权游大结局国内无法上线 网友：腾讯怕我们翘班吗？    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520122331372.html?qid=02034&amp;li=BBOXPUT" >
+
+中国男篮世界杯12人名单竞争惨烈，阿不都沙拉木一优势打动李楠    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190411204946394.html?qid=02034&amp;li=BBOXPUT" >
+
+因丑闻在韩国待不下去，来到中国却爆红，还被网友称第一美女    </a>
+
+</li>
+ <li >
+     <a href="https://3w.huanqiu.com:443/a/c93cce/7MHX4AfePE4?agt=35&amp;li=BBOXPUT" >
+
+《美国队长3》中唯一的中国演员，却只两秒镜头，心酸又伟大    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/zh-cn/entertainment" >娱乐</a></h2>    <a href="https://mini.eastday.com:443/a/190519135204444.html?qid=02034&amp;li=BBVBIuQ" >
+<img alt="曾把胡歌“吻”到吐的她，机场穿波点裙现身，腰身粗壮胖到认不出" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AABzqUm.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=219&amp;y=68" title="曾把胡歌“吻”到吐的她，机场穿波点裙现身，腰身粗壮胖到认不出 - 东方头条" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://mini.eastday.com:443/a/190519135204444.html?qid=02034&amp;li=BBVBIuQ" >
+
+曾把胡歌“吻”到吐的她，机场穿波点裙现身，腰身粗壮胖到认不出    </a>
+
+</li>
+ <li >
+     <a href="/zh-cn/entertainment/entertainmentnews/%e5%8e%9f%e6%9d%a5%e8%bf%99%e6%89%8d%e6%98%af%e3%80%8a%e6%9d%83%e6%b8%b8%e3%80%8b%e7%ac%ac%e5%85%ab%e5%ad%a3%e6%9c%80%e5%a4%a7%e7%9c%8b%e7%82%b9%ef%bc%81%e5%a4%a7%e7%bb%93%e5%b1%80%e5%9c%a8%e5%9b%bd%e5%86%85%e6%92%ad%e5%87%ba%e7%ab%9f%e7%84%b6%e6%98%af%e8%bf%99%e6%a0%b7%e2%80%a6%e2%80%a6%ef%bc%81%ef%bc%9f/ar-AABxGV5?li=BBVBIuQ" >
+
+原来这才是《权游》第八季最大看点！大结局在国内播出竟然是这样……！？    </a>
+
+</li>
+ <li >
+     <a href="http://ex.chinadaily.com.cn:80/exchange/partners/82/rss/channel/language/columns/v0m20b/stories/WS5ce1fd7ca3104842260bc8a1.html?li=BBVBIuQ" >
+
+对剧情不满 权游剧迷请愿重拍第八季    </a>
+
+</li>
+ <li >
+     <a href="https://3w.huanqiu.com:443/a/c93cce/7MPm5unFznW?agt=35&amp;li=BBVBIuQ" >
+
+六小龄童开始卖东西了，价格昂贵遭网友吐槽：别把情怀当成买卖    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520074736586.html?qid=02034&amp;li=BBVBIuQ" >
+
+沈腾，我年轻帅到认不出, 黄磊， 我当年堪比校草, 沙溢: 你们聊    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/zh-cn/news" >资讯</a></h2>    <a href="https://mini.eastday.com:443/a/190517105624137.html?qid=02034&amp;li=BBR6DzK" >
+<img alt="曾是国家一级演员，却面临无戏可拍局面，如今拍小视频成为网红" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AABujja.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=321&amp;y=315" title="曾是国家一级演员，却面临无戏可拍局面，如今拍小视频成为网红 - 东方头条" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://mini.eastday.com:443/a/190517105624137.html?qid=02034&amp;li=BBR6DzK" >
+
+曾是国家一级演员，却面临无戏可拍局面，如今拍小视频成为网红    </a>
+
+</li>
+ <li >
+     <a href="https://3w.huanqiu.com:443/a/c93cce/7MOPF6PXZMk?agt=35&amp;li=BBR6DzK" >
+
+街拍抖音达人章若楠！全网最美女孩，网友：终于出来了！    </a>
+
+</li>
+ <li >
+     <a href="/zh-cn/news/international/%e7%bb%99%e7%b1%b3%e5%85%b0%e8%be%be%e5%8f%af%e5%84%bf%e4%b9%b0%e9%92%bb%e7%9f%b3%e3%80%81%e9%80%81%e5%8d%a1%e6%88%b4%e7%8f%8a%e6%b3%95%e6%8b%89%e5%88%a9%e2%80%a6%e2%80%a6%e8%bf%99%e4%bd%8d%e4%ba%9a%e6%b4%b2%e7%9b%96%e8%8c%a8%e6%af%94%e5%a6%82%e4%bb%8a%e5%8d%b4%e8%a2%ab%e9%80%9a%e7%bc%89%e4%ba%86%ef%bc%9f%ef%bc%81/ss-AABr4b5?li=BBR6DzK" >
+
+给米兰达可儿买钻石、送卡戴珊法拉利……这位亚洲盖茨比如今却被通缉了？！    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520131643198.html?qid=02034&amp;li=BBR6DzK" >
+
+曾是网红鼻祖，因身材走形无戏可拍，今逆袭成功人气却回不到从前    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520144958864.html?qid=02034&amp;li=BBR6DzK" >
+
+那些做网络主播的年轻女孩，最后都嫁给了谁    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/zh-cn/money" >财经</a></h2>    <a href="https://mini.eastday.com:443/a/190519194945039.html?qid=02034&amp;li=BBR75ge" >
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AABAeGi.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=181&amp;y=68" title="80后大学刚毕业就成中国首富，舍友都不知情，9年来赚到2百亿 - 东方头条" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://mini.eastday.com:443/a/190519194945039.html?qid=02034&amp;li=BBR75ge" >
+
+80后刚毕业就成中国首富 舍友都不知情    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190519233353615.html?qid=02034&amp;li=BBR75ge" >
+
+瑞幸、拼多多上市背后的砸钱金主    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520105044002.html?qid=02034&amp;li=BBR75ge" >
+
+喜茶发展存隐忧 估值被疑水分大    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520083011584.html?qid=02034&amp;li=BBR75ge" >
+
+孙正义是天才还是疯子    </a>
+
+</li>
+ <li >
+     <a href="/zh-cn/money/news/%e8%82%a1%e5%b8%82%e6%94%b6%e8%af%84-%e4%b8%89%e5%a4%a7%e8%82%a1%e6%8c%87%e8%a7%a6%e5%ba%95%e5%9b%9e%e5%8d%87-%e6%b2%aa%e6%8c%87%e5%be%ae%e8%b7%8c04percent/ar-AABCoee?li=BBR75ge" >
+
+股市收评|三大股指触底回升 沪指微跌0.4%    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/zh-cn/sports" >体育</a></h2>    <a href="/zh-cn/sports/news/71%e5%b2%81%e6%96%bd%e7%93%a6%e8%be%9b%e6%a0%bc%e9%81%ad%e9%a3%9e%e8%b8%b9%e5%ae%89%e7%84%b6%e6%97%a0%e6%81%99-%e7%bd%91%e5%8f%8b%e7%a1%ac%e6%b1%89%ef%bc%81/ar-AABCfwI?li=BBVwU1V" >
+<img alt="JOHANNESBURG, SOUTH AFRICA - MAY 18:  Arnold Schwarzenegger is seen during the A..." height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AABC846.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=254&amp;y=2396" title="Arnold Sports Festival Africa 2019 - Getty" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/zh-cn/sports/news/71%e5%b2%81%e6%96%bd%e7%93%a6%e8%be%9b%e6%a0%bc%e9%81%ad%e9%a3%9e%e8%b8%b9%e5%ae%89%e7%84%b6%e6%97%a0%e6%81%99-%e7%bd%91%e5%8f%8b%e7%a1%ac%e6%b1%89%ef%bc%81/ar-AABCfwI?li=BBVwU1V" >
+
+71岁施瓦辛格遭飞踹安然无恙 网友：硬汉！    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520105803745.html?qid=02034&amp;li=BBVwU1V" >
+
+猛龙双加时胜雄鹿！东决总比分1比2    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520091709835.html?qid=02034&amp;li=BBVwU1V" >
+
+猛料！ 湖人两大交易方案浮出水面    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520002454771.html?qid=02034&amp;li=BBVwU1V" >
+
+梅西6季进球50+ 欧洲金靴稳了!    </a>
+
+</li>
+ <li >
+     <a href="https://3w.huanqiu.com:443/a/a4d1ef/7MPfUC7EX8Q?agt=35&amp;li=BBVwU1V" >
+
+逆转绝杀纪录 中超第10轮不该错过    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/zh-cn/autos" >汽车</a></h2>    <a href="https://mini.eastday.com:443/a/190520073134626.html?qid=02034&amp;li=BBV3mC0" >
+<img alt="很多司机把汽车扔太阳底下暴晒，错！教你3招，三伏天高温也不怕" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AABABOC.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=245&amp;y=207" title="很多司机把汽车扔太阳底下暴晒，错！教你3招，三伏天高温也不怕 - 东方头条" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://mini.eastday.com:443/a/190520073134626.html?qid=02034&amp;li=BBV3mC0" >
+
+很多司机把汽车扔太阳底下暴晒，错！教你3招，三伏天高温也不怕    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520092223653.html?qid=02034&amp;li=BBV3mC0" >
+
+想买车一步到位？35万买这几款大尺寸SUV，能满足你的需求    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520041135506.html?qid=02034&amp;li=BBV3mC0" >
+
+为啥聪明人采用这样的开车姿势？    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520052252917.html?qid=02034&amp;li=BBV3mC0" >
+
+实拍红旗L5 V12 气场完胜劳斯莱斯    </a>
+
+</li>
+ <li >
+     <a href="/zh-cn/autos/news/%e8%83%bd%e8%80%85%e7%9a%84%e7%aa%81%e7%a0%b4-%e8%af%95%e9%a9%be%e5%ae%9d%e9%a9%acx1%e6%8f%92%e6%b7%b7%e9%87%8c%e7%a8%8b%e5%8d%87%e7%ba%a7%e7%89%88/ar-AABAHFq?li=BBV3mC0" >
+
+试驾宝马X1插混里程升级版    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/zh-cn/lifestyle" >生活</a></h2>    <a href="https://mini.eastday.com:443/a/190520051452346.html?qid=02034&amp;li=BBVzKv5" >
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AABAG9E.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="刘亦菲到底胖了多少？硬是将牛仔裤穿成了紧身裤，看着好尴尬 - 由 Shanghai Song Heng Network Technology Co., Ltd. 提供" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://mini.eastday.com:443/a/190520051452346.html?qid=02034&amp;li=BBVzKv5" >
+
+刘亦菲到底胖了多少？硬是将牛仔裤穿成了紧身裤，看着好尴尬    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520032717958.html?qid=02034&amp;li=BBVzKv5" >
+
+杨幂双马尾搭“女仆装”好可爱！长筒靴+小皮鞋仿佛回到20岁    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520100016298.html?qid=02034&amp;li=BBVzKv5" >
+
+巩俐获跃动她影亚洲首奖，穿金黄百褶裙和老公撒狗粮    </a>
+
+</li>
+ <li >
+     <a href="https://3w.huanqiu.com:443/a/c93cce/7MOPCkvsG3e?agt=35&amp;li=BBVzKv5" >
+
+当110斤林志玲与86斤唐嫣同穿抹胸裙，网友：看完瞬间不想减肥了    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520101247774.html?qid=02034&amp;li=BBVzKv5" >
+
+42岁赵薇实力逆袭，减肥成功显嫩不止15岁！    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/zh-cn/health" >健康</a></h2>    <a href="https://mini.eastday.com:443/a/190519102236951.html?qid=02034&amp;li=BBVA02W" >
+<img alt="夏夜跑步凉爽惬意，夜跑虽好，也得注意这些问题哦" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAByMtq.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=339&amp;y=60" title="夏夜跑步凉爽惬意，夜跑虽好，也得注意这些问题哦 - 东方头条" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://mini.eastday.com:443/a/190519102236951.html?qid=02034&amp;li=BBVA02W" >
+
+夏夜跑步凉爽惬意，夜跑虽好，也得注意这些问题哦    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520140115609.html?qid=02034&amp;li=BBVA02W" >
+
+敲重点！四个高燃脂动作，让你暴瘦30斤    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190519142226616.html?qid=02034&amp;li=BBVA02W" >
+
+54岁张曼玉街头被偶遇，素颜无眉毛弯腰驼背，女神形象一去不返    </a>
+
+</li>
+ <li >
+     <a href="https://3w.huanqiu.com:443/a/c36dc8/7MOnRnqRDY4?agt=35&amp;li=BBVA02W" >
+
+认知不足、服药依从性差仍是影响高血压治疗和控制的关键    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520105429300.html?qid=02034&amp;li=BBVA02W" >
+
+5个方法帮您预防肥胖、顺利减肥    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/zh-cn/foodanddrink" >美食</a></h2>    <a href="https://mini.eastday.com:443/a/190520111416217.html?qid=02034&amp;li=BBVA0rI" >
+<img alt="曾连续霸占日本美食大赏一位的焦糖布丁，在家也能做！" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AABBw6y.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="曾连续霸占日本美食大赏一位的焦糖布丁，在家也能做！ - 东方头条" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://mini.eastday.com:443/a/190520111416217.html?qid=02034&amp;li=BBVA0rI" >
+
+曾连续霸占日本美食大赏一位的焦糖布丁，在家也能做！    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190519164950644.html?qid=02034&amp;li=BBVA0rI" >
+
+什么品种的樱桃好吃，哪里能买到那样品种的樱桃    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520123544878.html?qid=02034&amp;li=BBVA0rI" >
+
+夏天想吃凉皮？味香麻辣、劲道爽口，色香味俱全    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190518070031496.html?qid=02034&amp;li=BBVA0rI" >
+
+饭后营养小甜品，西米露味道正宗还香醇    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190517202042195.html?qid=02034&amp;li=BBVA0rI" >
+
+这道不允许拍照的网红甜品，你吃过吗？    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/zh-cn/news/techandscience" >科技</a></h2>    <a href="https://mini.eastday.com:443/a/190507174836959.html?qid=02034&amp;li=BBVzrUA" >
+<img alt="马云花巨资打造蚂蚁森林，已经过去3年，现状看完让人不敢相信" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAB4eO8.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=2732&amp;y=592" title="Interview with Jack Ma Yun, Alibaba Group Chairman, in Hangzhou, Zhejiang Provin... - getty" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://mini.eastday.com:443/a/190507174836959.html?qid=02034&amp;li=BBVzrUA" >
+
+马云花巨资打造蚂蚁森林，已经过去3年，现状看完让人不敢相信    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190516234257549.html?qid=02034&amp;li=BBVzrUA" >
+
+腾讯员工月薪7万！？程序员看了默默流泪    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190501114456218.html?qid=02034&amp;li=BBVzrUA" >
+
+爆！马云41岁得力干将去世，你还敢996吗？    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190518113538661.html?qid=02034&amp;li=BBVzrUA" >
+
+身家地位堪比王思聪，娶了16岁初恋女友，为照顾家人曾2次隐退    </a>
+
+</li>
+ <li >
+     <a href="/zh-cn/news/technology/%e8%b5%b4%e6%97%a5%e4%b8%93%e8%ae%bf%e7%b4%a2%e5%b0%bc%e7%94%b5%e8%a7%86%e9%ab%98%e5%b1%82%e8%ae%ba%e7%94%bb%e8%b4%a8%e6%88%91%e6%9c%89x1%e6%97%97%e8%88%b0%e7%89%88%e8%8a%af%e7%89%87%ef%bc%8c%e4%bd%a0%e5%91%a2%ef%bc%9f/ar-AABw2Yw?li=BBVzrUA" >
+
+赴日专访索尼电视高层：论画质我有X1旗舰版芯片，你呢？    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/zh-cn/travel" >旅游</a></h2>    <a href="https://mini.eastday.com:443/a/190519092324815.html?qid=02034&amp;li=BBV3dvg" >
+<img alt="一个是世界公主，一个是全球男神，葬礼上他亲吻她说：我永远爱你" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AABzp65.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=319&amp;y=235" title="一个是世界公主，一个是全球男神，葬礼上他亲吻她说：我永远爱你 - 东方头条" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://mini.eastday.com:443/a/190519092324815.html?qid=02034&amp;li=BBV3dvg" >
+
+一个是世界公主，一个是全球男神，葬礼上他亲吻她说：我永远爱你    </a>
+
+</li>
+ <li >
+     <a href="https://3w.huanqiu.com:443/a/c93cce/7MKeGQvGYTu?agt=35&amp;li=BBV3dvg" >
+
+同样是老公买的豪宅，赵丽颖的豪宅，刘诗诗的豪宅，差距一目了然    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190513235301173.html?qid=02034&amp;li=BBV3dvg" >
+
+泰国街头的“神僧”，坐油锅淡定自若，网友们一眼识破：我也行    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190520010437519.html?qid=02034&amp;li=BBV3dvg" >
+
+女星上演制服诱惑，郑爽女仆惹人怜爱，迪丽热巴帅气，最美的是她    </a>
+
+</li>
+ <li >
+     <a href="https://mini.eastday.com:443/a/190512085010123.html?qid=02034&amp;li=BBV3dvg" >
+
+世界公认的四位美女，中国仅一人上榜，不是杨幂也不是迪丽热巴！    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2>购物</h2>    <a href="https://s.click.taobao.com/t?e=m%3D2%26s%3Dsv69o%2Bz0HNscQipKwQzePCperVdZeJviK7Vc7tFgwiFRAdhuF14FMc3GFNOTCBBilovu%2FCElQOt72ZNtR6jffSM4MletD4imhZCwv4MwXc7umujYZ%2FdoVgBXgSuv7Sv7KtseCpInTy%2FkXkdea8kgYymBZ5ZWikN7RIhXpwzXCM5Pf2BYFhAHdG52R0giPkGksd%2B%2Ff4Fhw9ZeY%2By0blbhscYl7w3%2FA2kb" >
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBVS5cA.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="天猫超市推广 - Getty" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://s.click.taobao.com/t?e=m%3D2%26s%3Dsv69o%2Bz0HNscQipKwQzePCperVdZeJviK7Vc7tFgwiFRAdhuF14FMc3GFNOTCBBilovu%2FCElQOt72ZNtR6jffSM4MletD4imhZCwv4MwXc7umujYZ%2FdoVgBXgSuv7Sv7KtseCpInTy%2FkXkdea8kgYymBZ5ZWikN7RIhXpwzXCM5Pf2BYFhAHdG52R0giPkGksd%2B%2Ff4Fhw9ZeY%2By0blbhscYl7w3%2FA2kb" >
+
+天猫超市 | 天天特价，一站式购齐你的生活所需    </a>
+
+</li>
+ <li >
+     <a href="https://www.msn.cn/zh-cn/news/technology/%e2%80%9c%e8%b6%85%e4%b8%aa%e6%80%a7%e2%80%9d%e5%be%ae%e8%bd%af%e6%a1%8c%e9%9d%a2%e5%b8%a6%e6%9d%a5%e6%97%a0%e7%bc%9d%e8%b7%a8%e8%ae%be%e5%a4%87%e4%bd%93%e9%aa%8c%EF%BC%8C%e5%bf%ab%e6%9d%a5%e8%af%95%e8%af%95%e5%90%a7%EF%BC%81/ar-AAAVt5t" >
+
+“超个性”微软桌面带来无缝跨设备体验，快来试试吧！    </a>
+
+</li>
+ <li >
+     <a href="https://s.click.taobao.com/t?e=m%3D2%26s%3Di18V0Yzq6T8cQipKwQzePCperVdZeJviK7Vc7tFgwiFRAdhuF14FMU890EOQMzI%2FJ1gyddu7kN972ZNtR6jffSM4MletD4imhZCwv4MwXc6%2B0QjwQJlvMwBXgSuv7Sv7KtseCpInTy%2FkXkdea8kgYymBZ5ZWikN7RIhXpwzXCM5Pf2BYFhAHdJ4%2BXaYh9a5aJPwiig1bxLPGDF1NzTQoPw%3D%3D" >
+
+天猫国际 | 海量爆款天天特价    </a>
+
+</li>
+ <li >
+     <a href="/zh-cn/news/other/%e9%ab%98%e7%a7%91%e6%8a%80%e6%8a%a4%e7%9c%bc%e5%8f%b0%e7%81%af%e6%9d%a5%e8%a2%ad%ef%bc%8c%e5%bf%8d%e4%b8%8d%e4%bd%8f%e8%a6%81%e5%85%a5%e6%89%8b%e4%ba%86%ef%bc%81/ss-BBS5TPi?li=BBQTBmA" >
+
+高科技护眼台灯来袭，忍不住要入手了！    </a>
+
+</li>
+ <li >
+     <a href="/zh-cn/news/other/%e6%98%a5%e5%ad%a3%e6%8b%af%e6%95%91%e8%82%8c%e8%82%a4%e5%a4%a7%e4%bd%9c%e6%88%98%ef%bc%81%e4%b9%9d%e6%ac%be%e9%9d%a2%e8%86%9c%e5%8a%a9%e4%bd%a0%e4%b8%80%e8%87%82%e4%b9%8b%e5%8a%9b/ss-BBS2NHu?li=BBQTBmA" >
+
+春季拯救肌肤大作战！九款面膜助你一臂之力    </a>
+
+</li>
+ </ul>
+
+</div>
+
+ 
+</div>
+<div id="aside"  data-region="aside">
+ 
+</div>
+<div id="nav">
+ <ul class="verticalsnav">
+ <li  class="current">
+<a href="/zh-cn">主页</a>
+</li>
+ <li >
+<a href="/zh-cn/news">资讯</a>
+</li>
+ <li >
+<a href="/zh-cn/weather">天气</a>
+</li>
+ <li >
+<a href="/zh-cn/entertainment">娱乐</a>
+</li>
+ <li >
+<a href="/zh-cn/lifestyle">生活</a>
+</li>
+ <li >
+<a href="/zh-cn/money">财经</a>
+</li>
+ <li >
+<a href="/zh-cn/sports">体育</a>
+</li>
+ <li >
+<a href="/zh-cn/autos">汽车</a>
+</li>
+ <li >
+<a href="/zh-cn/health">健康</a>
+</li>
+ <li >
+<a href="/zh-cn/foodanddrink">美食</a>
+</li>
+ <li >
+<a href="/zh-cn/travel">旅游</a>
+</li>
+ </ul>
+</div>
+ </div>
+<div id="foot">
+<div> <a href="https://www.microsoft.com/zh-cn/">&#169; 2019 Microsoft</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkId=521839">隐私与 Cookie</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkID=246338">使用条款</a>
+ <a href="https://choice.microsoft.com/">微软广告</a>
+ <a href="https://jfe.qualtrics.com/form/SV_d4ir2X6Zkgjw0rb">反馈</a>
+ <a href="/zh-cn/">京ICP备10036305号</a>
+ <a href="https://aka.ms/msncncontact">商务合作</a>
+ <a href="https://go.microsoft.com/fwlink/?linkid=875132">广告</a>
+</div>
+</div>
+  <div>
+ <img src="//c.msn.cn/c.gif?udc=true&amp;rid=e132d69ac79940458c6e8b40303b62cb&amp;rnd=636939549054876946&amp;rf=&amp;tp=http%253A%252F%252Fwww.msn.cn%252Fzh-cn%252F%253Fli%253DBBOXPUT&amp;di=19579&amp;lng=zh-cn&amp;activityId=e132d69ac79940458c6e8b40303b62cb&amp;d.dgk=downlevel.pc&amp;d.imd=0&amp;st.dpt=&amp;st.sdpt=&amp;subcvs=homepage&amp;pg.n=startpage&amp;pg.t=hp&amp;pg.c=&amp;pg.p=prime&amp;anoncknm=&amp;issso=0&amp;aadState=0" alt="image beacon" width="1" height="1" /><img src="//sb.scorecardresearch.com/p?c1=2&amp;c2=3000001&amp;cs_ucfr=1&amp;rn=636939549054876946&amp;c7=http%253A%252F%252Fwww.msn.cn%252Fzh-cn%252F%253Fli%253DBBOXPUT&amp;c8=&amp;c9=" alt="image beacon" width="1" height="1" /><img src="//otf.msn.cn/c.gif?js=0&amp;evt=impr&amp;di=19579&amp;pi=&amp;ps=&amp;su=http%253A%252F%252Fwww.msn.cn%252Fzh-cn%252F%253Fli%253DBBOXPUT&amp;mkt=zh-cn&amp;pp=False&amp;cv.partner=&amp;cv.publcat=&amp;st.dpt=&amp;st.sdpt=&amp;dv.Title1=&amp;cts=636939549054876946&amp;rf=&amp;rid=e132d69ac79940458c6e8b40303b62cb&amp;cvs=Browser&amp;subcvs=homepage&amp;cv.entityId=&amp;cv.entitySrc=&amp;provid=&amp;ar=0&amp;d.dgk=downlevel.pc&amp;d.imd=0&amp;cv.parentId=BBOXPUT&amp;isCorePV=&amp;pgIdx=&amp;pgTot=&amp;activityId=e132d69ac79940458c6e8b40303b62cb&amp;pm=&amp;pg.n=startpage&amp;pg.t=hp&amp;pg.c=&amp;pg.p=prime&amp;anoncknm=&amp;issso=0&amp;ex=&amp;aadState=0" alt="image beacon" width="1" height="1" />
+</div>
+
+ 
+     <script>
+        require(["headData", "pageInstance", "mediator", "c.deferred"], function (headData, pageInstance, mediator)
+        {
+        var url = '//www.bizographics.com/collect/?fmt=gif&pid=7850';
+        if (headData && headData.clientSettings && headData.clientSettings.static_page)
+        {
+            mediator.pub(pageInstance.eventName);
+            var rid = pageInstance.getActivityId();
+            url = url.replace(/([?&]rid=)[^&#]*/i, "$1" + rid);
+            }
+        new Image().src = url.replace(/&amp;/g, '&');
+    });
+    </script>
+    <noscript>
+        <div>
+            <img data-src="//www.bizographics.com/collect/?fmt=gif&amp;pid=7850&amp;ts=noscript" width="1" height="1" alt="" />
+        </div>
+    </noscript>
+
+ 
+</body>
+ <!--MSNAvailToken--></html>

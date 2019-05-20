@@ -1,0 +1,391 @@
+
+<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta name="keywords" content="流量,免费,站长,统计,网站,免费网站流量统计">
+<meta name="description" content="流量,免费,站长,统计,网站,免费网站流量统计">
+<title>51Yes网站流量统计－智能版本 V2.5(188.55)</title>
+<link href="files/css.css?88888" rel="stylesheet" type="text/css">
+<style type="text/css">
+<!--
+.style2 {
+	font-size: 15px;
+}
+.ad{ vertical-align: top; padding-top: 5px; width: 164px; }
+.adbox{ border: 1px solid #666; width: 164px }
+-->
+</style>
+</head>
+<body bgcolor="#DDDDDD" topmargin="0">
+<table width="1292" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+<td class="ad" id="ad1"><table border="0" cellspacing="0" cellpadding="0" class="adbox">
+	<tr>
+		<td>
+			<iframe src="http://ad.51yes.com/c0_left.htm" name="a5" width="164" marginwidth="0" height="500" marginheight="0" scrolling="no" frameborder="0" hspace="0" vspace="0" allowtransparency="true"></iframe>
+		</td>
+	</tr>
+</table></td>
+<td width="960"><table width="960" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+<td width="5" valign="top" background="pic/left.gif"><img src="pic/left_top.gif" width="5" height="10"></td>
+<td width="950"><table width="949"  border="0" cellpadding="0" cellspacing="0" background="pic/logo_gb.gif">
+<tr>
+<td width="259"><img src="pic/logo.gif" width="247" height="70"></td>
+<td width="690"><IFRAME src="http://ad.51yes.com/t12.htm" name="a" width="680" marginwidth="0" height="70" marginheight="0" scrolling="no" frameborder="0" hspace="0" vspace="0" allowtransparency="true"></IFRAME></td>
+</tr>
+</table>
+<table width="950"  border="0" cellpadding="0" cellspacing="0" background="pic/headbg-a.gif">
+<tr>
+<td width="100" align="center"><a href="index.aspx">返回首页</a></td>
+<td width="2"><img src="pic/head.gif" width="2" height="20"></td>
+<td width="100" align="center"><a href="reg-1.htm">免费注册</a></td>
+<td width="2"><img src="pic/head.gif" width="2" height="20"></td>
+<td width="100" align="center"><a href="http://demo.51yes.com/all.aspx">产品示例</a></td>
+<td width="2"><img src="pic/head.gif" width="2" height="20"></td>
+<td width="100" align="center"><a href="help.htm">帮助中心</a></td>
+<td width="2"><img src="pic/head.gif" width="2" height="20"></td>
+<td>&nbsp;</td>
+</tr>
+</table></td>
+<td width="5" valign="top" background="pic/right.gif"><img src="pic/right_top.gif" width="5" height="10"></td>
+</tr>
+</table>
+<table width="960" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+<td width="5" rowspan="2" valign="bottom" background="pic/left.gif"><img src="pic/left_bottom.gif" width="5" height="10"></td>
+<td width="950" valign="top"><table width="950" border="0" cellpadding="0" cellspacing="0" bgcolor="FFF8FF">
+<tr>
+<td height="5"></td>
+</tr>
+<tr>
+<td><table width="950" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="258" valign="top"><table width="258" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center"><table width="248" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td height="27" background="pic/txtboxtopbg.gif">&nbsp;&nbsp;<strong>用户登录</strong></td>
+</tr>
+<tr>
+<td><table width="248" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="5" background="pic/txtboxleft.gif"></td>
+<td width="238" align="center"><table width="230" border="0" cellspacing="3" cellpadding="0">
+<form action="http://countt.51yes.com/login.aspx" method="post" name="form1" id="form1">
+<tr>
+<td>用户名：
+<input name="LoginName" type="text" id="LoginName" size="22" maxlength="12" tabindex="1"></td>
+</tr>
+<tr>
+<td>密　码：
+<input name="LoginPassword" type="password" id="LoginPassword" size="12" maxlength="16" tabindex="2">
+<a href="http://countt.51yes.com/getpassword.aspx"><span class="more1">取回密码&nbsp;&gt;&gt;</span></a></td>
+</tr>
+<tr>
+<td>验证码：
+<input name="VCode" type="text" id="VCode" size="10" maxlength="4" tabindex="3">
+<img id="Image1" align="absmiddle" src="vcode.aspx?num=3140" style="border-color:Blue;border-width:1px;border-style:solid;"></td>
+</tr>
+<tr>
+<td align="center"><input type="submit" name="Submit" value="登 录" tabindex="4"><input name="LoginCount" type="hidden" value="L1pdYdgjIFs=">
+<input type="button" name="button2" value="注 册" onClick="window.location = 'reg-1.htm';" tabindex="5"></td>
+</tr>
+</form>
+</table></td>
+<td width="5" background="pic/txtboxright.gif"></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td><img src="pic/txtboxbottom.gif" width="248" height="5"></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+	<td align="center">
+		<IFRAME src="http://ad.51yes.com/a1-a6.htm" name="a" width="214" marginwidth="0" height="560" marginheight="0" scrolling="no" frameborder="0" hspace="0" vspace="0" allowtransparency="true"></IFRAME>
+	</td>
+</tr>
+</table>
+<table width="258" border="0" cellspacing="5" cellpadding="0">
+<tr>
+<td align="center"><a href="http://ad.51yes.com/ad.htm" target="_blank">本站的ALEXA排名在<strong style="font-size: 16px; color:#FF0000">400</strong>以内，<span class="more1">广告招租 &gt;&gt;</span></a></td>
+</tr>
+<tr>
+<td><table width="248" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td height="27" background="pic/txtboxtopbg.gif">&nbsp;&nbsp;<strong>网站简介</strong></td>
+</tr>
+<tr>
+<td><table width="248" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="5" background="pic/txtboxleft.gif"></td>
+<td width="238" align="center"><table width="238" border="0" cellspacing="5" cellpadding="0">
+<tr>
+<td>51YES.COM是一家从事互联网产品开发的专业公司，我们的&ldquo;<b><font color="#FF0000">51Yes网站流量统计－智能版本V2.5</font></b>”经过2年多的改进和完善，为中国的站长免费提供了高质量的统计服务。我们的统计服务中不会弹出任何的插件或者广告，同时我们会持续的改进这套统计系统，把免费服务提供到底。</td>
+</tr>
+</table></td>
+<td width="5" background="pic/txtboxright.gif"></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td><img src="pic/txtboxbottom.gif" width="248" height="5"></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td><table width="248" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td height="27" background="pic/txtboxtopbg.gif">&nbsp;&nbsp;<strong>网站公告</strong></td>
+</tr>
+<tr>
+<td><table width="248" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="5" background="pic/txtboxleft.gif"></td>
+<td width="238" align="center"><table width="238" border="0" cellspacing="5" cellpadding="0">
+<tr>
+<td>
+<p style="margin-top: 7px; margin-bottom: 0"><u><b>08/01/17</b></u>:关于&ldquo;独立IP访问量&rdquo;计算方法改进的重要通知 。<a href="callboard-3.htm" target="_blank"><font color="#FF0000">点击看详情&nbsp;&gt;&gt;</font></a></p>
+<p style="margin-top: 7px; margin-bottom: 0"><u><b>07/01/01</b></u>:系统新增了&ldquo;客户国外地理位置分析&rdquo;以及&ldquo;统计数据下载&rdquo;等功能 。<a href="callboard-2.htm" target="_blank"><font color="#FF0000">点击看详情&nbsp;&gt;&gt;</font></a></p>
+<p style="margin-top: 7px; margin-bottom: 0"><u><b>11/25</b></u>:系统加强了对搜索引擎和同时在线访客的统计等功能。<a href="callboard.htm" target="_blank"><font color="#FF0000">点击看详情&nbsp;&gt;&gt;</font></a></p>
+<p style="margin-top: 7px; margin-bottom: 0"><u><b>10/01</b></u>:系统进行了优化，报表的查看速度大幅度增加，并增加了IP地址跟踪功能。<a href="callboard-1.htm" target="_blank"><font color="#FF0000">点击看详情&nbsp;&gt;&gt;</font></a></p>
+<p style="margin-top: 7px; margin-bottom: 0"><u><b>01/17</b></u>:用户账号一经注册，将永不过期，您所有历史统计数据<b><font color="#FF0000">永远保留</font></b>！</p></td>
+</tr>
+</table></td>
+<td width="5" background="pic/txtboxright.gif"></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td><img src="pic/txtboxbottom.gif" width="248" height="5"></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+<td width="2" background="pic/sx.gif"></td>
+<td width="690" valign="top"><table width="690" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center"><table width="680" border="0" cellspacing="0" cellpadding="0">
+<tr>
+	<td>
+		<iframe src="http://ad.51yes.com/a7-a12.htm" name="a5" width="680" marginwidth="0" height="45" marginheight="0" scrolling="no" frameborder="0" hspace="0" vspace="0" allowtransparency="true"></iframe>
+	</td>
+</tr>
+<tr>
+<td height="4"></td>
+</tr>
+<tr>
+	<td>
+		<iframe src="http://ad.51yes.com/a13-a18.htm" name="a5" width="680" marginwidth="0" height="45" marginheight="0" scrolling="no" frameborder="0" hspace="0" vspace="0" allowtransparency="true"></iframe>
+	</td>
+</tr>
+<tr>
+<td height="4"></td>
+</tr>
+<tr>
+	<td>
+		<iframe src="http://ad.51yes.com/a31.htm" name="a5" width="680" marginwidth="0" height="45" marginheight="0" scrolling="no" frameborder="0" hspace="0" vspace="0" allowtransparency="true"></iframe>
+	</td>
+</tr>
+<tr>
+<td height="4"></td>
+</tr>
+<tr>
+	<td>
+		<iframe src="http://ad.51yes.com/a41.htm" name="a5" width="680" marginwidth="0" height="45" marginheight="0" scrolling="no" frameborder="0" hspace="0" vspace="0" allowtransparency="true"></iframe>
+	</td>
+</tr>
+<tr>
+<td height="4"></td>
+</tr>
+<tr>
+	<td>
+		<iframe src="http://ad.51yes.com/a51.htm" name="a5" width="680" marginwidth="0" height="45" marginheight="0" scrolling="no" frameborder="0" hspace="0" vspace="0" allowtransparency="true"></iframe>
+	</td>
+</tr>
+<td height="4"></td>
+</tr>
+<tr>
+	<td>
+		<iframe src="http://ad.51yes.com/a61.htm" name="a5" width="680" marginwidth="0" height="45" marginheight="0" scrolling="no" frameborder="0" hspace="0" vspace="0" allowtransparency="true"></iframe>
+	</td>
+</tr>
+<td height="4"></td>
+</tr>
+<tr>
+	<td>
+		<iframe src="http://ad.51yes.com/a71.htm" name="a5" width="680" marginwidth="0" height="45" marginheight="0" scrolling="no" frameborder="0" hspace="0" vspace="0" allowtransparency="true"></iframe>
+	</td>
+</tr>
+<td height="4"></td>
+</tr>
+<tr>
+	<td>
+		<iframe src="http://ad.51yes.com/a81.htm" name="a5" width="680" marginwidth="0" height="45" marginheight="0" scrolling="no" frameborder="0" hspace="0" vspace="0" allowtransparency="true"></iframe>
+	</td>
+</tr>
+<td height="4"></td>
+</tr>
+<tr>
+	<td>
+		<iframe src="http://ad.51yes.com/a91.htm" name="a5" width="680" marginwidth="0" height="45" marginheight="0" scrolling="no" frameborder="0" hspace="0" vspace="0" allowtransparency="true"></iframe>
+	</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td><table width="690" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="344" align="center"><table width="336" border="0" cellspacing="5" cellpadding="0">
+<tr>
+<td><strong>直观的图形，显示您网站来访者的地区</strong></td>
+</tr>
+<tr>
+<td align="center"><a href="http://demo.51yes.com/area.aspx"><img src="pic/tx-1.gif" width="326" height="300" border="0"></a></td>
+</tr>
+<tr>
+<td align="right"><a href="http://demo.51yes.com/area.aspx"><span class="more1">点击进入相应的演示页面 &gt;&gt;</span></a></td>
+</tr></table></td>
+<td width="2" background="pic/sx.gif"></td>
+<td width="344"><table width="344" border="0" cellspacing="5" cellpadding="0">
+<tr>
+<td><strong>12个搜索引擎的关键字分布及URL链接</strong></td>
+</tr>
+<tr>
+<td align="center"><a href="http://demo.51yes.com/search.aspx"><img src="pic/tx-2.gif" width="326" height="300" border="0"></a></td>
+</tr>
+<tr>
+<td align="right"><a href="http://demo.51yes.com/search.aspx"><span class="more1">点击进入相应的演示页面 &gt;&gt;</span></a></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td><img src="pic/hx.gif" width="688" height="2"></td>
+</tr>
+<tr>
+<td align="center"><table width="690" border="0" cellspacing="5" cellpadding="0">
+<tr>
+<td align="center"><IFRAME src="http://ad.51yes.com/a19-a21.htm" name="a5" width="680" marginwidth="0" height="60" marginheight="0" scrolling="no" frameborder="0" hspace="0" vspace="0" allowtransparency="true"></IFRAME></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+
+<td align="center"><table width="690" border="0" cellspacing="5" cellpadding="0">
+<tr>
+<td align="center"><IFRAME src="http://ad.51yes.com/a22-a24.htm" name="a5" width="680" marginwidth="0" height="60" marginheight="0" scrolling="no" frameborder="0" hspace="0" vspace="0" allowtransparency="true"></IFRAME></td>
+</tr>
+</table></td>
+
+</tr>
+<tr>
+<td><img src="pic/hx.gif" width="688" height="2"></td>
+</tr>
+
+<tr>
+<td><table width="690" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="344" align="center" valign="top"><table width="336" border="0" cellspacing="5" cellpadding="0">
+<tr>
+<td><strong>统计出您网站所有页面的访问次数</strong></td>
+</tr>
+<tr>
+<td align="center"><a href="http://demo.51yes.com/location.aspx"><img src="pic/tx-3.gif" width="326" height="300" border="0"></a></td>
+</tr>
+<tr>
+<td align="right"><a href="http://demo.51yes.com/location.aspx"><span class="more1">点击进入相应的演示页面 &gt;&gt;</span></a></td>
+</tr>
+</table></td>
+<td width="2" background="pic/sx.gif"></td>
+<td width="344" align="center" valign="top"><table width="344" border="0" cellspacing="5" cellpadding="0">
+<tr>
+<td><strong>精确到小时的总访问量,独立IP访问量</strong></td>
+</tr>
+<tr>
+<td align="center"><a href="http://demo.51yes.com/day.aspx"><img src="pic/tx-4.gif" width="326" height="300" border="0"></a></td>
+</tr>
+<tr>
+<td align="right"><a href="http://demo.51yes.com/day.aspx"><span class="more1">点击进入相应的演示页面 &gt;&gt;</span></a></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td><img src="pic/hx.gif" width="688" height="2"></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td height="5"></td>
+</tr>
+</table>
+</td>
+<td width="5" rowspan="2" valign="bottom" background="pic/right.gif"><img src="pic/right_bottom.gif" width="5" height="10"></td>
+</tr>
+<tr>
+<td height="10" background="pic/bottom.gif"></td>
+</tr>
+</table>
+<table width="960" border="0" align="center" cellpadding="0" cellspacing="5">
+<tr>
+<td align="center"><a href="contact.htm" target="_blank"><font color="#FF0000">联系我们 &gt;&gt;</font></a> - <a href="help.htm" target="_blank"><font color="#FF0000">帮助中心 &gt;&gt;</font></a> - <a href="http://ad.51yes.com/ad.htm" target="_blank"><font color="#FF0000">广告服务 &gt;&gt;</font></a> - <a href="morelink.htm" target="_blank"><font color="#FF0000">友情链接 &gt;&gt;</font></a></td>
+</tr>
+<tr>
+<td align="center">51YES.COM 南京承晟网络科技有限公司 版权所有 Copyright &copy; 2002-2014</td>
+</tr>
+<tr>
+<td align="center">电子邮件：<img src="pic/email.gif" width="92" height="14"></td>
+</tr>
+<tr>
+<td align="center"><a href="http://www.miitbeian.gov.cn" target="_blank">苏ICP备12040013号-1</a></td>
+</tr>
+<tr>
+<td align="center"><div style="width: 210px; margin: 0 auto;">
+ 	 <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=32011502010660" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="pic/filing.png" border="0" style="float:left;"/><p style="float: left; height: 20px; line-height: 20px; margin: 0px 0px 0px 5px; color: #333333;">苏公网安备 32011502010660号</p></a>
+ 	</div></td>
+</tr>
+<tr>
+<td height="11" align="center"><script src="http://count1.51yes.com/click.aspx?id=10002&logo=1"></script>
+</td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+</table>
+</td>
+<td class="ad" id="ad2"><table border="0" cellspacing="0" cellpadding="0" class="adbox">
+	<tr>
+		<td>
+			<iframe src="http://ad.51yes.com/c0_right.htm" name="a5" width="164" marginwidth="0" height="500" marginheight="0" scrolling="no" frameborder="0" hspace="0" vspace="0" allowtransparency="true"></iframe>
+		</td>
+	</tr>
+</table></td>
+</tr>
+</table>
+<script>
+function window_site(){ 
+	var scrollTop = 0; 
+	if(document.documentElement && document.documentElement.scrollTop)
+		scrollTop=document.documentElement.scrollTop;
+	else if(document.body)
+		scrollTop=document.body.scrollTop; 
+	ad1.style.paddingTop = scrollTop + 5; 
+	ad2.style.paddingTop = scrollTop + 5; 
+} 
+document.onscroll = function(){
+	window_site();
+}
+</script>
+</body>
+</html>
+

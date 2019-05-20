@@ -1,0 +1,822 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title> 美食, 餐厅餐饮, 团购,生活,优惠券-大众点评网</title>
+    <link rel="icon" href="//www.dpfile.com/app/pc-common/dp_favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="//www.dpfile.com/app/pc-common/dp_favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" href="//www.dpfile.com/app/pc-common/index.min.30301999a81455aaf8a16973b3b13888.css">
+    <!--其他模块css在后-->
+<link rel="stylesheet" href="//www.dpfile.com/app/dpindex-new-static/static/new_404_pc.min.401d9fe928a2162d1e676a29a5b66e90.css" type="text/css"/>    <script type="text/javascript">
+        window._DP_HeaderData = {
+            'cityId': '1',  
+            'cityCName': '', 
+            'cityEnName': '', 
+            'pageType': 'index', 
+            'userId': '0',  
+            'userName':'',   
+            'dpId': '-8483494383499895064', 
+            'uesrLng': '0.0', 
+            'userLan': '0.0', 
+            'clientIp': '127.0.0.1'
+        }
+    </script>
+    <meta name="lx:category" content="dianping_nova">
+    <meta name="lx:defaultAppnm" content="dp_pc">
+    <meta name="lx:cid" content="c_16wofw2z">
+    <meta name="lx:autopv" content="off" />
+    <link rel="dns-prefetch" href="//analytics.meituan.net"/>
+
+    <script type="text/javascript">
+        !(function (win, doc, ns) {
+            var cacheFunName = '_MeiTuanALogObject';
+            win[cacheFunName] = ns;
+            if (!win[ns]) {
+                var _LX = function () {
+                    _LX.q.push(arguments);
+                    return _LX;
+                };
+                _LX.q = _LX.q || [];
+                _LX.l = +new Date();
+                win[ns] = _LX;
+            }
+        })(window, document, 'LXAnalytics');
+
+        /**
+         * 设置页面相关环境信息  environment
+         * uid 用户登录账号
+         * logintype 用户登录类型
+         *  cityid 当前页面选择城市
+         */
+        var environment =
+                {
+                    "uid":window._DP_HeaderData.userId,
+                    "logintype":"",
+                    "cityid": window._DP_HeaderData.cityId
+                };
+
+        LXAnalytics('pageView', null, environment);
+    </script>
+
+    <script src="//analytics.meituan.net/analytics.js" type="text/javascript" charset="utf-8" async defer></script>
+</head>
+<div class="header-container">
+    <div id="top-nav" class="top-nav">
+
+    </div>
+    <div id="logo-input" class="logo-input">
+        <div class="logo-input-container clearfix">
+            <a title="大众点评网" href="/" class="logo"></a>
+
+            <div class="search-box">
+                <div class="search-bar ">
+			<span class="search-container clearfix">
+				<i class="i-search"></i>
+		    </span>
+                    <p class="hot-search J-hot-search">
+
+                    </p>
+                </div>
+            </div>
+            <div class="qrcode-container">
+                <i class="close"></i>
+                <div class="qrcode">
+                    <p class="qrcode-text">手机点评</p>
+                    <div class="qrcode-img"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="cate-container">
+        <div class="nav-header">
+            <div class="navbar">
+                <a href="//www.dianping.com"><span class="cate-item all-cate">全部分类</span></a>
+                <a target="_blank" class="cate-item other-cate" href="//t.dianping.com/shanghai">团购</a>
+                <a target="_blank" class="cate-item other-cate" href="//s.dianping.com/event/shanghai">霸王餐</a>
+                <i class = "hot-icon"></i>
+                <a target="_blank" class="cate-item other-cate" href="//s.dianping.com/shanghai/group?utm_source=dp_pc_other">社区论坛</a>
+            </div>
+        </div>
+        <div class="gradient"></div>
+
+    </div>
+</div>
+<div class="not-found">
+    <div class="not-found-content">
+        <div class="img-not-found"></div>
+        <div class="not-found-right">
+            <p class="not-found-words">抱歉！页面无法访问......</p>
+            <p class="not-found-words1">错误信息：请求正常，是数据/页面不正常</p>
+            <a class="back-to-home" href="http://www.dianping.com">
+                <button type="button">去大众点评首页</button>
+            </a>
+        </div>
+    </div>
+</div>
+<div class="hotshop">
+    <div class="title">
+        <div class="img-hot"></div>
+        <div class="hot-title">热门商户推荐</div>
+    </div>
+    <div class="shop-content cleanfix">
+        <a class="item" href="/shop/5473698" target="_blank">
+            <div class="photo">
+                <img src="https://img.meituan.net/msmerchant/cffd5e4aca3a225fae7a9939d3ac04dd729331.png%40175w_99h_1e_1c_1l%7Cwatermark%3D0"/>
+            </div>
+            <div class="hot-shopname">
+                <span class="shopname">上上谦串串香火锅</span>
+                <span class="coupon-tag tuan"></span>
+            </div>
+            <div class="hot-comment hot-fontsize">
+                <span class="star star-45"></span>
+                <span class="remark">42671条点评</span>
+            </div>
+            <div class="hot-message hot-fontsize">
+                <span class="hot-place">八佰伴</span>
+                <span class="hot-food">重庆火锅</span>
+                <span class="hot-money">¥123/人</span>
+            </div>
+        </a>
+        <a class="item" href="/shop/17679013" target="_blank">
+            <div class="photo">
+                <img src="https://img.meituan.net/msmerchant/cffd5e4aca3a225fae7a9939d3ac04dd729331.png%40175w_99h_1e_1c_1l%7Cwatermark%3D0"/>
+            </div>
+            <div class="hot-shopname">
+                <span class="shopname">上上谦串串香火锅</span>
+                <span class="coupon-tag tuan"></span>
+            </div>
+            <div class="hot-comment hot-fontsize">
+                <span class="star star-50"></span>
+                <span class="remark">36033条点评</span>
+            </div>
+            <div class="hot-message hot-fontsize">
+                <span class="hot-place">虹口足球场</span>
+                <span class="hot-food">重庆火锅</span>
+                <span class="hot-money">¥126/人</span>
+            </div>
+        </a>
+        <a class="item" href="/shop/9977754" target="_blank">
+            <div class="photo">
+                <img src="https://img.meituan.net/msmerchant/a275a76481dde4654f5c51e5d301828b245939.jpg%40175w_99h_1e_1c_1l%7Cwatermark%3D0"/>
+            </div>
+            <div class="hot-shopname">
+                <span class="shopname">桂满陇-南宋御街</span>
+            </div>
+            <div class="hot-comment hot-fontsize">
+                <span class="star star-45"></span>
+                <span class="remark">34790条点评</span>
+            </div>
+            <div class="hot-message hot-fontsize">
+                <span class="hot-place">中山公园</span>
+                <span class="hot-food">浙菜</span>
+                <span class="hot-money">¥86/人</span>
+            </div>
+        </a>
+        <a class="item" href="/shop/5420800" target="_blank">
+            <div class="photo">
+                <img src="https://img.meituan.net/msmerchant/b9d016530374380a78b72185bf0a89941263871.jpg%40175w_99h_1e_1c_1l%7Cwatermark%3D0"/>
+            </div>
+            <div class="hot-shopname">
+                <span class="shopname">耶里夏丽</span>
+                <span class="coupon-tag tuan"></span>
+            </div>
+            <div class="hot-comment hot-fontsize">
+                <span class="star star-45"></span>
+                <span class="remark">32158条点评</span>
+            </div>
+            <div class="hot-message hot-fontsize">
+                <span class="hot-place">五角场/大学区</span>
+                <span class="hot-food">新疆菜</span>
+                <span class="hot-money">¥90/人</span>
+            </div>
+        </a>
+        <a class="item" href="/shop/6847266" target="_blank">
+            <div class="photo">
+                <img src="http://vfile.meituan.net/joymerchant/8363999673330732293-359064-1519292472446.jpg%40175w_99h_1e_1c_1l%7Cwatermark%3D0"/>
+            </div>
+            <div class="hot-shopname">
+                <span class="shopname">极乐汤</span>
+                <span class="coupon-tag tuan"></span>
+            </div>
+            <div class="hot-comment hot-fontsize">
+                <span class="star star-50"></span>
+                <span class="remark">61005条点评</span>
+            </div>
+            <div class="hot-message hot-fontsize">
+                <span class="hot-place">金桥</span>
+                <span class="hot-food">洗浴/汗蒸</span>
+                <span class="hot-money">¥191/人</span>
+            </div>
+        </a>
+        <a class="item" href="/shop/21617512" target="_blank">
+            <div class="photo">
+                <img src="http://vfile.meituan.net/joymerchant/2627555610706036267-1834618-1519292529191.jpg%40175w_99h_1e_1c_1l%7Cwatermark%3D0"/>
+            </div>
+            <div class="hot-shopname">
+                <span class="shopname">极乐汤</span>
+                <span class="coupon-tag tuan"></span>
+            </div>
+            <div class="hot-comment hot-fontsize">
+                <span class="star star-50"></span>
+                <span class="remark">34974条点评</span>
+            </div>
+            <div class="hot-message hot-fontsize">
+                <span class="hot-place">普陀区</span>
+                <span class="hot-food">洗浴/汗蒸</span>
+                <span class="hot-money">¥207/人</span>
+            </div>
+        </a>
+        <a class="item" href="/shop/5580577" target="_blank">
+            <div class="photo">
+                <img src="http://qcloud.dpfile.com/pc/R5EK-GzuR7IfrTvbW2Zl5JXFjlpwa90L3JI_JEUvcLP1BE-kMOu6Xik-Cr0iSjXVUk3-377u3F3JvMq0HyPoRw.jpg"/>
+            </div>
+            <div class="hot-shopname">
+                <span class="shopname">纽斯桑拿会所</span>
+                <span class="coupon-tag tuan"></span>
+            </div>
+            <div class="hot-comment hot-fontsize">
+                <span class="star star-50"></span>
+                <span class="remark">33328条点评</span>
+            </div>
+            <div class="hot-message hot-fontsize">
+                <span class="hot-place">天山</span>
+                <span class="hot-food">洗浴/汗蒸</span>
+                <span class="hot-money">¥182/人</span>
+            </div>
+        </a>
+        <a class="item" href="/shop/6253775" target="_blank">
+            <div class="photo">
+                <img src="https://p1.meituan.net/merchantpic/330eadaa1bd0f96a10f4767204934526279027.jpg%40175w_99h_1e_1c_1l%7Cwatermark%3D0"/>
+            </div>
+            <div class="hot-shopname">
+                <span class="shopname">纽斯桑拿会所</span>
+                <span class="coupon-tag tuan"></span>
+            </div>
+            <div class="hot-comment hot-fontsize">
+                <span class="star star-50"></span>
+                <span class="remark">26696条点评</span>
+            </div>
+            <div class="hot-message hot-fontsize">
+                <span class="hot-place">世纪公园</span>
+                <span class="hot-food">洗浴/汗蒸</span>
+                <span class="hot-money">¥190/人</span>
+            </div>
+        </a>
+    </div>
+</div>
+<div class="footer-container">
+<div id="channel-footer" class="channel-footer"> <p class="links"> <a target="_blank" href="//www.dianping.com/help/center/rule?name=about1" rel="nofollow">关于大众点评</a>| <a target="_blank" href="https://dpapp-appeal.meituan.com/#/shopCreditRegulationPC" rel="nofollow">诚信公约</a>| <a target="_blank" href="//www.dianping.com/help" rel="nofollow">网站帮助</a>| <a target="_blank" href="//www.dianping.com/sitemap/c1c10">网站地图</a>| <a target="_blank" href="//www.dianping.com/business/" rel="nofollow">推广服务</a>| <a target="_blank" href="//www.dianping.com/help/center/rule?name=media1" rel="nofollow">媒体报道</a>| <a target="_blank" href="http://careers.dianping.com" rel="nofollow">人才招聘</a>| <span class="links-container"> <a class="ext-links" href="javascript:void(0);" rel="nofollow">最新咨询</a>| </span> <a target="_blank" href="//www.dianping.com/forum" rel="nofollow">站务论坛</a>| <a target="_blank" href="//www.dianping.com/help/center/rule?name=about4" rel="nofollow">联系我们</a>| <a target="_blank" href="https://developer.meituan.com/?applyFrom=dianping_c_pc_busines" rel="nofollow">聚宝盆餐饮开放平台</a> </p> <div class="ext-container Hide"> <div class="link-items Hide"> <a target="_blank" href="//www.dianping.com/home-tuku"><span>家装图库</span></a> <a target="_blank" href="//m.dianping.com/home-tuku"><span>家装图库手机版</span></a> <a target="_blank" href="//www.dianping.com/jiehun/wenda"><span>结婚资讯</span></a> <a target="_blank" href="//www.dianping.com/plastic/item"><span>整形项目大全</span></a> <a target="_blank" href="//www.dianping.com/movie"><span>点评电影</span></a> </div> </div> <p class="rights"> <span style="margin-right:10px;">©2003-2019 dianping.com, All Rights Reserved.</span> <span>本站发布的所有内容，未经许可，不得转载，详见 <a rel="nofollow" class="G" href="//www.dianping.com/help/center/rule?name=base2">《知识产权声明》</a>。 </span> </p> </div> <script> (function(){var h=navigator.userAgent;var i=navigator.appName;var b=i.indexOf("Microsoft Internet Explorer")!==-1;if(!b){return false}var d=/MSIE (\d+).0/g;var e=d.exec(h);if(e&&e.length&&e[1]<9){var j='<div class="browser-overlay"></div><div id="browser-ie-con" class="browser-ie-con"><div id="browser-close" class="close">×</div><div class="browser-download chrome"><a href="//www.google.cn/chrome/browser/desktop/index.html?utm_dp" target="_black" title="chrome"></a></div><div class="browser-download firefox"><a href="//www.firefox.com.cn/download/?utm_dp" target="_black" title="firefox"></a></div></div>';var f=document.createElement("div");f.id="browser-update-ie";f.className="browser-update-ie";f.innerHTML=j;document.body.appendChild(f);var a=document.documentElement.clientWidth||document.body.clientWidth;var c=document.getElementById("browser-ie-con").offsetWidth;var g=(a-c)/2;document.getElementById("browser-ie-con").style.left=g+"px";document.getElementById("browser-close").attachEvent("onclick",function(){document.getElementById("browser-update-ie").style.display="none"},false)}})(); </script>
+</div>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title> 美食, 餐厅餐饮, 团购,生活,优惠券-大众点评网</title>
+    <link rel="icon" href="//www.dpfile.com/app/pc-common/dp_favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="//www.dpfile.com/app/pc-common/dp_favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" href="//www.dpfile.com/app/pc-common/index.min.30301999a81455aaf8a16973b3b13888.css">
+    <!--其他模块css在后-->
+<link rel="stylesheet" href="//www.dpfile.com/app/dpindex-new-static/static/new_404_pc.min.401d9fe928a2162d1e676a29a5b66e90.css" type="text/css"/>    <script type="text/javascript">
+        window._DP_HeaderData = {
+            'cityId': '1',  
+            'cityCName': '', 
+            'cityEnName': '', 
+            'pageType': 'index', 
+            'userId': '0',  
+            'userName':'',   
+            'dpId': '-8483494383499895064', 
+            'uesrLng': '0.0', 
+            'userLan': '0.0', 
+            'clientIp': '127.0.0.1'
+        }
+    </script>
+    <meta name="lx:category" content="dianping_nova">
+    <meta name="lx:defaultAppnm" content="dp_pc">
+    <meta name="lx:cid" content="c_16wofw2z">
+    <meta name="lx:autopv" content="off" />
+    <link rel="dns-prefetch" href="//analytics.meituan.net"/>
+
+    <script type="text/javascript">
+        !(function (win, doc, ns) {
+            var cacheFunName = '_MeiTuanALogObject';
+            win[cacheFunName] = ns;
+            if (!win[ns]) {
+                var _LX = function () {
+                    _LX.q.push(arguments);
+                    return _LX;
+                };
+                _LX.q = _LX.q || [];
+                _LX.l = +new Date();
+                win[ns] = _LX;
+            }
+        })(window, document, 'LXAnalytics');
+
+        /**
+         * 设置页面相关环境信息  environment
+         * uid 用户登录账号
+         * logintype 用户登录类型
+         *  cityid 当前页面选择城市
+         */
+        var environment =
+                {
+                    "uid":window._DP_HeaderData.userId,
+                    "logintype":"",
+                    "cityid": window._DP_HeaderData.cityId
+                };
+
+        LXAnalytics('pageView', null, environment);
+    </script>
+
+    <script src="//analytics.meituan.net/analytics.js" type="text/javascript" charset="utf-8" async defer></script>
+</head>
+<div class="header-container">
+    <div id="top-nav" class="top-nav">
+
+    </div>
+    <div id="logo-input" class="logo-input">
+        <div class="logo-input-container clearfix">
+            <a title="大众点评网" href="/" class="logo"></a>
+
+            <div class="search-box">
+                <div class="search-bar ">
+			<span class="search-container clearfix">
+				<i class="i-search"></i>
+		    </span>
+                    <p class="hot-search J-hot-search">
+
+                    </p>
+                </div>
+            </div>
+            <div class="qrcode-container">
+                <i class="close"></i>
+                <div class="qrcode">
+                    <p class="qrcode-text">手机点评</p>
+                    <div class="qrcode-img"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="cate-container">
+        <div class="nav-header">
+            <div class="navbar">
+                <a href="//www.dianping.com"><span class="cate-item all-cate">全部分类</span></a>
+                <a target="_blank" class="cate-item other-cate" href="//t.dianping.com/shanghai">团购</a>
+                <a target="_blank" class="cate-item other-cate" href="//s.dianping.com/event/shanghai">霸王餐</a>
+                <i class = "hot-icon"></i>
+                <a target="_blank" class="cate-item other-cate" href="//s.dianping.com/shanghai/group?utm_source=dp_pc_other">社区论坛</a>
+            </div>
+        </div>
+        <div class="gradient"></div>
+
+    </div>
+</div>
+<div class="not-found">
+    <div class="not-found-content">
+        <div class="img-not-found"></div>
+        <div class="not-found-right">
+            <p class="not-found-words">抱歉！页面无法访问......</p>
+            <p class="not-found-words1">错误信息：请求正常，是数据/页面不正常</p>
+            <a class="back-to-home" href="http://www.dianping.com">
+                <button type="button">去大众点评首页</button>
+            </a>
+        </div>
+    </div>
+</div>
+<div class="hotshop">
+    <div class="title">
+        <div class="img-hot"></div>
+        <div class="hot-title">热门商户推荐</div>
+    </div>
+    <div class="shop-content cleanfix">
+        <a class="item" href="/shop/5473698" target="_blank">
+            <div class="photo">
+                <img src="https://img.meituan.net/msmerchant/cffd5e4aca3a225fae7a9939d3ac04dd729331.png%40175w_99h_1e_1c_1l%7Cwatermark%3D0"/>
+            </div>
+            <div class="hot-shopname">
+                <span class="shopname">上上谦串串香火锅</span>
+                <span class="coupon-tag tuan"></span>
+            </div>
+            <div class="hot-comment hot-fontsize">
+                <span class="star star-45"></span>
+                <span class="remark">42670条点评</span>
+            </div>
+            <div class="hot-message hot-fontsize">
+                <span class="hot-place">八佰伴</span>
+                <span class="hot-food">重庆火锅</span>
+                <span class="hot-money">¥123/人</span>
+            </div>
+        </a>
+        <a class="item" href="/shop/17679013" target="_blank">
+            <div class="photo">
+                <img src="https://img.meituan.net/msmerchant/cffd5e4aca3a225fae7a9939d3ac04dd729331.png%40175w_99h_1e_1c_1l%7Cwatermark%3D0"/>
+            </div>
+            <div class="hot-shopname">
+                <span class="shopname">上上谦串串香火锅</span>
+                <span class="coupon-tag tuan"></span>
+            </div>
+            <div class="hot-comment hot-fontsize">
+                <span class="star star-50"></span>
+                <span class="remark">36032条点评</span>
+            </div>
+            <div class="hot-message hot-fontsize">
+                <span class="hot-place">虹口足球场</span>
+                <span class="hot-food">重庆火锅</span>
+                <span class="hot-money">¥126/人</span>
+            </div>
+        </a>
+        <a class="item" href="/shop/9977754" target="_blank">
+            <div class="photo">
+                <img src="https://img.meituan.net/msmerchant/a275a76481dde4654f5c51e5d301828b245939.jpg%40175w_99h_1e_1c_1l%7Cwatermark%3D0"/>
+            </div>
+            <div class="hot-shopname">
+                <span class="shopname">桂满陇-南宋御街</span>
+            </div>
+            <div class="hot-comment hot-fontsize">
+                <span class="star star-45"></span>
+                <span class="remark">34790条点评</span>
+            </div>
+            <div class="hot-message hot-fontsize">
+                <span class="hot-place">中山公园</span>
+                <span class="hot-food">浙菜</span>
+                <span class="hot-money">¥86/人</span>
+            </div>
+        </a>
+        <a class="item" href="/shop/5420800" target="_blank">
+            <div class="photo">
+                <img src="https://img.meituan.net/msmerchant/b9d016530374380a78b72185bf0a89941263871.jpg%40175w_99h_1e_1c_1l%7Cwatermark%3D0"/>
+            </div>
+            <div class="hot-shopname">
+                <span class="shopname">耶里夏丽</span>
+                <span class="coupon-tag tuan"></span>
+            </div>
+            <div class="hot-comment hot-fontsize">
+                <span class="star star-45"></span>
+                <span class="remark">32158条点评</span>
+            </div>
+            <div class="hot-message hot-fontsize">
+                <span class="hot-place">五角场/大学区</span>
+                <span class="hot-food">新疆菜</span>
+                <span class="hot-money">¥90/人</span>
+            </div>
+        </a>
+        <a class="item" href="/shop/6847266" target="_blank">
+            <div class="photo">
+                <img src="http://vfile.meituan.net/joymerchant/8363999673330732293-359064-1519292472446.jpg%40175w_99h_1e_1c_1l%7Cwatermark%3D0"/>
+            </div>
+            <div class="hot-shopname">
+                <span class="shopname">极乐汤</span>
+                <span class="coupon-tag tuan"></span>
+            </div>
+            <div class="hot-comment hot-fontsize">
+                <span class="star star-50"></span>
+                <span class="remark">61004条点评</span>
+            </div>
+            <div class="hot-message hot-fontsize">
+                <span class="hot-place">金桥</span>
+                <span class="hot-food">洗浴/汗蒸</span>
+                <span class="hot-money">¥191/人</span>
+            </div>
+        </a>
+        <a class="item" href="/shop/21617512" target="_blank">
+            <div class="photo">
+                <img src="http://vfile.meituan.net/joymerchant/2627555610706036267-1834618-1519292529191.jpg%40175w_99h_1e_1c_1l%7Cwatermark%3D0"/>
+            </div>
+            <div class="hot-shopname">
+                <span class="shopname">极乐汤</span>
+                <span class="coupon-tag tuan"></span>
+            </div>
+            <div class="hot-comment hot-fontsize">
+                <span class="star star-50"></span>
+                <span class="remark">34974条点评</span>
+            </div>
+            <div class="hot-message hot-fontsize">
+                <span class="hot-place">普陀区</span>
+                <span class="hot-food">洗浴/汗蒸</span>
+                <span class="hot-money">¥207/人</span>
+            </div>
+        </a>
+        <a class="item" href="/shop/5580577" target="_blank">
+            <div class="photo">
+                <img src="http://qcloud.dpfile.com/pc/R5EK-GzuR7IfrTvbW2Zl5JXFjlpwa90L3JI_JEUvcLP1BE-kMOu6Xik-Cr0iSjXVUk3-377u3F3JvMq0HyPoRw.jpg"/>
+            </div>
+            <div class="hot-shopname">
+                <span class="shopname">纽斯桑拿会所</span>
+                <span class="coupon-tag tuan"></span>
+            </div>
+            <div class="hot-comment hot-fontsize">
+                <span class="star star-50"></span>
+                <span class="remark">33327条点评</span>
+            </div>
+            <div class="hot-message hot-fontsize">
+                <span class="hot-place">天山</span>
+                <span class="hot-food">洗浴/汗蒸</span>
+                <span class="hot-money">¥182/人</span>
+            </div>
+        </a>
+        <a class="item" href="/shop/6253775" target="_blank">
+            <div class="photo">
+                <img src="https://p1.meituan.net/merchantpic/330eadaa1bd0f96a10f4767204934526279027.jpg%40175w_99h_1e_1c_1l%7Cwatermark%3D0"/>
+            </div>
+            <div class="hot-shopname">
+                <span class="shopname">纽斯桑拿会所</span>
+                <span class="coupon-tag tuan"></span>
+            </div>
+            <div class="hot-comment hot-fontsize">
+                <span class="star star-50"></span>
+                <span class="remark">26696条点评</span>
+            </div>
+            <div class="hot-message hot-fontsize">
+                <span class="hot-place">世纪公园</span>
+                <span class="hot-food">洗浴/汗蒸</span>
+                <span class="hot-money">¥190/人</span>
+            </div>
+        </a>
+    </div>
+</div>
+<div class="footer-container">
+<div id="channel-footer" class="channel-footer"> <p class="links"> <a target="_blank" href="//www.dianping.com/help/center/rule?name=about1" rel="nofollow">关于大众点评</a>| <a target="_blank" href="https://dpapp-appeal.meituan.com/#/shopCreditRegulationPC" rel="nofollow">诚信公约</a>| <a target="_blank" href="//www.dianping.com/help" rel="nofollow">网站帮助</a>| <a target="_blank" href="//www.dianping.com/sitemap/c1c10">网站地图</a>| <a target="_blank" href="//www.dianping.com/business/" rel="nofollow">推广服务</a>| <a target="_blank" href="//www.dianping.com/help/center/rule?name=media1" rel="nofollow">媒体报道</a>| <a target="_blank" href="http://careers.dianping.com" rel="nofollow">人才招聘</a>| <span class="links-container"> <a class="ext-links" href="javascript:void(0);" rel="nofollow">最新咨询</a>| </span> <a target="_blank" href="//www.dianping.com/forum" rel="nofollow">站务论坛</a>| <a target="_blank" href="//www.dianping.com/help/center/rule?name=about4" rel="nofollow">联系我们</a>| <a target="_blank" href="https://developer.meituan.com/?applyFrom=dianping_c_pc_busines" rel="nofollow">聚宝盆餐饮开放平台</a> </p> <div class="ext-container Hide"> <div class="link-items Hide"> <a target="_blank" href="//www.dianping.com/home-tuku"><span>家装图库</span></a> <a target="_blank" href="//m.dianping.com/home-tuku"><span>家装图库手机版</span></a> <a target="_blank" href="//www.dianping.com/jiehun/wenda"><span>结婚资讯</span></a> <a target="_blank" href="//www.dianping.com/plastic/item"><span>整形项目大全</span></a> <a target="_blank" href="//www.dianping.com/movie"><span>点评电影</span></a> </div> </div> <p class="rights"> <span style="margin-right:10px;">©2003-2019 dianping.com, All Rights Reserved.</span> <span>本站发布的所有内容，未经许可，不得转载，详见 <a rel="nofollow" class="G" href="//www.dianping.com/help/center/rule?name=base2">《知识产权声明》</a>。 </span> </p> </div> <script> (function(){var h=navigator.userAgent;var i=navigator.appName;var b=i.indexOf("Microsoft Internet Explorer")!==-1;if(!b){return false}var d=/MSIE (\d+).0/g;var e=d.exec(h);if(e&&e.length&&e[1]<9){var j='<div class="browser-overlay"></div><div id="browser-ie-con" class="browser-ie-con"><div id="browser-close" class="close">×</div><div class="browser-download chrome"><a href="//www.google.cn/chrome/browser/desktop/index.html?utm_dp" target="_black" title="chrome"></a></div><div class="browser-download firefox"><a href="//www.firefox.com.cn/download/?utm_dp" target="_black" title="firefox"></a></div></div>';var f=document.createElement("div");f.id="browser-update-ie";f.className="browser-update-ie";f.innerHTML=j;document.body.appendChild(f);var a=document.documentElement.clientWidth||document.body.clientWidth;var c=document.getElementById("browser-ie-con").offsetWidth;var g=(a-c)/2;document.getElementById("browser-ie-con").style.left=g+"px";document.getElementById("browser-close").attachEvent("onclick",function(){document.getElementById("browser-update-ie").style.display="none"},false)}})(); </script>
+</div>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title> 美食, 餐厅餐饮, 团购,生活,优惠券-大众点评网</title>
+    <link rel="icon" href="//www.dpfile.com/app/pc-common/dp_favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="//www.dpfile.com/app/pc-common/dp_favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" href="//www.dpfile.com/app/pc-common/index.min.30301999a81455aaf8a16973b3b13888.css">
+    <!--其他模块css在后-->
+<link rel="stylesheet" href="//www.dpfile.com/app/dpindex-new-static/static/new_404_pc.min.401d9fe928a2162d1e676a29a5b66e90.css" type="text/css"/>    <script type="text/javascript">
+        window._DP_HeaderData = {
+            'cityId': '1',  
+            'cityCName': '', 
+            'cityEnName': '', 
+            'pageType': 'index', 
+            'userId': '0',  
+            'userName':'',   
+            'dpId': '-8483494383499895064', 
+            'uesrLng': '0.0', 
+            'userLan': '0.0', 
+            'clientIp': '127.0.0.1'
+        }
+    </script>
+    <meta name="lx:category" content="dianping_nova">
+    <meta name="lx:defaultAppnm" content="dp_pc">
+    <meta name="lx:cid" content="c_16wofw2z">
+    <meta name="lx:autopv" content="off" />
+    <link rel="dns-prefetch" href="//analytics.meituan.net"/>
+
+    <script type="text/javascript">
+        !(function (win, doc, ns) {
+            var cacheFunName = '_MeiTuanALogObject';
+            win[cacheFunName] = ns;
+            if (!win[ns]) {
+                var _LX = function () {
+                    _LX.q.push(arguments);
+                    return _LX;
+                };
+                _LX.q = _LX.q || [];
+                _LX.l = +new Date();
+                win[ns] = _LX;
+            }
+        })(window, document, 'LXAnalytics');
+
+        /**
+         * 设置页面相关环境信息  environment
+         * uid 用户登录账号
+         * logintype 用户登录类型
+         *  cityid 当前页面选择城市
+         */
+        var environment =
+                {
+                    "uid":window._DP_HeaderData.userId,
+                    "logintype":"",
+                    "cityid": window._DP_HeaderData.cityId
+                };
+
+        LXAnalytics('pageView', null, environment);
+    </script>
+
+    <script src="//analytics.meituan.net/analytics.js" type="text/javascript" charset="utf-8" async defer></script>
+</head>
+<div class="header-container">
+    <div id="top-nav" class="top-nav">
+
+    </div>
+    <div id="logo-input" class="logo-input">
+        <div class="logo-input-container clearfix">
+            <a title="大众点评网" href="/" class="logo"></a>
+
+            <div class="search-box">
+                <div class="search-bar ">
+			<span class="search-container clearfix">
+				<i class="i-search"></i>
+		    </span>
+                    <p class="hot-search J-hot-search">
+
+                    </p>
+                </div>
+            </div>
+            <div class="qrcode-container">
+                <i class="close"></i>
+                <div class="qrcode">
+                    <p class="qrcode-text">手机点评</p>
+                    <div class="qrcode-img"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="cate-container">
+        <div class="nav-header">
+            <div class="navbar">
+                <a href="//www.dianping.com"><span class="cate-item all-cate">全部分类</span></a>
+                <a target="_blank" class="cate-item other-cate" href="//t.dianping.com/shanghai">团购</a>
+                <a target="_blank" class="cate-item other-cate" href="//s.dianping.com/event/shanghai">霸王餐</a>
+                <i class = "hot-icon"></i>
+                <a target="_blank" class="cate-item other-cate" href="//s.dianping.com/shanghai/group?utm_source=dp_pc_other">社区论坛</a>
+            </div>
+        </div>
+        <div class="gradient"></div>
+
+    </div>
+</div>
+<div class="not-found">
+    <div class="not-found-content">
+        <div class="img-not-found"></div>
+        <div class="not-found-right">
+            <p class="not-found-words">抱歉！页面无法访问......</p>
+            <p class="not-found-words1">错误信息：请求正常，是数据/页面不正常</p>
+            <a class="back-to-home" href="http://www.dianping.com">
+                <button type="button">去大众点评首页</button>
+            </a>
+        </div>
+    </div>
+</div>
+<div class="hotshop">
+    <div class="title">
+        <div class="img-hot"></div>
+        <div class="hot-title">热门商户推荐</div>
+    </div>
+    <div class="shop-content cleanfix">
+        <a class="item" href="/shop/5473698" target="_blank">
+            <div class="photo">
+                <img src="https://img.meituan.net/msmerchant/cffd5e4aca3a225fae7a9939d3ac04dd729331.png%40175w_99h_1e_1c_1l%7Cwatermark%3D0"/>
+            </div>
+            <div class="hot-shopname">
+                <span class="shopname">上上谦串串香火锅</span>
+                <span class="coupon-tag tuan"></span>
+            </div>
+            <div class="hot-comment hot-fontsize">
+                <span class="star star-45"></span>
+                <span class="remark">42670条点评</span>
+            </div>
+            <div class="hot-message hot-fontsize">
+                <span class="hot-place">八佰伴</span>
+                <span class="hot-food">重庆火锅</span>
+                <span class="hot-money">¥123/人</span>
+            </div>
+        </a>
+        <a class="item" href="/shop/17679013" target="_blank">
+            <div class="photo">
+                <img src="https://img.meituan.net/msmerchant/cffd5e4aca3a225fae7a9939d3ac04dd729331.png%40175w_99h_1e_1c_1l%7Cwatermark%3D0"/>
+            </div>
+            <div class="hot-shopname">
+                <span class="shopname">上上谦串串香火锅</span>
+                <span class="coupon-tag tuan"></span>
+            </div>
+            <div class="hot-comment hot-fontsize">
+                <span class="star star-50"></span>
+                <span class="remark">36032条点评</span>
+            </div>
+            <div class="hot-message hot-fontsize">
+                <span class="hot-place">虹口足球场</span>
+                <span class="hot-food">重庆火锅</span>
+                <span class="hot-money">¥126/人</span>
+            </div>
+        </a>
+        <a class="item" href="/shop/9977754" target="_blank">
+            <div class="photo">
+                <img src="https://img.meituan.net/msmerchant/a275a76481dde4654f5c51e5d301828b245939.jpg%40175w_99h_1e_1c_1l%7Cwatermark%3D0"/>
+            </div>
+            <div class="hot-shopname">
+                <span class="shopname">桂满陇-南宋御街</span>
+            </div>
+            <div class="hot-comment hot-fontsize">
+                <span class="star star-45"></span>
+                <span class="remark">34790条点评</span>
+            </div>
+            <div class="hot-message hot-fontsize">
+                <span class="hot-place">中山公园</span>
+                <span class="hot-food">浙菜</span>
+                <span class="hot-money">¥86/人</span>
+            </div>
+        </a>
+        <a class="item" href="/shop/5420800" target="_blank">
+            <div class="photo">
+                <img src="https://img.meituan.net/msmerchant/b9d016530374380a78b72185bf0a89941263871.jpg%40175w_99h_1e_1c_1l%7Cwatermark%3D0"/>
+            </div>
+            <div class="hot-shopname">
+                <span class="shopname">耶里夏丽</span>
+                <span class="coupon-tag tuan"></span>
+            </div>
+            <div class="hot-comment hot-fontsize">
+                <span class="star star-45"></span>
+                <span class="remark">32157条点评</span>
+            </div>
+            <div class="hot-message hot-fontsize">
+                <span class="hot-place">五角场/大学区</span>
+                <span class="hot-food">新疆菜</span>
+                <span class="hot-money">¥90/人</span>
+            </div>
+        </a>
+        <a class="item" href="/shop/6847266" target="_blank">
+            <div class="photo">
+                <img src="http://vfile.meituan.net/joymerchant/8363999673330732293-359064-1519292472446.jpg%40175w_99h_1e_1c_1l%7Cwatermark%3D0"/>
+            </div>
+            <div class="hot-shopname">
+                <span class="shopname">极乐汤</span>
+                <span class="coupon-tag tuan"></span>
+            </div>
+            <div class="hot-comment hot-fontsize">
+                <span class="star star-50"></span>
+                <span class="remark">61004条点评</span>
+            </div>
+            <div class="hot-message hot-fontsize">
+                <span class="hot-place">金桥</span>
+                <span class="hot-food">洗浴/汗蒸</span>
+                <span class="hot-money">¥191/人</span>
+            </div>
+        </a>
+        <a class="item" href="/shop/21617512" target="_blank">
+            <div class="photo">
+                <img src="http://vfile.meituan.net/joymerchant/2627555610706036267-1834618-1519292529191.jpg%40175w_99h_1e_1c_1l%7Cwatermark%3D0"/>
+            </div>
+            <div class="hot-shopname">
+                <span class="shopname">极乐汤</span>
+                <span class="coupon-tag tuan"></span>
+            </div>
+            <div class="hot-comment hot-fontsize">
+                <span class="star star-50"></span>
+                <span class="remark">34972条点评</span>
+            </div>
+            <div class="hot-message hot-fontsize">
+                <span class="hot-place">普陀区</span>
+                <span class="hot-food">洗浴/汗蒸</span>
+                <span class="hot-money">¥207/人</span>
+            </div>
+        </a>
+        <a class="item" href="/shop/5580577" target="_blank">
+            <div class="photo">
+                <img src="http://qcloud.dpfile.com/pc/R5EK-GzuR7IfrTvbW2Zl5JXFjlpwa90L3JI_JEUvcLP1BE-kMOu6Xik-Cr0iSjXVUk3-377u3F3JvMq0HyPoRw.jpg"/>
+            </div>
+            <div class="hot-shopname">
+                <span class="shopname">纽斯桑拿会所</span>
+                <span class="coupon-tag tuan"></span>
+            </div>
+            <div class="hot-comment hot-fontsize">
+                <span class="star star-50"></span>
+                <span class="remark">33327条点评</span>
+            </div>
+            <div class="hot-message hot-fontsize">
+                <span class="hot-place">天山</span>
+                <span class="hot-food">洗浴/汗蒸</span>
+                <span class="hot-money">¥182/人</span>
+            </div>
+        </a>
+        <a class="item" href="/shop/6253775" target="_blank">
+            <div class="photo">
+                <img src="https://p1.meituan.net/merchantpic/330eadaa1bd0f96a10f4767204934526279027.jpg%40175w_99h_1e_1c_1l%7Cwatermark%3D0"/>
+            </div>
+            <div class="hot-shopname">
+                <span class="shopname">纽斯桑拿会所</span>
+                <span class="coupon-tag tuan"></span>
+            </div>
+            <div class="hot-comment hot-fontsize">
+                <span class="star star-50"></span>
+                <span class="remark">26696条点评</span>
+            </div>
+            <div class="hot-message hot-fontsize">
+                <span class="hot-place">世纪公园</span>
+                <span class="hot-food">洗浴/汗蒸</span>
+                <span class="hot-money">¥190/人</span>
+            </div>
+        </a>
+    </div>
+</div>
+<div class="footer-container">
+<div id="channel-footer" class="channel-footer"> <p class="links"> <a target="_blank" href="//www.dianping.com/help/center/rule?name=about1" rel="nofollow">关于大众点评</a>| <a target="_blank" href="https://dpapp-appeal.meituan.com/#/shopCreditRegulationPC" rel="nofollow">诚信公约</a>| <a target="_blank" href="//www.dianping.com/help" rel="nofollow">网站帮助</a>| <a target="_blank" href="//www.dianping.com/sitemap/c1c10">网站地图</a>| <a target="_blank" href="//www.dianping.com/business/" rel="nofollow">推广服务</a>| <a target="_blank" href="//www.dianping.com/help/center/rule?name=media1" rel="nofollow">媒体报道</a>| <a target="_blank" href="http://careers.dianping.com" rel="nofollow">人才招聘</a>| <span class="links-container"> <a class="ext-links" href="javascript:void(0);" rel="nofollow">最新咨询</a>| </span> <a target="_blank" href="//www.dianping.com/forum" rel="nofollow">站务论坛</a>| <a target="_blank" href="//www.dianping.com/help/center/rule?name=about4" rel="nofollow">联系我们</a>| <a target="_blank" href="https://developer.meituan.com/?applyFrom=dianping_c_pc_busines" rel="nofollow">聚宝盆餐饮开放平台</a> </p> <div class="ext-container Hide"> <div class="link-items Hide"> <a target="_blank" href="//www.dianping.com/home-tuku"><span>家装图库</span></a> <a target="_blank" href="//m.dianping.com/home-tuku"><span>家装图库手机版</span></a> <a target="_blank" href="//www.dianping.com/jiehun/wenda"><span>结婚资讯</span></a> <a target="_blank" href="//www.dianping.com/plastic/item"><span>整形项目大全</span></a> <a target="_blank" href="//www.dianping.com/movie"><span>点评电影</span></a> </div> </div> <p class="rights"> <span style="margin-right:10px;">©2003-2019 dianping.com, All Rights Reserved.</span> <span>本站发布的所有内容，未经许可，不得转载，详见 <a rel="nofollow" class="G" href="//www.dianping.com/help/center/rule?name=base2">《知识产权声明》</a>。 </span> </p> </div> <script> (function(){var h=navigator.userAgent;var i=navigator.appName;var b=i.indexOf("Microsoft Internet Explorer")!==-1;if(!b){return false}var d=/MSIE (\d+).0/g;var e=d.exec(h);if(e&&e.length&&e[1]<9){var j='<div class="browser-overlay"></div><div id="browser-ie-con" class="browser-ie-con"><div id="browser-close" class="close">×</div><div class="browser-download chrome"><a href="//www.google.cn/chrome/browser/desktop/index.html?utm_dp" target="_black" title="chrome"></a></div><div class="browser-download firefox"><a href="//www.firefox.com.cn/download/?utm_dp" target="_black" title="firefox"></a></div></div>';var f=document.createElement("div");f.id="browser-update-ie";f.className="browser-update-ie";f.innerHTML=j;document.body.appendChild(f);var a=document.documentElement.clientWidth||document.body.clientWidth;var c=document.getElementById("browser-ie-con").offsetWidth;var g=(a-c)/2;document.getElementById("browser-ie-con").style.left=g+"px";document.getElementById("browser-close").attachEvent("onclick",function(){document.getElementById("browser-update-ie").style.display="none"},false)}})(); </script>
+</div>
+

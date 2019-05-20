@@ -1,0 +1,1120 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>404-页面不存在</title>
+<link rel="stylesheet" href="http://y0.ifengimg.com/8cbe73a7378dafdb/2014/0715/basic_new_v2.css"/>
+<style>
+*{font-family:"arial","microsoft yahei";}
+.col01{position: relative;width:1000px;margin:0 auto;padding-top:20px}
+.ifengLogo,.topic{float:left;padding-right:20px}
+
+.ifengLogo-W-06qA1w,
+.topic-1sth3FLa {
+    float: left;
+    padding-right: 20px;
+}
+
+.ifengLogo-W-06qA1w span {
+    display: inline-block;
+    width: 139px;
+    height: 52px;
+    background: url(https://p0.ifengimg.com/fe/zl/test/live/application/logo.d76a1c3b.jpg) no-repeat;
+}
+
+.topic-1sth3FLa span {
+    display: inline-block;
+    width: 312px;
+    height: 55px;
+    background: url(https://p0.ifengimg.com/fe/zl/test/live/application/pic01.af0994bb.jpg) no-repeat;
+}
+.topic{margin-left: 169px;}
+.tips404{position:relative;padding:45px 0 0 0;height:320px;float:left;width:450px; }
+.tips404 h1{font:normal 26px/26px Microsoft Yahei;color:#4c4c4c;padding-bottom:8px}
+.tips404 h1 span{font:normal 16px/24px Arial,Helvetica,sans-serif;color:#000}
+.tips404 li{font-size:14px;line-height: 1.6em;color:#aaa;background:url(http://y2.ifengimg.com/8cbe73a7378dafdb/2014/0715/icon.gif) no-repeat 0 9px;padding-left:15px}
+.tips404 h4{padding:11px 0 30px}
+.tips404 h3{font:normal 14px/24px simsun;color:#c5c5c5}
+.tips404 h3 span{background:url(http://y2.ifengimg.com/8cbe73a7378dafdb/2014/0715/icon.gif) no-repeat 0 -26px;padding-left:18px}
+
+/*排行*//*150414a begin*/
+.col02{width:998px;height:350px;background:#f7f7f7;border:1px solid #e8e8e8;margin:0 auto;position:relative; margin-bottom:20px;}
+.box400{ float:left; width:400px; padding:18px 40px 0 40px;}
+.box400 h3{font:bold 14px Microsoft Yahei;color:#2b2b2b; border-bottom:1px solid #e5e5e5; height:24px; margin-bottom:10px;}
+.box400 h3 span{ float:left;border-bottom:2px solid #bd0014; height:22px;}
+.fr{float:right;}
+.list li{ height:35px; line-height:35px; background:url(http://y3.ifengimg.com/a/2015/0421/s_11.gif) no-repeat 5px 10px;}
+.list li a:link,.list04 li a:visited{ color:#004276;}
+.list li a:hover{ color:#ba2636;}
+.list li span.no1{ font-size:18px; font-weight:bold; float:left; width:16px; height:23px; color:#ba2636; text-align:left; margin-right:10px; font-family:Arial, Helvetica, sans-serif; font-style:oblique;}
+.list li span.no{  font-size:18px; font-weight:bold;float:left; width:16px; height:23px; color:#666666; text-align:left; margin-right:10px; font-family:Arial, Helvetica, sans-serif}
+/*150414a end*/
+
+/*页尾*/
+.footer { width: 1000px; margin: 0 auto; }
+.footer .footlink { color: #000; height: 28px; line-height: 28px; padding-top: 15px; border-top: 1px solid #fff; overflow: hidden; }
+.footer .footlink a { color: #000; }
+.footer .footlink span { padding: 0 5px; }
+.footer .fk_l { float: left; }
+.footer .fk_r { width: 200px; float: right; }
+.footer .fk_r ul { overflow: hidden; }
+.footer .fk_r ul li { height: 28px; line-height: 28px; overflow: hidden; float: left; }
+.footer .fk_r ul .l_bg001 { background: url(http://y1.ifengimg.com/38716b164e0f5e63/2013/0716/nav0416_14.gif) no-repeat left 9px; padding-left: 19px; }
+.footer .fk_r ul .l_bg002 { background: url(http://y3.ifengimg.com/9db17ab793eef980/2013/0403/nav0416_17.gif) no-repeat left 9px; padding-left: 17px; margin-left: 18px; }
+.footer .copyright { font-family: Arial; color: #666; height: 28px; line-height: 28px; text-align: center; overflow: hidden; }
+.footer .copyright span { font-family: "宋体"; }
+.dot {
+  animation: sploosh 1.5s cubic-bezier(0.165, 0.84, 0.44, 1);
+  position: absolute;
+     left: 266px;
+    top: 187px;
+}
+.dot2 {
+  animation: sploosh2 1.5s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+.dot3 {
+  animation: sploosh3 1.5s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+.dot,.dot2,.dot3{
+  height: 20px;
+  width: 20px;
+  font-size: 20px;
+  color: #fff;
+  line-height: 100px;
+  text-align: center;
+  border-radius: 100%;
+  z-index: 10;
+  animation-iteration-count:infinite;
+  background: transparent;
+  opacity: .8;
+cursor:pointer;
+}
+@keyframes sploosh {
+  0% {
+    box-shadow: 0 0 0 0px rgba(255, 220, 1, 0.7);
+    background: rgba(255, 220, 1, 0.7);
+  }
+  100% {
+    box-shadow: 0 0 0 30px rgba(255, 220, 1, 0);
+    background: rgba(255, 220, 1, 0);
+  }
+}
+@keyframes sploosh2 {
+  0% {
+    box-shadow: 0 0 0 0px rgba(255, 220, 1, 0.7);
+    background: rgba(255, 220, 1, 0.7);
+  }
+  100% {
+    box-shadow: 0 0 0 20px rgba(255, 220, 1, 0);
+    background: rgba(255, 220, 1, 0.3);
+  }
+}
+@keyframes sploosh3 {
+  0% {
+    box-shadow: 0 0 0 0px rgba(255, 220, 1, 0.7);
+    background: rgba(255, 220, 1, 0.7);
+  }
+  100% {
+    box-shadow: 0 0 0 10px rgba(255, 220, 1, 0);
+    background: rgba(255, 220, 1, 1);
+  }
+}
+
+.leftLink{
+    display: block;
+    width: 331px;
+    height: 307px;
+    position: absolute;
+    top: 39px;
+    left: 65px;
+}
+/*190214a begin*/
+.pao_mid {
+    width: 445px;
+    height: 266px;
+    border: 1px solid #cfcfcf;
+    float: left;
+    margin: 47px 102px 0 0;
+}
+.box {
+    width: 418px;
+    height: 235px;
+    overflow: hidden;
+    position: relative;
+    margin: 15px auto 0;
+    background: #ccc;
+}
+
+#slideBar {
+    position: absolute;
+    left: 145px;
+    bottom: 14px;
+    z-index: 2;
+}
+
+#slideBar li {
+    float: left;
+    margin-right: 3px;
+    display: inline;
+    cursor: pointer;
+    background: #fff;
+    width: 7px;
+    height: 7px;
+    text-indent: 50px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin: 0 6px;
+}
+
+#slideBar li.on {
+    background: #f34443;
+}
+
+#slidesImgs {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+#slidesImgs li {
+    width: 418px;
+    height: 235px;
+    float: left;
+}
+
+#slidesImgs img {
+    float: left;
+    width: 418px;
+    height: 235px;
+}
+/*190214a end*/
+</style>
+
+</head>
+<body>
+<div class="col01 clearfix">
+ 
+	
+
+<div class="ifengLogo-W-06qA1w">
+        <a href="//www.ifeng.com" title="凤凰网">
+            <span></span>
+        </a>
+    </div>
+    <div class="topic-1sth3FLa">
+        <a href="//gongyi.ifeng.com/xianfeng/special/clist_0/1.shtml" title="公益先锋">
+            <span></span>
+        </a>
+    </div>
+
+</div>
+<div class="col01 clearfix">
+    <!--180905a begin-->
+    <div class="pao_mid">
+        
+        <div class="box" id="slideContainer">
+    <ul id="slidesImgs">
+                            <li>
+                        <a href="https://health.ifeng.com/c/7kO3iJo2OEC" target="_blank">
+                            <img src="http://d.ifengimg.com/w418_h235/p3.ifengimg.com/a/2019_09/d82d3f870bc5b4e.jpg" width="418" height="235" alt="出门也可携带的颈椎按摩器">
+                        </a>
+                        
+                    </li>
+                    <li>
+                        <a href="http://health.ifeng.com/c/7jdbWrDQ0wK" target="_blank">
+                            <img src="http://d.ifengimg.com/w418_h235/p3.ifengimg.com/a/2019_09/b6e4a8fa8a7f3e5.jpg" width="418" height="235" alt="好抽不伤身体的替烟神器">
+                        </a>
+                        
+                    </li>
+                    <li>
+                        <a href="http://health.ifeng.com/c/7jb8qYL5xwW" target="_blank">
+                            <img src="http://d.ifengimg.com/w418_h235/p1.ifengimg.com/a/2019_09/83d4e95b4082e00.jpg" width="418" height="235" alt="每天20分钟，腰不酸颈椎不痛，一身轻松">
+                        </a>
+                        
+                    </li>
+                    <li>
+                        <a href="https://health.ifeng.com/c/7kZiQGMDR4a" target="_blank">
+                            <img src="http://d.ifengimg.com/w418_h235/p3.ifengimg.com/a/2019_09/d5553be6e1a05b2.jpg" width="418" height="235" alt="曾国藩捧读的处世奇书，教你做人之道">
+                        </a>
+                        
+                    </li>
+    </ul>
+    <ul id="slideBar">
+               <li class="on">1</li>
+               <li>2</li>
+               <li>3</li>
+               <li>4</li>
+    </ul>
+
+</div> 
+    </div>
+    <!--180905a end-->
+    <div class="tips404">
+
+        <h1><img src= "http://p2.ifengimg.com/a/2017/0122/404.png"></h1>
+        <h1>抱歉-您访问的页面不存在！<br>
+            <span>Sorry-We cannot find the page you requested！</span></h1>
+        <ul>
+            <li>输入的网址不正确</li>
+            <li>页面已被删除</li>
+        </ul>
+        <h4>
+            <a href="http://help.ifeng.com" title="帮忙改进问题"><img src="http://p1.ifengimg.com/b/2017/0122/gaijin.png" width="162" height="34" alt="帮忙改进问题" title="帮忙改进问题"></a>
+        </h4>
+    </div>
+</div>
+<!--150414a begin-->
+<div class="col02">
+<!--排行 begin-->
+<div class="box400">
+    <h3><span>48小时点击排行</span></h3>
+    <ul class="list">
+    <li>
+        <span class="no1">1</span>
+        <a href="http://news.ifeng.com/c/7mllT4aXG5I?_CPB_404_L1" target="_blank" title="民调显示：预计上千万美国人下周一将因此旷工请假">民调显示：预计上千万美国人下周一将因此旷工请假</a>
+    </li>
+    <li>
+        <span class="no1">2</span>
+        <a href="http://news.ifeng.com/c/7mlrplnCLAm?_CPB_404_L2" target="_blank" title="顺德通报“伴娘被压床猥亵”恶性婚闹：未发现有关情形">顺德通报“伴娘被压床猥亵”恶性婚闹：未发现有关情形</a>
+    </li>
+    <li>
+        <span class="no1">3</span>
+        <a href="http://news.ifeng.com/c/7mmfgw5AmUh?_CPB_404_L3" target="_blank" title="突发：澳大利亚大选爆出重大意外结果，中澳关系再度不明">突发：澳大利亚大选爆出重大意外结果，中澳关系再度不明</a>
+    </li>
+    <li>
+        <span class="no">4</span>
+        <a href="http://news.ifeng.com/c/7mljVMH7uW8?_CPB_404_L4" target="_blank" title="俄罗斯要建管道往新疆送淡水？">俄罗斯要建管道往新疆送淡水？</a>
+    </li>
+    <li>
+        <span class="no">5</span>
+        <a href="http://news.ifeng.com/c/7mmMNDegMt6?_CPB_404_L5" target="_blank" title="“九二共识”中是否包含“一中各表”？柯文哲回应">“九二共识”中是否包含“一中各表”？柯文哲回应</a>
+    </li>
+    <li>
+        <span class="no">6</span>
+        <a href="http://news.ifeng.com/c/7ml5GaEAKtp?_CPB_404_L6" target="_blank" title="李小琳以新身份现身这里">李小琳以新身份现身这里</a>
+    </li>
+    <li>
+        <span class="no">7</span>
+        <a href="http://news.ifeng.com/c/7mmKmLiWUtd?_CPB_404_L7" target="_blank" title="又变了!？美商务部：可能缩减对华为限制">又变了!？美商务部：可能缩减对华为限制</a>
+    </li>
+    <li>
+        <span class="no">8</span>
+        <a href="http://news.ifeng.com/c/7mmovcauz2y?_CPB_404_L8" target="_blank" title="声明：联想未向华为断供">声明：联想未向华为断供</a>
+    </li>
+</ul>  
+       
+</div>
+<div class="box400 fr">
+    <h3><span>本日热评排行</span></h3>
+    <ul class="list">
+    <li>
+        <span class="no1">1</span>
+        <a href="http://d.news.ifeng.com/pc/special/391/index.shtml?_CPB_404_R1" target="_blank" title="新时代 新气象">新时代 新气象</a>
+    </li>
+    <li>
+        <span class="no1">2</span>
+        <a href="https://m.ifeng.com/shareNews?guid=a75a8952-d818-4a94-b21a-5a192334ec46?_CPB_404_R2" target="_blank" title="惊吓！两男子在地铁突然大喊“卧倒” 乘客慌乱窜逃">惊吓！两男子在地铁突然大喊“卧倒” 乘客慌乱窜逃</a>
+    </li>
+    <li>
+        <span class="no1">3</span>
+        <a href="https://m.ifeng.com/shareNews?guid=daca9ced-a50b-4aba-b521-728405a79a49?_CPB_404_R3" target="_blank" title="台湾船往哪开？韩国瑜表态：九二共识、反对“台独”">台湾船往哪开？韩国瑜表态：九二共识、反对“台独”</a>
+    </li>
+    <li>
+        <span class="no">4</span>
+        <a href="https://m.ifeng.com/shareNews?guid=089ef705-091d-45c2-bcc8-6831dfe6029e?_CPB_404_R4" target="_blank" title="惊呆！挪威女子四肢着地奔跑：像马一样跨越障碍物">惊呆！挪威女子四肢着地奔跑：像马一样跨越障碍物</a>
+    </li>
+    <li>
+        <span class="no">5</span>
+        <a href="http://v.ifeng.com/201905/video_40371423.shtml?_CPB_404_R5" target="_blank" title="伊朗甩出百亿武器订单，美称谁敢接就是对美宣战，全世界看向我国">伊朗甩出百亿武器订单，美称谁敢接就是对美宣战，全世界...</a>
+    </li>
+    <li>
+        <span class="no">6</span>
+        <a href="http://v.ifeng.com/201905/video_40463058.shtml?_CPB_404_R6" target="_blank" title="郭台铭：我当选机会很大 要许年轻人一个未来！">郭台铭：我当选机会很大 要许年轻人一个未来！</a>
+    </li>
+    <li>
+        <span class="no">7</span>
+        <a href="https://m.ifeng.com/shareNews?guid=5fd1525e-04d4-4869-bb38-9512b43cf0c5?_CPB_404_R7" target="_blank" title="“怼”刘强东“撕”贾跃亭！独家对话赵何娟：我没有后悔的事">“怼”刘强东“撕”贾跃亭！独家对话赵何娟：我没有后悔...</a>
+    </li>
+    <li>
+        <span class="no">8</span>
+        <a href="https://m.ifeng.com/shareNews?guid=11d8e6a8-ab0a-4a30-ad45-20ec92805d71?_CPB_404_R8" target="_blank" title="愚蠢！美国议员欢呼华为“死了” 却被媒体和网友狠狠打脸">愚蠢！美国议员欢呼华为“死了” 却被媒体和网友狠狠打...</a>
+    </li>
+</ul>  
+      
+</div>
+</div>
+<!--排行 end-->
+</div>
+<!--150414a end-->
+<div class="footer mt02">
+	<div class="footlink clearfix">
+		<div class="fk_l">
+			<a href="http://www.ifeng.com/corp/about/intro/" target="_blank">凤凰新媒体介绍</a><span>|</span><a href="http://ir.ifeng.com/" target="_blank">投资者关系 Investor Relations</a><span>|</span><a href="http://biz.ifeng.com/" target="_blank">广告服务</a><span>|</span><a href="http://career.ifeng.com/" target="_blank">诚征英才</a><span>|</span><a href="http://www.ifeng.com/corp/privacy/" target="_blank">保护隐私权</a><span>|</span><a href="http://www.ifeng.com/corp/exemption/" target="_blank">免责条款</a><span>|</span><a href="http://help.ifeng.com/" target="_blank">意见反馈</a><span>|</span><a href="http://phtv.ifeng.com/intro/" target="_blank">凤凰卫视介绍</a>
+		</div>
+		<div class="fk_r">
+			<ul class="clearfix">
+				<li class="l_bg001"><a a="" href="http://v.ifeng.com/" target="_blank" title="视频">视频</a></li>
+				<li>·<a href="http://v.ifeng.com/documentary/index.shtml" target="_blank" title="纪实">纪实</a></li>
+				<li>·<a href="http://v.ifeng.com/live/" target="_blank" title="直播">直播</a></li>
+				<li class="l_bg002"><a href="http://phtv.ifeng.com/" target="_blank" title="凤凰卫视">凤凰卫视</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="copyright">
+		<span>凤凰新媒体&nbsp;版权所有</span>&nbsp;&nbsp;&nbsp;&nbsp;Copyright © 2013 Phoenix New Media Limited All Rights Reserved.
+	</div>
+</div>
+<script type="text/javascript">var sta_collection_time = new Date().getTime();</script>
+
+<!--180905a begin-->
+<!-- <script type="text/javascript" src="http://y0.ifengimg.com/20140604/sta_collection.3.3.15x.min.js" id="sta_collection_new"></script> -->
+<script id="sta_collection_new">
+(function(j,i){var g={analytics:{VERSIONS:"x3.3.15",GTIME:null,TYPE:1,SCRIPT_URI:["http://stadig.ifeng.com/page.js"],SCRIPT_OBJ:[],SWF_URI:"http://y3.ifengimg.com/ed787/0912/flashCookie.swf",PARAM:{ref:"",snapid:"",uid:"",sid:"",editor:"",hook:"",pagepara:"",uri:"",versions:"",browser:""},init:function(b){var a=g.analytics,c=location.hostname;-1===c.indexOf("ifeng.com")&&-1===c.indexOf("phoenixtv.com")&&(a.VERSIONS="x3.3.15");a.PARAM.uri=b?b:"";a.process()},getParam:function(b){var a=g.analytics,
+c=[],d=a.PARAM.ref=encodeURIComponent(g.analytics.Tools.referrer()),e=a.PARAM.info=g.client.info.get()?encodeURIComponent(g.client.info.get()):"",b=a.PARAM.uid=b,f=a.PARAM.sid=a.Cookie.get("sid")?encodeURIComponent(a.Cookie.get("sid")):"",k=a.PARAM.editor=null!==i.getElementById("editor_name")?encodeURIComponent(i.getElementById("editor_name").innerHTML):"",h=a.PARAM.versions=a.VERSIONS,m=(new Date).getTime(),n=a.PARAM.pagepara="function"===typeof j.getStaPara?encodeURIComponent(j.getStaPara()):"",
+l=a.PARAM.ci="function"===typeof j.getChannelInfo?encodeURIComponent(j.getChannelInfo()):"";c.push("uri="+(a.PARAM.uri?a.PARAM.uri:""));c.push("ref="+(d?d:""));c.push("snapid="+(e?e:""));c.push("uid="+(b?b:""));c.push("sid="+(f?f:""));c.push("editor="+(k?k:""));c.push("timestamp="+m);c.push("versions="+h);"undefined"===typeof j.sta_collection_time?c.push("ztime="+(m/1-(new Date).getTime()/1)):c.push("ztime="+(m/1-j.sta_collection_time/1));n&&c.push("pt="+n);l&&c.push("ci="+l);return c.join("&")},
+process:function(){var b=g.analytics,a=b.Tools.domain(),c=b.Flash.FLASH_ID="ifengSwf_"+(new Date).getTime(),d="";if(b.Flash.isSupportFlash()){var e=i.getElementById("sta_collection"),d="",d=g.analytics.SWF_URI;e||(e=i.createElement("div"),e.id="sta_collection",i.getElementById("sta_collection_new").parentNode.insertBefore(e,i.getElementById("sta_collection_new")));d=i.all?'<object id="'+c+'" name="'+c+'" width="1" height="1" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"><param name="allowScriptAccess" value="always" /><param name="movie" value="'+
+d+'" /> </object>':'<embed id="'+c+'" name="'+c+'" width="1" height="1" src="'+d+'" type="application/x-shockwave-flash" allowScriptAccess="always"></embed>';b.Flash.FLASH_TIME=(new Date).getTime();b.GTIME=setTimeout(function(){b.TYPE=2;b.gCallback(b.TYPE)},3E3);e.innerHTML=d}else{var f=b.Cookie,d=e=c="";b.TYPE=0;f.isSupportCookie()?(!f.get("userid")||"undefined"==f.get("userid")||"false"==f.get("userid")?(f.set("userid",b.Tools.uid(),a),b.TYPE+="2"):b.TYPE+="3",c="?"+b.getParam(""===f.get("userid")?
+b.Tools.uid():f.get("userid"))):(b.TYPE+="0",c="?"+b.getParam(b.Tools.uid()));a="&support="+b.TYPE;if(1<b.SCRIPT_URI.length)for(f=0;f<b.SCRIPT_URI.length;f++)d=b.SCRIPT_URI[f]+c+a,e="script_"+(new Date).getTime()+"_"+f,b.SCRIPT_OBJ.push(e),b.Tools.append(b.Tools.script(d,e));else d=b.SCRIPT_URI[0]+c+a,e="script_"+(new Date).getTime()+"_0",b.SCRIPT_OBJ.push(e),b.Tools.append(b.Tools.script(d,e));b.PARAM.ref=encodeURIComponent(j.location.href.replace(/&/g,"|"))}},gCallback:function(b){var a=g.analytics,
+c=a.Tools.domain(),d=a.Flash.FLASH_ID,e=a.Flash.get(d,"www.ifeng.com","uid");a.TYPE=b?b:1;clearTimeout(a.GTIME);j.analytics_sta_callback=function(){};"string"===typeof e&&"undefined"===e||!1===e?(a.TYPE=!1===e?3:a.TYPE,a.Cookie.isSupportCookie()?!a.Cookie.get("userid")||"undefined"==a.Cookie.get("userid")||"false"==a.Cookie.get("userid")?(e=a.Tools.uid(),a.Cookie.set("userid",e,c),a.TYPE+="2"):(e=a.Cookie.get("userid"),a.TYPE+="3"):(e=a.Tools.uid(),a.TYPE+="0"),a.Flash.set(d,"www.ifeng.com","uid",
+e)):(a.TYPE=1,e=a.Flash.get(d,"www.ifeng.com","uid"),a.Cookie.isSupportCookie()?!a.Cookie.get("userid")||"undefined"==a.Cookie.get("userid")||"false"==a.Cookie.get("userid")?(a.Cookie.set("userid",e,c),a.TYPE+="2"):a.TYPE+="3":a.TYPE+="0");b="";e="?"+a.getParam(e);c="";d="&ftime="+((new Date).getTime()/1-a.Flash.FLASH_TIME/1)+"&support="+a.TYPE;if(1<a.SCRIPT_URI.length)for(var f=0;f<a.SCRIPT_URI.length;f++)b=a.SCRIPT_URI[f]+e+d,c="script_"+(new Date).getTime()+"_"+f,a.SCRIPT_OBJ.push(c),a.Tools.append(a.Tools.script(b,
+c));else b=a.SCRIPT_URI[0]+e+d,c="script_"+(new Date).getTime()+"_0",a.SCRIPT_OBJ.push(c),a.Tools.append(a.Tools.script(b,c));a.PARAM.ref=encodeURIComponent(j.location.href.replace(/&/g,"|"))},hook:function(b,a){var c=g.analytics,d=[],e=null,f="",k=e="",h;for(h in c.PARAM)"hook"===h?d.push(h+"="+(new Date).getTime()):"uri"!==h&&"snapid"!==h&&("info"===h?d.push("snapid="+c.PARAM[h]):"pagepara"===h?"#"!==c.PARAM.pagepara&&d.push("pt="+c.PARAM[h]):d.push(h+"="+c.PARAM[h]));d.push("timestamp="+(new Date).getTime());
+d.push("support="+c.TYPE);h=0;if(c.SCRIPT_OBJ){for(h=0;h<c.SCRIPT_OBJ.length;h++)f=c.SCRIPT_OBJ[h],e=i.getElementById(f),g.analytics.Tools.remove(e);c.SCRIPT_OBJ.length=0}if(1<c.SCRIPT_URI.length){k="?"+d.join("&")+(b?b:"");for(h=0;h<c.SCRIPT_URI.length;h++)e=c.SCRIPT_URI[h]+k,f="script_"+(new Date).getTime()+"_"+h,e=c.Tools.script(e,f),c.SCRIPT_OBJ.push(f),c.Tools.append(e)}else k="?"+d.join("&")+(b?b:""),f="script_"+(new Date).getTime()+"_0",e=c.Tools.script(c.SCRIPT_URI[0]+k,f),c.SCRIPT_OBJ.push(f),
+c.Tools.append(e);c.PARAM.ref=encodeURIComponent(j.location.href.replace(/&/g,"|"));"function"===typeof a&&a()}}};g.analytics.Tools={referrer:function(){return i.referrer.replace(/&/g,"|")},iframe:function(){var b="";if(self!==top)try{b=i.referrer.replace(/&/g,"|")}catch(a){b="undefined"}return b},domain:function(){var b=location.hostname,a=0,c=b.length;if(-1!==b.indexOf(".ifeng"))a=b.indexOf(".ifeng");else if(-1!==b.indexOf(".phoenixtv"))a=b.indexOf(".phoenixtv");else return".ifeng.com";return b.substring(a,
+c)},append:function(b){setTimeout(function(){i.body?i.body.insertBefore(b,i.body.firstChild):setTimeout(arguments.callee,0)},1)},remove:function(b){setTimeout(function(){b.parentNode.removeChild(b)},1)},script:function(b,a){var c=i.createElement("script");c.id=a;c.src=b;return c},uid:function(){var b=(new Date).getTime(),a="",c="",a=(2147483648*Math.random()|0).toString(36),c=Math.round(1E4*Math.random());return b+"_"+a+c},hasPlugin:function(b){for(var b=b.toLowerCase(),a=0;a<navigator.plugins.length;a++)if(-1<
+navigator.plugins[a].name.toLowerCase().indexOf(b))return!0},hasIEPlugin:function(b){try{return new ActiveXObject(b),!0}catch(a){return!1}},removeBlanks:function(b){for(var a="",c=0;c<b.length;c++){var d=b.charAt(c);" "!==d&&(a+=d)}return a}};g.analytics.Cookie={IS_HAS_COOKIE:null,get:function(b){for(var a=g.analytics.Tools.removeBlanks(i.cookie).split(";"),c=0;c<a.length;c++){var d=a[c].split("=");if(1<d.length&&d[0]===b)return d[1]}return""},set:function(b,a,c){var d=new Date;d.setTime(d.getTime()+
+31104E6);b=b+"="+a+"; path=/; domain="+c+"; expires="+d.toGMTString();j.document.cookie=b},remove:function(b,a){g.analytics.Flash.isSupportFlash()&&(i.cookie=b+"=; path=/; domain="+a+"; expires=Thu, 01-Jan-70 00:00:01 GMT");return!1},isSupportCookie:function(){var b=g.analytics.Cookie,a=b.IS_HAS_COOKIE;null===a&&j.navigator.cookieEnabled&&(a=b.IS_HAS_COOKIE=!0);return a}};g.analytics.Flash={FLASH_ID:null,FLASH_TIME:null,IS_HAS_FLASH:null,LOCAL_OBJECT:null,get:function(b,a,c){var d=g.analytics.Flash;
+return d.isSupportFlash()&&d.isAvailable(b)&&"undefined"!==typeof d.LOCAL_OBJECT.ifengFlashCookieRead&&d.LOCAL_OBJECT.ifengFlashCookieRead(a,c)?d.LOCAL_OBJECT.ifengFlashCookieRead(a,c):!1},set:function(b,a,c,d){var e=g.analytics.Flash,f=!1;e.isSupportFlash()&&(e.isAvailable(b)&&"undefined"!==typeof e.LOCAL_OBJECT.ifengFlashCookieRead)&&(e.LOCAL_OBJECT.ifengFlashCookieSet(a,c,d),f=!0);return f},remove:function(b,a,c){var d=g.analytics.Flash,e=!1;d.isSupportFlash()&&d.isAvailable(b)&&(d.LOCAL_OBJECT.ifengFlashCookieDelete(a,
+c),e=!0);return e},clear:function(b,a){var c=g.analytics.Flash,d=!1;c.isSupportFlash()&&c.isAvailable(b)&&(c.LOCAL_OBJECT.ifengFlashCookieClear(a),d=!0);return d},getFlashObj:function(b){if(j.document[b])return j.document[b];if(-1===navigator.appName.indexOf("Microsoft")){if(i.embeds&&i.embeds[b])return i.embeds[b]}else return i.getElementById(b)},isAvailable:function(b){var a=g.analytics.Flash,b=a.getFlashObj(b),c=!0,c=b?!0:!1;a.LOCAL_OBJECT=c?b:null;return c},isSupportFlash:function(){var b=g.analytics,
+a=b.Flash.IS_HAS_FLASH;null===a&&(a=(a=b.Tools.hasPlugin("Shockwave Flash"))?a:b.Tools.hasIEPlugin("ShockwaveFlash.ShockwaveFlash"));return a}};g.client={};g.client.info={get:function(){var b=g.client;return b.device.get()+","+b.system.get()+","+b.browser.get()+","+b.screen.get()}};g.client.screen={get:function(){var b="",a="";try{b=j.screen.width,a=j.screen.height}catch(c){}return b+"*"+a}};g.client.system={get:function(){var b,a,c;c="";var d="Win",e=navigator.userAgent;c=navigator.platform;b=0===
+c.indexOf("Win");a=0===c.indexOf("Mac");c="X11"===c||0===c.indexOf("Linux");if(b){if(/Win(?:dows )?([^do]{2})\s?(\d+\.\d+)?/.test(e))if("NT"===RegExp.$1)switch(RegExp.$2){case "5.0":d="windows_2000";break;case "5.1":d="windows_XP";break;case "6.0":d="windows_Vista";break;case "6.1":d="windows_7";break;case "6.2":d="windows_8";break;default:d="windows_NT"}else d="9x"===RegExp.$1?"windows_ME":e.match(/(Windows Phone)\s+([\d.]+)/)?"WP_"+e.match(/(Windows Phone)\s+([\d.]+)/)[2]:"Ph"===RegExp.$1?"WP":
+"windows_"+RegExp.$2;e.match(/(Android)\s+([\d.]+)/)&&(d="Android_"+e.match(/(Android)\s+([\d.]+)/)[2])}else a?d=e.match(/(iPad).*OS\s([\d_]+)/)||e.match(/(iPhone\sOS)\s([\d_]+)/)?"iOS":"Mac":c?d=e.match(/(Android)\s+([\d.]+)/)?"Android_"+e.match(/(Android)\s+([\d.]+)/)[2]:"Linux":e.match(/Windows Phone/)?d="WP":e.match(/(iPad).*OS\s([\d_]+)/)||e.match(/(iPhone\sOS)\s([\d_]+)/)?d="iOS_"+(e.match(/(iPad).*OS\s([\d_]+)/)?e.match(/(iPad).*OS\s([\d_]+)/)[2]:e.match(/(iPhone\sOS)\s([\d_]+)/)[2]):e.match(/(Android)\s+([\d.]+)/)&&
+(d="Android_"+e.match(/(Android)\s+([\d.]+)/)[2]);return d}};g.client.device={get:function(){var b="PC",a=navigator.userAgent,c=a.match(/(iPad).*OS\s([\d_]+)/),d=a.match(/(iPhone\sOS)\s([\d_]+)/),e=a.match(/(Android)\s+([\d.]+)/),f=a.match(/(Windows Phone)\s+([\d.]+)/);c&&(b="iPad");d&&(b="iPhone");e&&(a.toLowerCase().match(/mobile/)?((!a.match(/chrome\/([\d.]+)/)||!a.toLowerCase().match(/mobile/))&&a.toLowerCase().match(/firefox\/([\d.]+)/)&&a.toLowerCase().match(/mobile/),b="Phone"):b="Pad");f&&
+(b="Phone");return b}};g.client.browser={get:function(){var b=navigator.userAgent.toLowerCase(),a="",a=b.match(/(?:firefox|opera|safari|chrome|msie)[\/: ]([\d.]+)/)[1],c=/version.+safari/.test(b)||/safari[\/ ]+([\d.]+)/.test(b),d=/chrome\/([\d.]+)/.test(b)||/crios\/([\d.]+)/.test(b),e=/firefox/.test(b),f=/msie/.test(b),g=/opera/.test(b),h=/ucbrowser\/([\d.]+)/.test(b),i=/maxthon/.test(b),j=/lbbrowser/.test(b),l=/qqbrowser/.test(b),o=/se 2.+x/.test(b),a=a.split(".")[0];if(h)return a=b.match(/ucbrowser\/([\d.]+)/)[1]?
+b.match(/ucbrowser\/([\d.]+)/)[1]:a,"UC_"+a;if(i)return a=b.match(/maxthon\/([\d.]+)/)[1]?b.match(/maxthon\/([\d.]+)/)[1]:a,"AU_"+a;if(j)return"LB_"+a;if(l)return a=b.match(/qqbrowser\/([\d.]+)/)[1]?b.match(/qqbrowser\/([\d.]+)/)[1]:a,"QQ_"+a;if(o)return"SG_"+a;if(e)return"FF_"+a;if(g)return"OP_"+a;if(d)return"CM_"+a;if(c)return b.match(/android/)?"WK_"+b.match(/webkit\/([\d.]+)/)[1]:"SF_"+a;if(f)return"IE_"+a}};j.analytics=g.analytics.init;j.hook=g.analytics.hook;j.analytics_sta_callback=function(){g.analytics.gCallback()}})(window,
+document);window.analytics(encodeURIComponent('http://www.ifeng.com/404.html'));
+</script>
+<!--180905a begin-->
+
+<script> var popoxiuLiveVar={"error_ppposition_live1":[{"adPosition":[],"anchorId":153659,"anchorName":"青之雨","avatarUrl":"http://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTLesNuKKIS9iblOia8KoN894QxWsJ8SdlUmibfuwc9Ria3QALw3H782mofD1bhMolMhTTNVZTybL6fIibQ/132","avgViewNum":0.0,"avgViewTime":0,"beginTime":1547082103,"click":0,"created":1547082101,"disableR":false,"exposure":0,"id":0,"insertTime":0,"liveDesc":"","liveId":36452,"livePlayUrl":"http://liveplay.xiu.ifeng.com/live/30236_wh-153659.flv","livePlayUrlM3u8":"http://liveplay.xiu.ifeng.com/live/30236_wh-153659.m3u8","liveStatus":1,"mobileClickUrl":"https://m.popoxiu.com/anchor.html?liveId=36452&uid=153659&ppxid=153659","order":0,"pcClickUrl":"https://www.popoxiu.com/anchor.html?uid=153659&liveId=36452","status":0,"tag":["可爱","呆萌","魅力","性感","成熟"],"version":0,"viewerDesc":"53人正在观看","viewerNum":53},{"adPosition":[],"anchorId":105472,"anchorName":"美美de萱萱","avatarUrl":"http://popoxiu-1257320466.image.myqcloud.com/headPic/105472_1536993741.jpeg?imageView2/2/w/300","avgViewNum":0.0,"avgViewTime":0,"beginTime":0,"click":0,"created":0,"disableR":false,"exposure":0,"id":0,"insertTime":0,"liveId":0,"liveStatus":0,"mobileClickUrl":"https://m.popoxiu.com/anchor.html?liveId=36452&uid=153659&ppxid={2}","order":0,"pcClickUrl":"https://www.popoxiu.com/anchor.html?uid=153659&liveId=36452","status":0,"tag":["清纯","乐器","异域风情","混血","少女"],"version":0,"viewerDesc":"285人正在观看","viewerNum":285},{"adPosition":[],"anchorId":108544,"anchorName":"思璇eiゞ","avatarUrl":"http://popoxiu-1257320466.image.myqcloud.com/headPic/108544_1537346031.jpeg?imageView2/2/w/300","avgViewNum":0.0,"avgViewTime":0,"beginTime":0,"click":0,"created":0,"disableR":false,"exposure":0,"id":0,"insertTime":0,"liveId":0,"liveStatus":0,"mobileClickUrl":"https://m.popoxiu.com/anchor.html?liveId=36452&uid=153659&ppxid={2}","order":0,"pcClickUrl":"https://www.popoxiu.com/anchor.html?uid=153659&liveId=36452","status":0,"tag":["民族舞","钢管舞","跳舞","二次元","乐队"],"version":0,"viewerDesc":"294人正在观看","viewerNum":294},{"adPosition":[],"anchorId":102402,"anchorName":"性感❤舞娘","avatarUrl":"http://popoxiu-1257320466.image.myqcloud.com/headPic/102402_1542099235.jpeg?imageView2/2/w/300","avgViewNum":0.0,"avgViewTime":0,"beginTime":0,"click":0,"created":0,"disableR":false,"exposure":0,"id":0,"insertTime":0,"liveId":0,"liveStatus":0,"mobileClickUrl":"https://m.popoxiu.com/anchor.html?liveId=36452&uid=153659&ppxid={2}","order":0,"pcClickUrl":"https://www.popoxiu.com/anchor.html?uid=153659&liveId=36452","status":0,"tag":["乐队","正能量","乡村生活","探险","户外"],"version":0,"viewerDesc":"71人正在观看","viewerNum":71},{"adPosition":[],"anchorId":145412,"anchorName":"毕竟空空不温柔","avatarUrl":"http://popoxiu-1257320466.image.myqcloud.com/headPic/145412_1542113114.jpeg?imageView2/2/w/300","avgViewNum":0.0,"avgViewTime":0,"beginTime":0,"click":0,"created":0,"disableR":false,"exposure":0,"id":0,"insertTime":0,"liveId":0,"liveStatus":0,"mobileClickUrl":"https://m.popoxiu.com/anchor.html?liveId=36452&uid=153659&ppxid={2}","order":0,"pcClickUrl":"https://www.popoxiu.com/anchor.html?uid=153659&liveId=36452","status":0,"tag":["脱口秀","才艺","好声音","民谣","自弹自唱"],"version":0,"viewerDesc":"22人正在观看","viewerNum":22},{"adPosition":[],"anchorId":146438,"anchorName":"大王🐯","avatarUrl":"http://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83eqUZiatNNylJCA3h3UhUrfNhT9YlaH9uAMTkhA5XeqeJoXsGZmDI79ZShkh5BEkqseT1CTgB0eIRiaw/132","avgViewNum":0.0,"avgViewTime":0,"beginTime":0,"click":0,"created":0,"disableR":false,"exposure":0,"id":0,"insertTime":0,"liveId":0,"liveStatus":0,"mobileClickUrl":"https://m.popoxiu.com/anchor.html?liveId=36452&uid=153659&ppxid={2}","order":0,"pcClickUrl":"https://www.popoxiu.com/anchor.html?uid=153659&liveId=36452","status":0,"tag":["乡村生活","探险","户外","脱口秀","才艺"],"version":0,"viewerDesc":"288人正在观看","viewerNum":288}]};</script>
+
+<script type="text/javascript" src="//p3.ifengimg.com/a/2018/0907/fa.min.js"></script>
+
+<script type="text/javascript">
+        // 190214a begin
+        function SlideShow(c) {
+            var a = document.getElementById("slideContainer"),
+                f = document.getElementById("slidesImgs").getElementsByTagName("li"),
+                h = document.getElementById("slideBar"),
+                n = h.getElementsByTagName("li"),
+                d = f.length,
+                c = c || 3000,
+                e = lastI = 0,
+                j, m;
+
+            function b() {
+                m = setInterval(function() {
+                    e = e + 1 >= d ? e + 1 - d : e + 1;
+                    g()
+                }, c)
+            }
+
+            function k() {
+                clearInterval(m)
+            }
+
+            function g() {
+                f[lastI].style.display = "none";
+                n[lastI].className = "";
+                f[e].style.display = "block";
+                n[e].className = "on";
+                lastI = e
+            }
+            f[e].style.display = "block";
+            a.onmouseover = k;
+            a.onmouseout = b;
+            h.onmouseover = function(i) {
+                j = i ? i.target : window.event.srcElement;
+                if (j.nodeName === "LI") {
+                    e = parseInt(j.innerHTML, 10) - 1;
+                    g()
+                }
+            };
+            b()
+        };
+        SlideShow(2000);
+        // 190214a end
+    </script>
+
+
+<script>
+(function(){
+    var homeLink = 'https://www.popoxiu.com/';
+    var dimg = '//d.ifengimg.com/w130_h100/';
+    var staHomeLink = ['error_ppposition_live2'];
+    window.PPX_analytics.init({});
+
+    function getSession(anchorId, position, liveId) {
+        // 兼容IE
+        if (!window.location.origin) {
+            window.location.origin = window.location.protocol + '//' + window.location.hostname + (window.location.port ? ':' + window.location.port : '');
+        }
+
+        var _timestamp = formatTime(new Date().getTime());
+        var url = 'http://www.ifeng.com/404.html';
+        if (liveId) {
+            liveId = encodeURIComponent(liveId);
+        } else {
+            liveId = encodeURIComponent('');
+        }
+        var pageInfo = encodeURIComponent(liveId) + ':' + encodeURIComponent(position) + ':' + encodeURIComponent(url) + ':' + encodeURIComponent(anchorId);
+        var sess = _timestamp + '#pageinfo#pinfo=' + encodeURIComponent(pageInfo);
+        return sess;
+    }
+
+    function paddingZero(i) {
+        if (i < 10) {
+            i = '0' + i;
+        }
+        return i;
+    }
+
+    function formatTime(timestamp) {
+        var date = new Date(timestamp);
+        var Y = date.getFullYear() + '-';
+        var M = paddingZero(date.getMonth() + 1) + '-';
+        var D = paddingZero(date.getDate()) + '+';
+        var h = paddingZero(date.getHours()) + ':';
+        var m = paddingZero(date.getMinutes()) + ':';
+        var s = paddingZero(date.getSeconds());
+        return Y + M + D + h + m + s;
+    }
+
+    function getEleByClass(oParent, str) {
+        if (oParent.getElementsByClassName) {
+            return oParent.getElementsByClassName(str);
+        }
+
+        var aEle = oParent.getElementsByTagName('*');
+        var re = new RegExp('\\b' + str + '\\b');
+        var result = [];
+
+        for (var i = 0; i < aEle.length; i++) {
+            if (re.test(aEle[i].className)) {
+                result.push(aEle[i]);
+            }
+        }
+
+        return result;
+    }
+    var linkDom = getEleByClass(document, 'ppIndexHref');
+    for(var i = 0, len = linkDom.length; i < len; i++) {
+        linkDom[i].setAttribute('href', homeLink + '?tag=' + staHomeLink[i]);
+    }
+
+    function getDom(key, data) {
+        var url = data.pcClickUrl;
+        if (url.indexOf('?') > -1) {
+            url = url + '&tag=' + key;
+        } else {
+            url = url + '?tag=' + key;
+        }
+        var src = data.avatarUrl;
+        var name = data.anchorName;
+        var num = data.viewerNum;
+
+        var dom = '<li><a href="' + url + '" target="_blank" style="background: url(' + src + '); background-size: cover"><span class="ts_zb">直播中</span></a><h3>' + name + '</h3><p>' + num + '人正在观看</p></li>';
+        return dom;
+    }
+
+    function position1 (key, data) {
+        var domStr = '';
+        var sessionStr = '';
+        for(var k = 0, len = data.length; k < len; k++) {
+            var dom = getDom(key, data[k]);
+            var anchorId = data[k].anchorId;
+            var liveId = data[k].liveId;
+            domStr += dom;
+            sessionStr = sessionStr + '@' + getSession(anchorId, key, liveId);
+        }
+        var pp1Dom = document.getElementById(key);
+        pp1Dom.innerHTML = domStr;
+        sessionStr = sessionStr.substring(1);
+        console.log(sessionStr);
+        window.PPX_analytics.send(sessionStr);
+    }
+    if(window.popoxiuLiveVar) {
+        for(var attr in popoxiuLiveVar) {
+            var tempData = popoxiuLiveVar[attr];
+            if(tempData.length) {
+                position1(attr, tempData);
+            }
+        }
+    }
+})()
+</script>
+
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>404-页面不存在</title>
+<link rel="stylesheet" href="http://y0.ifengimg.com/8cbe73a7378dafdb/2014/0715/basic_new_v2.css"/>
+<style>
+*{font-family:"arial","microsoft yahei";}
+.col01{position: relative;width:1000px;margin:0 auto;padding-top:20px}
+.ifengLogo,.topic{float:left;padding-right:20px}
+
+.ifengLogo-W-06qA1w,
+.topic-1sth3FLa {
+    float: left;
+    padding-right: 20px;
+}
+
+.ifengLogo-W-06qA1w span {
+    display: inline-block;
+    width: 139px;
+    height: 52px;
+    background: url(https://p0.ifengimg.com/fe/zl/test/live/application/logo.d76a1c3b.jpg) no-repeat;
+}
+
+.topic-1sth3FLa span {
+    display: inline-block;
+    width: 312px;
+    height: 55px;
+    background: url(https://p0.ifengimg.com/fe/zl/test/live/application/pic01.af0994bb.jpg) no-repeat;
+}
+.topic{margin-left: 169px;}
+.tips404{position:relative;padding:45px 0 0 0;height:320px;float:left;width:450px; }
+.tips404 h1{font:normal 26px/26px Microsoft Yahei;color:#4c4c4c;padding-bottom:8px}
+.tips404 h1 span{font:normal 16px/24px Arial,Helvetica,sans-serif;color:#000}
+.tips404 li{font-size:14px;line-height: 1.6em;color:#aaa;background:url(http://y2.ifengimg.com/8cbe73a7378dafdb/2014/0715/icon.gif) no-repeat 0 9px;padding-left:15px}
+.tips404 h4{padding:11px 0 30px}
+.tips404 h3{font:normal 14px/24px simsun;color:#c5c5c5}
+.tips404 h3 span{background:url(http://y2.ifengimg.com/8cbe73a7378dafdb/2014/0715/icon.gif) no-repeat 0 -26px;padding-left:18px}
+
+/*排行*//*150414a begin*/
+.col02{width:998px;height:350px;background:#f7f7f7;border:1px solid #e8e8e8;margin:0 auto;position:relative; margin-bottom:20px;}
+.box400{ float:left; width:400px; padding:18px 40px 0 40px;}
+.box400 h3{font:bold 14px Microsoft Yahei;color:#2b2b2b; border-bottom:1px solid #e5e5e5; height:24px; margin-bottom:10px;}
+.box400 h3 span{ float:left;border-bottom:2px solid #bd0014; height:22px;}
+.fr{float:right;}
+.list li{ height:35px; line-height:35px; background:url(http://y3.ifengimg.com/a/2015/0421/s_11.gif) no-repeat 5px 10px;}
+.list li a:link,.list04 li a:visited{ color:#004276;}
+.list li a:hover{ color:#ba2636;}
+.list li span.no1{ font-size:18px; font-weight:bold; float:left; width:16px; height:23px; color:#ba2636; text-align:left; margin-right:10px; font-family:Arial, Helvetica, sans-serif; font-style:oblique;}
+.list li span.no{  font-size:18px; font-weight:bold;float:left; width:16px; height:23px; color:#666666; text-align:left; margin-right:10px; font-family:Arial, Helvetica, sans-serif}
+/*150414a end*/
+
+/*页尾*/
+.footer { width: 1000px; margin: 0 auto; }
+.footer .footlink { color: #000; height: 28px; line-height: 28px; padding-top: 15px; border-top: 1px solid #fff; overflow: hidden; }
+.footer .footlink a { color: #000; }
+.footer .footlink span { padding: 0 5px; }
+.footer .fk_l { float: left; }
+.footer .fk_r { width: 200px; float: right; }
+.footer .fk_r ul { overflow: hidden; }
+.footer .fk_r ul li { height: 28px; line-height: 28px; overflow: hidden; float: left; }
+.footer .fk_r ul .l_bg001 { background: url(http://y1.ifengimg.com/38716b164e0f5e63/2013/0716/nav0416_14.gif) no-repeat left 9px; padding-left: 19px; }
+.footer .fk_r ul .l_bg002 { background: url(http://y3.ifengimg.com/9db17ab793eef980/2013/0403/nav0416_17.gif) no-repeat left 9px; padding-left: 17px; margin-left: 18px; }
+.footer .copyright { font-family: Arial; color: #666; height: 28px; line-height: 28px; text-align: center; overflow: hidden; }
+.footer .copyright span { font-family: "宋体"; }
+.dot {
+  animation: sploosh 1.5s cubic-bezier(0.165, 0.84, 0.44, 1);
+  position: absolute;
+     left: 266px;
+    top: 187px;
+}
+.dot2 {
+  animation: sploosh2 1.5s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+.dot3 {
+  animation: sploosh3 1.5s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+.dot,.dot2,.dot3{
+  height: 20px;
+  width: 20px;
+  font-size: 20px;
+  color: #fff;
+  line-height: 100px;
+  text-align: center;
+  border-radius: 100%;
+  z-index: 10;
+  animation-iteration-count:infinite;
+  background: transparent;
+  opacity: .8;
+cursor:pointer;
+}
+@keyframes sploosh {
+  0% {
+    box-shadow: 0 0 0 0px rgba(255, 220, 1, 0.7);
+    background: rgba(255, 220, 1, 0.7);
+  }
+  100% {
+    box-shadow: 0 0 0 30px rgba(255, 220, 1, 0);
+    background: rgba(255, 220, 1, 0);
+  }
+}
+@keyframes sploosh2 {
+  0% {
+    box-shadow: 0 0 0 0px rgba(255, 220, 1, 0.7);
+    background: rgba(255, 220, 1, 0.7);
+  }
+  100% {
+    box-shadow: 0 0 0 20px rgba(255, 220, 1, 0);
+    background: rgba(255, 220, 1, 0.3);
+  }
+}
+@keyframes sploosh3 {
+  0% {
+    box-shadow: 0 0 0 0px rgba(255, 220, 1, 0.7);
+    background: rgba(255, 220, 1, 0.7);
+  }
+  100% {
+    box-shadow: 0 0 0 10px rgba(255, 220, 1, 0);
+    background: rgba(255, 220, 1, 1);
+  }
+}
+
+.leftLink{
+    display: block;
+    width: 331px;
+    height: 307px;
+    position: absolute;
+    top: 39px;
+    left: 65px;
+}
+/*190214a begin*/
+.pao_mid {
+    width: 445px;
+    height: 266px;
+    border: 1px solid #cfcfcf;
+    float: left;
+    margin: 47px 102px 0 0;
+}
+.box {
+    width: 418px;
+    height: 235px;
+    overflow: hidden;
+    position: relative;
+    margin: 15px auto 0;
+    background: #ccc;
+}
+
+#slideBar {
+    position: absolute;
+    left: 145px;
+    bottom: 14px;
+    z-index: 2;
+}
+
+#slideBar li {
+    float: left;
+    margin-right: 3px;
+    display: inline;
+    cursor: pointer;
+    background: #fff;
+    width: 7px;
+    height: 7px;
+    text-indent: 50px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin: 0 6px;
+}
+
+#slideBar li.on {
+    background: #f34443;
+}
+
+#slidesImgs {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+#slidesImgs li {
+    width: 418px;
+    height: 235px;
+    float: left;
+}
+
+#slidesImgs img {
+    float: left;
+    width: 418px;
+    height: 235px;
+}
+/*190214a end*/
+</style>
+
+</head>
+<body>
+<div class="col01 clearfix">
+ 
+	
+
+<div class="ifengLogo-W-06qA1w">
+        <a href="//www.ifeng.com" title="凤凰网">
+            <span></span>
+        </a>
+    </div>
+    <div class="topic-1sth3FLa">
+        <a href="//gongyi.ifeng.com/xianfeng/special/clist_0/1.shtml" title="公益先锋">
+            <span></span>
+        </a>
+    </div>
+
+</div>
+<div class="col01 clearfix">
+    <!--180905a begin-->
+    <div class="pao_mid">
+        
+        <div class="box" id="slideContainer">
+    <ul id="slidesImgs">
+                            <li>
+                        <a href="https://health.ifeng.com/c/7kO3iJo2OEC" target="_blank">
+                            <img src="http://d.ifengimg.com/w418_h235/p3.ifengimg.com/a/2019_09/d82d3f870bc5b4e.jpg" width="418" height="235" alt="出门也可携带的颈椎按摩器">
+                        </a>
+                        
+                    </li>
+                    <li>
+                        <a href="http://health.ifeng.com/c/7jdbWrDQ0wK" target="_blank">
+                            <img src="http://d.ifengimg.com/w418_h235/p3.ifengimg.com/a/2019_09/b6e4a8fa8a7f3e5.jpg" width="418" height="235" alt="好抽不伤身体的替烟神器">
+                        </a>
+                        
+                    </li>
+                    <li>
+                        <a href="http://health.ifeng.com/c/7jb8qYL5xwW" target="_blank">
+                            <img src="http://d.ifengimg.com/w418_h235/p1.ifengimg.com/a/2019_09/83d4e95b4082e00.jpg" width="418" height="235" alt="每天20分钟，腰不酸颈椎不痛，一身轻松">
+                        </a>
+                        
+                    </li>
+                    <li>
+                        <a href="https://health.ifeng.com/c/7kZiQGMDR4a" target="_blank">
+                            <img src="http://d.ifengimg.com/w418_h235/p3.ifengimg.com/a/2019_09/d5553be6e1a05b2.jpg" width="418" height="235" alt="曾国藩捧读的处世奇书，教你做人之道">
+                        </a>
+                        
+                    </li>
+    </ul>
+    <ul id="slideBar">
+               <li class="on">1</li>
+               <li>2</li>
+               <li>3</li>
+               <li>4</li>
+    </ul>
+
+</div> 
+    </div>
+    <!--180905a end-->
+    <div class="tips404">
+
+        <h1><img src= "http://p2.ifengimg.com/a/2017/0122/404.png"></h1>
+        <h1>抱歉-您访问的页面不存在！<br>
+            <span>Sorry-We cannot find the page you requested！</span></h1>
+        <ul>
+            <li>输入的网址不正确</li>
+            <li>页面已被删除</li>
+        </ul>
+        <h4>
+            <a href="http://help.ifeng.com" title="帮忙改进问题"><img src="http://p1.ifengimg.com/b/2017/0122/gaijin.png" width="162" height="34" alt="帮忙改进问题" title="帮忙改进问题"></a>
+        </h4>
+    </div>
+</div>
+<!--150414a begin-->
+<div class="col02">
+<!--排行 begin-->
+<div class="box400">
+    <h3><span>48小时点击排行</span></h3>
+    <ul class="list">
+    <li>
+        <span class="no1">1</span>
+        <a href="http://news.ifeng.com/c/7mllT4aXG5I?_CPB_404_L1" target="_blank" title="民调显示：预计上千万美国人下周一将因此旷工请假">民调显示：预计上千万美国人下周一将因此旷工请假</a>
+    </li>
+    <li>
+        <span class="no1">2</span>
+        <a href="http://news.ifeng.com/c/7mlrplnCLAm?_CPB_404_L2" target="_blank" title="顺德通报“伴娘被压床猥亵”恶性婚闹：未发现有关情形">顺德通报“伴娘被压床猥亵”恶性婚闹：未发现有关情形</a>
+    </li>
+    <li>
+        <span class="no1">3</span>
+        <a href="http://news.ifeng.com/c/7mmfgw5AmUh?_CPB_404_L3" target="_blank" title="突发：澳大利亚大选爆出重大意外结果，中澳关系再度不明">突发：澳大利亚大选爆出重大意外结果，中澳关系再度不明</a>
+    </li>
+    <li>
+        <span class="no">4</span>
+        <a href="http://news.ifeng.com/c/7mljVMH7uW8?_CPB_404_L4" target="_blank" title="俄罗斯要建管道往新疆送淡水？">俄罗斯要建管道往新疆送淡水？</a>
+    </li>
+    <li>
+        <span class="no">5</span>
+        <a href="http://news.ifeng.com/c/7mmMNDegMt6?_CPB_404_L5" target="_blank" title="“九二共识”中是否包含“一中各表”？柯文哲回应">“九二共识”中是否包含“一中各表”？柯文哲回应</a>
+    </li>
+    <li>
+        <span class="no">6</span>
+        <a href="http://news.ifeng.com/c/7ml5GaEAKtp?_CPB_404_L6" target="_blank" title="李小琳以新身份现身这里">李小琳以新身份现身这里</a>
+    </li>
+    <li>
+        <span class="no">7</span>
+        <a href="http://news.ifeng.com/c/7mmKmLiWUtd?_CPB_404_L7" target="_blank" title="又变了!？美商务部：可能缩减对华为限制">又变了!？美商务部：可能缩减对华为限制</a>
+    </li>
+    <li>
+        <span class="no">8</span>
+        <a href="http://news.ifeng.com/c/7mmovcauz2y?_CPB_404_L8" target="_blank" title="声明：联想未向华为断供">声明：联想未向华为断供</a>
+    </li>
+</ul>  
+       
+</div>
+<div class="box400 fr">
+    <h3><span>本日热评排行</span></h3>
+    <ul class="list">
+    <li>
+        <span class="no1">1</span>
+        <a href="http://d.news.ifeng.com/pc/special/391/index.shtml?_CPB_404_R1" target="_blank" title="新时代 新气象">新时代 新气象</a>
+    </li>
+    <li>
+        <span class="no1">2</span>
+        <a href="https://m.ifeng.com/shareNews?guid=a75a8952-d818-4a94-b21a-5a192334ec46?_CPB_404_R2" target="_blank" title="惊吓！两男子在地铁突然大喊“卧倒” 乘客慌乱窜逃">惊吓！两男子在地铁突然大喊“卧倒” 乘客慌乱窜逃</a>
+    </li>
+    <li>
+        <span class="no1">3</span>
+        <a href="https://m.ifeng.com/shareNews?guid=daca9ced-a50b-4aba-b521-728405a79a49?_CPB_404_R3" target="_blank" title="台湾船往哪开？韩国瑜表态：九二共识、反对“台独”">台湾船往哪开？韩国瑜表态：九二共识、反对“台独”</a>
+    </li>
+    <li>
+        <span class="no">4</span>
+        <a href="https://m.ifeng.com/shareNews?guid=089ef705-091d-45c2-bcc8-6831dfe6029e?_CPB_404_R4" target="_blank" title="惊呆！挪威女子四肢着地奔跑：像马一样跨越障碍物">惊呆！挪威女子四肢着地奔跑：像马一样跨越障碍物</a>
+    </li>
+    <li>
+        <span class="no">5</span>
+        <a href="http://v.ifeng.com/201905/video_40371423.shtml?_CPB_404_R5" target="_blank" title="伊朗甩出百亿武器订单，美称谁敢接就是对美宣战，全世界看向我国">伊朗甩出百亿武器订单，美称谁敢接就是对美宣战，全世界...</a>
+    </li>
+    <li>
+        <span class="no">6</span>
+        <a href="http://v.ifeng.com/201905/video_40463058.shtml?_CPB_404_R6" target="_blank" title="郭台铭：我当选机会很大 要许年轻人一个未来！">郭台铭：我当选机会很大 要许年轻人一个未来！</a>
+    </li>
+    <li>
+        <span class="no">7</span>
+        <a href="https://m.ifeng.com/shareNews?guid=5fd1525e-04d4-4869-bb38-9512b43cf0c5?_CPB_404_R7" target="_blank" title="“怼”刘强东“撕”贾跃亭！独家对话赵何娟：我没有后悔的事">“怼”刘强东“撕”贾跃亭！独家对话赵何娟：我没有后悔...</a>
+    </li>
+    <li>
+        <span class="no">8</span>
+        <a href="https://m.ifeng.com/shareNews?guid=11d8e6a8-ab0a-4a30-ad45-20ec92805d71?_CPB_404_R8" target="_blank" title="愚蠢！美国议员欢呼华为“死了” 却被媒体和网友狠狠打脸">愚蠢！美国议员欢呼华为“死了” 却被媒体和网友狠狠打...</a>
+    </li>
+</ul>  
+      
+</div>
+</div>
+<!--排行 end-->
+</div>
+<!--150414a end-->
+<div class="footer mt02">
+	<div class="footlink clearfix">
+		<div class="fk_l">
+			<a href="http://www.ifeng.com/corp/about/intro/" target="_blank">凤凰新媒体介绍</a><span>|</span><a href="http://ir.ifeng.com/" target="_blank">投资者关系 Investor Relations</a><span>|</span><a href="http://biz.ifeng.com/" target="_blank">广告服务</a><span>|</span><a href="http://career.ifeng.com/" target="_blank">诚征英才</a><span>|</span><a href="http://www.ifeng.com/corp/privacy/" target="_blank">保护隐私权</a><span>|</span><a href="http://www.ifeng.com/corp/exemption/" target="_blank">免责条款</a><span>|</span><a href="http://help.ifeng.com/" target="_blank">意见反馈</a><span>|</span><a href="http://phtv.ifeng.com/intro/" target="_blank">凤凰卫视介绍</a>
+		</div>
+		<div class="fk_r">
+			<ul class="clearfix">
+				<li class="l_bg001"><a a="" href="http://v.ifeng.com/" target="_blank" title="视频">视频</a></li>
+				<li>·<a href="http://v.ifeng.com/documentary/index.shtml" target="_blank" title="纪实">纪实</a></li>
+				<li>·<a href="http://v.ifeng.com/live/" target="_blank" title="直播">直播</a></li>
+				<li class="l_bg002"><a href="http://phtv.ifeng.com/" target="_blank" title="凤凰卫视">凤凰卫视</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="copyright">
+		<span>凤凰新媒体&nbsp;版权所有</span>&nbsp;&nbsp;&nbsp;&nbsp;Copyright © 2013 Phoenix New Media Limited All Rights Reserved.
+	</div>
+</div>
+<script type="text/javascript">var sta_collection_time = new Date().getTime();</script>
+
+<!--180905a begin-->
+<!-- <script type="text/javascript" src="http://y0.ifengimg.com/20140604/sta_collection.3.3.15x.min.js" id="sta_collection_new"></script> -->
+<script id="sta_collection_new">
+(function(j,i){var g={analytics:{VERSIONS:"x3.3.15",GTIME:null,TYPE:1,SCRIPT_URI:["http://stadig.ifeng.com/page.js"],SCRIPT_OBJ:[],SWF_URI:"http://y3.ifengimg.com/ed787/0912/flashCookie.swf",PARAM:{ref:"",snapid:"",uid:"",sid:"",editor:"",hook:"",pagepara:"",uri:"",versions:"",browser:""},init:function(b){var a=g.analytics,c=location.hostname;-1===c.indexOf("ifeng.com")&&-1===c.indexOf("phoenixtv.com")&&(a.VERSIONS="x3.3.15");a.PARAM.uri=b?b:"";a.process()},getParam:function(b){var a=g.analytics,
+c=[],d=a.PARAM.ref=encodeURIComponent(g.analytics.Tools.referrer()),e=a.PARAM.info=g.client.info.get()?encodeURIComponent(g.client.info.get()):"",b=a.PARAM.uid=b,f=a.PARAM.sid=a.Cookie.get("sid")?encodeURIComponent(a.Cookie.get("sid")):"",k=a.PARAM.editor=null!==i.getElementById("editor_name")?encodeURIComponent(i.getElementById("editor_name").innerHTML):"",h=a.PARAM.versions=a.VERSIONS,m=(new Date).getTime(),n=a.PARAM.pagepara="function"===typeof j.getStaPara?encodeURIComponent(j.getStaPara()):"",
+l=a.PARAM.ci="function"===typeof j.getChannelInfo?encodeURIComponent(j.getChannelInfo()):"";c.push("uri="+(a.PARAM.uri?a.PARAM.uri:""));c.push("ref="+(d?d:""));c.push("snapid="+(e?e:""));c.push("uid="+(b?b:""));c.push("sid="+(f?f:""));c.push("editor="+(k?k:""));c.push("timestamp="+m);c.push("versions="+h);"undefined"===typeof j.sta_collection_time?c.push("ztime="+(m/1-(new Date).getTime()/1)):c.push("ztime="+(m/1-j.sta_collection_time/1));n&&c.push("pt="+n);l&&c.push("ci="+l);return c.join("&")},
+process:function(){var b=g.analytics,a=b.Tools.domain(),c=b.Flash.FLASH_ID="ifengSwf_"+(new Date).getTime(),d="";if(b.Flash.isSupportFlash()){var e=i.getElementById("sta_collection"),d="",d=g.analytics.SWF_URI;e||(e=i.createElement("div"),e.id="sta_collection",i.getElementById("sta_collection_new").parentNode.insertBefore(e,i.getElementById("sta_collection_new")));d=i.all?'<object id="'+c+'" name="'+c+'" width="1" height="1" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"><param name="allowScriptAccess" value="always" /><param name="movie" value="'+
+d+'" /> </object>':'<embed id="'+c+'" name="'+c+'" width="1" height="1" src="'+d+'" type="application/x-shockwave-flash" allowScriptAccess="always"></embed>';b.Flash.FLASH_TIME=(new Date).getTime();b.GTIME=setTimeout(function(){b.TYPE=2;b.gCallback(b.TYPE)},3E3);e.innerHTML=d}else{var f=b.Cookie,d=e=c="";b.TYPE=0;f.isSupportCookie()?(!f.get("userid")||"undefined"==f.get("userid")||"false"==f.get("userid")?(f.set("userid",b.Tools.uid(),a),b.TYPE+="2"):b.TYPE+="3",c="?"+b.getParam(""===f.get("userid")?
+b.Tools.uid():f.get("userid"))):(b.TYPE+="0",c="?"+b.getParam(b.Tools.uid()));a="&support="+b.TYPE;if(1<b.SCRIPT_URI.length)for(f=0;f<b.SCRIPT_URI.length;f++)d=b.SCRIPT_URI[f]+c+a,e="script_"+(new Date).getTime()+"_"+f,b.SCRIPT_OBJ.push(e),b.Tools.append(b.Tools.script(d,e));else d=b.SCRIPT_URI[0]+c+a,e="script_"+(new Date).getTime()+"_0",b.SCRIPT_OBJ.push(e),b.Tools.append(b.Tools.script(d,e));b.PARAM.ref=encodeURIComponent(j.location.href.replace(/&/g,"|"))}},gCallback:function(b){var a=g.analytics,
+c=a.Tools.domain(),d=a.Flash.FLASH_ID,e=a.Flash.get(d,"www.ifeng.com","uid");a.TYPE=b?b:1;clearTimeout(a.GTIME);j.analytics_sta_callback=function(){};"string"===typeof e&&"undefined"===e||!1===e?(a.TYPE=!1===e?3:a.TYPE,a.Cookie.isSupportCookie()?!a.Cookie.get("userid")||"undefined"==a.Cookie.get("userid")||"false"==a.Cookie.get("userid")?(e=a.Tools.uid(),a.Cookie.set("userid",e,c),a.TYPE+="2"):(e=a.Cookie.get("userid"),a.TYPE+="3"):(e=a.Tools.uid(),a.TYPE+="0"),a.Flash.set(d,"www.ifeng.com","uid",
+e)):(a.TYPE=1,e=a.Flash.get(d,"www.ifeng.com","uid"),a.Cookie.isSupportCookie()?!a.Cookie.get("userid")||"undefined"==a.Cookie.get("userid")||"false"==a.Cookie.get("userid")?(a.Cookie.set("userid",e,c),a.TYPE+="2"):a.TYPE+="3":a.TYPE+="0");b="";e="?"+a.getParam(e);c="";d="&ftime="+((new Date).getTime()/1-a.Flash.FLASH_TIME/1)+"&support="+a.TYPE;if(1<a.SCRIPT_URI.length)for(var f=0;f<a.SCRIPT_URI.length;f++)b=a.SCRIPT_URI[f]+e+d,c="script_"+(new Date).getTime()+"_"+f,a.SCRIPT_OBJ.push(c),a.Tools.append(a.Tools.script(b,
+c));else b=a.SCRIPT_URI[0]+e+d,c="script_"+(new Date).getTime()+"_0",a.SCRIPT_OBJ.push(c),a.Tools.append(a.Tools.script(b,c));a.PARAM.ref=encodeURIComponent(j.location.href.replace(/&/g,"|"))},hook:function(b,a){var c=g.analytics,d=[],e=null,f="",k=e="",h;for(h in c.PARAM)"hook"===h?d.push(h+"="+(new Date).getTime()):"uri"!==h&&"snapid"!==h&&("info"===h?d.push("snapid="+c.PARAM[h]):"pagepara"===h?"#"!==c.PARAM.pagepara&&d.push("pt="+c.PARAM[h]):d.push(h+"="+c.PARAM[h]));d.push("timestamp="+(new Date).getTime());
+d.push("support="+c.TYPE);h=0;if(c.SCRIPT_OBJ){for(h=0;h<c.SCRIPT_OBJ.length;h++)f=c.SCRIPT_OBJ[h],e=i.getElementById(f),g.analytics.Tools.remove(e);c.SCRIPT_OBJ.length=0}if(1<c.SCRIPT_URI.length){k="?"+d.join("&")+(b?b:"");for(h=0;h<c.SCRIPT_URI.length;h++)e=c.SCRIPT_URI[h]+k,f="script_"+(new Date).getTime()+"_"+h,e=c.Tools.script(e,f),c.SCRIPT_OBJ.push(f),c.Tools.append(e)}else k="?"+d.join("&")+(b?b:""),f="script_"+(new Date).getTime()+"_0",e=c.Tools.script(c.SCRIPT_URI[0]+k,f),c.SCRIPT_OBJ.push(f),
+c.Tools.append(e);c.PARAM.ref=encodeURIComponent(j.location.href.replace(/&/g,"|"));"function"===typeof a&&a()}}};g.analytics.Tools={referrer:function(){return i.referrer.replace(/&/g,"|")},iframe:function(){var b="";if(self!==top)try{b=i.referrer.replace(/&/g,"|")}catch(a){b="undefined"}return b},domain:function(){var b=location.hostname,a=0,c=b.length;if(-1!==b.indexOf(".ifeng"))a=b.indexOf(".ifeng");else if(-1!==b.indexOf(".phoenixtv"))a=b.indexOf(".phoenixtv");else return".ifeng.com";return b.substring(a,
+c)},append:function(b){setTimeout(function(){i.body?i.body.insertBefore(b,i.body.firstChild):setTimeout(arguments.callee,0)},1)},remove:function(b){setTimeout(function(){b.parentNode.removeChild(b)},1)},script:function(b,a){var c=i.createElement("script");c.id=a;c.src=b;return c},uid:function(){var b=(new Date).getTime(),a="",c="",a=(2147483648*Math.random()|0).toString(36),c=Math.round(1E4*Math.random());return b+"_"+a+c},hasPlugin:function(b){for(var b=b.toLowerCase(),a=0;a<navigator.plugins.length;a++)if(-1<
+navigator.plugins[a].name.toLowerCase().indexOf(b))return!0},hasIEPlugin:function(b){try{return new ActiveXObject(b),!0}catch(a){return!1}},removeBlanks:function(b){for(var a="",c=0;c<b.length;c++){var d=b.charAt(c);" "!==d&&(a+=d)}return a}};g.analytics.Cookie={IS_HAS_COOKIE:null,get:function(b){for(var a=g.analytics.Tools.removeBlanks(i.cookie).split(";"),c=0;c<a.length;c++){var d=a[c].split("=");if(1<d.length&&d[0]===b)return d[1]}return""},set:function(b,a,c){var d=new Date;d.setTime(d.getTime()+
+31104E6);b=b+"="+a+"; path=/; domain="+c+"; expires="+d.toGMTString();j.document.cookie=b},remove:function(b,a){g.analytics.Flash.isSupportFlash()&&(i.cookie=b+"=; path=/; domain="+a+"; expires=Thu, 01-Jan-70 00:00:01 GMT");return!1},isSupportCookie:function(){var b=g.analytics.Cookie,a=b.IS_HAS_COOKIE;null===a&&j.navigator.cookieEnabled&&(a=b.IS_HAS_COOKIE=!0);return a}};g.analytics.Flash={FLASH_ID:null,FLASH_TIME:null,IS_HAS_FLASH:null,LOCAL_OBJECT:null,get:function(b,a,c){var d=g.analytics.Flash;
+return d.isSupportFlash()&&d.isAvailable(b)&&"undefined"!==typeof d.LOCAL_OBJECT.ifengFlashCookieRead&&d.LOCAL_OBJECT.ifengFlashCookieRead(a,c)?d.LOCAL_OBJECT.ifengFlashCookieRead(a,c):!1},set:function(b,a,c,d){var e=g.analytics.Flash,f=!1;e.isSupportFlash()&&(e.isAvailable(b)&&"undefined"!==typeof e.LOCAL_OBJECT.ifengFlashCookieRead)&&(e.LOCAL_OBJECT.ifengFlashCookieSet(a,c,d),f=!0);return f},remove:function(b,a,c){var d=g.analytics.Flash,e=!1;d.isSupportFlash()&&d.isAvailable(b)&&(d.LOCAL_OBJECT.ifengFlashCookieDelete(a,
+c),e=!0);return e},clear:function(b,a){var c=g.analytics.Flash,d=!1;c.isSupportFlash()&&c.isAvailable(b)&&(c.LOCAL_OBJECT.ifengFlashCookieClear(a),d=!0);return d},getFlashObj:function(b){if(j.document[b])return j.document[b];if(-1===navigator.appName.indexOf("Microsoft")){if(i.embeds&&i.embeds[b])return i.embeds[b]}else return i.getElementById(b)},isAvailable:function(b){var a=g.analytics.Flash,b=a.getFlashObj(b),c=!0,c=b?!0:!1;a.LOCAL_OBJECT=c?b:null;return c},isSupportFlash:function(){var b=g.analytics,
+a=b.Flash.IS_HAS_FLASH;null===a&&(a=(a=b.Tools.hasPlugin("Shockwave Flash"))?a:b.Tools.hasIEPlugin("ShockwaveFlash.ShockwaveFlash"));return a}};g.client={};g.client.info={get:function(){var b=g.client;return b.device.get()+","+b.system.get()+","+b.browser.get()+","+b.screen.get()}};g.client.screen={get:function(){var b="",a="";try{b=j.screen.width,a=j.screen.height}catch(c){}return b+"*"+a}};g.client.system={get:function(){var b,a,c;c="";var d="Win",e=navigator.userAgent;c=navigator.platform;b=0===
+c.indexOf("Win");a=0===c.indexOf("Mac");c="X11"===c||0===c.indexOf("Linux");if(b){if(/Win(?:dows )?([^do]{2})\s?(\d+\.\d+)?/.test(e))if("NT"===RegExp.$1)switch(RegExp.$2){case "5.0":d="windows_2000";break;case "5.1":d="windows_XP";break;case "6.0":d="windows_Vista";break;case "6.1":d="windows_7";break;case "6.2":d="windows_8";break;default:d="windows_NT"}else d="9x"===RegExp.$1?"windows_ME":e.match(/(Windows Phone)\s+([\d.]+)/)?"WP_"+e.match(/(Windows Phone)\s+([\d.]+)/)[2]:"Ph"===RegExp.$1?"WP":
+"windows_"+RegExp.$2;e.match(/(Android)\s+([\d.]+)/)&&(d="Android_"+e.match(/(Android)\s+([\d.]+)/)[2])}else a?d=e.match(/(iPad).*OS\s([\d_]+)/)||e.match(/(iPhone\sOS)\s([\d_]+)/)?"iOS":"Mac":c?d=e.match(/(Android)\s+([\d.]+)/)?"Android_"+e.match(/(Android)\s+([\d.]+)/)[2]:"Linux":e.match(/Windows Phone/)?d="WP":e.match(/(iPad).*OS\s([\d_]+)/)||e.match(/(iPhone\sOS)\s([\d_]+)/)?d="iOS_"+(e.match(/(iPad).*OS\s([\d_]+)/)?e.match(/(iPad).*OS\s([\d_]+)/)[2]:e.match(/(iPhone\sOS)\s([\d_]+)/)[2]):e.match(/(Android)\s+([\d.]+)/)&&
+(d="Android_"+e.match(/(Android)\s+([\d.]+)/)[2]);return d}};g.client.device={get:function(){var b="PC",a=navigator.userAgent,c=a.match(/(iPad).*OS\s([\d_]+)/),d=a.match(/(iPhone\sOS)\s([\d_]+)/),e=a.match(/(Android)\s+([\d.]+)/),f=a.match(/(Windows Phone)\s+([\d.]+)/);c&&(b="iPad");d&&(b="iPhone");e&&(a.toLowerCase().match(/mobile/)?((!a.match(/chrome\/([\d.]+)/)||!a.toLowerCase().match(/mobile/))&&a.toLowerCase().match(/firefox\/([\d.]+)/)&&a.toLowerCase().match(/mobile/),b="Phone"):b="Pad");f&&
+(b="Phone");return b}};g.client.browser={get:function(){var b=navigator.userAgent.toLowerCase(),a="",a=b.match(/(?:firefox|opera|safari|chrome|msie)[\/: ]([\d.]+)/)[1],c=/version.+safari/.test(b)||/safari[\/ ]+([\d.]+)/.test(b),d=/chrome\/([\d.]+)/.test(b)||/crios\/([\d.]+)/.test(b),e=/firefox/.test(b),f=/msie/.test(b),g=/opera/.test(b),h=/ucbrowser\/([\d.]+)/.test(b),i=/maxthon/.test(b),j=/lbbrowser/.test(b),l=/qqbrowser/.test(b),o=/se 2.+x/.test(b),a=a.split(".")[0];if(h)return a=b.match(/ucbrowser\/([\d.]+)/)[1]?
+b.match(/ucbrowser\/([\d.]+)/)[1]:a,"UC_"+a;if(i)return a=b.match(/maxthon\/([\d.]+)/)[1]?b.match(/maxthon\/([\d.]+)/)[1]:a,"AU_"+a;if(j)return"LB_"+a;if(l)return a=b.match(/qqbrowser\/([\d.]+)/)[1]?b.match(/qqbrowser\/([\d.]+)/)[1]:a,"QQ_"+a;if(o)return"SG_"+a;if(e)return"FF_"+a;if(g)return"OP_"+a;if(d)return"CM_"+a;if(c)return b.match(/android/)?"WK_"+b.match(/webkit\/([\d.]+)/)[1]:"SF_"+a;if(f)return"IE_"+a}};j.analytics=g.analytics.init;j.hook=g.analytics.hook;j.analytics_sta_callback=function(){g.analytics.gCallback()}})(window,
+document);window.analytics(encodeURIComponent('http://www.ifeng.com/404.html'));
+</script>
+<!--180905a begin-->
+
+<script> var popoxiuLiveVar={"error_ppposition_live1":[{"adPosition":[],"anchorId":153659,"anchorName":"青之雨","avatarUrl":"http://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTLesNuKKIS9iblOia8KoN894QxWsJ8SdlUmibfuwc9Ria3QALw3H782mofD1bhMolMhTTNVZTybL6fIibQ/132","avgViewNum":0.0,"avgViewTime":0,"beginTime":1547082103,"click":0,"created":1547082101,"disableR":false,"exposure":0,"id":0,"insertTime":0,"liveDesc":"","liveId":36452,"livePlayUrl":"http://liveplay.xiu.ifeng.com/live/30236_wh-153659.flv","livePlayUrlM3u8":"http://liveplay.xiu.ifeng.com/live/30236_wh-153659.m3u8","liveStatus":1,"mobileClickUrl":"https://m.popoxiu.com/anchor.html?liveId=36452&uid=153659&ppxid=153659","order":0,"pcClickUrl":"https://www.popoxiu.com/anchor.html?uid=153659&liveId=36452","status":0,"tag":["可爱","呆萌","魅力","性感","成熟"],"version":0,"viewerDesc":"53人正在观看","viewerNum":53},{"adPosition":[],"anchorId":105472,"anchorName":"美美de萱萱","avatarUrl":"http://popoxiu-1257320466.image.myqcloud.com/headPic/105472_1536993741.jpeg?imageView2/2/w/300","avgViewNum":0.0,"avgViewTime":0,"beginTime":0,"click":0,"created":0,"disableR":false,"exposure":0,"id":0,"insertTime":0,"liveId":0,"liveStatus":0,"mobileClickUrl":"https://m.popoxiu.com/anchor.html?liveId=36452&uid=153659&ppxid={2}","order":0,"pcClickUrl":"https://www.popoxiu.com/anchor.html?uid=153659&liveId=36452","status":0,"tag":["清纯","乐器","异域风情","混血","少女"],"version":0,"viewerDesc":"285人正在观看","viewerNum":285},{"adPosition":[],"anchorId":108544,"anchorName":"思璇eiゞ","avatarUrl":"http://popoxiu-1257320466.image.myqcloud.com/headPic/108544_1537346031.jpeg?imageView2/2/w/300","avgViewNum":0.0,"avgViewTime":0,"beginTime":0,"click":0,"created":0,"disableR":false,"exposure":0,"id":0,"insertTime":0,"liveId":0,"liveStatus":0,"mobileClickUrl":"https://m.popoxiu.com/anchor.html?liveId=36452&uid=153659&ppxid={2}","order":0,"pcClickUrl":"https://www.popoxiu.com/anchor.html?uid=153659&liveId=36452","status":0,"tag":["民族舞","钢管舞","跳舞","二次元","乐队"],"version":0,"viewerDesc":"294人正在观看","viewerNum":294},{"adPosition":[],"anchorId":102402,"anchorName":"性感❤舞娘","avatarUrl":"http://popoxiu-1257320466.image.myqcloud.com/headPic/102402_1542099235.jpeg?imageView2/2/w/300","avgViewNum":0.0,"avgViewTime":0,"beginTime":0,"click":0,"created":0,"disableR":false,"exposure":0,"id":0,"insertTime":0,"liveId":0,"liveStatus":0,"mobileClickUrl":"https://m.popoxiu.com/anchor.html?liveId=36452&uid=153659&ppxid={2}","order":0,"pcClickUrl":"https://www.popoxiu.com/anchor.html?uid=153659&liveId=36452","status":0,"tag":["乐队","正能量","乡村生活","探险","户外"],"version":0,"viewerDesc":"71人正在观看","viewerNum":71},{"adPosition":[],"anchorId":145412,"anchorName":"毕竟空空不温柔","avatarUrl":"http://popoxiu-1257320466.image.myqcloud.com/headPic/145412_1542113114.jpeg?imageView2/2/w/300","avgViewNum":0.0,"avgViewTime":0,"beginTime":0,"click":0,"created":0,"disableR":false,"exposure":0,"id":0,"insertTime":0,"liveId":0,"liveStatus":0,"mobileClickUrl":"https://m.popoxiu.com/anchor.html?liveId=36452&uid=153659&ppxid={2}","order":0,"pcClickUrl":"https://www.popoxiu.com/anchor.html?uid=153659&liveId=36452","status":0,"tag":["脱口秀","才艺","好声音","民谣","自弹自唱"],"version":0,"viewerDesc":"22人正在观看","viewerNum":22},{"adPosition":[],"anchorId":146438,"anchorName":"大王🐯","avatarUrl":"http://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83eqUZiatNNylJCA3h3UhUrfNhT9YlaH9uAMTkhA5XeqeJoXsGZmDI79ZShkh5BEkqseT1CTgB0eIRiaw/132","avgViewNum":0.0,"avgViewTime":0,"beginTime":0,"click":0,"created":0,"disableR":false,"exposure":0,"id":0,"insertTime":0,"liveId":0,"liveStatus":0,"mobileClickUrl":"https://m.popoxiu.com/anchor.html?liveId=36452&uid=153659&ppxid={2}","order":0,"pcClickUrl":"https://www.popoxiu.com/anchor.html?uid=153659&liveId=36452","status":0,"tag":["乡村生活","探险","户外","脱口秀","才艺"],"version":0,"viewerDesc":"288人正在观看","viewerNum":288}]};</script>
+
+<script type="text/javascript" src="//p3.ifengimg.com/a/2018/0907/fa.min.js"></script>
+
+<script type="text/javascript">
+        // 190214a begin
+        function SlideShow(c) {
+            var a = document.getElementById("slideContainer"),
+                f = document.getElementById("slidesImgs").getElementsByTagName("li"),
+                h = document.getElementById("slideBar"),
+                n = h.getElementsByTagName("li"),
+                d = f.length,
+                c = c || 3000,
+                e = lastI = 0,
+                j, m;
+
+            function b() {
+                m = setInterval(function() {
+                    e = e + 1 >= d ? e + 1 - d : e + 1;
+                    g()
+                }, c)
+            }
+
+            function k() {
+                clearInterval(m)
+            }
+
+            function g() {
+                f[lastI].style.display = "none";
+                n[lastI].className = "";
+                f[e].style.display = "block";
+                n[e].className = "on";
+                lastI = e
+            }
+            f[e].style.display = "block";
+            a.onmouseover = k;
+            a.onmouseout = b;
+            h.onmouseover = function(i) {
+                j = i ? i.target : window.event.srcElement;
+                if (j.nodeName === "LI") {
+                    e = parseInt(j.innerHTML, 10) - 1;
+                    g()
+                }
+            };
+            b()
+        };
+        SlideShow(2000);
+        // 190214a end
+    </script>
+
+
+<script>
+(function(){
+    var homeLink = 'https://www.popoxiu.com/';
+    var dimg = '//d.ifengimg.com/w130_h100/';
+    var staHomeLink = ['error_ppposition_live2'];
+    window.PPX_analytics.init({});
+
+    function getSession(anchorId, position, liveId) {
+        // 兼容IE
+        if (!window.location.origin) {
+            window.location.origin = window.location.protocol + '//' + window.location.hostname + (window.location.port ? ':' + window.location.port : '');
+        }
+
+        var _timestamp = formatTime(new Date().getTime());
+        var url = 'http://www.ifeng.com/404.html';
+        if (liveId) {
+            liveId = encodeURIComponent(liveId);
+        } else {
+            liveId = encodeURIComponent('');
+        }
+        var pageInfo = encodeURIComponent(liveId) + ':' + encodeURIComponent(position) + ':' + encodeURIComponent(url) + ':' + encodeURIComponent(anchorId);
+        var sess = _timestamp + '#pageinfo#pinfo=' + encodeURIComponent(pageInfo);
+        return sess;
+    }
+
+    function paddingZero(i) {
+        if (i < 10) {
+            i = '0' + i;
+        }
+        return i;
+    }
+
+    function formatTime(timestamp) {
+        var date = new Date(timestamp);
+        var Y = date.getFullYear() + '-';
+        var M = paddingZero(date.getMonth() + 1) + '-';
+        var D = paddingZero(date.getDate()) + '+';
+        var h = paddingZero(date.getHours()) + ':';
+        var m = paddingZero(date.getMinutes()) + ':';
+        var s = paddingZero(date.getSeconds());
+        return Y + M + D + h + m + s;
+    }
+
+    function getEleByClass(oParent, str) {
+        if (oParent.getElementsByClassName) {
+            return oParent.getElementsByClassName(str);
+        }
+
+        var aEle = oParent.getElementsByTagName('*');
+        var re = new RegExp('\\b' + str + '\\b');
+        var result = [];
+
+        for (var i = 0; i < aEle.length; i++) {
+            if (re.test(aEle[i].className)) {
+                result.push(aEle[i]);
+            }
+        }
+
+        return result;
+    }
+    var linkDom = getEleByClass(document, 'ppIndexHref');
+    for(var i = 0, len = linkDom.length; i < len; i++) {
+        linkDom[i].setAttribute('href', homeLink + '?tag=' + staHomeLink[i]);
+    }
+
+    function getDom(key, data) {
+        var url = data.pcClickUrl;
+        if (url.indexOf('?') > -1) {
+            url = url + '&tag=' + key;
+        } else {
+            url = url + '?tag=' + key;
+        }
+        var src = data.avatarUrl;
+        var name = data.anchorName;
+        var num = data.viewerNum;
+
+        var dom = '<li><a href="' + url + '" target="_blank" style="background: url(' + src + '); background-size: cover"><span class="ts_zb">直播中</span></a><h3>' + name + '</h3><p>' + num + '人正在观看</p></li>';
+        return dom;
+    }
+
+    function position1 (key, data) {
+        var domStr = '';
+        var sessionStr = '';
+        for(var k = 0, len = data.length; k < len; k++) {
+            var dom = getDom(key, data[k]);
+            var anchorId = data[k].anchorId;
+            var liveId = data[k].liveId;
+            domStr += dom;
+            sessionStr = sessionStr + '@' + getSession(anchorId, key, liveId);
+        }
+        var pp1Dom = document.getElementById(key);
+        pp1Dom.innerHTML = domStr;
+        sessionStr = sessionStr.substring(1);
+        console.log(sessionStr);
+        window.PPX_analytics.send(sessionStr);
+    }
+    if(window.popoxiuLiveVar) {
+        for(var attr in popoxiuLiveVar) {
+            var tempData = popoxiuLiveVar[attr];
+            if(tempData.length) {
+                position1(attr, tempData);
+            }
+        }
+    }
+})()
+</script>
+
+</body>
+</html>
+

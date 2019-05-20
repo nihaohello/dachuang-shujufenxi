@@ -1,0 +1,905 @@
+<script>
+    window.location.href = "http://www.51auto.com/control/NotFoundPage";
+</script>
+<script>
+    window.location.href = "http://www.51auto.com/control/NotFoundPage";
+</script>
+<script>
+    window.location.href = "http://www.51auto.com/control/NotFoundPage";
+</script>
+<script>
+    window.location.href = "http://www.51auto.com/control/NotFoundPage";
+</script>
+<script>
+    window.location.href = "http://www.51auto.com/control/NotFoundPage";
+</script>
+<script>
+    window.location.href = "http://www.51auto.com/control/NotFoundPage";
+</script>
+
+<!DOCTYPE html>
+<html lang= "en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="renderer" content="webkit">
+    <link rel="dns-prefetch" href="http://www.51auto.com ">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>【二手车_二手车交易市场_二手车交易网】 - 51汽车网</title>
+    <meta name="keywords" content="二手车,二手车交易市场,二手车市场,二手车网,二手车交易网">
+    <meta name="description" content="51汽车网,二手车,真实全面的二手车交易市场车源信息,图片,二手车市场报价及参考价格,拥有精准权威的二手车评估系统,是专业的二手车交易平台,提供二手车报价,二手车评估,商家,认证,个人二手车信息,买卖二手车就上51汽车"><meta http_equiv="pragma" content="no-cache">
+    <meta http_equiv="Cache-Control" content="no-cache, must-revalidate">
+    <meta name="fragment" content="!">
+    <meta http-equiv="mobile-agent" content="format=html5; url=http://m.51auto.com/" />
+</head>
+<body>
+
+<form action="http://www.51auto.com?r=1558357976913" method="get" id="myform">
+</form>
+<script type="text/javascript">
+    window.onload = function () {
+        document.getElementById('myform').submit();
+    }
+</script>
+</body>
+</html>
+<script>
+    window.location.href = "http://www.51auto.com/control/NotFoundPage";
+</script>
+
+<!DOCTYPE html>
+<html lang= "en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="renderer" content="webkit">
+    <link rel="dns-prefetch" href="http://www.51auto.com ">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>【二手车_二手车交易市场_二手车交易网】 - 51汽车网</title>
+    <meta name="keywords" content="二手车,二手车交易市场,二手车市场,二手车网,二手车交易网">
+    <meta name="description" content="51汽车网,二手车,真实全面的二手车交易市场车源信息,图片,二手车市场报价及参考价格,拥有精准权威的二手车评估系统,是专业的二手车交易平台,提供二手车报价,二手车评估,商家,认证,个人二手车信息,买卖二手车就上51汽车"><meta http_equiv="pragma" content="no-cache">
+    <meta http_equiv="Cache-Control" content="no-cache, must-revalidate">
+    <meta name="fragment" content="!">
+    <meta http-equiv="mobile-agent" content="format=html5; url=http://m.51auto.com/" />
+</head>
+<body>
+
+<form action="http://www.51auto.com?r=1558357977969" method="get" id="myform">
+</form>
+<script type="text/javascript">
+    window.onload = function () {
+        document.getElementById('myform').submit();
+    }
+</script>
+</body>
+</html>
+<script>
+    window.location.href = "http://www.51auto.com/control/NotFoundPage";
+</script>
+<script>
+    window.location.href = "http://www.51auto.com/control/NotFoundPage";
+</script>
+<script>
+    window.location.href = "http://www.51auto.com/control/NotFoundPage";
+</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>雪铁龙世嘉三厢前车挡风玻璃怎么除雾？- 51汽车网</title>
+<meta name="description" content="还有冬天，车内开空调温度高 车外温度低更容易起雾怎么办...." />
+<!--css-->
+<link href="http://static.51auto.com/css/v1/answers.css" rel="stylesheet" type="text/css"/>
+<!--tab-->
+
+<!--css-->
+<link href="http://static.51auto.com/css/v1/global_51auto_v1.css" rel="stylesheet" type="text/css"/>
+<!--/css-->
+<!--header_sta-->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-254381-1']);
+  _gaq.push(['_setDomainName', '.51auto.com']);
+  _gaq.push(['_addOrganic', 'sogou', 'query']);
+  _gaq.push(['_addOrganic', 'baidu', 'word']);
+  _gaq.push(['_addOrganic', 'soso', 'w']);
+  _gaq.push(['_addOrganic', 'youdao', 'q']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?954c42feaba402a134e4d89ae31cc766";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<!--/header_sta-->
+<!--zhidao_sta-->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-254381-30']);
+  _gaq.push(['_addOrganic', 'sogou', 'query']);
+  _gaq.push(['_addOrganic', 'baidu', 'word']);
+  _gaq.push(['_addOrganic', 'soso', 'w']);
+  _gaq.push(['_addOrganic', 'youdao', 'q']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!--/zhidao_sta-->
+
+</head>
+<body>
+<!--head-->
+<script type="text/javascript" language="Javascript" src="http://static.51auto.com/js/jquery/jquery-1.7.2.js?v=20141013"></script>
+<script type="text/javascript" language="Javascript" src="http://static.51auto.com/js/pagecomponent.js"></script>
+<script type="text/javascript">jq = jQuery.noConflict();</script>
+<script type="text/javascript" src="http://static.51auto.com/js/customizing/jquery.tab.js?v=20141013"></script>
+<script type="text/javascript" src="http://static.51auto.com/js/customizing/jquery.pos.js?v=20141013"></script>
+<script src="http://static.51auto.com/js/autocomplete/jquery.autocomplete.min.js?v=20141013" type="text/javascript" charset="UTF-8"></script>
+<script type="text/javascript" src="http://static.51auto.com/js/jquery/jquery.bgiframe.js?v=20141013"></script>
+<div class="indexHeader mb10">
+    <div class="mainWrap">
+        <script type="text/javascript" language="Javascript" src="http://static.51auto.com/js/common-facade2014.js?v=20141013" charset="gb2312"></script>
+        <div class="logoNav">
+            <div class="logo_51auto fl">
+                <h1> <a href="http://www.51auto.com"> <img src="http://static.51auto.com/images/v1/home2014/icon/logo.png" alt="51二手车" /> </a> </h1>
+            </div>
+            <div class="top_city fl"><a href="javascript:void(0);"><span id="headZoneName">全国</span><span class="allow"></span></a></div>
+            <div class="search_box">
+                <a id="topSearchBtn" href="javascript:topSearchBar();" class="submit fr">搜索</a>
+                <span class="fl allow" id="show_key">买车</span>
+                <input type="text" class="fl" id="keyword" style="color:#b2b2b2" maxlength="25" value="请输入品牌或车系" onfocus="if(!this.initilized){this.value='';this.style.color='';this.initilized=true}if(this.value=='请输入商家名称'||this.value=='请输入品牌或车系'||this.value=='请输入您的问题'){this.value='';this.style.color='';}" onblur="if(this.value==''){this.style.color='#b2b2b2';if(jQuery('#show_key').html()=='买车'){this.value='请输入品牌或车系'}else if(jQuery('#show_key').html()=='商家'){this.value='请输入商家名称'}else if(jQuery('#show_key').html()=='问答'){this.value='请输入您的问题'};this.initilized=false;}" />
+            </div>
+            <script type="text/javascript">initTopSearchBarAutoComplete();</script>
+            <div class="pos search_select hidden">
+                <a href="javascript:void(0);">商家</a>
+                <a href="javascript:void(0);">问答</a>
+            </div>
+            <a class="appDown" href="http://www.51auto.com/app/">下载手机客户端<img src="http://static.51auto.com/images/v1/home2014/icon/andriod.png"> | <img src="http://static.51auto.com/images/v1/home2014/icon/apple.png"> </a>
+        </div>
+        <div class="navitems">
+            <ul class="lmenu">
+                <li class="fr clearfix"><a href="http://www.51auto.com/zhinan/" target="_blank">买卖攻略</a></li>
+                <li class="fr clearfix"><a href="http://data.51auto.com/" target="_blank">买新车</a></li>
+                <li class="clearfix"><a href="http://www.51auto.com/" target="_blank">首页</a></li>
+                <li class="clearfix"><a href="http://www.51auto.com/buycar/" target="_blank">买二手车</a></li>
+                <li class="clearfix"><a href="http://www.51auto.com/sell/" target="_blank">卖二手车</a></li>
+                <li class="clearfix"><a href="http://www.51auto.com/pinggu/" target="_blank">二手车估价</a></li>
+                <li class="clearfix"><a href="http://www.51auto.com/qiugou/" target="_blank">二手车求购</a></li>
+                <li class="clearfix"><a href="http://www.51auto.com/dealers/" target="_blank">二手车商家</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="pos cityPanel hidden">
+
+    <dl class="hotcity">
+        <dt >热门城市</dt>
+    </dl>
+    <dl class="clearfix ">
+        <h3 class="title_area">华北东北</h3>
+        <div class="dd_hotcity">
+            <dd><a href="http://www.51auto.com/beijing/" id="BJ_">北京</a></dd>
+            <dd><a href="http://www.51auto.com/dalian/" id="LN_373" az="辽宁">大连</a></dd>
+            <dd><a href="http://www.51auto.com/taiyuan/" id="SX_111" az="山西"> 太原</a></dd>
+            <dd><a href="http://www.51auto.com/shenyang/" id="LN_372" az="辽宁">沈阳</a></dd>
+            <dd><a href="http://www.51auto.com/tianjin/" id="TJ_">天津</a></dd>
+            <dd><a href="http://www.51auto.com/changchun/" id="JL_437" az="吉林">长春</a></dd>
+            <dd class="long_city"><a href="http://www.51auto.com/shijiazhuang/" id="HB_225" az="河北">石家庄</a></dd>
+            <dd class="last_city"><a href="http://www.51auto.com/haerbin/" id="HL_486" az="黑龙江">哈尔滨</a></dd>
+            <dd class="long_city"><a href="http://www.51auto.com/tangshan/" id="TS_88" az="河北">唐山</a></dd>
+            <dd class="long_city"><a href="http://www.51auto.com/huhehaote/" id="NM_5" az="内蒙古">呼和浩特</a></dd>
+            <dd class="long_city"><a href="http://www.51auto.com/baotou/" id="NM_6" az="内蒙古">包头</a></dd>
+        </div>
+        <div class="clear"></div>
+
+        <h3 class="title_area">华东地区</h3>
+        <div class="dd_hotcity">
+            <dd><a href="http://www.51auto.com/shanghai/" id="SH_">上海</a></dd>
+            <dd><a href="http://www.51auto.com/ningbo/" id="NB_866" az="浙江">宁波</a></dd>
+            <dd><a href="http://www.51auto.com/jinan/" id="JN_868" az="山东">济南</a></dd>
+            <dd><a href="http://www.51auto.com/nanjing/" id="JS_571" az="江苏">南京</a></dd>
+            <dd><a href="http://www.51auto.com/hangzhou/" id="ZJ_865" az="浙江">杭州</a></dd>
+            <dd><a href="http://www.51auto.com/suzhou/" id="JS_581" az="江苏">苏州</a></dd>
+            <dd><a href="http://www.51auto.com/fuzhou1/" id="FJ_1047" az="福建">福州</a></dd>
+            <dd><a href="http://www.51auto.com/quanzhou/" id="FJ_579" az="福建">泉州</a></dd>
+            <dd><a href="http://www.51auto.com/qingdao/" id="SD_738" az="山东">青岛</a></dd>
+            <dd><a href="http://www.51auto.com/zhangzhou/" id="SD_1048" az="山东"> 漳州</a></dd>
+            <dd><a href="http://www.51auto.com/wuxi/" id="JS_580" az="江苏">无锡</a></dd>
+            <dd><a href="http://www.51auto.com/wenzhou/" id="WZ_572" az="浙江">温州</a></dd>
+        </div>
+        <div class="clear"></div>
+        <h3 class="title_area">华南华中</h3>
+        <div class="dd_hotcity">
+            <dd><a href="http://www.51auto.com/guangzhou/" id="GD_1456" az="广东">广州</a></dd>
+            <dd><a href="http://www.51auto.com/shenzhen/" id="GD_1457" az="广东">深圳</a></dd>
+            <dd><a href="http://www.51auto.com/changsha/" id="UN_1121" az="湖南">长沙</a></dd>
+            <dd><a href="http://www.51auto.com/wuhan/" id="UB_1231" az="湖北">武汉</a></dd>
+            <dd><a href="http://www.51auto.com/nanchang/" id="JX_949" az="江西">南昌</a></dd>
+            <dd><a href="http://www.51auto.com/nanning/" id="GX_1582" az="广西">南宁</a></dd>
+            <dd><a href="http://www.51auto.com/zhengzhou/" id="EN_1315" az="河南">郑州</a></dd>
+            <dd><a href="http://www.51auto.com/foshan/" id="GD_1468" az="广东">佛山</a></dd>
+            <dd><a href="http://www.51auto.com/xiamen/" id="FJ_1048" az="福建">厦门</a></dd>
+            <dd><a href="http://www.51auto.com/dongguan/" id="GD_1465" az="广东">东莞</a></dd>
+            <dd><a href="http://www.51auto.com/haikou/" id="HN_1561" az="海南">海口</a></dd>
+            <dd><a href="http://www.51auto.com/sanya/" id="HN_1121" az="海南">三亚</a></dd>
+        </div>
+        <div class="clear"></div>
+        <h3 class="title_area">西南西北</h3>
+        <div class="dd_hotcity">
+            <dd><a href="http://www.51auto.com/chongqing/" id="CQ_">重庆</a></dd>
+            <dd><a href="http://www.51auto.com/chengdu/" id="SC_1760" az="四川">成都</a></dd>
+            <dd><a href="http://www.51auto.com/xian/" id="AX_1974" az="陕西">西安</a></dd>
+            <dd><a href="http://www.51auto.com/kunming/" id="YN_1846" az="云南">昆明</a></dd>
+            <dd><a href="http://www.51auto.com/guiyang/" id="GZ_1847" az="贵州">贵阳</a></dd>
+            <dd><a href="http://www.51auto.com/lanzhou/" id="GS_1848" az="甘肃">兰州</a></dd>
+        </div>
+        <div class="clear"></div>
+    </dl>
+    <dl class="hotprovince">
+        <dt>热门省份</dt>
+    </dl>
+    <dl  class="clearfix dl_hotcity" style="*height:1%; white-space:nowrap;" >
+        <dd><a href="http://www.51auto.com/guangdong/" id="GD_">广东</a></dd>
+        <dd><a href="http://www.51auto.com/fujian/" id="FJ_">福建</a></dd>
+        <dd><a href="http://www.51auto.com/zhdd>ejiang/" id="ZJ_">浙江</a></dd>
+        <dd><a href="http://www.51auto.com/jiangsu/" id="JS_">江苏</a></dd>
+        <dd><a href="http://www.51auto.com/sichuan/" id="SC_">四川</a></dd>
+        <dd><a href="http://www.51auto.com/hebei/" id="HB_">河北</a></dd>
+        <dd><a href="http://www.51auto.com/shanxi/" id="AX_">陕西</a></dd>
+        <dd><a href="http://www.51auto.com/hunan/" id="UN_">湖南</a></dd>
+        <dd><a href="http://www.51auto.com/shandong/" id="SD_">山东</a></dd>
+        <dd><a href="http://www.51auto.com/henan/" id="HN_">河南</a></dd>
+        <dd><a href="http://www.51auto.com/hubei/" id="UB_">湖北</a></dd>
+        <dd><a href="http://www.51auto.com/liaoning/" id="LN_">辽宁</a></dd>
+        <dd><a href="http://www.51auto.com/anhui/" id="AH_">安徽</a></dd>
+        <dd><a href="http://www.51auto.com/jiangxi/" id="JX_">江西</a></dd>
+        <dd><a href="http://www.51auto.com/heilongjiang/" id="HL_">黑龙江</a></dd>
+    </dl>
+    <div class="clear"></div>
+    <dl class="clearfix noborder">
+        <dt class="blue_title">
+            <a href="http://www.51auto.com/morecity.htm" class="fr" id="morecity">更多城市>></a>
+            <a href="http://www.51auto.com/quanguo/search/" class="fl notZonedSearchUrl" id="_" az="_">全国</a> </dt>
+    </dl>
+</div>
+<div class="mainWrap">
+<!--/head-->
+
+<script src="/zhidao/static/qa/js/jquery.cookie.js" type="text/javascript"></script> 
+<script src="/zhidao/static/qa/js/LAB.js" type="text/javascript" charset="UTF-8"></script>
+<script src="/zhidao/static/qa/js/ask.js" type="text/javascript" charset="UTF-8"></script>
+<script src="/zhidao/static/qa/js/common.js" type="text/javascript"></script>
+
+<script src="http://static.51auto.com/js/jquery.SuperSlide.js"></script>
+<script type="text/javascript">
+var countInterval,inputObj,spanId,maxNum;
+ 	function countWord(obj,sid,num){
+	 	inputObj=obj;
+	 	spanId=sid;
+	 	maxNum=num;
+		countInterval = setInterval("startCount()",500);
+	}
+ 	
+ 	function startCount(){
+		var num=maxNum - inputObj.value.length;
+		if(num<0){
+			inputObj.value = inputObj.value.substr(0,maxNum);
+			num = 0;
+		}
+		$('#'+spanId).html("还可以输入 "+num+" 字");
+ 	} 
+ 	
+ 	function stopCount(){
+ 		//clearInterval(countInterval);
+ 	} 
+ 	
+ 	function changeImg(){
+		var n = Date.parse(new Date())+Math.random();
+		document.getElementById('validImg00').src="/zhidao/static/qa/web/validCode.jsp?n="+n;
+		
+		$(document).ready(function(){
+		 $("#hvc").val(n);
+		});
+	}
+</script>
+
+<div class="mainwrap">
+<!--/head-->
+<div class="car_search">
+<div class="sear_fom left">
+       	 <em class="left">汽车问答：</em>
+         <div class="left">
+           <u class="sear_ser">
+             <input type="text" maxlength="25" value="请输入搜索内容" id="sear_ser" name="wd" onblur="if(this.value==''){this.style.color='#b2b2b2';this.value='请输入搜索内容';this.initilized=false;}" onfocus="if(!this.initilized){this.value='';this.style.color='';this.initilized=true}"   name="keyword" style="color:#b2b2b2;" autocomplete="off" class="ac_input">
+           </u>
+         </div>
+         <div class="left">
+	         <input type="button" value="搜索答案" class="sear_sub" onclick=" var wd=document.getElementById('sear_ser').value; searchByWord(wd,1);">
+         </div>
+         <script>
+         jQuery('.sear_ser').keydown(function(e){
+		  if(e.keyCode==13){
+		   searchByWord(jQuery("#sear_ser").val(),1);
+		  }
+		});
+		</script>
+       </div>
+       <div class="right">
+       	<a class="ask_quiz" href="http://www.51auto.com/zhidao/ask/">直接提问</a>
+       	<a class="ask_reply" href="http://www.51auto.com/zhidao/answer/">我要回答</a>
+       </div>
+       </div>
+    <div class="daohang"><a target="_blank" href="http://www.51auto.com/zhidao/">问答首页</a> &gt;<a href="http://www.51auto.com/zhidao/tagIndex" target="_blank">问答分类</a>
+	  <h1>
+	     &gt;故障处理
+	            &gt; 雪铁龙
+		&gt; 问题页
+	  </h1>
+    </div>
+   <div>    
+  <div class="ask_left_side">
+  
+ 	
+   	<div class="article7">
+        <p class="con_bg"></p>
+        <div class="see">
+        <div class="sh">
+            <b class="left "><a href='http://www.51auto.com/quanguo/xuetielong/' target=_blank >雪铁龙</a><a href='http://www.51auto.com/quanguo/xuetielong/shijia/' target=_blank >世嘉</a>三厢前车挡风玻璃怎么除雾？</b>
+        </div>
+          <div class="see_p">
+                <span class="gray">
+                	<em>提问者：匿名 &#12288;|&#12288;回答：6&#12288;|&#12288;浏览：7030</em>
+                    <i class="right">2011-04-17 13:59</i>
+                    <i class="icon_integral">0</i>
+                </span>
+            <div class="clear"></div>    
+            </div>
+            <div class="see_con">还有冬天，车内开空调温度高 车外温度低更容易起雾怎么办....</div>
+            <div>
+           	  <p class="left gray">标签：<a href="http://www.51auto.com/zhidao/tagIndex?tag=5158">[维修保养 故障处理]</a> 
+                    <a href="http://www.51auto.com/zhidao/tagIndex?brank=99">[雪铁龙]</a>
+                    <a href="http://www.51auto.com/zhidao/tagIndex?family=shijia">[世嘉]</a>
+                    <a href="http://www.51auto.com/zhidao/tagIndex?brank=70">[空]</a>
+           	  </p>
+              <a href="http://www.51auto.com/zhidao/question/10069.html" class="see_look">换个问题看看</a>
+            </div>
+        </div>
+    </div>
+    
+    
+   
+    
+    <div class="best_answer fd t10">
+    	<span class="bst_ans"></span>
+        <div class="bst_ans_con" style="left: 2px">
+       	  <div class="hp">
+            <span class="icon_flag"></span><b>最佳答案</b>
+            </div>
+            <div class="clear"></div>
+          <p><span id="a_content_90566">除雾方式太多了 洗洁精 除雾剂我都用过,其实还是空调吹最管用,雾产生的原因不就是 玻璃温度低,空气中水分到玻璃上液化产生的吗。你刚开始吹的时候,玻璃还不热,就等于你加快的空气液化的速度,等于你往玻璃上哈气一样。等一会你玻璃热了自然就不会有空气凝结,就不会再有雾了,雾大路店等等,吹个一两分钟就好。要是车里做的人多,来回说话就不好办了。其他办法不是长久之计。洗洁精、防雾剂涂一次,就只能管一两次。</span></p>
+	  </div>
+	  <ul>
+      </ul>
+	  <div class="ask_id">
+            <div class="left ask_id_icon">
+                <span class="gray">回答者：</span> 
+                匿名
+            </div>
+            <div class="ask_lv left ask_mt10">1</div>
+        <div class="see_time">回答时间：2011-04-17 14:49</div>
+           <p class="see_good">
+           	<span>
+             <a href="javascript:void(0);" onclick="vote(54171);">好</a><strong id="good_54171">0</strong>
+             </span>
+           </p>
+      </div>
+	</div>
+	
+    <div class="ask_related t10">
+    	<em class="ask_em re">相关知识</em>
+        <ul>
+        			<li><a href="http://www.51auto.com/zhidao/question/10070.html">雪铁龙世嘉三厢前车挡风玻璃怎么除雾？</a> <span class="right gray">6回答</span></li>
+        			<li><a href="http://www.51auto.com/zhidao/question/16087.html">世嘉挡风玻璃裂了还能开吗[雪铁龙][世嘉三厢]</a> <span class="right gray">1回答</span></li>
+        			<li><a href="http://www.51auto.com/zhidao/question/494778.html">求解铲车挡风玻璃的价格是多少？</a> <span class="right gray">1回答</span></li>
+        			<li><a href="http://www.51auto.com/zhidao/question/402333.html">有人了解雪铁龙世嘉换挡风玻璃后下雨有影响吗</a> <span class="right gray">1回答</span></li>
+        			<li><a href="http://www.51auto.com/zhidao/question/62846.html">一般来说雪铁龙世嘉换挡风玻璃后下雨会不会有影响呀？</a> <span class="right gray">1回答</span></li>
+        			<li><a href="http://www.51auto.com/zhidao/question/61370.html">雪铁龙世嘉换挡风玻璃后下雨有什么影响吗</a> <span class="right gray">1回答</span></li>
+        			<li><a href="http://www.51auto.com/zhidao/question/641662.html">菜鸟求助冬天车内怎么通风？怎么除雾？</a> <span class="right gray">1回答</span></li>
+        			<li><a href="http://www.51auto.com/zhidao/question/18241.html">黑车的后挡板把我的新车挡风玻璃给砸坏了,当时没报警,现在该怎么处理?</a> <span class="right gray">1回答</span></li>
+        			<li><a href="http://www.51auto.com/zhidao/question/33017.html">下雨的夜晚开灯后挡风玻璃不清晰,看前车不清楚,前车尾灯模糊,不是车内原因,白天没问题?</a> <span class="right gray">1回答</span></li>
+        			<li><a href="http://www.51auto.com/zhidao/question/29894.html">请问雪铁龙世嘉三厢1.6的油耗怎样?</a> <span class="right gray">1回答</span></li>
+        </ul>
+        <p><a href="http://www.51auto.com/zhidao/search?wd=<a href='http://www.51auto.com/quanguo/xuetielong/' target=_blank >雪铁龙</a><a href='http://www.51auto.com/quanguo/xuetielong/shijia/' target=_blank >世嘉</a>三厢前车挡风玻璃怎么除雾？">更多相关知识》</a></p>
+    </div>
+    
+    <div class="ask_other t10">
+    	<em class="ask_em ot">其他回答</em>
+    	<div class="see_con">空调那里有前窗除雾,直接用就可以了。</div>
+	    <ul>
+	   </ul>
+      <div class="ask_id ">
+        <div class="left ask_id_icon2"> <span class="gray">回答者：</span>
+         	匿名
+        </div>
+        <div class="ask_lv left ask_mt10">1</div>
+        <div class="see_time">回答时间：2011-04-17 17:11</div>
+        <p class="see_good"> <span> <a href="javascript:void(0);" onclick="vote(54170);">好</a><strong id="good_54170">0</strong> </span> </p>
+      </div>
+    	<div class="see_con">外循环</div>
+	    <ul>
+	   </ul>
+      <div class="ask_id ">
+        <div class="left ask_id_icon2"> <span class="gray">回答者：</span>
+         	匿名
+        </div>
+        <div class="ask_lv left ask_mt10">1</div>
+        <div class="see_time">回答时间：2011-04-17 16:33</div>
+        <p class="see_good"> <span> <a href="javascript:void(0);" onclick="vote(54169);">好</a><strong id="good_54169">0</strong> </span> </p>
+      </div>
+    	<div class="see_con">空调那里有前窗除雾,直接用就可以了。</div>
+	    <ul>
+	   </ul>
+      <div class="ask_id ">
+        <div class="left ask_id_icon2"> <span class="gray">回答者：</span>
+         	匿名
+        </div>
+        <div class="ask_lv left ask_mt10">1</div>
+        <div class="see_time">回答时间：2011-04-17 15:54</div>
+        <p class="see_good"> <span> <a href="javascript:void(0);" onclick="vote(54168);">好</a><strong id="good_54168">0</strong> </span> </p>
+      </div>
+    	<div class="see_con">除雾方式太多了 洗洁精 除雾剂我都用过,其实还是空调吹最管用,雾产生的原因不就是 玻璃温度低,空气中水分到玻璃上液化产生的吗。你刚开始吹的时候,玻璃还不热,就等于你加快的空气液化的速度,等于你往玻璃上哈气一样。等一会你玻璃热了自然就不会有空气凝结,就不会再有雾了,雾大路店等等,吹个一两分钟就好。要是车里做的人多,来回说话就不好办了。其他办法不是长久之计。洗洁精、防雾剂涂一次,就只能管一两次。</div>
+	    <ul>
+	   </ul>
+      <div class="ask_id ask_bn">
+        <div class="left ask_id_icon2"> <span class="gray">回答者：</span>
+         	匿名
+        </div>
+        <div class="ask_lv left ask_mt10">1</div>
+        <div class="see_time">回答时间：2011-04-17 15:16</div>
+        <p class="see_good"> <span> <a href="javascript:void(0);" onclick="vote(54167);">好</a><strong id="good_54167">0</strong> </span> </p>
+      </div>
+    	<div class="see_con">外循环</div>
+	    <ul>
+	   </ul>
+      <div class="ask_id ">
+        <div class="left ask_id_icon2"> <span class="gray">回答者：</span>
+         	匿名
+        </div>
+        <div class="ask_lv left ask_mt10">1</div>
+        <div class="see_time">回答时间：2011-04-17 14:38</div>
+        <p class="see_good"> <span> <a href="javascript:void(0);" onclick="vote(54166);">好</a><strong id="good_54166">0</strong> </span> </p>
+      </div>
+    </div>
+    <div class="ask_essence t10"> <em class="ask_em jh">精华知识</em>
+      <ul>
+    			<li ><a href="http://www.51auto.com/zhidao/question/10070.html">雪铁龙世嘉三厢前车挡风玻璃怎么除雾？</a> <span class="right gray">6个回答<i>2011-04-17 01:59</i></span></li>
+    			<li ><a href="http://www.51auto.com/zhidao/question/16087.html">世嘉挡风玻璃裂了还能开吗[雪铁龙][世嘉三厢]</a> <span class="right gray">1个回答<i>2012-05-28 06:59</i></span></li>
+    			<li ><a href="http://www.51auto.com/zhidao/question/494778.html">求解铲车挡风玻璃的价格是多少？</a> <span class="right gray">1个回答<i>2013-04-24 10:57</i></span></li>
+    			<li ><a href="http://www.51auto.com/zhidao/question/402333.html">有人了解雪铁龙世嘉换挡风玻璃后下雨有影响吗</a> <span class="right gray">1个回答<i>2013-04-19 10:07</i></span></li>
+    			<li ><a href="http://www.51auto.com/zhidao/question/62846.html">一般来说雪铁龙世嘉换挡风玻璃后下雨会不会有影响呀？</a> <span class="right gray">1个回答<i>2012-09-12 03:16</i></span></li>
+    			<li ><a href="http://www.51auto.com/zhidao/question/61370.html">雪铁龙世嘉换挡风玻璃后下雨有什么影响吗</a> <span class="right gray">1个回答<i>2012-09-10 02:22</i></span></li>
+    			<li ><a href="http://www.51auto.com/zhidao/question/641662.html">菜鸟求助冬天车内怎么通风？怎么除雾？</a> <span class="right gray">1个回答<i>2013-09-19 05:44</i></span></li>
+    			<li class="ask_bn"><a href="http://www.51auto.com/zhidao/question/18241.html">黑车的后挡板把我的新车挡风玻璃给砸坏了,当时没报警,现在该怎么处理?</a> <span class="right gray">1个回答<i>2011-10-15 04:59</i></span></li>
+      </ul>
+    </div>
+	    <div class="t10 best_answer fd border"> <span class="con_bg2"></span>
+	      <form name="form1" action="/zhidao/answer/new" method="post" id="form1" >
+	      <input type="hidden" name="questionId" value="10070" />
+	      <input type="hidden" name="subID_sanswer" value="HJwMKpsGdqd"/>
+	      <div class="bst_ans_con2" style="left: 2px">
+	            <b><a href='http://www.51auto.com/quanguo/xuetielong/' target=_blank >雪铁龙</a><a href='http://www.51auto.com/quanguo/xuetielong/shijia/' target=_blank >世嘉</a>三厢前车挡风玻璃怎么除雾？</b>
+	        	<div class="clear"></div>
+	            <label>
+	                <textarea id="a_content" name="content" rows="" cols="" class="tarea_w630" onfocus="countWord(this,'wordnum1',1000);" ></textarea>
+        			<span class="info_note" id="wordnum1" style="display:none">还可以输入1000字</span>
+	            </label>
+	          <!--  
+	            <label style="">
+	          	 	输入验证码：<input type="text" id="ValidCode" name="ValidCode" value="" maxlength="4"  style="width:60px"/>&nbsp;&nbsp;&nbsp;<img src="" align="absbottom" id="validImg00" border='0' onclick="changeImg()"/>&nbsp;&nbsp;&nbsp;<a href="javascript:;" onclick="changeImg()">看不清楚</a>
+        			<input type="hidden" name="hvc" id="hvc" value=""/>
+        		</label>
+        		-->
+	            <a class="sub_btn" href="javascript:void(0);" id="chkfrom1" onclick="chkfom1();return false;" >加上去</a>
+	            <div class="clear"></div>
+	      </div>
+	      </form>
+	    </div>
+  </div>
+    
+    <div class="ask_right_side">
+	  
+<div class="ask_expert border">
+        	<p class="ask_pa">二手车专家团，更专业，更快速！</p>
+            <ul class="ask_eu">
+            <p class="gray">51汽车网问答首席专家：</p>
+            		            	<li>
+	                	<div class="left ask_id_icon">
+	                        <a href="http://www.51auto.com/dealers/5418.html">澳康达名车广场</a>
+	                    </div>
+	                    <div class="ask_lv left ask_mt10">7</div>
+	                </li>
+	            	<li>
+	                	<div class="left ask_id_icon">
+	                        <a href="http://www.51auto.com/dealers/437536.html">车王0号（江桥店）</a>
+	                    </div>
+	                    <div class="ask_lv left ask_mt10">5</div>
+	                </li>
+	            	<li>
+	                	<div class="left ask_id_icon">
+	                        <a href="http://www.51auto.com/dealers/26975.html">安美途二手车</a>
+	                    </div>
+	                    <div class="ask_lv left ask_mt10">1</div>
+	                </li>
+            </ul>
+        	<p class="ask_btn" ><a href="http://www.51auto.com/zhidao/ask?expertHelp=1">向专家求助</a></p>
+        </div>
+
+	  
+	  <div class="ask_expert border t10">
+    	  <p class="ask_pa"><span class="left">热门故障处理问题推荐</span><i><a class="right gray" href="http://www.51auto.com/zhidao/tagIndex?tag=5158">更多》</a></i></p>
+    	  <ul class="ask_tu">
+	    	    <li><a href="http://www.51auto.com/zhidao/question/994039.html" title="有人知道2005年的奇瑞开瑞31.1l 手动 基本型 两厢想换车，了解一下价格？">有人知道2005年的奇瑞开瑞31.1l 手动 基本型 两厢想换车，了解一下价格？</a></li>
+	    	    <li><a href="http://www.51auto.com/zhidao/question/994032.html" title="帮忙看下北京安驰金牛2010年款彩色之旅 标准型 7座 手动 2.4l想换车，了解一下价格？">帮忙看下北京安驰金牛2010年款彩色之旅 标准型 7座 手动 2.4l想换车，了解一下价格？</a></li>
+	    	    <li><a href="http://www.51auto.com/zhidao/question/994007.html" title="我们家的2007年奇瑞的a1标准型 手动 1.3l想换车，了解一下价格？">我们家的2007年奇瑞的a1标准型 手动 1.3l想换车，了解一下价格？</a></li>
+	    	    <li><a href="http://www.51auto.com/zhidao/question/993947.html" title="在线等：2009年全球鹰的gx71.5l 手动 stdx 标准型想换车，了解一下价格？">在线等：2009年全球鹰的gx71.5l 手动 stdx 标准型想换车，了解一下价格？</a></li>
+	    	    <li><a href="http://www.51auto.com/zhidao/question/993483.html" title="哪位给解答下本田 思迪1.5l 手动 普通型，2007年的想换车，了解一下价格？">哪位给解答下本田 思迪1.5l 手动 普通型，2007年的想换车，了解一下价格？</a></li>
+	    	    <li><a href="http://www.51auto.com/zhidao/question/993198.html" title="我想知道雅阁，2007年的1.5l 手动 普通型想换车，了解一下价格？">我想知道雅阁，2007年的1.5l 手动 普通型想换车，了解一下价格？</a></li>
+	    	    <li><a href="http://www.51auto.com/zhidao/question/993157.html" title="我们家的2007年的奇瑞qq标准型 手动 1.3l想换车，了解一下价格？">我们家的2007年的奇瑞qq标准型 手动 1.3l想换车，了解一下价格？</a></li>
+	    	    <li><a href="http://www.51auto.com/zhidao/question/993070.html" title="女生自用鸿途，2009年的基本型 8座 手动 1.0l想换车，了解一下价格？">女生自用鸿途，2009年的基本型 8座 手动 1.0l想换车，了解一下价格？</a></li>
+  	    </ul>
+  	  </div>
+  	  
+  	  <div class="car_userd border t10" id="brandCarsDiv"  style="display:none">
+        <div class="ask_pa"><span class="left">网站推荐同系二手车</span><i><a id="samefamily" class="right gray" href="#">更多》</a></i></div>
+        <ul class="_trains_effect" id="carUl">
+        </ul>
+      </div>
+  	  
+    	<div class="ask_expert border t10">
+    	  <div class="ask_pa"><span class="left">最新相关提问</span><i><a class="right gray" href="http://www.51auto.com/zhidao/search?wd=<a href='http://www.51auto.com/quanguo/xuetielong/' target=_blank >雪铁龙</a><a href='http://www.51auto.com/quanguo/xuetielong/shijia/' target=_blank >世嘉</a>三厢前车挡风玻璃怎么除雾？">更多》</a></i></div>
+    	  <ul class="ask_tu">
+        			<li><a href="http://www.51auto.com/zhidao/question/198412.html" title="跪求解答电动车挡风宝 好？">跪求解答电动车挡风宝 好？</a></li>
+        			<li><a href="http://www.51auto.com/zhidao/question/322027.html" title="世嘉变速箱问题怎么办[雪铁龙][世嘉三厢">世嘉变速箱问题怎么办[雪铁龙][世嘉三厢</a></li>
+        			<li><a href="http://www.51auto.com/zhidao/question/643184.html" title="请教高手雪铁龙世嘉三厢后视镜怎么折叠">请教高手雪铁龙世嘉三厢后视镜怎么折叠</a></li>
+        			<li><a href="http://www.51auto.com/zhidao/question/243065.html" title="雪铁龙世嘉三厢和新款福克斯谁性价比更高">雪铁龙世嘉三厢和新款福克斯谁性价比更高</a></li>
+        			<li><a href="http://www.51auto.com/zhidao/question/501909.html" title="新车雪铁龙新世嘉三厢能直接跑长途吗？">新车雪铁龙新世嘉三厢能直接跑长途吗？</a></li>
+        			<li><a href="http://www.51auto.com/zhidao/question/258985.html" title="东风雪铁龙世嘉三厢最贵多少钱，是什么版？">东风雪铁龙世嘉三厢最贵多少钱，是什么版？</a></li>
+        			<li><a href="http://www.51auto.com/zhidao/question/501319.html" title="新qq 前挡风玻璃多少钱?">新qq 前挡风玻璃多少钱?</a></li>
+        			<li><a href="http://www.51auto.com/zhidao/question/199968.html" title="求解冬天前挡风玻璃的雾气">求解冬天前挡风玻璃的雾气</a></li>
+        			<li><a href="http://www.51auto.com/zhidao/question/664577.html" title="谁了解汽车前挡风玻璃出现裂缝怎么办？">谁了解汽车前挡风玻璃出现裂缝怎么办？</a></li>
+        			<li><a href="http://www.51auto.com/zhidao/question/291758.html" title="如何预防挡风玻璃结霜？">如何预防挡风玻璃结霜？</a></li>
+  	    </ul>
+  	  </div>
+
+	<div class="ad_10" id="85421"></div>
+		
+    
+    </div>
+    
+    </div>
+ </div>   
+<script type="text/javascript">jQuery(function($){                                   	var _tab = $('.moile_tab li'), _tabContent = $('._trains_effect');	_tab.each(function(i){		$(this).click(function(){			if(_tabContent.eq(i).is(":hidden")) 			{			  	$(_tabContent).hide(); 				$(_tabContent).eq(i).show();			  	_tab.removeClass('nowr');			  	$(this).addClass('nowr'); 		  	} 		});	});	jQuery.ajax({url:"http://admin.51auto.com:8015/qa/similarcars.jsp",				 dataType:"jsonp",				 data:{"title":"<a href='http://www.51auto.com/quanguo/xuetielong/' target=_blank >雪铁龙</a><a href='http://www.51auto.com/quanguo/xuetielong/shijia/' target=_blank >世嘉</a>三厢前车挡风玻璃怎么除雾？"},				 success:function(reVal){				 	if(null != reVal.carInfo && "" != reVal.carInfo){				 		jQuery("#brandCarsDiv").show();				 		var liStrs = "";					 	jQuery(reVal.carInfo).each(function(idx,item){					 		var title = item.rbFamily;					 		var makeDes = item.makeDes;					 		var tips = "";					 		var price="";					 		var gearbox = "";					 		if(0 == item.gearbox){					 			gearbox = "手动";					 		}else{					 			gearbox = "自动";					 		}					 		var air = item.engine;					 		if("" != air){					 			air += "L";					 		}					 		if(item.price == 0){					 			price = "面议";					 			tips = makeDes + " "+air+" "+gearbox+" "+price;					 		}else{					 			price = item.price/10000; 					 			tips = makeDes + " "+air+" "+gearbox+" "+price + "万";					 		}					 		liStrs+="<li onmouseover='changeStyle(this)'";					 		if(idx == 0){					 		   liStrs+=" class='cur'";					 		}					 		liStrs+="><span class='squre'><a href='"+item.webUrl+"' title='"+tips+"'>"+title+"</a><i>"+gearbox+"</i>";					 		if(item.price != 0){					 			liStrs+="<em><u>"+price+"</u>万</em>";					 		}else{					 			liStrs+="<em>面议</em>";					 		}					 		liStrs+="</span>"	            			+"<div><a href='"+item.webUrl+"'  target='_blank'>"	                		+"<img src='"+item.microPic+"' width='80' height='60' onload='DrawImage(this,80,60);' title='"+tips+"' style='opacity: 1; '></a>"	                		+"<p>"	                		+"<a href='"+item.webUrl+"'>"+title+"</a>"	                    	+"<span>";	                    	if(item.price != 0){	                    		liStrs+="价格：<em>"+price+"</em>万"	                    	}else{					 			liStrs+="价格：面议";					 		}	                		liStrs+="</span><span>"	                		+item.distance/10000.00					 		+"万公里  "					 		+item.year					 		+"年"	            				+"</span></p></div>"	        					+"</li>";					 	});					 	if("" != liStrs){					 	//	liStrs+="<li class='car_ud_m'><a href='javascript:searchMoreCar(\""+reVal.keyword+"\")'>更多&gt;&gt;</a></li>"					 		jQuery("#carUl").html(liStrs);					 		jQuery("#samefamily").attr("href","javascript:searchMoreCar(\""+reVal.keyword+"\")");					 	}					 }else{					 	jQuery("#brandCarsDiv").hide();					 }				 }	});});	function changeStyle(obj){	jQuery(obj).parent().find("li.cur").removeClass("cur");	jQuery(obj).addClass("cur");}function searchMoreCar(keyword){	var href="http://www.51auto.com/quanguo/search/?keyword="   	var strValue=encodeURIComponent(keyword);     href+=strValue;    ReSeachzone.windowopenuriZone(href);} </script>          <script type="text/javascript">
+//提示消息
+setMessage(''); 
+
+function showAdd(id){
+	if(jQuery('#form_addQuestion_'+id).attr("style") == "display: none;"  || jQuery('#form_addQuestion_'+id).attr("style")=="display: none"){
+		jQuery('#form_addQuestion_'+id).show();
+		jQuery('#addQuestion'+id).addClass('on');
+	}else{
+		jQuery('#form_addQuestion_'+id).hide();
+		jQuery('#addQuestion'+id).removeClass('on');
+	}
+}
+function chkfom1(){
+	if(getCookie('51autoUserName') !="" ){
+		//if( jQuery('#ValidCode').val().length == "" ){
+		//			alert("请输入验证码");
+		//			return;
+		//	}
+		if(jQuery.trim(jQuery("#a_content").val()).length < 10 || jQuery.trim(jQuery("#a_content").val()).length > 1000  ){
+			alert("回答最少10个字,最多1000个字");
+			return;
+		}else{
+			jQuery('#chkfrom1').attr("disabled","disabled");
+        	jQuery('#chkfrom1').val("请稍后...");
+			document.form1.submit();
+		}			
+	}else{
+		alert("请登录再回答问题");
+	}	
+}
+function addQuestion(id){
+	var frmEle=document.getElementById("form_addQuestion_"+id)
+	frmEle.submit();
+}
+function vote(id){
+	if(getCookie('51autoUserName') !=""){	
+		if(getCookie('qa_answer_'+id)==''){
+		 	var date = new Date();
+ 			date.setTime(date.getTime() + (12*60 * 60 * 1000));
+			jQuery.cookie('qa_answer_'+id, 1,{expires: date, path: '/', domain: '.51auto.com'});
+			jQuery.get("/zhidao/updateQuestion",{answerId:id},function(data){
+				if(data=1){
+					jQuery("#good_"+id).html(parseInt(jQuery("#good_"+id).html())+1);
+				}
+			});
+		}else{
+			alert("您已对该回答评价过！");
+		}
+	}else{
+		alert("请登录再回答问题");
+	}	
+}
+
+function bestAnswer(qid,aid){	
+	var dataUrl="/zhidao/answer/setbest?qid="+qid+"&aid="+aid+"&n="+Math.random();	
+	$("span[id^='answer_b_']").html('');
+	$.get(dataUrl,function(data){
+		window.location.href=window.location.href+"?tag=true";
+	});
+}
+$(document).ready(function(){
+ var n = Date.parse(new Date())+Math.random();
+ $("#validImg00").attr("src","/zhidao/static/qa/web/validCode.jsp?n="+n);
+ $("#hvc").val(n);
+ $.get("/zhidao/updatePV",{id:10070},function(data){});
+});
+</script>
+	
+<!--header_sta-->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-254381-1']);
+  _gaq.push(['_setDomainName', '.51auto.com']);
+  _gaq.push(['_addOrganic', 'sogou', 'query']);
+  _gaq.push(['_addOrganic', 'baidu', 'word']);
+  _gaq.push(['_addOrganic', 'soso', 'w']);
+  _gaq.push(['_addOrganic', 'youdao', 'q']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!--/header_sta-->
+<!--zhidao_sta-->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-254381-30']);
+  _gaq.push(['_addOrganic', 'sogou', 'query']);
+  _gaq.push(['_addOrganic', 'baidu', 'word']);
+  _gaq.push(['_addOrganic', 'soso', 'w']);
+  _gaq.push(['_addOrganic', 'youdao', 'q']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!--/zhidao_sta-->
+
+
+<!-- AFP两段式代码-公用代码 -->
+<script type="text/javascript" src="http://static.csbew.com/k.js"></script>
+<!-- 85421：汽车问答页问题终端页右侧按钮1-N1 -->
+<script type="text/javascript">
+_acK({aid:85421,format:0,mode:1,gid:1,serverbaseurl:"afp.csbew.com/",destid:"85421"});
+</script>
+<div class="clear">  </div> 
+<!--bottom-->
+<!--footer-->
+</div>
+<div class="footer clearfix">
+  <div class="mainWrap">
+  	 <!--可信网站图片LOGO安装开始-->
+  	<a href="javascript:void(0);" class="fr mt10"><img src="http://static.51auto.com/images/v1/home2014/img/xinlai.gif" /></a>
+    <!--可信网站图片LOGO安装结束-->
+    <div class="left_box">
+      <p class="mapSite"> <a href="http://www.51auto.com/aboutus/aboutus.htm" target="_blank">关于我们</a> <a href="http://www.51auto.com/aboutus/contactus.htm" target="_blank">联系我们</a> <a href="###" class="payAccount" target="_blank">汇款账号</a> <a href="http://www.51auto.com/aboutus/job.htm" target="_blank">招贤纳士</a><span>|</span> <a href="http://www.51auto.com/sitemap/sitemap.htm" target="_blank">网站地图</a> <a href="http://www.51auto.com/morecity.htm" target="_blank">其他城市</a> <a href="http://www.51auto.com/paiming/" target="_blank">热门排名</a> <a href="http://www.51auto.com/friendlink.html" target="_blank">友情链接</a><span>|</span> <a href="http://www.51auto.com/app/" target="_blank" class="tel">手机版</a> <a href="http://e.weibo.com/the51auto" target="_blank" class="weibo">51汽车</a> <a href="http://www.51auto.com/feedback/feedback.htm" target="_blank" class="qustion">意见反馈</a> </p>
+      <p class="copyright">51汽车—中国领先的二手车网上交易平台　客服热线：400-820-5151　邮箱：<a href="mailto:service@51auto.com">service@51auto.com</a>　[沪ICP备12024568号]</p>
+      <p class="copyright">Copyright&copy 2004-2014 51auto.com. Allrights reserved 版权所有 上海申友广告有限公司</p>
+  </div>
+  </div>
+</div>
+<!--/footer-->
+<!--footer_sta-->
+<script type="text/javascript">
+var _maq = _maq || [];
+  (function() {
+    var ma = document.createElement('script'); ma.type = 'text/javascript'; ma.async = true;
+    ma.src = 'http://static.51auto.com/js/analytics.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ma, s);
+  })();
+</script>
+<!--/footer_sta-->
+<!--/bottom-->
+
+<script type="text/javascript">
+	var countIntervalForFooter,questionId;
+	$(function(){
+		setTimeout("startForFooter()",10000);
+		if(getCookie('51autoUserName')!=""){
+			countIntervalForFooter = setInterval("startForFooter()",60000);
+		}else{
+			clearInterval(countIntervalForFooter);
+		}
+	});
+	function startForFooter(){
+		if(getCookie('51autoUserName')!=""){
+			if(document.hasFocus()){
+				$.get("http://www.51auto.com/zhidao/message",{userName:getCookie('51autoUserName')},function(message){
+					if(message!=null){
+						var hrefToDetailQuestion="http://www.51auto.com/zhidao/question/"+message.questionId+".html";
+						$("#messageForTitle").attr("href",hrefToDetailQuestion);
+						$("#messageForContext").html(message.answerContent);
+						$("#messageForTitle").html(message.questionTitle);
+						$("#messageForAnswerUser").html(message.answerNickName);
+						//$.get("http://www.51auto.com/zhidao/messageClose", { id: message.id});
+						questionId=message.questionId;
+						$("#messageForWarn").fadeIn();			
+					}else{
+						$("#messageForWarn").fadeOut();
+					}
+				},'json');
+ 			}
+		}
+ 	}
+ 	function messageRead(){
+ 		$.get("http://www.51auto.com/zhidao/messageDelete", { id: questionId});
+ 		$("#messageForWarn").fadeOut();
+ 	}
+</script>
+<div class="ask_pop_2013" id="messageForWarn" style="display:none;">
+    <a class="cose" _close="" onclick="jQuery(this.parentNode).hide()"></a>
+    <p class="p1"><img src="http://static.51auto.com/images/v1/asks/help.gif" /><span class="gray">问题</span><a id="messageForTitle" onclick="messageRead()" target="_blank"></a></p>
+    <p class="p2"><span class="gray">被</span> <i id="messageForAnswerUser"></i> <span class="gray">回答：</span> <i id="messageForContext"></i></p>
+</div>
+<!--<div class="float_mess2"><span class="icon_5"></span><a href="#" class="_back_top">回到顶部</a></div>-->
+</body>
+</html>
+
+<script>
+    window.location.href = "http://www.51auto.com/control/NotFoundPage";
+</script>
+
+<!DOCTYPE html>
+<html lang= "en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="renderer" content="webkit">
+    <link rel="dns-prefetch" href="http://www.51auto.com ">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>【二手车_二手车交易市场_二手车交易网】 - 51汽车网</title>
+    <meta name="keywords" content="二手车,二手车交易市场,二手车市场,二手车网,二手车交易网">
+    <meta name="description" content="51汽车网,二手车,真实全面的二手车交易市场车源信息,图片,二手车市场报价及参考价格,拥有精准权威的二手车评估系统,是专业的二手车交易平台,提供二手车报价,二手车评估,商家,认证,个人二手车信息,买卖二手车就上51汽车"><meta http_equiv="pragma" content="no-cache">
+    <meta http_equiv="Cache-Control" content="no-cache, must-revalidate">
+    <meta name="fragment" content="!">
+    <meta http-equiv="mobile-agent" content="format=html5; url=http://m.51auto.com/" />
+</head>
+<body>
+
+<form action="http://www.51auto.com?r=1558357995240" method="get" id="myform">
+</form>
+<script type="text/javascript">
+    window.onload = function () {
+        document.getElementById('myform').submit();
+    }
+</script>
+</body>
+</html>
+<script>
+    window.location.href = "http://www.51auto.com/control/NotFoundPage";
+</script>
+<script>
+    window.location.href = "http://www.51auto.com/control/NotFoundPage";
+</script>
+<script>
+    window.location.href = "http://www.51auto.com/control/NotFoundPage";
+</script>
+<script>
+    window.location.href = "http://www.51auto.com/control/NotFoundPage";
+</script>
+<script>
+    window.location.href = "http://www.51auto.com/control/NotFoundPage";
+</script>
+<script>
+    window.location.href = "http://www.51auto.com/control/NotFoundPage";
+</script>
+<script>
+    window.location.href = "http://www.51auto.com/control/NotFoundPage";
+</script>
+<script>
+    window.location.href = "http://www.51auto.com/control/NotFoundPage";
+</script>
+<script>
+    window.location.href = "http://www.51auto.com/control/NotFoundPage";
+</script>
+
+<!DOCTYPE html>
+<html lang= "en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="renderer" content="webkit">
+    <link rel="dns-prefetch" href="http://www.51auto.com ">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>【二手车_二手车交易市场_二手车交易网】 - 51汽车网</title>
+    <meta name="keywords" content="二手车,二手车交易市场,二手车市场,二手车网,二手车交易网">
+    <meta name="description" content="51汽车网,二手车,真实全面的二手车交易市场车源信息,图片,二手车市场报价及参考价格,拥有精准权威的二手车评估系统,是专业的二手车交易平台,提供二手车报价,二手车评估,商家,认证,个人二手车信息,买卖二手车就上51汽车"><meta http_equiv="pragma" content="no-cache">
+    <meta http_equiv="Cache-Control" content="no-cache, must-revalidate">
+    <meta name="fragment" content="!">
+    <meta http-equiv="mobile-agent" content="format=html5; url=http://m.51auto.com/" />
+</head>
+<body>
+
+<form action="http://www.51auto.com?r=1558358010508" method="get" id="myform">
+</form>
+<script type="text/javascript">
+    window.onload = function () {
+        document.getElementById('myform').submit();
+    }
+</script>
+</body>
+</html>
+<script>
+    window.location.href = "http://www.51auto.com/control/NotFoundPage";
+</script>
+<script>
+    window.location.href = "http://www.51auto.com/control/NotFoundPage";
+</script>
+
+<!DOCTYPE html>
+<html lang= "en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="renderer" content="webkit">
+    <link rel="dns-prefetch" href="http://www.51auto.com ">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>【二手车_二手车交易市场_二手车交易网】 - 51汽车网</title>
+    <meta name="keywords" content="二手车,二手车交易市场,二手车市场,二手车网,二手车交易网">
+    <meta name="description" content="51汽车网,二手车,真实全面的二手车交易市场车源信息,图片,二手车市场报价及参考价格,拥有精准权威的二手车评估系统,是专业的二手车交易平台,提供二手车报价,二手车评估,商家,认证,个人二手车信息,买卖二手车就上51汽车"><meta http_equiv="pragma" content="no-cache">
+    <meta http_equiv="Cache-Control" content="no-cache, must-revalidate">
+    <meta name="fragment" content="!">
+    <meta http-equiv="mobile-agent" content="format=html5; url=http://m.51auto.com/" />
+</head>
+<body>
+
+<form action="http://www.51auto.com?r=1558358054032" method="get" id="myform">
+</form>
+<script type="text/javascript">
+    window.onload = function () {
+        document.getElementById('myform').submit();
+    }
+</script>
+</body>
+</html>
+<script>
+    window.location.href = "http://www.51auto.com/control/NotFoundPage";
+</script>
+<script>
+    window.location.href = "http://www.51auto.com/control/NotFoundPage";
+</script>
+<script>
+    window.location.href = "http://www.51auto.com/control/NotFoundPage";
+</script>
+<script>
+    window.location.href = "http://www.51auto.com/control/NotFoundPage";
+</script>

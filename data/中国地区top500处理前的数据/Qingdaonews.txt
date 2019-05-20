@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>404</title>
+<style type="text/css">
+*{ padding:0; margin:0;}
+body{color:#666; background:#242b44; font-size:12px;}
+.top{ width:auto; background:#fff;position:relative;padding-top:1px;}
+.main{ width:550px; margin:0 auto; padding:75px 0 75px 230px; background:url(images/404-2.gif) 30px center no-repeat; line-height:20px; font-family:"Microsoft YaHei";}
+.main p{ padding:3px 0;}
+a{ color:#000; text-decoration:none;font-family:"Microsoft YaHei";}
+.main ul{ padding:6px 10px 6px 3em;}
+div.f16{ font-size:14px; padding-top:5px;font-family:"å®ä½";}
+.iframe{ margin:0 auto 40px auto; width:760px; position:relative; left:50%; margin-left:-380px;}
+</style>
+<link media="screen" href="http://www.hiao.com/public/topic/common_topic950.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+1
+<div class="top">
+<script type="text/javascript" language="javascript" src="http://www.hiao.com/public/topic/header950hiao.js" charset="gb2312"></script>
+	<div class="main">
+		<p>HTTP éè¯¯ 404 - æä»¶æç®å½æªæ¾å°ã</p>
+		<p>å¯¹ä¸èµ·ï¼æ¨è®¿é®çé¡µé¢å¯è½å·²ç»å é¤ãæ´åæææ¶ä¸å¯ç¨ï¼è¯·åå»<a href="javascript:history.go(-1);">è¿é</a>è¿åâ¦â¦</p>
+		<p>QingDaoNews.com - å°½åä¿è¯ç«ç¹åææææé¾æ¥åé¡µé¢åæ­£å¸¸è¿ä½ï¼è¯·å°è¯ä»¥ä¸æä½ï¼</p>
+		<ul>
+			<li>ç¡®ä¿æµè§å¨çå°åæ ä¸­æ¾ç¤ºçç½ç«å°åçæ¼ååæ ¼å¼æ­£ç¡®æ è¯¯ï¼</li>
+			<li>ç¹å»<a href="http://www.qingdaonews.com/" target="_blank">è¿éè¿åé¦é¡µ</a>ï¼æéè¿ä»¥ä¸é¾æ¥å¿«éè®¿é®åé¢éï¼</li>
+		</ul>
+			<div class="f16"><STRONG><A href="http://news.qingdaonews.com">æ°é»</A></STRONG> <A 
+href="http://vip.hiao.com/2008/baokan">è¯»æ¥</A> <A 
+href="http://minsheng.qingdaonews.com">æ°ç</A> <STRONG><A 
+href="http://club.qingdaonews.com">ç¤¾åº</A></STRONG> <A 
+href="http://t.qingdaonews.com">å¾®å</A> <A href="http://space.hiao.com">ç©ºé´</A> <STRONG><A href="http://boke.qingdaonews.com">æ­å®¢</A></STRONG> <A 
+href="http://blog.qingdaonews.com">åå®¢</A> <A 
+href="http://huanke.qingdaonews.com">æ¢å®¢</A> <STRONG><A href="http://house.qingdaonews.com">æ¿äº§</A></STRONG> <A href="http://jiaju.qingdaonews.com">å®¶å±</A> <A 
+href="http://yezhu.qingdaonews.com">ä¸ä¸»</A> <STRONG><A 
+href="http://auto.qingdaonews.com">æ±½è½¦</A></STRONG> <A 
+href="http://zuche.qingdaonews.com">ç§è½¦</A> <A 
+href="http://auto.qingdaonews.com/wzcx/search.html">è¿ç« </A></div>
+			<div class="f16"><STRONG><A 
+href="http://finance.qingdaonews.com">è´¢ç»</A></STRONG> <A 
+href="http://baoxian.qingdaonews.com">ä¿é©</A> <A 
+href="http://jd.qingdaonews.com">åè´·</A> <STRONG><A href="http://health.qingdaonews.com">å¥åº·</A></STRONG> <A href="http://food.qingdaonews.com">ç¾é£</A> <A 
+href="http://life.qingdaonews.com">çæ´»</A> <STRONG><A 
+href="http://edu.qingdaonews.com">æè²</A></STRONG> <A 
+href="http://school.qingdaonews.com">å¹è®­</A> <A 
+href="http://baby.qingdaonews.com">è²å¿</A> <STRONG><A 
+href="http://love.qingdaonews.com">å©å«</A></STRONG> <A 
+href="http://lady.qingdaonews.com">å¥³æ§</A> <A 
+href="http://law.qingdaonews.com">æ³æ²»</A> <STRONG><A href="http://travel.qingdaonews.com">ææ¸¸</A></STRONG> <A href="http://go.travel.qingdaonews.com/Htm/">åºå¢</A> <A 
+href="http://club.qingdaonews.com/club_entry_26_15_0_1_0.htm">é©´å</A></div>
+			<div class="f16"><STRONG><A 
+href="http://tuanzi.qingdaonews.com">å¢è´­</A></STRONG> <A 
+href="http://dazhe.qingdaonews.com">ææ</A> <A 
+href="http://shop.qingdaonews.com">ç½åº</A> <STRONG><A 
+href="http://it.qingdaonews.com">ç§æ</A></STRONG> <A 
+href="http://digital.qingdaonews.com">æ°ç </A> <A 
+href="http://game.qingdaonews.com">æ¸¸æ</A> <STRONG><A href="http://mail.qingdaonews.com">é®ç®±</A></STRONG> <A 
+href="http://hao.qingdaonews.com">ç½å</A> <A 
+href="http://vote.qingdaonews.com">æç¥¨</A> <STRONG><A 
+href="http://job.qingdaonews.com">æ±è</A></STRONG> <A 
+href="http://mall.hiao.com">ç¥¨å¡</A> <A href="http://photo.qingdaonews.com">ç¸å</A> <STRONG><A href="http://cp.hiao.com">è´­å½©</A></STRONG> <A 
+href="http://www.qdcp.cn">å½©ç¥¨</A> <A href="http://tools.qingdaonews.com">ä¾¿æ°</A></div>
+	</div>
+		<iframe border=0 name=sina_roll class="iframe" marginwidth=10 marginheight=0 src="http://www.qingdaonews.com/buttonqd.htm" frameborder=No scrolling=no height=75></iframe>
+</div>
+</body>
+</html>
+

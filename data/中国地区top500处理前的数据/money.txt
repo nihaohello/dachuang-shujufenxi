@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <meta http-equiv="Content-Language" content="zh-CN"/>
+    <title>行情中心_网易财经</title>
+
+    
+<!--  -->
+<link href="http://img1.cache.netease.com/f2e/finance/backend_project/quotes_index_2014/css/money.Sv5WebmvGoGH.3.css" rel="stylesheet" type="text/css" />
+<script src="http://img1.cache.netease.com/cnews/js/ntes_jslib_1.x.js" type="text/javascript" charset="gb2312"></script>
+<script src="http://img1.cache.netease.com/f2e/lib/js/ne.js"></script>
+
+<link rel="stylesheet" href="http://img2.cache.netease.com/f2e/finance/backend_project/quotes_index_2014/app/dist/css/main.1196318.css" />
+    
+<script src="http://img1.cache.netease.com/f2e/finance/backend_project/quotes_index_2014/app/dist/js/quotes_hub.916069.min.js"  type="text/javascript"></script>
+</head>
+</html>

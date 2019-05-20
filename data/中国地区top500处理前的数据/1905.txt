@@ -1,0 +1,1704 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="ie6 ielt8"><![endif]-->
+<!--[if IE 7]><html class="ie7 ielt8"><![endif]-->
+<!--[if IE 8]><html class="ie8"><![endif]-->
+<!--[if (gte IE 9)|!(IE)]>
+<html>
+<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta content="yes" name="apple-mobile-web-app-capable">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>ä¸å¨ç­å¾ï¼ç« å­æ¡éæç¯·æ¾æ°åº æ¨å¹åå¸¦è£å¦å°å¥³_åè¯­_çµå½±ç½_1905.com</title>
+    <meta content="" name="keywords" />
+    <meta content="ååç»æçäºæ´²å½±è§å¨ï¼ä¸ºæä»¬å¸¦æ¥äºä¸åºè§è§çå®´ï¼ææä»¬çº·çº·ææç¾çä¸é¢å±ç¤ºç»è§ä¼ï¼ç« å­æ¡çéä¸èçº±æç¯·ï¼é¸æ°ä¸­éçå¥³æ§æ¸©æçä¸é¢ï¼æ¨å¹çå®½è©å¸¦è±ç¶è£ï¼å°å¥³æåè¶³ï¼è¡å¾å¤ãçæºãå°¹æçåºç°æ´æ¯å¼æ¥ç²ä¸å°å«æ æ°ï¼å¿«éææ¥ç¾ç¾çåå³ä¸ä¸è¿åºçå®´å§ã" name="description" />
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <link rel="stylesheet" href="http://css.static.m1905.cn/base.css">
+</head>
+<body>
+<script type="text/javascript">
+    (function(){
+        if(/Android|Windows Phone|webOS|iPad|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)){
+            var nowUrl = window.location.href;
+            var url = "http://www.1905.com/m/news/touch/1376837.shtml";
+            var index = nowUrl.indexOf('?');
+            if(index != -1){
+                url += nowUrl.substring(index);
+            }
+            window.location.href = url;
+        }
+    })();
+</script><script>
+    function isMobile() {for (var ua = window.navigator.userAgent, b = ["iPad", "Android", "iPhone", "iPod"], c = !1, d = 0, e = b.length; d < e; d++) if (-1 !== ua.indexOf(b[d])) {c = !0;break}return c; }
+    if(!isMobile()){
+        document.write('<link rel="stylesheet" href="http://static.m1905.cn/assets/news/css/common-hd-pc.css">');
+        document.write('<link rel="stylesheet" href="http://static.m1905.cn/assets/news/css/details_pc.css?t=20161031">');
+    }else{
+        document.write('<link rel="stylesheet" href="http://static.m1905.cn/assets/news/css/common-hd-mobile.css">');
+        document.write('<link rel="stylesheet" href="http://static.m1905.cn/assets/news/css/details.css?t=20151021">');
+    }
+</script>
+<!-- æ°çå¯¼èªå¤´å¼å§-->
+<script>
+    var MPAGECONFIG = {
+        nav_type: 'news_page',//å¯¼èªç±»å
+        page_tag: 'www_news_page',//é¡µé¢æ ç­¾
+        version:'1',//çæ¬åç§°
+        nav_mcategory:'33'
+    }
+</script>
+<script src="http://js.static.m1905.cn/core/jquery-edge.min.js"></script>
+<script>
+    (function(){
+        if(/Android|Windows Phone|webOS|iPad|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)){
+            document.write('<link href="http://css.static.m1905.cn/navigation_all/navigation_1905all_mobile.css" type="text/css" rel="stylesheet"\/>');
+            document.write('<script src="http://js.static.m1905.cn/navigation_all/navigation_1905all_mobile.js"><\/script>');
+        }else{
+            document.write('<link href="http://css.static.m1905.cn/navigation_all/navigation_1905all.css" type="text/css" rel="stylesheet"\/>');
+            document.write('<script src="http://js.static.m1905.cn/navigation_all/navigation_1905all.js"><\/script>');
+        }
+    })();
+</script>
+<div class="navigation_1905all navigation_1905all_nophone">
+    <div class="navigation_channelpage">
+        <div class="m_yahei f13 nav_top_1905all nav_top_normal_1905all">
+            <div class="wrapper_nav_1905all clearfix_smile">
+                <ul class="fr menu">
+                    <li class="fl ele_menu member login_n" data-role="member_nav_all" data-position="top" data-type="link"></li><li class="fl ele_menu member login_y" data-role="member_nav_all">
+                    <a class="btn_ele_menu" href="javascript:void(0)"><span class="name"></span><b class="icons_il icon_arrow"></b></a>
+                    <div class="border_radius_4 con_ele_menu con_member"></div>
+                </li><li class="fl ele_menu message" data-role="message_nav_all">
+                    <a class="btn_ele_menu" href="javascript:void(0)">æ¶æ¯<b class="icons icon_hasMessage"></b></a>
+                    <div class="border_radius_4 con_ele_menu con_message">
+                        <b class="icons icon_arrow"></b>
+                        <ul class="f13 mlist list_message"></ul>
+                    </div>
+                </li>
+                </ul>
+                <ul class="nav_smile clearfix_smile">
+                    <li class="fl ele_nav">
+                        <a class="btn_ele_nav" href="http://www.1905.com" target="_blank" title="é¦é¡µ">é¦é¡µ</a>
+                    </li>
+                    <li class="fl ele_nav">
+                        <a class="btn_ele_nav" href="http://www.1905.com/film/" target="_blank" title="æ°é»">æ°é»</a>
+                    </li>
+                    <li class="fl ele_nav">
+                        <a class="btn_ele_nav" href="http://www.1905.com/video/" target="_blank" title="è§é¢">è§é¢</a>
+                    </li>
+                    <li class="fl ele_nav">
+                        <a class="btn_ele_nav" href="http://www.1905.com/vod/" target="_blank" title="å¤§ç">å¤§ç</a>
+                    </li>
+                    <li class="fl ele_nav">
+                        <a class="btn_ele_nav" href="http://www.1905.com/mdb/film/" target="_blank" title="å½±åº">å½±åº</a>
+                    </li>
+                    <!-- <li class="fl ele_nav">
+                        <a class="btn_ele_nav" href="http://www.1905.com/yx/" target="_blank" title="è´­ç¥¨">è´­ç¥¨</a>
+                    </li> -->
+                    <li class="fl ele_nav">
+                        <a class="btn_ele_nav" href="http://www.1905.com/cctv6/" target="_blank" title="CCTV6">CCTV6</a>
+                    </li>
+                    <li class="fl ele_nav hidden_v">
+                        <a class="btn_ele_nav" href="http://vip.1905.com/" target="_blank" title="1905VIPå½±é¢">1905VIPå½±é¢</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="wrapper_nav_1905all">
+            <div class="nav_ultimate_1905all clearfix_smile">
+                <ul class="fr menu hidden_h">
+                    <li class="fl ele_menu popsearch hidden_h" data-role="popupsearch_nav_all">
+                        <a class="btn_ele_menu" href="javascript:void(0)"><b class="icons_il icon_ele_menu icon_popsearch"></b><br/>æç´¢</a>
+                        <div class="border_radius_4 con_ele_menu con_popsearch">
+                            <b class="icons icon_arrow"></b>
+                            <div class="fl f13 search_smile hidden_v">
+                                <form method="get" name="search_box" action="http://www.1905.com/search/" target="_blank">
+                                    <div class="fl txt_search">
+                                        <input class="txt" type="text" autocomplete="off" name="q"/>
+                                    </div>
+                                    <input class="icons txt_hidden btn_search" type="submit" value="æç´¢"/>
+                                </form>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+                <div class="fr f13 search_smile hidden_v" data-role="search_nav_all">
+                    <form method="get" name="search_box" action="http://www.1905.com/search/" target="_blank">
+                        <div class="fl txt_search">
+                            <input class="txt" type="text" autocomplete="off" name="q"/>
+                            <input type="text" style="display:none;"/>
+                            <div class="txt tip_search"></div>
+                            <ul class="list_search">
+                            </ul>
+                        </div>
+                        <input class="icons txt_hidden btn_search" type="button" value="æç´¢"/>
+                    </form>
+                </div>
+                <div class="icons logo_home">
+                    <a class="fl txt_hidden" href="http://www.1905.com/" target="_blank" title="1905çµå½±ç½ å½å®¶æ°é»åºçå¹¿çµæ»å±ç´å±åªä½">1905çµå½±ç½</a>
+                </div>
+                <!-- <div class="fl logo_channel logo_channel_news" id="hzlogo"></div> -->
+                <a class="fl logo_channel logo_channel_news" id="hzlogo" href="http://www.1905.com/film/?fr=wwwnews_head_logo_20150703" target="_blank"></a>
+                <ul class="fl f15 nav_smile">
+                    <li class="fl ele_nav">
+                        <a class="btn_ele_nav" href="http://www.1905.com/list-p-catid-220.html" target="_blank" title="çµå½±">çµå½±</a>
+                    </li>
+                    <li class="fl ele_nav">
+                        <a class="btn_ele_nav" href="http://www.1905.com/film/#fixedLeftMod" target="_blank" title="æé»">æé»</a>
+                    </li>
+                    <li class="fl ele_nav">
+                        <a class="btn_ele_nav" href="http://www.1905.com/film/filmnews/cehua/" target="_blank" title="ç¬å®¶">ç¬å®¶</a>
+                    </li>
+                    <li class="fl ele_nav popup_ele_nav" data-role="hoverShow_nav_all">
+                        <a class="btn_ele_nav btn_popup" href="javascript:void(0)">æ´å¤<b class="icons_il icon_arrow"></b></a>
+                        <div class="border_radius_4 center_a con_popup">
+                            <b class="icons icon_arrow"></b>
+                            <ul>
+                                <li>
+                                    <a href="http://www.1905.com/special/index-p-typeid-1.html" target="_blank" title="ä¸é¢">ä¸é¢</a>
+                                </li>
+                                <li>
+                                    <a href="http://www.1905.com/film/picture/" target="_blank" title="å¾ç">å¾ç</a>
+                                </li>
+                                <li>
+                                    <a href="http://www.1905.com/video/" target="_blank" title="è§é¢">è§é¢</a>
+                                </li>
+                                <li>
+                                    <a href="http://www.1905.com/film/filmnews/gdxw/" target="_blank" title="æ»å¨">æ»å¨</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="navigation_1905all navigation_1905all_phone">
+    <div class="navigation_channelpage">
+        <div class="header_1905all">
+            <div class="inner_header_1905all clearfix_smile">
+                <ul class="fr menu">
+                    <li class="fl" data-role="navbtn_nav_mobile">
+                        <a class="icons btn btn_nav" href="javascript:void(0)"></a>
+                        <b class="icons icon_arrow"></b>
+                    </li>
+                    <li class="fl" data-role="searchbtn_nav_mobile">
+                        <a class="icons btn btn_search" href="javascript:void(0)"></a>
+                        <b class="icons icon_arrow"></b>
+                    </li>
+                    <li class="fl" data-role="member_nav_mobile"></li>
+                </ul>
+                <ul class="fl menu menu_front">
+                    <li class="fl">
+                        <a class="icons btn btn_back" href="http://www.1905.com/film/" target="_blank"></a>
+                    </li>
+                </ul>
+                <div class="fl logo_home logo_home_s"><a class="icons txt_hidden" href="http://www.1905.com/" target="_blank" title="1905çµå½±ç½ å½å®¶æ°é»åºçå¹¿çµæ»å±ç´å±åªä½">1905çµå½±ç½</a></div>
+                <div class="fl logo_channel">
+                    <a href="http://www.1905.com/film/" target="_blank"><img class="fl" src="http://static.m1905.cn/images/navigation_all/img_logo_channel_news_phone.png" width="33" height="15" alt="æ°é»"/></a>
+                </div>
+            </div>
+            <div class="border_box popupcon con_search" data-role="searchcon_nav_mobile">
+                <form method="get" name="search_box" action="http://www.1905.com/search/" target="_blank">
+                    <input class="border_box border_radius_4" type="text" name="q"/><input type="submit" value="æç´¢"/>
+                </form>
+            </div>
+            <div class="center_a border_box popupcon con_nav" data-role="navcon_nav_mobile">
+	<ul class="clearfix">
+		<li class="fl"><a href="http://www.1905.com/" target="_blank">é¦é¡µ</a></li>
+		<li class="fl"><a href="http://www.1905.com/film/" target="_blank">æ°é»</a></li>
+		<li class="fl"><a href="http://www.1905.com/video/" target="_blank">è§é¢</a></li>
+		<li class="fl"><a href="http://www.1905.com/vod/" target="_blank">å¤§ç</a></li>
+		<li class="fl"><a href="http://www.1905.com/mdb/film/" target="_blank">å½±åº</a></li>
+		<!--<li class="fl"><a href="http://edu.1905.com/" target="_blank">çµå½±å­¦é¢</a></li>-->
+		<li class="fl"><a href="http://www.1905.com/cctv6/" target="_blank">CCTV6</a></li>
+		<!--<li class="fl"><a href="http://d.1905.com/" target="_blank">å®å®ç¤¾åº</a></li>-->
+		<!--<li class="fl"><a href="http://event.1905.com/" target="_blank">è§å½±å¢</a></li>-->
+		<li class="fl" style="width:21%"><a href="http://vip.1905.com" target="_blank">1905VIPå½±é¢</a></li>
+		<!--<li class="fl"><a href="http://www.1905.com/yx/c1.html" target="_blank">è´­ç¥¨</a></li>-->
+		<li class="fl"><a href="http://www.1905.com/app/" target="_blank">å®¢æ·ç«¯</a></li>
+		<li class="fl"><a href="http://www.1905.com/newgallery/" target="_blank">é«æ¸åç</a></li>
+	</ul>
+</div>
+
+        </div>
+    </div>
+</div>
+<script>
+    if(window.jQuery){
+        init_nav_1905all('news_inner');
+    }else{
+        if(window.addEventListener){
+            window.addEventListener('load',function(){
+                init_nav_1905all('news_inner');
+            },false);
+        }else if(window.attachEvent){
+            window.attachEvent('onload',function(){
+                init_nav_1905all('news_inner');
+            });
+        }
+    }
+</script><!-- æ°çå¯¼èªå¤´ç»æ-->
+<div id="page" data-idx="0_news">
+<!-- åå®¹åºå start -->
+<script>
+    var groupid = "1376837";
+    var NEWSCONFIG = {
+        id: "1376837",
+        url: "http://www.1905.com/news/20190520/1376837.shtml",
+        title : "ä¸å¨ç­å¾ï¼ç« å­æ¡éæç¯·æ¾æ°åº æ¨å¹åå¸¦è£å¦å°å¥³",
+        thumb : "http://image14.m1905.cn/uploadfile/2019/0520/20190520093855235628.jpg"
+    }
+</script><script id="figureTpl" type="text/tpl">
+<div class="pic-top">
+<a href="http://www.1905.com/mdb/star/<%=starid%>?fr=wwwfilm_news_yr_20150203" target="_blank" class="pic-url"><img src="<%=thumb%>" alt="" height="135" width="100"></a>
+<div class="pic-pack-inner">
+<h3 class="chinese-name"><a href="http://www.1905.com/mdb/star/<%=starid%>?fr=wwwfilm_news_yr_20150203" target="_blank"><%=title%></a></h3>
+<h3 class="english-name"><a href="http://www.1905.com/mdb/star/<%=starid%>?fr=wwwfilm_news_yr_20150203" target="_blank"><%=foreignname%></a></h3>
+<span class=" pt08">åºçæ¥æï¼<%=birthday%></span>
+<span>å½ç±ï¼<%=nationality%></span>
+<span>èä¸ï¼<%=vocation%></span>
+<span>æåº§ï¼<%=constellation%></span>
+</div>
+</div>
+<%if(relate_film){%>
+<div class="pic-bottom">
+  <div class="pic-inner clear">
+     <%if(relate_film.gyt||relate_film.ticket){%>
+     <span class="pic-works fl ico-hot">ææ°ä½å : <a href="http://www.1905.com/mdb/film/<%=relate_film.filmid%>" target="_blank"><%=relate_film.title%></a></span>
+  <%}else{%><span class="pic-works fl">ææ°ä½å : <a href="http://www.1905.com/mdb/film/<%=relate_film.filmid%>" target="_blank"><%=relate_film.title%></a></span>
+  <%}if(relate_film.gyt){%><a class="pic-btn fr" href="#" target="_blank">ç«å³æ¢ç¥¨</a><%}if(relate_film.ticket){%><a class="pic-btn fr" href="http://www.1905.com<%=relate_film.ticket%>?fr=wwwfilm_news_xz_20150203" target="_blank">ç«å³éåº§</a><%}%>
+  </div>
+</div>
+<%}%>
+</script>
+<script id="pictureTpl" type="text/tpl">
+   <div class="pic-top">
+        	<a href="http://www.1905.com/mdb/film/<%=filmid%>?fr=wwwfilm_news_yp_20150203" target="_blank" class="pic-url"><img src="<%=thumb%>" alt="" height="135" width="100"></a>
+            <div class="pic-pack-inner">
+            	<h3 class="title"><a href="http://www.1905.com/mdb/film/<%=filmid%>?fr=wwwfilm_news_yp_20150203" target="_blank"><%=title%><i><%=score%></i></a></h3>
+                <span class=" pt12">ç±»åï¼ <%=mtypes%></span>
+                <span>å°åºï¼<%=countries%></span>
+                <span>ä¸æ æ¥æï¼<%=online_date%> </span>
+            </div>
+        </div>
+<%if(ticket_price || gyt || ticket){%>
+        <div class="pic-bottom">
+          <div class="pic-inner clear">
+          	 <%if(ticket_price){%><span class="pic-price fl">ææ°<em><%=ticket_price%></em><i>.0</i>åèµ·</span><%}%>
+             <%if(gyt){%><a href="#" target="_blank" class="pic-btn fr">ç«å³æ¢ç¥¨</a><%}%>
+ <%if(ticket){%><a href="http://www.1905.com<%=ticket%>?fr=wwwfilm_news_xz_20150203" target="_blank" class="pic-btn fr">ç«å³éåº§</a><%}%>
+          </div>
+        </div>
+       <%}%>
+</script>
+<!-- æµ®çªend-->
+<div class="container" id="content">
+<div class="mod mod-main">
+<div class="grid-8x mod-l grid-12x-md">
+<!-- æ­£æ start-->
+<div id="contentNews" class="mod-content">
+    <h1 class="title">ä¸å¨ç­å¾ï¼ç« å­æ¡éæç¯·æ¾æ°åº æ¨å¹åå¸¦è£å¦å°å¥³</h1>
+        <div class="pic-base clear">
+        <span>æ¶é´ï¼2019.05.20</span>
+                        <span class="autor-name fr">ä½èï¼æ¨æ¥ </span>
+                <span class="share clear hidden-xs hidden-sm"><q class="fl">åäº«å°ï¼</q><span class="shareWrap fl"></span></span>
+    </div>
+    <div class="pic-content">
+        <!--æå¥å³èè§é¢å¼å§-->
+                <!--æå¥å³èè§é¢ç»æ-->
+        <!--æå¥å³èå¾éå¼å§-->
+                <!--æå¥å³èå¾éç»æ-->
+        <p style="text-indent: 2em; text-align: left;"><strong style="text-indent: 2em;">1905çµå½±ç½è®¯</strong><span style="text-indent: 2em;"> ååç»æçäºæ´²å½±è§å¨ï¼ä¸ºæä»¬å¸¦æ¥äºä¸åºè§è§çå®´ï¼ææä»¬çº·çº·ææç¾çä¸é¢å±ç¤ºç»è§ä¼ï¼</span><a href="http://www.1905.com/mdb/star/188/" target="_blank" data-type="figure" data-id="188">ç« å­æ¡</a><span style="text-indent: 2em;">çéä¸èçº±æç¯·ï¼é¸æ°ä¸­éçå¥³æ§æ¸©æçä¸é¢ï¼</span><a href="http://www.1905.com/mdb/star/241/" target="_blank" data-type="figure" data-id="241">æ¨å¹</a><span style="text-indent: 2em;">çå®½è©å¸¦è±ç¶è£ï¼å°å¥³æåè¶³ï¼</span><a href="http://www.1905.com/mdb/star/3142566/" target="_blank" data-type="figure" data-id="3142566">è¡å¾å¤</a><span style="text-indent: 2em;">ã</span><a href="http://www.1905.com/mdb/star/3044786/" target="_blank" data-type="figure" data-id="3044786">çæº</a><span style="text-indent: 2em;">ã</span><a href="http://www.1905.com/mdb/star/3007072/" target="_blank" data-type="figure" data-id="3007072">å°¹æ</a><span style="text-indent: 2em;">çåºç°æ´æ¯å¼æ¥ç²ä¸å°å«æ æ°ï¼å¿«éææ¥åå³ä¸ä¸è¿åºçå®´å§ã</span><br/></p><p style="text-indent: 2em; text-align: left;"><br style="text-indent: 2em; text-align: left;"/></p><p style="text-indent: 2em; text-align: left;">1ã5æ16æ¥äºæ´²å½±è§å¨ï¼ç« å­æ¡èº«çéä¸èçº±æç¯·ï¼é¸æ°ä¸­éçå¥³æ§æ¸©æçä¸é¢ã</p><p style="text-indent: 2em; text-align: left;"><br/></p><p style="text-align: center;"><img src="http://image14.m1905.cn/uploadfile/2019/0520/20190520093855235628.jpg"/></p><p><br style="text-indent: 2em; text-align: left;"/></p><p style="text-indent: 2em; text-align: left;"><br/></p>    </div>
+        <div class="pic-autor clear"><span class="autor-name fr">å¾æ/æ¨æ¥ </span></div>
+        <!-- åé¡µ start-->
+        <div class="read-more">&gt;&gt;æ¥çå¨æ</div>
+    <div class="news-paging " id="paging">
+        <b>ä¸ä¸é¡µ</b><span>1</span><a href="http://www.1905.com/news/20190520/1376837_2.shtml">2</a><a href="http://www.1905.com/news/20190520/1376837_3.shtml">3</a><a href="http://www.1905.com/news/20190520/1376837_4.shtml">4</a><a href="http://www.1905.com/news/20190520/1376837_5.shtml">5</a>...<a href="http://www.1905.com/news/20190520/1376837_12.shtml">12</a><a class="next" href="http://www.1905.com/news/20190520/1376837_2.shtml">ä¸ä¸é¡µ</a>    </div>
+        <!-- åé¡µ end-->
+            <div class="pic-other clear">
+                        <span class="share clear"><q class="fl">åäº«å°ï¼</q><span class="shareWrap fl"></span></span>
+    </div>
+</div>
+<!-- æ­£æ end-->
+<!--ç¸å³ä¸é¢ start-->
+<p><img src="http://static.m1905.cn/images/news/1905news_tglogo.gif"></p>
+<!--ç¸å³ä¸é¢ end-->
+<!-- ç¸å³æ°é» start-->
+<!-- ç¸å³æ°é» end-->
+<!-- å¨±ä¹ç­ç¹ start-->
+<div class="mod-tewFocus mod-prevue mod-pt10 hidden-md hidden-xs hidden-sm ">
+    <div class="mod-hd ">
+        <h2>å¨±ä¹ç­ç¹</h2>
+        <a href="http://www.1905.com/film/#fixedLeftMod" target="_blank" class="more">æ´å¤</a> </div>
+    <div class="mod mod-bd ">
+                <div class="pic-pack-outer grid-3x grid-4x-sm"> <a target="_blank" data-hrefexp="fr=wwwfilm_news_ylrd_1_20141017" href="http://www.1905.com/news/20190520/1376889.shtml" class="pic-url" title="é¿é£é¿åºåä½ï¼ ç½åæ¥æ¬å¶éæ¢æä¼å¯¹é¢æ¯å¼ å­¦å"> <img src="http://image11.m1905.cn/uploadfile/2019/0520/thumb_1_150_100_20190520104556222535.jpg" alt="é¿é£é¿åºåä½ï¼ ç½åæ¥æ¬å¶éæ¢æä¼å¯¹é¢æ¯å¼ å­¦å" > </a>
+            <h3 class="pic-title">
+                <a href="http://www.1905.com/news/20190520/1376889.shtml" data-hrefexp="fr=wwwfilm_news_ylrd_1_20141017" target="_blank" title="é¿é£é¿åºåä½ï¼ ç½åæ¥æ¬å¶éæ¢æä¼å¯¹é¢æ¯å¼ å­¦å">é¿é£é¿åºåä½ï¼ ç½åæ¥æ¬å¶éæ¢æä¼å¯¹é¢æ¯å¼ å­¦å</a>
+            </h3>
+        </div>
+                <div class="pic-pack-outer grid-3x grid-4x-sm"> <a target="_blank" data-hrefexp="fr=wwwfilm_news_ylrd_2_20141017" href="http://www.1905.com/news/20190517/1376421.shtml" class="pic-url" title="å§æ½®éº¦è¿ªå¨æ¶å°å¤§çæå é«é¢å¼æä¾£åæ¡è¶çäºå¨"> <img src="http://image14.m1905.cn/uploadfile/2019/0517/thumb_1_150_100_20190517031448281863_watermark.jpg" alt="å§æ½®éº¦è¿ªå¨æ¶å°å¤§çæå é«é¢å¼æä¾£åæ¡è¶çäºå¨" > </a>
+            <h3 class="pic-title">
+                <a href="http://www.1905.com/news/20190517/1376421.shtml" data-hrefexp="fr=wwwfilm_news_ylrd_2_20141017" target="_blank" title="å§æ½®éº¦è¿ªå¨æ¶å°å¤§çæå é«é¢å¼æä¾£åæ¡è¶çäºå¨">å§æ½®éº¦è¿ªå¨æ¶å°å¤§çæå é«é¢å¼æä¾£åæ¡è¶çäº</a>
+            </h3>
+        </div>
+                <div class="pic-pack-outer grid-3x grid-4x-sm"> <a target="_blank" data-hrefexp="fr=wwwfilm_news_ylrd_3_20141017" href="http://www.1905.com/news/20190520/1376896.shtml" class="pic-url" title="éå½äºå¥½ï¼æ´ªæ¬£å¼ ä¸¹å³°çµå¥³å¿éè¡ é£æ³¢åé¢è¢«å¶é"> <img src="http://image14.m1905.cn/uploadfile/2019/0520/thumb_1_150_100_20190520110125809455.jpg" alt="éå½äºå¥½ï¼æ´ªæ¬£å¼ ä¸¹å³°çµå¥³å¿éè¡ é£æ³¢åé¢è¢«å¶é" > </a>
+            <h3 class="pic-title">
+                <a href="http://www.1905.com/news/20190520/1376896.shtml" data-hrefexp="fr=wwwfilm_news_ylrd_3_20141017" target="_blank" title="éå½äºå¥½ï¼æ´ªæ¬£å¼ ä¸¹å³°çµå¥³å¿éè¡ é£æ³¢åé¢è¢«å¶é">éå½äºå¥½ï¼æ´ªæ¬£å¼ ä¸¹å³°çµå¥³å¿éè¡ é£æ³¢åé¢è¢«å¶é</a>
+            </h3>
+        </div>
+                <div class="pic-pack-outer grid-3x grid-4x-sm"> <a target="_blank" data-hrefexp="fr=wwwfilm_news_ylrd_4_20141017" href="http://www.1905.com/news/20190520/1376871.shtml" class="pic-url" title="âé»å¯¡å¦âæ¯åä¸½çº¦ç¿°éä¸ç·åè®¢å© å©æå°æªå¬å¸"> <img src="http://image13.m1905.cn/uploadfile/2019/0520/thumb_1_150_100_20190520102150580074.jpg" alt="âé»å¯¡å¦âæ¯åä¸½çº¦ç¿°éä¸ç·åè®¢å© å©æå°æªå¬å¸" > </a>
+            <h3 class="pic-title">
+                <a href="http://www.1905.com/news/20190520/1376871.shtml" data-hrefexp="fr=wwwfilm_news_ylrd_4_20141017" target="_blank" title="âé»å¯¡å¦âæ¯åä¸½çº¦ç¿°éä¸ç·åè®¢å© å©æå°æªå¬å¸">âé»å¯¡å¦âæ¯åä¸½çº¦ç¿°éä¸ç·åè®¢å© å©æå°æªå¬</a>
+            </h3>
+        </div>
+                <div class="pic-pack-outer grid-3x grid-4x-sm"> <a target="_blank" data-hrefexp="fr=wwwfilm_news_ylrd_5_20141017" href="http://www.1905.com/news/20190520/1376846.shtml" class="pic-url" title="æ¨è¶è¶âå°é¾å¥³âé åæå ç½è¡£é£é£å¤´ä¸é¿çè§"> <img src="http://image11.m1905.cn/uploadfile/2019/0520/thumb_1_150_100_20190520094454405328.jpg" alt="æ¨è¶è¶âå°é¾å¥³âé åæå ç½è¡£é£é£å¤´ä¸é¿çè§" > </a>
+            <h3 class="pic-title">
+                <a href="http://www.1905.com/news/20190520/1376846.shtml" data-hrefexp="fr=wwwfilm_news_ylrd_5_20141017" target="_blank" title="æ¨è¶è¶âå°é¾å¥³âé åæå ç½è¡£é£é£å¤´ä¸é¿çè§">æ¨è¶è¶âå°é¾å¥³âé åæå ç½è¡£é£é£å¤´ä¸é¿çè§</a>
+            </h3>
+        </div>
+                <div class="pic-pack-outer grid-3x grid-4x-sm"> <a target="_blank" data-hrefexp="fr=wwwfilm_news_ylrd_6_20141017" href="http://www.1905.com/news/20190520/1376962.shtml" class="pic-url" title="éº¦è¿ªå¨520çå­ï¼ å§æ½®åçº§å½ç¸æå®å®èä¸«ç§æ¥å"> <img src="http://image13.m1905.cn/uploadfile/2019/0520/thumb_1_150_100_20190520012449813584.jpg" alt="éº¦è¿ªå¨520çå­ï¼ å§æ½®åçº§å½ç¸æå®å®èä¸«ç§æ¥å" > </a>
+            <h3 class="pic-title">
+                <a href="http://www.1905.com/news/20190520/1376962.shtml" data-hrefexp="fr=wwwfilm_news_ylrd_6_20141017" target="_blank" title="éº¦è¿ªå¨520çå­ï¼ å§æ½®åçº§å½ç¸æå®å®èä¸«ç§æ¥å">éº¦è¿ªå¨520çå­ï¼ å§æ½®åçº§å½ç¸æå®å®èä¸«ç§æ¥å</a>
+            </h3>
+        </div>
+                <div class="pic-pack-outer grid-3x hidden-sm hidden-xs"> <a target="_blank" data-hrefexp="fr=wwwfilm_news_ylrd_7_20141017" href="http://www.1905.com/news/20190513/1375129.shtml" class="pic-url" title="ä½ç·åæ±å©å¥æ¢¦ç¶æå è°¢å¨é­æ¬æéå­¦å¬å°åºææ°"> <img src="http://image14.m1905.cn/uploadfile/2019/0513/thumb_1_150_100_20190513091158924732.jpg" alt="ä½ç·åæ±å©å¥æ¢¦ç¶æå è°¢å¨é­æ¬æéå­¦å¬å°åºææ°" > </a>
+            <h3 class="pic-title">
+                <a href="http://www.1905.com/news/20190513/1375129.shtml" data-hrefexp="fr=wwwfilm_news_ylrd_7_20141017" target="_blank" title="ä½ç·åæ±å©å¥æ¢¦ç¶æå è°¢å¨é­æ¬æéå­¦å¬å°åºææ°">ä½ç·åæ±å©å¥æ¢¦ç¶æå è°¢å¨é­æ¬æéå­¦å¬å°åºæ</a>
+            </h3>
+        </div>
+                <div class="pic-pack-outer grid-3x hidden-sm hidden-xs"> <a target="_blank" data-hrefexp="fr=wwwfilm_news_ylrd_8_20141017" href="http://www.1905.com/news/20190518/1376635.shtml" class="pic-url" title="åæç¶ãåçãä»æ¥ä¸æ  é¿åé åè¢«è°ä¾åå§å¨"> <img src="http://image11.m1905.cn/uploadfile/2019/0518/thumb_1_150_100_20190518041751490044.jpg" alt="åæç¶ãåçãä»æ¥ä¸æ  é¿åé åè¢«è°ä¾åå§å¨" > </a>
+            <h3 class="pic-title">
+                <a href="http://www.1905.com/news/20190518/1376635.shtml" data-hrefexp="fr=wwwfilm_news_ylrd_8_20141017" target="_blank" title="åæç¶ãåçãä»æ¥ä¸æ  é¿åé åè¢«è°ä¾åå§å¨">åæç¶ãåçãä»æ¥ä¸æ  é¿åé åè¢«è°ä¾åå§å¨</a>
+            </h3>
+        </div>
+            </div>
+</div>
+
+<!-- å¨±ä¹ç­ç¹ end-->
+<!-- ç­é¨æ°é» start-->
+<div class="mod-bannerList mod-hot hidden-md hidden-xs hidden-sm">
+    <div class="mod-hd">
+        <h2>ç­é¨æ°é»</h2>
+    </div>
+    <div class="mod-bd">
+        <ul class="mod-top-news">
+            <li class="pic-pack-out pic-spec"> <a data-hrefexp="fr=wwwfilm_news_rmxw_1_20141027" href="http://www.1905.com/news/20190515/1375495.shtml" target="_blank" class="pic-url"><img src="http://image11.m1905.cn/uploadfile/2019/0515/thumb_1_150_100_20190515092548572974_watermark.jpg" alt="ãè¿½é¾â¡ãæâåæ¶å¯¹å³âçé¢å çæ¶æºææ¢å®¶è¾"></a>
+                <div class="pic-pack-inner">
+                    <h3><a data-hrefexp="fr=wwwfilm_news_rmxw_1_20141027" href="http://www.1905.com/news/20190515/1375495.shtml" title="ãè¿½é¾â¡ãæâåæ¶å¯¹å³âçé¢å çæ¶æºææ¢å®¶è¾" target="_blank" class="title">ãè¿½é¾â¡ãæâåæ¶å¯¹å³âçé¢å çæ¶æºææ¢å®¶</a></h3>
+                    <p>ç±çæ¶ãå³æºèèåæ§å¯¼çãè¿½é¾â¡ãå³å°å¨6æ6æ¥åå¨å½è§ä¼è§é¢ãä½ä¸ºâè¿½é¾âç³»åIPçåä¸å¨æ°åä½ï¼å½±çèªå®æ¡£èµ·ä¾¿å¼åç½åç­è®®ãè¿æ¥ï¼çæ¹åå¸ç...</p>
+                </div>
+            </li>
+        </ul>
+                <ul class="mod-relNews">
+                        <li class="pic-pack-outer clear">
+                <a href="http://www.1905.com/news/20190513/1374812.shtml" target="_blank" data-hrefexp="fr=wwwfilm_news_rmxw_2_20141027">ãè¿½é¾â¡ãææ°é¢å æ¢å®¶è¾å¤å¤©ä¹ä¸æ¼åæ¶å¯¹å³<span>811äººçè¿</span></a>
+            </li>
+                        <li class="pic-pack-outer clear">
+                <a href="http://www.1905.com/news/20190514/1375265.shtml" target="_blank" data-hrefexp="fr=wwwfilm_news_rmxw_3_20141027">ãåè¾¹å¤©ãæ¢ç´¢å¥³æ§ææ ç·æ§è§ä¼ç«ç§°æ´åæå¨<span>591äººçè¿</span></a>
+            </li>
+                        <li class="pic-pack-outer clear">
+                <a href="http://www.1905.com/news/20190513/1374990.shtml" target="_blank" data-hrefexp="fr=wwwfilm_news_rmxw_4_20141027">ãç´§æ¥ææ´ãæ­£å¼æé é²å¾·ç¹åæææ¨æææ¶é´<span>439äººçè¿</span></a>
+            </li>
+                        <li class="pic-pack-outer clear">
+                <a href="http://www.1905.com/news/20190513/1374795.shtml" target="_blank" data-hrefexp="fr=wwwfilm_news_rmxw_5_20141027">ãXæè­¦ï¼é»å¤å°ãæé¢å ç¥ç§å¥³åæ´¾æ´èå¤å°å¥³<span>433äººçè¿</span></a>
+            </li>
+                    </ul>
+    </div>
+</div>
+<!-- ç­é¨æ°é» end-->
+<!--è¯è®ºå¼å§-->
+<div id="dd_comment">
+</div>
+<!--è¯è®ºç»æ-->
+<!--åæµå¯¼èªåºåå¼å§-->
+<div class="backflow-nav mt50 pb30 hidden-md hidden-xs hidden-sm">
+    <ul class="pic-backflow clear">
+        <li><a href="http://www.1905.com/film/" target="_blank" data-hrefexp="fr=wwwfilm_news_xwsy_20150203" class="ico_final">æ°é»é¦é¡µ</a></li>
+        <li><a href="http://www.1905.com/list-p-catid-220.html" target="_blank" data-hrefexp="fr=wwwfilm_news_dyxwsy_20150203" class="ico_final">çµå½±æ°é»é¦é¡µ</a></li>
+        <li><a href="http://www.1905.com/list-p-catid-221.html" target="_blank" data-hrefexp="fr=wwwfilm_news_mxxwsy_20150203" class="ico_final">æææ°é»</a></li>
+    </ul>
+</div>
+<!--åæµå¯¼èªåºåç»æ-->
+<!--ååºæ°é» start-->
+<div class="mod-bannerList hidden-md hidden-xs hidden-sm">
+    <div class="mod-tabs">
+        <ul class="hd-tabs clear" >
+            <li class="active"><a data-toggle="tab" data-evt="hover" href="#modLTab1">åè¯­<span class="ico-arr icons"></span></a></li>
+            <li class=""><a data-toggle="tab" data-evt="hover" href="#modLTab2">å¥½è±å<span class="ico-arr icons"></span></a></li>
+        </ul>
+    </div>
+    <div class="mod-bd">
+        <div class="tab-cont active" id="modLTab1">
+                        <ul class="mod-top-news">
+                                                <li class="pic-pack-out ">
+                    <a data-hrefexp="fr=wwwfilm_news_nd_1_20141027" href="http://www.1905.com/news/20190520/1376861.shtml" target="_blank" class="pic-url"><img src="http://image13.m1905.cn/uploadfile/2019/0520/thumb_1_150_100_20190520100115333571.jpg" alt="ãå°ºå«Â·ä¸å£°ä¸ä¸ãåå¸ç»æé¢å å¯¼æ¼è°ææåè¡·"></a>
+                    <div class="pic-pack-inner">
+                        <h3><a data-hrefexp="fr=wwwfilm_news_nd_1_20141027" href="http://www.1905.com/news/20190520/1376861.shtml" title="ãå°ºå«Â·ä¸å£°ä¸ä¸ãåå¸ç»æé¢å å¯¼æ¼è°ææåè¡·" target="_blank" class="title">
+                            ãå°ºå«Â·ä¸å£°ä¸ä¸ãåå¸ç»æé¢å å¯¼æ¼è°ææå                        </a></h3>
+                        <p>ä»æ¥ï¼ç±è¿é¦¨(Helen)æ§å¯¼ï¼ä½è¤åº·å¤«ãå°åæ­å°ãè¡é¸¿æç­ä¸»æ¼ï¼æ¢æéãéå·ãé¾ç³å¨ç¹å«åºæ¼çé³ä¹äººæçºªå½çµå½±ãå°ºå«Â·ä¸å£°ä¸ä¸ãåå¸ç»æé¢åï¼å±ç¤ºäº...</p>
+                    </div>
+                </li>
+                                                <li class="pic-pack-out ">
+                    <a data-hrefexp="fr=wwwfilm_news_nd_2_20141027" href="http://www.1905.com/news/20190520/1376849.shtml" target="_blank" class="pic-url"><img src="http://image11.m1905.cn/uploadfile/2019/0520/thumb_1_150_100_20190520094902325143.jpg" alt="ãäººçæ éå¬å¸ãæå¹åè±çµ® äºæå¤©åèº«è¶çº§è±é"></a>
+                    <div class="pic-pack-inner">
+                        <h3><a data-hrefexp="fr=wwwfilm_news_nd_2_20141027" href="http://www.1905.com/news/20190520/1376849.shtml" title="ãäººçæ éå¬å¸ãæå¹åè±çµ® äºæå¤©åèº«è¶çº§è±é" target="_blank" class="title">
+                            ãäººçæ éå¬å¸ãæå¹åè±çµ® äºæå¤©åèº«è¶çº§è±                        </a></h3>
+                        <p>äºæå¤©ç¬¬ä¸é¨æ¼å±ä¼çµå½±ãäººçæ éå¬å¸ãæ¥åå·²å¨å°åãåäº¬ãä¸æµ·ãæ·±å³ä¸è§ä¼æåè§é¢ï¼å¼èµ·ç©ºåè½°å¨ãçµå½±è¶ç²¾ç¾çç«ä½æç»é¢ã64å£°éå£°é³ç»è»è®¾...</p>
+                    </div>
+                </li>
+                                            </ul>
+            <ul class="mod-relNews">
+                                                <li class="pic-pack-outer clear">
+                    <a href="http://www.1905.com/news/20190520/1376837.shtml" target="_blank" data-hrefexp="fr=wwwfilm_news_nd_3_20141027" title="ä¸å¨ç­å¾ï¼ç« å­æ¡éæç¯·æ¾æ°åº æ¨å¹åå¸¦è£å¦å°å¥³">
+                        ä¸å¨ç­å¾ï¼ç« å­æ¡éæç¯·æ¾æ°åº æ¨å¹åå¸¦è£å¦å°å¥³<span>2019-05-20</span>
+                    </a>
+                </li>
+                                <li class="pic-pack-outer clear">
+                    <a href="http://www.1905.com/news/20190519/1376767.shtml" target="_blank" data-hrefexp="fr=wwwfilm_news_nd_4_20141027" title="ä»»è¾¾åãéåå°çãææç§å¹»é¢æ äºææåèº«å«¦å¨¥">
+                        ä»»è¾¾åãéåå°çãææç§å¹»é¢æ äºææåèº«å«¦<span>2019-05-19</span>
+                    </a>
+                </li>
+                                <li class="pic-pack-outer clear">
+                    <a href="http://www.1905.com/news/20190519/1376743.shtml" target="_blank" data-hrefexp="fr=wwwfilm_news_nd_5_20141027" title="ãåæ¹è½¦ç«çèä¼ãæåæ­£ççæ®µ è¡æ­å¯ä¼æ¡çº¶é">
+                        ãåæ¹è½¦ç«çèä¼ãæåæ­£ççæ®µ è¡æ­å¯ä¼æ¡çº¶<span>2019-05-19</span>
+                    </a>
+                </li>
+                                <li class="pic-pack-outer clear">
+                    <a href="http://www.1905.com/news/20190519/1376733.shtml" target="_blank" data-hrefexp="fr=wwwfilm_news_nd_6_20141027" title="è¿äºçå®ï¼çãäººçæ éå¬å¸ãè§ä¼ç´å¼ä¸å¯æè®®">
+                        è¿äºçå®ï¼çãäººçæ éå¬å¸ãè§ä¼ç´å¼ä¸å¯æè®®<span>2019-05-19</span>
+                    </a>
+                </li>
+                            </ul>
+            <div class="pic-more"> <a href="http://www.1905.com/film/filmnews/ch/" target="_blank">æ´å¤</a> </div>
+        </div>
+        <div class="tab-cont " id="modLTab2">
+                        <ul class="mod-top-news">
+                                                <li class="pic-pack-out ">
+                    <a data-hrefexp="fr=wwwfilm_news_om_1_20141027" href="http://www.1905.com/news/20190519/1376744.shtml" target="_blank" class="pic-url"><img src="http://image14.m1905.cn/uploadfile/2019/0519/thumb_1_150_100_20190519024229961951.jpg" alt="ãXæè­¦ï¼é»å¤å°ãææ°ç¹è¾ æ¼«ç»åä½èç¬å®¶æ­ç§"></a>
+                    <div class="pic-pack-inner">
+                        <h3><a data-hrefexp="fr=wwwfilm_news_om_1_20141027" href="http://www.1905.com/news/20190519/1376744.shtml" title="ãXæè­¦ï¼é»å¤å°ãææ°ç¹è¾ æ¼«ç»åä½èç¬å®¶æ­ç§" target="_blank" class="title">
+                            ãXæè­¦ï¼é»å¤å°ãææ°ç¹è¾ æ¼«ç»åä½èç¬å®¶æ­ç§                        </a></h3>
+                        <p>ç±ç¾å½äºåä¸çºªç¦æ¯å¬å¸åºåï¼ç¾å½æ¼«å¨å½±ä¸å¬å¸èååºåçè¶çº§è±éå¤§çãXæè­¦ï¼é»å¤å°ãå³å°äº6æ6æ¥å½åä¸æ ï¼å½±çæ¹ç¼èªæ¼«å¨å²ä¸æä¼å¤§ãå½±ååææ·±...</p>
+                    </div>
+                </li>
+                                                <li class="pic-pack-out ">
+                    <a data-hrefexp="fr=wwwfilm_news_om_2_20141027" href="http://www.1905.com/news/20190519/1376737.shtml" target="_blank" class="pic-url"><img src="http://image14.m1905.cn/uploadfile/2019/0519/thumb_1_150_100_20190519014539635650.jpg" alt="æªç¡®å®ç½ä¼¯ç¹Â·å¸ä¸æ£®ï¼æ°ãèè ä¾ ãéè§ææåæ°"></a>
+                    <div class="pic-pack-inner">
+                        <h3><a data-hrefexp="fr=wwwfilm_news_om_2_20141027" href="http://www.1905.com/news/20190519/1376737.shtml" title="æªç¡®å®ç½ä¼¯ç¹Â·å¸ä¸æ£®ï¼æ°ãèè ä¾ ãéè§ææåæ°" target="_blank" class="title">
+                            æªç¡®å®ç½ä¼¯ç¹Â·å¸ä¸æ£®ï¼æ°ãèè ä¾ ãéè§ææå                        </a></h3>
+                        <p>æ°æ¥ä¹åï¼æ¾ç»ææ¶æ¯æåºç½ä¼¯ç¹Â·å¸ä¸æ£®å°ä¼åºæ¼æ°çãèè ä¾ ãä¸­çèè ä¾ ä¸è§ãä¸è¿ï¼è¿ä¸ªæ¶æ¯ç®ååºç°äºåæ°ãç½ä¼¯ç¹Â·å¸ä¸æ£®å¹¶æ²¡æç¡®å®æä¸ºå½±çç...</p>
+                    </div>
+                </li>
+                                            </ul>
+            <ul class="mod-relNews">
+                                                <li class="pic-pack-outer clear">
+                    <a href="http://www.1905.com/news/20190518/1376606.shtml" target="_blank" data-hrefexp="fr=wwwfilm_news_om_3_20141027" title="ãé»å¤å°ãâå³æ¨¡å§âèè²Â·ç¹çº³ å¢¨è¥¿å¥æç­æ½®">
+                        ãé»å¤å°ãâå³æ¨¡å§âèè²Â·ç¹çº³ å¢¨è¥¿å¥æç­æ½®<span>2019-05-18</span>
+                    </a>
+                </li>
+                                <li class="pic-pack-outer clear">
+                    <a href="http://www.1905.com/news/20190518/1376583.shtml" target="_blank" data-hrefexp="fr=wwwfilm_news_om_4_20141027" title="ãäºç«¯ä¹ä¸ãå¤åç¹æ  é©¬åºå¾·Â·é©¬åºè¿ªå¯¹è°éå¯æ­">
+                        ãäºç«¯ä¹ä¸ãå¤åç¹æ  é©¬åºå¾·Â·é©¬åºè¿ªå¯¹è°éå¯<span>2019-05-18</span>
+                    </a>
+                </li>
+                                <li class="pic-pack-outer clear">
+                    <a href="http://www.1905.com/news/20190518/1376567.shtml" target="_blank" data-hrefexp="fr=wwwfilm_news_om_5_20141027" title="ãä¸æ¡ççä½¿å½2ãç­æ ä¸­ ç¨ç±æ²»ææ¯ä¸ªå­¤åçäºº">
+                        ãä¸æ¡ççä½¿å½2ãç­æ ä¸­ ç¨ç±æ²»ææ¯ä¸ªå­¤åç<span>2019-05-18</span>
+                    </a>
+                </li>
+                                <li class="pic-pack-outer clear">
+                    <a href="http://www.1905.com/news/20190518/1376565.shtml" target="_blank" data-hrefexp="fr=wwwfilm_news_om_6_20141027" title="ãèè ä¾ ãç¡®å®åæ´¾è§è² ä¼é¹äººãç«å¥³æ¶äººèç">
+                        ãèè ä¾ ãç¡®å®åæ´¾è§è² ä¼é¹äººãç«å¥³æ¶äººèç<span>2019-05-18</span>
+                    </a>
+                </li>
+                            </ul>
+            <div class="pic-more"> <a href="http://www.1905.com/film/filmnews/ea/" target="_blank">æ´å¤</a> </div>
+        </div>
+    </div>
+</div>
+<!--ååºæ°é» end-->
+</div>
+<div class="grid-4x grid-12x-md mod-r">
+    <div class="mod-r-pc">
+        <div id="adjs_435" class="adArea mt20 pb20" data-size="300,250" data-device="PC"></div>
+        <!-- ææ¹ç¼ç start-->
+        
+        <!-- ææ¹ç¼ç end-->
+        <!-- ç¸å³çµå½± start-->
+                        <!-- ç¸å³çµå½± end-->
+        <!-- ææ°èµè®¯ start-->
+        <div class=" hidden-md hidden-xs hidden-sm">
+            <div class="mod-box-office grid-6x-md grid-12x-sm">
+    <div class="mod-hd">
+        <h2>ææ°èµè®¯</h2>
+        <a href="http://www.1905.com/film/" target="_blank" class="more">å»æ°é»é¢é</a> </div>
+    <div class="mod-bd">
+        <ul class="tab-pane fade active in pic-pack-out" id="boxOffice1">
+                                    <li class="first">
+                <a data-hrefexp="fr=wwwfilm_news_hyqy_1_20141017" href="http://www.1905.com/news/20190520/1376923.shtml" title="åç¾ç¥¨æ¿ï¼ãç¾é3ãå¤ºå  ãå¤è4ãè¶ãé¿å¡è¾¾ã" target="_blank" class="img-url">
+                    <img src="http://image11.m1905.cn/uploadfile/2019/0520/thumb_2_300_150_20190520113038257552_watermark.jpg" alt="åç¾ç¥¨æ¿ï¼ãç¾é3ãå¤ºå  ãå¤è4ãè¶ãé¿å¡è¾¾ã">
+                    <div class="office-spec clear">
+                        <span class="num top">1</span><span class="title">åç¾ç¥¨æ¿ï¼ãç¾é3ãå¤ºå  ãå¤è4ãè¶ãé¿å¡è¾¾ã</span>
+                    </div>
+                </a>
+            </li>
+                                                <li class="office">
+                <span class="num top">2</span>
+                <a data-hrefexp="fr=wwwfilm_news_hyqy_2_20141017" href="http://www.1905.com/news/20190520/1376981.shtml" title="ç¾èä¸å¦ä¸è§ï¼åè¿å ãå¤§ä¾¦æ¢ç®å¡ä¸ãææ°æµ·æ¥" target="_blank" class="title">ç¾èä¸å¦ä¸è§ï¼åè¿å ãå¤§ä¾¦æ¢ç®å¡ä¸ãææ°æµ·æ¥</a>
+            </li>
+                                                <li class="office">
+                <span class="num top">3</span>
+                <a data-hrefexp="fr=wwwfilm_news_hyqy_3_20141017" href="http://www.1905.com/news/20190520/1376933.shtml" title="åæç¶æ°ä½ç¥¨æ¿æç»©å¹³å¹³ ãä¸æ¡ç2ãä¸ååä½" target="_blank" class="title">åæç¶æ°ä½ç¥¨æ¿æç»©å¹³å¹³ ãä¸æ¡ç2ãä¸ååä½</a>
+            </li>
+                                                <li class="office">
+                <span class="num ">4</span>
+                <a data-hrefexp="fr=wwwfilm_news_hyqy_4_20141017" href="http://www.1905.com/news/20190520/1376849.shtml" title="ãäººçæ éå¬å¸ãæå¹åè±çµ® äºæå¤©åèº«è¶çº§è±é" target="_blank" class="title">ãäººçæ éå¬å¸ãæå¹åè±çµ® äºæå¤©åèº«è¶çº§è±</a>
+            </li>
+                                                <li class="office">
+                <span class="num ">5</span>
+                <a data-hrefexp="fr=wwwfilm_news_hyqy_5_20141017" href="http://www.1905.com/news/20190520/1376876.shtml" title="ãé¾ç è¶å¸ç½å©ãæç»æé¢å 4Då¶å¼ä¸­å½è§ä¼ç¬äº«" target="_blank" class="title">ãé¾ç è¶å¸ç½å©ãæç»æé¢å 4Då¶å¼ä¸­å½è§ä¼ç¬</a>
+            </li>
+                                                <li class="office">
+                <span class="num ">6</span>
+                <a data-hrefexp="fr=wwwfilm_news_hyqy_6_20141017" href="http://www.1905.com/news/20190520/1376837.shtml" title="ä¸å¨ç­å¾ï¼ç« å­æ¡éæç¯·æ¾æ°åº æ¨å¹åå¸¦è£å¦å°å¥³" target="_blank" class="title">ä¸å¨ç­å¾ï¼ç« å­æ¡éæç¯·æ¾æ°åº æ¨å¹åå¸¦è£å¦å°å¥³</a>
+            </li>
+                                                <li class="office">
+                <span class="num ">7</span>
+                <a data-hrefexp="fr=wwwfilm_news_hyqy_7_20141017" href="http://www.1905.com/news/20190520/1376875.shtml" title="æçº³ä¸­å½æ¥è®ºåä¸¾å é­å¸ç­è®¨è®ºå¦ä½è®²è¿°ä¸­å½æäº" target="_blank" class="title">æçº³ä¸­å½æ¥è®ºåä¸¾å é­å¸ç­è®¨è®ºå¦ä½è®²è¿°ä¸­å½æ</a>
+            </li>
+                                                <li class="office">
+                <span class="num ">8</span>
+                <a data-hrefexp="fr=wwwfilm_news_hyqy_8_20141017" href="http://www.1905.com/news/20190520/1376866.shtml" title="æ³å¼æµªæ¼«æ¥è¢­ï¼ç±æåå§ãçç±ç¾åç¾ãææ°é¢å" target="_blank" class="title">æ³å¼æµªæ¼«æ¥è¢­ï¼ç±æåå§ãçç±ç¾åç¾ãææ°é¢å</a>
+            </li>
+                                                <li class="office">
+                <span class="num ">9</span>
+                <a data-hrefexp="fr=wwwfilm_news_hyqy_9_20141017" href="http://www.1905.com/news/20190520/1376828.shtml" title="ãæå¥½çæä»¬ãæè¡¨ç½ç¹è¾ éé£å®ä½èéçèæé¹" target="_blank" class="title">ãæå¥½çæä»¬ãæè¡¨ç½ç¹è¾ éé£å®ä½èéçèæ</a>
+            </li>
+                                                <li class="office">
+                <span class="num ">10</span>
+                <a data-hrefexp="fr=wwwfilm_news_hyqy_10_20141017" href="http://www.1905.com/news/20190520/1376908.shtml" title="ãä¼é¹å¬è·¯ãæçæ®µ è®²è¿°æå³å¤§å§å§çå°å¹´å¿äº" target="_blank" class="title">ãä¼é¹å¬è·¯ãæçæ®µ è®²è¿°æå³å¤§å§å§çå°å¹´å¿äº</a>
+            </li>
+                                </ul>
+    </div>
+</div>
+
+        </div>
+        <!-- ææ°èµè®¯ end-->
+        <div class=" hidden-md hidden-xs hidden-sm">
+            <!-- çµå½±ç­å start-->
+                                    <div class="mod-tewFocus mod-prevue">
+                <div class="mod-hd ">
+                    <h2>çµå½±ç­å</h2>
+                    <a href="http://www.1905.com/film/filmnews/cehua/" target="_blank" class="more">æ´å¤</a> </div>
+                <div class="mod mod-bd ">
+                                        <div class="pic-pack-outer grid-6x">
+                        <a target="_blank" data-hrefexp="fr=wwwfilm_news_dych_1_20141024" href="http://www.1905.com/news/20190507/1373237.shtml" class="pic-url">
+                            <img src="http://image14.m1905.cn/uploadfile/2019/0507/thumb_1_140_90_20190507104245789817.jpg" height="90" width="140" alt="ãä½ä»¥ä¸ºå®¶ãæâç¼æ³ªæ¶å²æºâï¼ç«ç¶æ¯å ä¸ºä»ï¼">
+                        </a>
+                        <h3 class="pic-title">
+                            <a href="http://www.1905.com/news/20190507/1373237.shtml" data-hrefexp="fr=wwwfilm_news_dych_1_20141024" target="_blank" title="ãä½ä»¥ä¸ºå®¶ãæâç¼æ³ªæ¶å²æºâï¼ç«ç¶æ¯å ä¸ºä»ï¼">ãä½ä»¥ä¸ºå®¶ãæâç¼æ³ªæ¶å²æºâï¼ç«ç¶æ¯å ä¸ºä»ï¼</a>
+                        </h3>
+                    </div>
+                                        <div class="pic-pack-outer grid-6x">
+                        <a target="_blank" data-hrefexp="fr=wwwfilm_news_dych_2_20141024" href="http://www.1905.com/news/20190510/1374489.shtml" class="pic-url">
+                            <img src="http://image11.m1905.cn/uploadfile/2019/0510/thumb_1_140_90_20190510091807605747.jpg" height="90" width="140" alt="å¬å¥¥ä¼åè®¡æ¶1000å¤©ï¼ä½è²çµå½±çé£å£ç»äºæ¥äºï¼">
+                        </a>
+                        <h3 class="pic-title">
+                            <a href="http://www.1905.com/news/20190510/1374489.shtml" data-hrefexp="fr=wwwfilm_news_dych_2_20141024" target="_blank" title="å¬å¥¥ä¼åè®¡æ¶1000å¤©ï¼ä½è²çµå½±çé£å£ç»äºæ¥äºï¼">å¬å¥¥ä¼åè®¡æ¶1000å¤©ï¼ä½è²çµå½±çé£å£ç»äºæ¥äºï¼</a>
+                        </h3>
+                    </div>
+                                        <div class="pic-pack-outer grid-6x">
+                        <a target="_blank" data-hrefexp="fr=wwwfilm_news_dych_3_20141024" href="http://www.1905.com/news/20190508/1373603.shtml" class="pic-url">
+                            <img src="http://image14.m1905.cn/uploadfile/2019/0508/thumb_1_140_90_20190508125617320243.jpg" height="90" width="140" alt="ãä¸ä¸ä»»ï¼åä»»ãç ´äº¿ è°å¨ä¸ºâå¹´åº¦ççâä¹°åï¼">
+                        </a>
+                        <h3 class="pic-title">
+                            <a href="http://www.1905.com/news/20190508/1373603.shtml" data-hrefexp="fr=wwwfilm_news_dych_3_20141024" target="_blank" title="ãä¸ä¸ä»»ï¼åä»»ãç ´äº¿ è°å¨ä¸ºâå¹´åº¦ççâä¹°åï¼">ãä¸ä¸ä»»ï¼åä»»ãç ´äº¿ è°å¨ä¸ºâå¹´åº¦ççâä¹°åï¼</a>
+                        </h3>
+                    </div>
+                                        <div class="pic-pack-outer grid-6x">
+                        <a target="_blank" data-hrefexp="fr=wwwfilm_news_dych_4_20141024" href="http://www.1905.com/news/20190514/1375226.shtml" class="pic-url">
+                            <img src="http://image13.m1905.cn/uploadfile/2019/0514/thumb_1_140_90_20190514095739856824.jpg" height="90" width="140" alt="æ²¡æãåå©Â·æ³¢ç¹ãçæåï¼å°±ä¸ä¼æè¿é¨çµå½±">
+                        </a>
+                        <h3 class="pic-title">
+                            <a href="http://www.1905.com/news/20190514/1375226.shtml" data-hrefexp="fr=wwwfilm_news_dych_4_20141024" target="_blank" title="æ²¡æãåå©Â·æ³¢ç¹ãçæåï¼å°±ä¸ä¼æè¿é¨çµå½±">æ²¡æãåå©Â·æ³¢ç¹ãçæåï¼å°±ä¸ä¼æè¿é¨çµå½±</a>
+                        </h3>
+                    </div>
+                                    </div>
+            </div>
+                        <!-- çµå½±ç­å end-->
+            <div id="adjs_436" class="adArea mt20 pb20" data-size="300,250" data-device="PC"></div>
+            <!-- ç¬å®¶ä¸è®¿ start-->
+            <div class=" hidden-md hidden-xs hidden-sm">
+                <div class="mod-exclusive">
+    <div class="mod-hd">
+        <h2><a href="http://www.1905.com/star/zf/" target="_blank" class="title">ç¬å®¶ä¸è®¿</a></h2>
+        <a href="http://www.1905.com/star/zf/" target="_blank" class="more">æ´å¤</a> </div>
+    <div class="mod-bd">
+        <div class="mod-placehoder mb20"><a href="http://www.1905.com/news/20190518/1376630.shtml" data-hrefexp="fr=wwwfilm_news_zf_1_20150203" target="_blank" class="pic-url"><img src="http://image14.m1905.cn/uploadfile/2019/0518/thumb_1_300_150_20190518031756659114.jpg" height="150" width="300"><span class="pic-title"><span>åéè¢æ³ï¼ãååçãå¤§çº¢å å¥¹å´å®¢ä¸²äºè¿é¨çµå½±</span></span></a></div>
+        <div class="mod-placehoder "><a href="http://www.1905.com/news/20190510/1374253.shtml" data-hrefexp="fr=wwwfilm_news_zf_1_20150203" target="_blank" class="pic-url"><img src="http://image14.m1905.cn/uploadfile/2019/0510/thumb_1_300_150_20190510101925435953.jpg" height="150" width="300"><span class="pic-title"><span>åéè¡ç«ï¼ææ¯å¤©å¤§ æè¦æä¸é¨éæ¥çãçº¢æ¥¼æ¢¦ã</span></span></a></div>
+    </div>
+</div>
+
+            </div>
+            <!-- ç¬å®¶ä¸è®¿ end-->
+        </div>
+        <!-- ææåç start-->
+        <div class="mod-star-photo">
+    <div class="mod-hd">
+        <h2><a href="http://www.1905.com/newgallery/list/c53.html" target="_blank" class="mod-title">ææåç</a></h2>
+        <a href="http://www.1905.com/newgallery/list/c53.html" target="_blank" class="more">å»åçé¢é</a> </div>
+    <div class="mod-bd mui-carousel" id="carousel_xz" class="">
+        <div class="tc-container">
+            <ul>
+                                <li>
+                    <a data-hrefexp="fr=wwwfilm_news_mxxz_1_20141027" target="_blank" title="çä¿å¯å¼å¹´å°æå é¢å¯¹çæ´»çéæ©é¢ï¼ä»ä¸éç¦»" href="http://www.1905.com/newgallery/hdpic/1334818.shtml">
+                        <img src="http://image13.m1905.cn/uploadfile/2018/1214/thumb_1_300_430_20181214104740188594.jpg" alt="çä¿å¯å¼å¹´å°æå é¢å¯¹çæ´»çéæ©é¢ï¼ä»ä¸éç¦»">
+                    </a>
+                    <div class="tc-mask">
+                        <a data-hrefexp="fr=wwwfilm_news_mxxz_1_20141027" target="_blank" class="title-url" href="http://www.1905.com/newgallery/hdpic/1334818.shtml" title="çä¿å¯å¼å¹´å°æå é¢å¯¹çæ´»çéæ©é¢ï¼ä»ä¸éç¦»">çä¿å¯å¼å¹´å°æå é¢å¯¹çæ´»çéæ©é¢ï¼ä»ä¸éç¦»</a>
+                    </div>
+                </li>
+                                <li>
+                    <a data-hrefexp="fr=wwwfilm_news_mxxz_1_20141027" target="_blank" title="éå²é¬åæ¢æºæç»å° âæ«ä»£çå¦âå©å®¹æç»£åç¸é¢" href="http://www.1905.com/newgallery/hdpic/1366194.shtml">
+                        <img src="http://image11.m1905.cn/uploadfile/2019/0411/thumb_1_300_430_20190411090803357975.jpg" alt="éå²é¬åæ¢æºæç»å° âæ«ä»£çå¦âå©å®¹æç»£åç¸é¢">
+                    </a>
+                    <div class="tc-mask">
+                        <a data-hrefexp="fr=wwwfilm_news_mxxz_1_20141027" target="_blank" class="title-url" href="http://www.1905.com/newgallery/hdpic/1366194.shtml" title="éå²é¬åæ¢æºæç»å° âæ«ä»£çå¦âå©å®¹æç»£åç¸é¢">éå²é¬åæ¢æºæç»å° âæ«ä»£çå¦âå©å®¹æç»£å</a>
+                    </div>
+                </li>
+                                <li>
+                    <a data-hrefexp="fr=wwwfilm_news_mxxz_1_20141027" target="_blank" title="Angelababyç»å°ãæ¶å°è­èã ç½çº±é®é¢çº¢åå·è³" href="http://www.1905.com/newgallery/hdpic/1365794.shtml">
+                        <img src="http://image13.m1905.cn/uploadfile/2019/0410/thumb_1_300_430_20190410062337850774.jpg" alt="Angelababyç»å°ãæ¶å°è­èã ç½çº±é®é¢çº¢åå·è³">
+                    </a>
+                    <div class="tc-mask">
+                        <a data-hrefexp="fr=wwwfilm_news_mxxz_1_20141027" target="_blank" class="title-url" href="http://www.1905.com/newgallery/hdpic/1365794.shtml" title="Angelababyç»å°ãæ¶å°è­èã ç½çº±é®é¢çº¢åå·è³">Angelababyç»å°ãæ¶å°è­èã ç½çº±é®é¢çº¢åå·</a>
+                    </div>
+                </li>
+                                <li>
+                    <a data-hrefexp="fr=wwwfilm_news_mxxz_1_20141027" target="_blank" title="åäº¦è²ãåäººãå°é¢å¤§çæå å¥³åè§éæ°è´¨è¶ç¶" href="http://www.1905.com/newgallery/hdpic/1365748.shtml">
+                        <img src="http://image11.m1905.cn/uploadfile/2019/0410/thumb_1_300_430_20190410043010674386.jpg" alt="åäº¦è²ãåäººãå°é¢å¤§çæå å¥³åè§éæ°è´¨è¶ç¶">
+                    </a>
+                    <div class="tc-mask">
+                        <a data-hrefexp="fr=wwwfilm_news_mxxz_1_20141027" target="_blank" class="title-url" href="http://www.1905.com/newgallery/hdpic/1365748.shtml" title="åäº¦è²ãåäººãå°é¢å¤§çæå å¥³åè§éæ°è´¨è¶ç¶">åäº¦è²ãåäººãå°é¢å¤§çæå å¥³åè§éæ°è´¨è¶</a>
+                    </div>
+                </li>
+                            </ul>
+        </div>
+                <a class="tc-prev" href="#"></a>
+        <a class="tc-next" href="#"></a>
+            </div>
+</div>
+
+        <!-- ææåç end-->
+    </div>
+</div>
+<div style="clear:both; height:0; font-size:0; line-height:0; overflow:hidden;"></div>
+<div id="adjs_440" class="adArea mt20 pb20" data-device="PC" data-size="980,90"></div>
+</div>
+</div>
+<!-- åå®¹åºå end -->
+<!-- æ°å¢éæ æ¨¡å start1-->
+<!-- æ°å¢éæ æ¨¡åå¼å§ -->
+<div class="mod-banner-wrap">
+    <div class="mod-banner-inner">
+        <div class="mod-new-banner mod">
+            <div class="mod-hd">
+                <h3><a href="http://www.1905.com/vod/" target="_blank">å¤§çæ¨è&nbsp;<span>&gt;&gt;</span></a></h3>
+            </div>
+            <div class="mod-bd clear">
+                                                <div class="grid-2x ">
+                    <div class="pic-pack-wrap">
+                        <a href="http://vip.1905.com/play/1374680.shtml" title="èèä¾ ï¼å¹³è¡å®å®" class="pic-pack-outer">
+                            <img src="http://image11.m1905.cn/uploadfile/2019/0512/thumb_1_150_205_20190512110358365392.jpg" alt="èèä¾ ï¼å¹³è¡å®å®" width="150" height="205">
+                            <div class="tabs-mask">å¨ç»</div>
+                            <div class="play-mask"></div>
+                            <div class="title-mask"></div>
+                            <span class="appLabel"></span>                        </a>
+                        <h3><a href="http://vip.1905.com/play/1374680.shtml" title="èèä¾ ï¼å¹³è¡å®å®">èèä¾ ï¼å¹³è¡å®</a></h3>
+                        <i class="score hidden-md hidden-sm hidden-xs">8.5</i>
+                        <p>èèä¾ è·¨æ¶ç©ºéç»</p>
+                    </div>
+                </div>
+                                                                <div class="grid-2x ">
+                    <div class="pic-pack-wrap">
+                        <a href="http://vip.1905.com/play/842121.shtml" title="èè±" class="pic-pack-outer">
+                            <img src="http://image13.m1905.cn/uploadfile/2014/1216/thumb_1_150_205_20141216061121805250.jpg" alt="èè±" width="150" height="205">
+                            <div class="tabs-mask">ç»å¸</div>
+                            <div class="play-mask"></div>
+                            <div class="title-mask"></div>
+                                                    </a>
+                        <h3><a href="http://vip.1905.com/play/842121.shtml" title="èè±">èè±</a></h3>
+                        <i class="score hidden-md hidden-sm hidden-xs">8.5</i>
+                        <p>å·©ä¿é¢å¼å·å³°ä¹ä½</p>
+                    </div>
+                </div>
+                                                                <div class="grid-2x ">
+                    <div class="pic-pack-wrap">
+                        <a href="http://vip.1905.com/play/501552.shtml" title="ææ¿æI Do" class="pic-pack-outer">
+                            <img src="http://image13.m1905.cn/uploadfile/2012/0124/thumb_1_150_205_20120124120228661.jpg" alt="ææ¿æI Do" width="150" height="205">
+                            <div class="tabs-mask">åå§</div>
+                            <div class="play-mask"></div>
+                            <div class="title-mask"></div>
+                                                    </a>
+                        <h3><a href="http://vip.1905.com/play/501552.shtml" title="ææ¿æI Do">ææ¿æI Do</a></h3>
+                        <i class="score hidden-md hidden-sm hidden-xs">9.0</i>
+                        <p>æ¨å«å¥³ææä¸¤å¸ç·</p>
+                    </div>
+                </div>
+                                                                <div class="grid-2x ">
+                    <div class="pic-pack-wrap">
+                        <a href="http://vip.1905.com/play/430615.shtml" title="è¶å¼ºå°é£" class="pic-pack-outer">
+                            <img src="http://image11.m1905.cn/uploadfile/s2010/0730/thumb_1_150_205_20100730102113788.jpg" alt="è¶å¼ºå°é£" width="150" height="205">
+                            <div class="tabs-mask">å¨ä½</div>
+                            <div class="play-mask"></div>
+                            <div class="title-mask"></div>
+                                                    </a>
+                        <h3><a href="http://vip.1905.com/play/430615.shtml" title="è¶å¼ºå°é£">è¶å¼ºå°é£</a></h3>
+                        <i class="score hidden-md hidden-sm hidden-xs">6.0</i>
+                        <p>å½åç¾é¾çä½³ä½</p>
+                    </div>
+                </div>
+                                                                <div class="grid-2x ">
+                    <div class="pic-pack-wrap">
+                        <a href="http://www.1905.com/vod/play/516604.shtml" title="æ¨è´µå¦" class="pic-pack-outer">
+                            <img src="http://image11.m1905.cn/uploadfile/2019/0401/thumb_1_150_205_20190401021843670441.jpg" alt="æ¨è´µå¦" width="150" height="205">
+                            <div class="tabs-mask">ç±æ</div>
+                            <div class="play-mask"></div>
+                            <div class="title-mask"></div>
+                                                    </a>
+                        <h3><a href="http://www.1905.com/vod/play/516604.shtml" title="æ¨è´µå¦">æ¨è´µå¦</a></h3>
+                        <i class="score hidden-md hidden-sm hidden-xs">7.8</i>
+                        <p>å¤§åçä¸ä¸ä»£å® å¦</p>
+                    </div>
+                </div>
+                                                                <div class="grid-2x ">
+                    <div class="pic-pack-wrap">
+                        <a href="http://www.1905.com/vod/play/404212.shtml" title="æå¤©å¨å°" class="pic-pack-outer">
+                            <img src="http://image14.m1905.cn/uploadfile/2013/0719/thumb_1_150_205_20130719043135620.jpg" alt="æå¤©å¨å°" width="150" height="205">
+                            <div class="tabs-mask">ææ</div>
+                            <div class="play-mask"></div>
+                            <div class="title-mask"></div>
+                                                    </a>
+                        <h3><a href="http://www.1905.com/vod/play/404212.shtml" title="æå¤©å¨å°">æå¤©å¨å°</a></h3>
+                        <i class="score hidden-md hidden-sm hidden-xs">7.9</i>
+                        <p>çå®åç°æ±¶å·å°é</p>
+                    </div>
+                </div>
+                                            </div>
+        </div>
+    </div>
+</div>
+<!-- æ°å¢éæ æ¨¡åç»æ -->
+
+<!-- æ°å¢éæ æ¨¡å end-->
+</div>
+<div id="footer">
+    <div class="container">
+        <p> <a href="http://www.1905.com/about/aboutus/">å³äºæä»¬</a>&nbsp;|&nbsp; <a href="http://www.1905.com/sitemap.html">ç½ç«å°å¾</a>&nbsp;|&nbsp; <a href="http://www.1905.com/jobs/">è¯èè±æ</a>&nbsp;|&nbsp; <a href="http://www.1905.com/about/copyright/">çæå£°æ</a>&nbsp;|&nbsp; <a href="http://www.1905.com/about/contactus/">èç³»æä»¬</a>&nbsp;|&nbsp; <a href="http://www.1905.com/link/">åæé¾æ¥</a>&nbsp;|&nbsp; <a href="http://www.1905.com/link/">CCTV6å¹¿åæå</a> </p>
+        çµå½±å«æé¢éèç®ä¸­å¿å®æ¹ç½ç« </div>
+</div>
+<div class="sideBar-help" id="sideBarHelp"> <a href="http://www.1905.com/error_report/error_report-p-pid-125-cid-126-tid-133.html" target="_blank" class="feed">æè§åé¦</a> <a class="code icons" href="javascript:void(0)" hidefocus="true">
+    <div class="quickCode"><img src="http://static.m1905.cn/index2012/images/entcode.png"> <span>ææºæµè§ç²¾å½©èµè®¯</span></div>
+</a> <a class="affix-top icons return-back" data-spy="affix" href="javascript:void(0)" data-offset-top="500"><span>è¿åé¡¶é¨</span></a> </div>
+<div class="overlays" id="overlaysWrap"> <span class="ico_final ico-corn"></span>
+    <div class="pic-wrapper"> </div>
+</div>
+<textarea class="atlas-lz-html">
+    <div class="pic_midd mb20"> <!--æä»¶çå®½åº¦ä¾èµäºpic_midd çå®½åº¦-->
+        <div id="pic_con" >
+            <div class="pic_con_box ad-gallery"  id="gallery" >
+                <div class="ad-gallery-single">
+                    <div class="pic_img">
+                        <div class="pic_bigbox">
+                            <div class="pic_img_bg">
+                                <div class="pic_img_bgL ad-prev"></div>
+                                <div class="pic_img_bgR ad-next"></div>
+                                <div class="ad-image-wrapper"></div>
+                                <div class="ad-controls" style="display:none;"> </div>
+                            </div>
+                            <div class="pic_img_tit">
+                                <div class="pic_img_title ad-description-title"></div>
+                                <a href="" target="_blank"></a> <span class="c2">|</span> <span class="pic_con ad-info">(<span class="star ad-info-current" id="picnum">1</span>/<span class="f16 ad-info-total" id="totalnum">0</span>)</span>
+                                <p id="desc_big_gallery" class="ad-image-big-description" style="display:none"></p>
+                            </div>
+                            <div class="pic_img_tit"> <span class="a1"></span> <span class="a2"> <a></a> <span class="c2">|</span> <span class="c1">(<span style="color:#0e7485">2</span>/9)</span> </span> </div>
+                        </div>
+                    </div>
+                    <div class="ad-nav" >
+                        <div class="pic_img_gallery ad-thumbs">
+                            <ul class="ad-thumb-list">
+                                                            </ul>
+                        </div>
+                        <div class="pic_barL"><a class="ad-back"></a></div>
+                        <div class="pic_barR"><a class="ad-forward"></a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+                <div class="pic_plug mb10" style="display:none">
+        <div class="pic_plug_con">
+            <div class="pic_plug_top clear">
+                <div class="pic_plug_topL"> <a href="" target="_blank">ç»å¾ï¼</a> </div>
+                <div class="pic_plug_topR">
+                    <a href="javascript:void(0)" class="gary01">éæ°æ­æ¾</a> <a href="" target="_blank" class="gary02">å¤§å¾æ­æ¾</a>
+                </div>
+            </div>
+            <div class="pic_plug_img">
+                <p>çä½ åæ¬¢</p>
+                <div data-cfg-load="" data-unit-config="{'onclass':'active', 'pause_on_act':'click', 'position':'left'}" id="t4Carousel" class="carousel slide">
+                    <div class="pic_recom_midd carousel-inner">
+                        <div class="pic_recom_middAll carousel-pos">
+                                                                                    <div class="pic_recom_img f_out">
+                                                                <div class="a1"><span></span><a href="http://www.1905.com/video/play/294053.shtml"><img src="http://image13.m1905.cn/uploadfile/2006/1013/thumb_1_188_141_06101304127977.jpg" alt="[åå¤«]çµå½±ä¸»é¢æ²MV" title="[åå¤«]çµå½±ä¸»é¢æ²MV" /></a></div>
+                                                                <div class="a2"><span></span><a href=""><img src="http://image11.m1905.com/images/nopic_small.gif" alt="" title="" /></a></div>
+                                                                <div class="a3"><span></span><a href=""><img src="http://image11.m1905.com/images/nopic_small.gif" alt="" title="" /></a></div>
+                                                            </div>
+                                                        <div class="pic_recom_img f_out">
+                                                                <div class="a1"><span></span><a href=""><img src="http://image11.m1905.com/images/nopic_small.gif" alt="" title="" /></a></div>
+                                                                <div class="a2"><span></span><a href=""><img src="http://image11.m1905.com/images/nopic_small.gif" alt="" title="" /></a></div>
+                                                                <div class="a3"><span></span><a href=""><img src="http://image11.m1905.com/images/nopic_small.gif" alt="" title="" /></a></div>
+                                                            </div>
+                                                        <div class="pic_recom_img f_out">
+                                                                <div class="a1"><span></span><a href=""><img src="http://image11.m1905.com/images/nopic_small.gif" alt="" title="" /></a></div>
+                                                                <div class="a2"><span></span><a href=""><img src="http://image11.m1905.com/images/nopic_small.gif" alt="" title="" /></a></div>
+                                                                <div class="a3"><span></span><a href=""><img src="http://image11.m1905.com/images/nopic_small.gif" alt="" title="" /></a></div>
+                                                            </div>
+                                                    </div>
+                        <div class="carousel-panel pic_plug_button ">
+                            <ul class="dib-wrap clear">
+                                <li></li>
+                                <li></li>
+                                <li></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</textarea>
+<span class="shareWrap share_atlas"></span>
+<script src="http://js.static.m1905.cn/core/jquery-edge.min.js"></script>
+<script src="http://js.static.m1905.cn/core/seed_v2.js"></script>
+<script src="http://js.static.m1905.cn/core/app.lite.min.js"></script>
+<script src="http://js.static.m1905.cn/core/bootstrap.min.js"></script>
+<script>M.config({baseUrl : 'http://js.static.m1905.cn/'});</script>
+<script>
+    M.bootstrap = {
+        'js': [{
+            'path': 'http://static.m1905.cn/assets/news/js/index_bigNews20180823.min.js',
+            'platform': ['desktop']
+        },{
+            'path': 'http://static.m1905.cn/assets/news/js/details.js?t=20150309'
+        },{
+            'path': 'http://static.m1905.cn/assets/news/js/index_bigNews_mobile_compress20180823.min.js',
+            'platform': ['phone','tablet']
+        }]
+    }
+</script>
+<script>
+    (function() {
+        var head = document.head || document.getElementsByTagName('head')[0];
+
+        function write(content) {
+            document.write(content);
+        }
+
+        function addMeta(name, content) {
+            var meta = document.createElement('meta');
+
+            meta.setAttribute('name', name);
+            meta.setAttribute('content', content);
+            head.appendChild(meta);
+        }
+
+        var options = M.bootstrap,
+                scripts = options.js || [],
+                styleSheets = options.css || [],
+                i, ln, path, platform, theme, exclude;
+
+        if(options.platform && options.platforms && options.platforms[options.platform] && options.platforms[options.platform].js) {
+            scripts = options.platforms[options.platform].js.concat(scripts);
+        }
+
+        if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+            var msViewportStyle = document.createElement("style");
+            msViewportStyle.appendChild(
+                    document.createTextNode(
+                            "@media screen and (orientation: portrait) {" +
+                                    "@-ms-viewport {width: 320px !important;}" +
+                                    "}" +
+                                    "@media screen and (orientation: landscape) {" +
+                                    "@-ms-viewport {width: 560px !important;}" +
+                                    "}"
+                    )
+            );
+            document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+        }
+
+        //addMeta('viewport', 'width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no');
+        addMeta('apple-mobile-web-app-capable', 'yes');
+        addMeta('apple-touch-fullscreen', 'yes');
+
+        if (!window.M) {
+            window.M = {};
+        }
+        M.microloaded = true;
+
+        var filterPlatform = window.M.filterPlatform = function(platform) {
+            var profileMatch = false,
+                    ua = navigator.userAgent,
+                    j, jln;
+
+            platform = [].concat(platform);
+
+            function isPhone(ua) {
+                var isMobile = /Mobile(\/|\s)/.test(ua);
+
+                // Either:
+                // - iOS but not iPad
+                // - Android 2
+                // - Android with "Mobile" in the UA
+
+                return /(iPhone|iPod)/.test(ua) ||
+                        (!/(Silk)/.test(ua) && (/(Android)/.test(ua) && (/(Android 2)/.test(ua) || isMobile))) ||
+                        (/(BlackBerry|BB)/.test(ua) && isMobile) ||
+                        /(Windows Phone)/.test(ua);
+            }
+
+            function isTablet(ua) {
+                return !isPhone(ua) && (/iPad/.test(ua) || /Android|Silk/.test(ua) || /(RIM Tablet OS)/.test(ua) ||
+                        (/MSIE 10/.test(ua) && /; Touch/.test(ua)));
+            }
+
+            // Check if the ?platform parameter is set in the URL
+            var paramsString = window.location.search.substr(1),
+                    paramsArray = paramsString.split("&"),
+                    params = {},
+                    testPlatform, i;
+
+            for (i = 0; i < paramsArray.length; i++) {
+                var tmpArray = paramsArray[i].split("=");
+                params[tmpArray[0]] = tmpArray[1];
+            }
+
+            testPlatform = params.platform;
+            if (testPlatform) {
+                return platform.indexOf(testPlatform) != -1;
+            }
+
+            for (j = 0, jln = platform.length; j < jln; j++) {
+                switch (platform[j]) {
+                    case 'phone':
+                        profileMatch = isPhone(ua);
+                        break;
+                    case 'tablet':
+                        profileMatch = isTablet(ua);
+                        break;
+                    case 'desktop':
+                        profileMatch = !isPhone(ua) && !isTablet(ua);
+                        break;
+                    case 'ios':
+                        profileMatch = /(iPad|iPhone|iPod)/.test(ua);
+                        break;
+                    case 'android':
+                        profileMatch = /(Android|Silk)/.test(ua);
+                        break;
+                    case 'blackberry':
+                        profileMatch = /(BlackBerry|BB)/.test(ua);
+                        break;
+                    case 'safari':
+                        profileMatch = /Safari/.test(ua) && !(/(BlackBerry|BB)/.test(ua));
+                        break;
+                    case 'chrome':
+                        profileMatch = /Chrome/.test(ua);
+                        break;
+                    case 'ie10':
+                        profileMatch = /MSIE 10/.test(ua);
+                        break;
+                    case 'windows':
+                        profileMatch = /MSIE 10/.test(ua) || /Trident/.test(ua);
+                        break;
+                    case 'tizen':
+                        profileMatch = /Tizen/.test(ua);
+                        break;
+                    case 'firefox':
+                        profileMatch = /Firefox/.test(ua);
+                }
+                if (profileMatch) {
+                    return true;
+                }
+            }
+            return false;
+        };
+
+        for (i = 0,ln = styleSheets.length; i < ln; i++) {
+            path = styleSheets[i];
+
+            if (typeof path != 'string') {
+                platform = path.platform;
+                exclude = path.exclude;
+                path = path.path;
+            }
+
+            if (platform) {
+                if (!filterPlatform(platform) || filterPlatform(exclude)) {
+                    continue;
+                }
+            }
+
+            write('<link rel="stylesheet" href="'+path+'">');
+        }
+
+
+        for (i = 0,ln = scripts.length; i < ln; i++) {
+            path = scripts[i];
+
+            if (typeof path != 'string') {
+                platform = path.platform;
+                exclude = path.exclude;
+                path = path.path;
+
+            }
+
+            if (platform) {
+                if (!filterPlatform(platform) || filterPlatform(exclude)) {
+                    continue;
+                }
+            }
+
+            write('<script src="'+path+'"></'+'script>');
+        }
+
+        $("#dd_comment").append('<div id="SOHUCS" sid="140000001376837"></div>');
+        var jslazyOnlyOne=false;
+        window.onscroll = function(){
+            var t = document.documentElement.scrollTop || document.body.scrollTop;
+            if( t >= 400 && jslazyOnlyOne==false) {
+                jslazyOnlyOne = true;
+                mBuffer('http://changyan.sohu.com/upload/changyan.js',
+                        function() {
+                            window.changyan.api.config({
+                                appid: 'cysClFDGn',
+                                conf: 'prod_41108f5b06879e5190e85783534ec769'
+                            });
+                        });
+
+            } else {
+
+            }
+        }
+        window.onscroll();
+    })();
+</script>
+<script language="JavaScript" src="http://counter.m1905.com/count.php?contentid=1376837"></script><script type="text/javascript" src="http://js.static.m1905.cn/pingd.js?v=1"></script>
+</body>
+</html>
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+<head>
+    <!--[if lt IE 9]>
+    <script src="http://static.m1905.cn/js/hdpage/html5.min.js"></script>
+    <script type="text/javascript">
+        document.createElement('figcaption');
+        document.createElement('figure');
+        document.createElement('section');
+        document.createElement('footer');
+    </script>
+    <![endif]-->
+    <meta charset="utf-8">
+    <title>ãçç±ç¾åç¾ãâè°è¨ä¸çç±âçç»æé¢åç_é«æ¸è§é¢å¨çº¿è§ç_çµå½±ç½</title>
+    <meta content="ãçç±ç¾åç¾ãâè°è¨ä¸çç±âçç»æé¢åç,çç±ç¾åç¾,é¢åç" name="keywords"/>
+    <meta content="ãçç±ç¾åç¾ãâè°è¨ä¸çç±âçç»æé¢åç,ãçç±ç¾åç¾ãå¬å¸âè°è¨ä¸çç±âçç»æé¢åï¼é¤äºæç²¾å¸åè±å¼æ©å¦¹çæ¡¥æ®µä»¤äººæ§è¹ï¼å¥³ä¸»ä¸ºç±è£å»çä¸¾å¨ï¼ä¹å¸å¼äºä¸å°å¥³æ§è§ä¼ï¼å»æ·±ææ¢è®¨ç±æä¸­å­å¨çè°è¨ã
+
+ " name="description"/>
+    <meta name="renderer" content="webkit">
+    <meta name="baidu-site-verification" content="612c485373ac28aefee94b0371f57dfe"/>
+    <link rel="dns-prefetch" href="//static.m1905.cn"/>
+    <link rel="dns-prefetch" href="//image11.m1905.cn"/>
+    <link rel="dns-prefetch" href="//image13.m1905.cn"/>
+    <link rel="dns-prefetch" href="//image14.m1905.cn"/>
+    <link rel="dns-prefetch" href="//js.static.m1905.cn"/>
+    <link rel="dns-prefetch" href="//css.static.m1905.cn"/>
+    <link rel="dns-prefetch" href="//static.m1905.com"/>
+    <link rel="alternate" type="application/rss+xml" title="çµå½±ç½_1905_è®¢éä¸­å¿" href="/rss.php?rssid="/>
+    <link type="text/css" rel="stylesheet" href="http://static.m1905.cn/??css/homepage/homebasic.css,css/homepage/homehead20170301.css,css/homepage/homeico.css,css/homepage/homecomments.css,css/homepage/homefoot0208.css,/shortvideo/css/shortVideo.css,/shortvideo/css/player.css">
+    <!-- å¨ç«åç°ä»£ç  -->
+    <script>
+        var ifad = false;  // æ¯å¦æ¾ç¤º360å¹¿å
+    </script>
+    <script src="http://static.m1905.cn/??js/core/jquery-edge.min.js,js/core/require.min.js,js/homepage/video_head.min.js,shortvideo/js/index20190429.min.js"></script>
+</head>
+<script type="text/javascript">
+    (function(){
+        if(/Android|Windows Phone|webOS|iPad|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)){
+            var nowUrl = window.location.href;
+            var url = 'http://www.1905.com/video/play/m/1376830.shtml';
+            var index = nowUrl.indexOf('?');
+            if(index != -1){
+                url += nowUrl.substring(index);
+            }
+            window.location.href = url;
+        }
+    })();
+</script>
+<body class="">
+<script type="text/javascript">
+    var stageWidth = window.innerWidth || document.body.clientWidth;
+    if (stageWidth < 1380) {
+        document.getElementsByTagName('body')[0].className = 'straitpage';
+    } else {
+        document.getElementsByTagName('body')[0].className = 'widepage';
+    }
+    $(window).bind("resize", resizeWindow);
+
+    function resizeWindow(e) {
+        var newWindowWidth = $(window).width();
+        if (stageWidth < newWindowWidth) {
+            $(".head").width(newWindowWidth);
+            $("footer").width(newWindowWidth);
+        } else {
+            if (newWindowWidth < $(".head-bar").width()) {
+                $(".head").width($(".head-bar").width());
+                $("footer").width($(".head-bar").width());
+            } else {
+                $(".head").width(newWindowWidth);
+                $("footer").width(newWindowWidth);
+            }
+        }
+    }
+</script>
+<!-- wcg part -->
+<!--ç½ç«å¤´é¨å¯¼èª -->
+<div class="head commonWidth">
+    <div class="head-bar">
+        <div class="head-bar-logo">
+            <a href="http://www.1905.com/cctv6/" target="_blank" title="CCTV6" data-hrefexp="fr=homepc_menu_cctv6">
+                <span class="icon-home i-cctv6">CCTV6</span>
+            </a>
+            <a href="http://www.1905.com/" title="1905çµå½±ç½" data-hrefexp="fr=homepc_menu_logo">
+                <span class="icon-home i-1905">1905çµå½±ç½</span>
+            </a>
+        </div>
+        <ul class="nav-bar-menu">
+            <li><a href="http://www.1905.com/" target="_blank" title="é¦é¡µ" data-hrefexp="fr=homepc_menu_home">é¦é¡µ</a></li>
+            <li>
+                <div>
+                    <a href="http://www.1905.com/film/" target="_blank" data-hrefexp="fr=homepc_menu_news" title="æ°é»" style="padding:0px 0px;">æ°é»</a>
+                    Â· 
+                    <a href="http://www.1905.com/pinglun/" target="_blank" data-hrefexp="fr=homepc_menu_cmt" title="è¯è®º" style="padding:0px 0px;">è¯è®º</a>
+                </div>
+            </li>
+            <li><a href="http://vip.1905.com/" target="_blank" title="VIPå½±é¢" data-hrefexp="fr=homepc_menu_vip">VIPå½±é¢</a>
+            </li>
+            <li><a href="http://www.1905.com/mdb/film/" target="_blank" title="èµæé¦" data-hrefexp="fr=homepc_menu_mdb">èµæé¦</a>
+            </li>
+        </ul>
+        <div class="nav-bar-seach">
+            <div class="bar-seach-form">
+                <form method="get" action="http://www.1905.com/search/" name="bar-seach-form" target="_blank">
+                    <input class="bar-seach-txt" type="text" autocomplete="off" name="q">
+                    <input class="icon-home i-search bar-seach-btn" type="submit" value="">
+                </form>
+                <div class="bar-seach-chip"><!--è°å½±éé --></div>
+            </div>
+            <div class="bar-seach-plane">
+                <ul>
+                </ul>
+            </div>
+        </div>
+
+        <div class="nav-bar-user">
+            <div class="bar-user-login">
+                <div class="user-login-reg">
+                    <a href="http://passport.1905.com/v2/?m=user&a=login&callback_url=http%3A%2F%2Fwww.1905.com%2F"
+                       target="_blank" data-hrefexp="fr=homepc_menu_login">
+                        <i class="icon-home i-profile"></i><br/><span class="user-login-span">ç»å½</span>
+                    </a>
+                </div>
+                <div class="user-login-img">
+                    <!--user head img -->
+                </div>
+                <!--<div class="clear"></div>-->
+                <div class="user-login-plane">
+                    <i class="arrow-up login-plane-position"></i>
+                    <div class="login-plane-winterVip" id="loginPlaneWinterVip">
+                        <div class="plane-winterVip-infoBox">
+                            <p class="winterVip-infoBox-title"><i class="icon-home i-crown"></i></p>
+                            <p class="winterVip-infoBox-term">ä¼åæææï¼<span></span></p>
+                            <p><a href="http://pay.m1905.com/Gateway/month/number/3/" target="_blank"><button type="button" class="login-renewal-btn">ç»­è´¹</button></a></p>
+                        </div>
+                        <span class="loginOutBtn">éåº</span>
+                    </div>
+                    <div class="login-plane-winterUnvip" id="loginPlaneWinterUnvip">
+                        <div class="plane-winterVip-infoBox">
+                            <p class="winterVip-infoBox-title"><i class="icon-home i-crownGray"></i></p>
+                            <p>ç«å³å¼éVIP å¤§çéæç</p>
+                            <p>
+                                <a href="http://vip.1905.com/privilege/index" target="_blank">
+                                    <button type="button" class="login-renewal-btn">å¼é</button>
+                                </a>
+                            </p>
+                        </div>
+                        <span class="loginOutBtn">éåº</span>
+                    </div>
+                </div>
+            </div>
+            <div class="bar-user-history">
+                <i class="icon-home i-history"></i><br/><span class="user-history-span">è§çè®°å½</span>
+
+                <div class="user-history-plane">
+                    <i class="arrow-up history-plane-position"></i>
+                    <ul class="history-plane-list">
+                    </ul>
+                    <div class="history-plane-empty" id="historyPlaneUnlogin">
+                        <i class="icon-home i-history-empty"></i>
+
+                        <p>è¯·ç»å½æ¥çæ¨çè§å½±è®°å½</p>
+                        <a href="http://passport.1905.com/v2/?m=user&a=login&callback_url=http%3A%2F%2Fwww.1905.com%2F"
+                           target="_blank" >
+                            <button type="button" class="history-empty-login">ç»å½</button>
+                        </a>
+                        <a href="http://passport.1905.com/v2/?m=user&a=login&callback_url=http%3A%2F%2Fwww.1905.com%2F"
+                           target="_blank">
+                            <button type="button" class="history-empty-reg">åè´¹æ³¨å</button>
+                        </a>
+                    </div>
+                    <div class="history-plane-empty" id="historyPlaneEmpty">
+                        <i class="icon-home i-history-empty"></i>
+
+                        <p>æè¿æ¨è¿æ²¡æä»»ä½è§å½±è®°å½</p>
+                    </div>
+                </div>
+            </div>
+            <div class="bar-user-phone">
+                <a href="http://www.1905.com/app/" target="_blank"><i class="icon-home i-phone"></i><br /><span class="user-history-span">ç§»å¨ç«¯</span></a>
+                <div class="user-phone-plane">
+                    <i class="arrow-up phone-plane-position"></i>
+                    <img src="http://static.m1905.cn/css/homepage/img/erweima.png" width="117" height="117" style="margin-top:42px;" />
+                    <p style="font-size:17px; color:#000;margin-top: 18px;margin-bottom: 10px;">æ«æä¸è½½å®¢æ·ç«¯</p>
+                    <p style="font-size:14px; color:#666;padding: 0px;">æ´å¤å¥½çµå½± ææºéæ¶ç</p>
+                </div>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>
+
+<!--è§é¢-->
+<div class="playerBox">
+<!-- æ­æ¾å¨å³ä¾§å¼å§ -->
+    <div class="playerBox-player">
+        <div class="player-wrapper">
+            <div id="videoPlayer" class="player-media"></div>
+            <div class="player-side">
+                <div class="player-side-wrapper">
+                    <!--<h2 class="player-side-title"></h2>-->
+                                        <div class="player-related">
+                        <h2 class="related-title">å³èå½±ç</h2>
+                        <div class="related-movie picHover"><a href="http://www.1905.com/mdb/film/2248916/" title="çç±ç¾åç¾" target="_blank" data-hrefexp="fr=pplay_glyp"><img src="http://image11.m1905.cn/mdb/uploadfile/2019/0507/thumb_1_208_286_20190507085216790367.jpeg" alt="çç±ç¾åç¾" class="related-pic"/></a>
+                            <div class="related-info">
+                                <a class="related-infoTitle" title="çç±ç¾åç¾" href="http://www.1905.com/mdb/film/2248916/" target="_blank" data-hrefexp="fr=pplay_glyp">çç±ç¾åç¾</a>
+                                                                <div class="related-item">
+                                	<span class="related-itemTitle">ç±»åï¼</span>
+                                	                                                                            		<a class="related-itemInfo" href="http://www.1905.com/mdb/film/list/mtype-25" title="åå§" target="_blank" data-hrefexp="fr=pplay_glyp">åå§</a>
+                                                                            	                                                                            		<a class="related-itemInfo" href="http://www.1905.com/mdb/film/list/mtype-1" title="ç±æ" target="_blank" data-hrefexp="fr=pplay_glyp">ç±æ</a>
+                                                                            	                                </div>
+                                                                                                <div class="related-item">
+                                	<span class="related-itemTitle">å¯¼æ¼ï¼</span>
+                                	<a class="related-itemInfo" title="å¼å°åÂ·ææ³¢æ¯ç§" href="http://www.1905.com/mdb/star/1196908/" target="_blank" data-hrefexp="fr=pplay_glyp">å¼å°åÂ·ææ³¢æ¯ç§</a>
+                                </div>
+                                                                                                <div class="related-item">
+                                	<span class="related-itemTitle">ä¸»æ¼ï¼</span>
+                                	<a class="related-itemInfo" title="å¼å°åÂ·ææ³¢æ¯ç§" href="http://www.1905.com/mdb/star/1196908/" target="_blank" data-hrefexp="fr=pplay_glyp">å¼å°åÂ·ææ³¢æ¯ç§</a>
+                                </div>
+                                                                <a class="related-more" href="http://www.1905.com/mdb/film/2248916/" target="_blank" data-hrefexp="fr=pplay_glyp">è¯¦æ</a>
+                            </div>
+                        </div>
+                    </div>
+                                                <div class="scroll-title">å¨é¨é¢åç</div>
+                                        <div id="sideScroll" class="player-side-scroll">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<!-- æ­æ¾å¨å³ä¾§ç»æ -->
+    <div class="playerBox-info">
+        <!-- å·¦ä¾§å½±çä¿¡æ¯ -->
+        <div class="playerBox-info-leftPart">
+            <!--ç®ä»-->
+                        <!--é¢å-->
+            <div class="playerBox-info-preTitle">
+                <h1 class="playerBox-info-name">ãçç±ç¾åç¾ãâè°è¨ä¸çç±âçç»æé¢åç</h1>
+            </div>
+                    </div>
+        <!-- å³ä¾§åäº«ä¿¡æ¯ -->
+        <div class="playerBox-info-rightPart">
+            <ul>
+                <li id="playerBox-info-share">
+                    <div class="playerBox-info-icon" id="playerBox-info-share-A">
+                        <span class="icon-player i-share"></span>
+                    </div>
+                    <div class="playerBox-info-word">åäº«</div>
+                </li>
+                <li id="playerBox-info-mobile">
+                    <div class="playerBox-info-icon">
+                        <span class="icon-player i-mobilephone"></span>
+                    </div>
+                    <div class="playerBox-info-word">
+                        APPçæ´å¤
+                        <!-- æ°ç -->
+                        <div class="pop-box clearFloat">
+                            <div class="pop-close"></div>
+                            <h6>æ«äºç»´ç ä¸è½½APPè§ç</h6>
+                            <div id="2dcodeAPP" class="video-2dcode">
+                                <img src="http://static.m1905.cn/css/img/code-download.gif" alt="ä¸è½½äºç»´ç ">
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li id="playerBox-info-times">
+                    <div class="playerBox-info-icon" id="playTimes"></div>
+                    <div class="playerBox-info-word">æ­æ¾æ°</div>
+                </li>
+                <div class="clear"></div>
+            </ul>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <!--<div id="ad-player" class="ad ad-player" data-size="">
+        <img src="img/l-ad02.jpg">
+    </div>-->
+</div>
+<!--ç­è§é¢åå®¹åº-->
+<div class="shortVideo clearfix">
+    <div class="shortVideo-left content-best fl">
+    	<div class="shortVideo-left-top">
+    <h2 class="left-top-paper">ç­æ­é¢åç</h2>
+    <div class="left-top-conts">
+        <div class="top-conts-list">
+            <ul class="conts-list-items">
+            	                	                    <li class="list-items-li">
+                        <div class="items-li-wrap">
+                            <a target="_blank" href="http://www.1905.com/video/play/1375465.shtml" title="ãä¸ä¸ªæ¯äº²çå¤ä»ãé«è½å¤ä»çæ®µ" data-hrefexp="fr=pplay_rbygp">
+                                <img src="http://image11.m1905.cn/uploadfile/2019/0515/thumb_1_205_112_20190515083757702861.jpg" alt="ãä¸ä¸ªæ¯äº²çå¤ä»ãé«è½å¤ä»çæ®µ">
+                            </a>
+                            <div class="li-wrap-info">
+                                <span>02:05</span>
+                            </div>
+                        </div>
+                        <div class="items-li-name"><a href="http://www.1905.com/video/play/1375465.shtml" title="ãä¸ä¸ªæ¯äº²çå¤ä»ãé«è½å¤ä»çæ®µ" target="_blank"  data-hrefexp="fr=pplay_rbygp">ãä¸ä¸ªæ¯äº²çå¤ä»ãé«è½å¤ä»çæ®µ</a></div>
+                    </li>
+                                        <li class="list-items-li">
+                        <div class="items-li-wrap">
+                            <a target="_blank" href="http://www.1905.com/video/play/1375467.shtml" title="ãææªå¥å¦å¤ãç»æé¢å" data-hrefexp="fr=pplay_rbygp">
+                                <img src="http://image14.m1905.cn/uploadfile/2019/0515/thumb_1_205_112_20190515084132402835.jpg" alt="ãææªå¥å¦å¤ãç»æé¢å">
+                            </a>
+                            <div class="li-wrap-info">
+                                <span>01:15</span>
+                            </div>
+                        </div>
+                        <div class="items-li-name"><a href="http://www.1905.com/video/play/1375467.shtml" title="ãææªå¥å¦å¤ãç»æé¢å" target="_blank"  data-hrefexp="fr=pplay_rbygp">ãææªå¥å¦å¤ãç»æé¢å</a></div>
+                    </li>
+                                        <li class="list-items-li">
+                        <div class="items-li-wrap">
+                            <a target="_blank" href="http://www.1905.com/video/play/1375536.shtml" title="ãä¼é¹å¬è·¯ãâä¼é¹åºæ²¡âçæ®µ" data-hrefexp="fr=pplay_rbygp">
+                                <img src="http://image13.m1905.cn/uploadfile/2019/0515/thumb_1_205_112_20190515103951215293.jpg" alt="ãä¼é¹å¬è·¯ãâä¼é¹åºæ²¡âçæ®µ">
+                            </a>
+                            <div class="li-wrap-info">
+                                <span>01:00</span>
+                            </div>
+                        </div>
+                        <div class="items-li-name"><a href="http://www.1905.com/video/play/1375536.shtml" title="ãä¼é¹å¬è·¯ãâä¼é¹åºæ²¡âçæ®µ" target="_blank"  data-hrefexp="fr=pplay_rbygp">ãä¼é¹å¬è·¯ãâä¼é¹åºæ²¡âçæ®µ</a></div>
+                    </li>
+                                        <li class="list-items-li">
+                        <div class="items-li-wrap">
+                            <a target="_blank" href="http://www.1905.com/video/play/1375894.shtml" title="ãä¸æ¡ççä½¿å½2ãç»æé¢å" data-hrefexp="fr=pplay_rbygp">
+                                <img src="http://image14.m1905.cn/uploadfile/2019/0516/thumb_1_205_112_20190516085506518848.jpg" alt="ãä¸æ¡ççä½¿å½2ãç»æé¢å">
+                            </a>
+                            <div class="li-wrap-info">
+                                <span>01:42</span>
+                            </div>
+                        </div>
+                        <div class="items-li-name"><a href="http://www.1905.com/video/play/1375894.shtml" title="ãä¸æ¡ççä½¿å½2ãç»æé¢å" target="_blank"  data-hrefexp="fr=pplay_rbygp">ãä¸æ¡ççä½¿å½2ãç»æé¢å</a></div>
+                    </li>
+                                        <li class="list-items-li">
+                        <div class="items-li-wrap">
+                            <a target="_blank" href="http://www.1905.com/video/play/1376238.shtml" title="ãå°å¹´çä½ ãåå¯¼é¢å å¨å¬é¨æçåçºå±ç°å°å¹´åé" data-hrefexp="fr=pplay_rbygp">
+                                <img src="http://image13.m1905.cn/uploadfile/2019/0517/thumb_1_205_112_20190517093035768836.jpg" alt="ãå°å¹´çä½ ãåå¯¼é¢å å¨å¬é¨æçåçºå±ç°å°å¹´åé">
+                            </a>
+                            <div class="li-wrap-info">
+                                <span>00:51</span>
+                            </div>
+                        </div>
+                        <div class="items-li-name"><a href="http://www.1905.com/video/play/1376238.shtml" title="ãå°å¹´çä½ ãåå¯¼é¢å å¨å¬é¨æçåçºå±ç°å°å¹´åé" target="_blank"  data-hrefexp="fr=pplay_rbygp">ãå°å¹´çä½ ãåå¯¼é¢å å¨å¬é¨æçåçºå±ç°å°å¹´å...</a></div>
+                    </li>
+                                        <li class="list-items-li">
+                        <div class="items-li-wrap">
+                            <a target="_blank" href="http://www.1905.com/video/play/1375482.shtml" title="ãèèä¾ ï¼è±éè¿å¾ãæ¶é¸¦æç»ç¹è¾" data-hrefexp="fr=pplay_rbygp">
+                                <img src="http://image13.m1905.cn/uploadfile/2019/0515/thumb_1_205_112_20190515090736178123.jpg" alt="ãèèä¾ ï¼è±éè¿å¾ãæ¶é¸¦æç»ç¹è¾">
+                            </a>
+                            <div class="li-wrap-info">
+                                <span>01:11</span>
+                            </div>
+                        </div>
+                        <div class="items-li-name"><a href="http://www.1905.com/video/play/1375482.shtml" title="ãèèä¾ ï¼è±éè¿å¾ãæ¶é¸¦æç»ç¹è¾" target="_blank"  data-hrefexp="fr=pplay_rbygp">ãèèä¾ ï¼è±éè¿å¾ãæ¶é¸¦æç»ç¹è¾</a></div>
+                    </li>
+                                        <li class="list-items-li">
+                        <div class="items-li-wrap">
+                            <a target="_blank" href="http://www.1905.com/video/play/1376244.shtml" title="ç®¡èãå«ä½°ãæâå¤§å¶ä½âé¢å" data-hrefexp="fr=pplay_rbygp">
+                                <img src="http://image14.m1905.cn/uploadfile/2019/0517/thumb_1_205_112_20190517095009308200.jpg" alt="ç®¡èãå«ä½°ãæâå¤§å¶ä½âé¢å">
+                            </a>
+                            <div class="li-wrap-info">
+                                <span>02:19</span>
+                            </div>
+                        </div>
+                        <div class="items-li-name"><a href="http://www.1905.com/video/play/1376244.shtml" title="ç®¡èãå«ä½°ãæâå¤§å¶ä½âé¢å" target="_blank"  data-hrefexp="fr=pplay_rbygp">ç®¡èãå«ä½°ãæâå¤§å¶ä½âé¢å</a></div>
+                    </li>
+                                        <li class="list-items-li">
+                        <div class="items-li-wrap">
+                            <a target="_blank" href="http://www.1905.com/video/play/1375194.shtml" title="ãåå¦Aæ¢¦ï¼å¤§éçæçæ¢é©è®°ãç¼å§ç¹è¾" data-hrefexp="fr=pplay_rbygp">
+                                <img src="http://image14.m1905.cn/uploadfile/2019/0514/thumb_1_205_112_20190514092023479501.jpg" alt="ãåå¦Aæ¢¦ï¼å¤§éçæçæ¢é©è®°ãç¼å§ç¹è¾">
+                            </a>
+                            <div class="li-wrap-info">
+                                <span>00:31</span>
+                            </div>
+                        </div>
+                        <div class="items-li-name"><a href="http://www.1905.com/video/play/1375194.shtml" title="ãåå¦Aæ¢¦ï¼å¤§éçæçæ¢é©è®°ãç¼å§ç¹è¾" target="_blank"  data-hrefexp="fr=pplay_rbygp">ãåå¦Aæ¢¦ï¼å¤§éçæçæ¢é©è®°ãç¼å§ç¹è¾</a></div>
+                    </li>
+                                        <li class="list-items-li">
+                        <div class="items-li-wrap">
+                            <a target="_blank" href="http://www.1905.com/video/play/1376252.shtml" title="ãå¤§ä¾¦æ¢ç®å¡ä¸ãâèå¨å¨å½âç¹è¾" data-hrefexp="fr=pplay_rbygp">
+                                <img src="http://image13.m1905.cn/uploadfile/2019/0517/thumb_1_205_112_20190517091545401424.jpg" alt="ãå¤§ä¾¦æ¢ç®å¡ä¸ãâèå¨å¨å½âç¹è¾">
+                            </a>
+                            <div class="li-wrap-info">
+                                <span>02:04</span>
+                            </div>
+                        </div>
+                        <div class="items-li-name"><a href="http://www.1905.com/video/play/1376252.shtml" title="ãå¤§ä¾¦æ¢ç®å¡ä¸ãâèå¨å¨å½âç¹è¾" target="_blank"  data-hrefexp="fr=pplay_rbygp">ãå¤§ä¾¦æ¢ç®å¡ä¸ãâèå¨å¨å½âç¹è¾</a></div>
+                    </li>
+                                        <li class="list-items-li">
+                        <div class="items-li-wrap">
+                            <a target="_blank" href="http://www.1905.com/video/play/1375474.shtml" title="ãç»ææå°¼é»ãæâå¨åä»¥èµ´âçé¢å" data-hrefexp="fr=pplay_rbygp">
+                                <img src="http://image13.m1905.cn/uploadfile/2019/0515/thumb_1_205_112_20190515092131218852.jpg" alt="ãç»ææå°¼é»ãæâå¨åä»¥èµ´âçé¢å">
+                            </a>
+                            <div class="li-wrap-info">
+                                <span>01:55</span>
+                            </div>
+                        </div>
+                        <div class="items-li-name"><a href="http://www.1905.com/video/play/1375474.shtml" title="ãç»ææå°¼é»ãæâå¨åä»¥èµ´âçé¢å" target="_blank"  data-hrefexp="fr=pplay_rbygp">ãç»ææå°¼é»ãæâå¨åä»¥èµ´âçé¢å</a></div>
+                    </li>
+                                        <li class="list-items-li">
+                        <div class="items-li-wrap">
+                            <a target="_blank" href="http://www.1905.com/video/play/1375470.shtml" title="ãå¤§ä¾¦æ¢ç®å¡ä¸ãâä¼ææCallâå£ç¢ç¹è¾" data-hrefexp="fr=pplay_rbygp">
+                                <img src="http://image14.m1905.cn/uploadfile/2019/0515/thumb_1_205_112_20190515084420533358.jpg" alt="ãå¤§ä¾¦æ¢ç®å¡ä¸ãâä¼ææCallâå£ç¢ç¹è¾">
+                            </a>
+                            <div class="li-wrap-info">
+                                <span>01:47</span>
+                            </div>
+                        </div>
+                        <div class="items-li-name"><a href="http://www.1905.com/video/play/1375470.shtml" title="ãå¤§ä¾¦æ¢ç®å¡ä¸ãâä¼ææCallâå£ç¢ç¹è¾" target="_blank"  data-hrefexp="fr=pplay_rbygp">ãå¤§ä¾¦æ¢ç®å¡ä¸ãâä¼ææCallâå£ç¢ç¹è¾</a></div>
+                    </li>
+                                        <li class="list-items-li">
+                        <div class="items-li-wrap">
+                            <a target="_blank" href="http://www.1905.com/video/play/1375914.shtml" title="ãå¥æ¯æ2ï¼æªå½ä¹çãæâåéäºé¸âçé¢åç" data-hrefexp="fr=pplay_rbygp">
+                                <img src="http://image11.m1905.cn/uploadfile/2019/0516/thumb_1_205_112_20190516093859505151.jpg" alt="ãå¥æ¯æ2ï¼æªå½ä¹çãæâåéäºé¸âçé¢åç">
+                            </a>
+                            <div class="li-wrap-info">
+                                <span>00:30</span>
+                            </div>
+                        </div>
+                        <div class="items-li-name"><a href="http://www.1905.com/video/play/1375914.shtml" title="ãå¥æ¯æ2ï¼æªå½ä¹çãæâåéäºé¸âçé¢åç" target="_blank"  data-hrefexp="fr=pplay_rbygp">ãå¥æ¯æ2ï¼æªå½ä¹çãæâåéäºé¸âçé¢åç</a></div>
+                    </li>
+                                        <li class="list-items-li">
+                        <div class="items-li-wrap">
+                            <a target="_blank" href="http://www.1905.com/video/play/1375288.shtml" title="ãæ¤æçå°é¸2ãâä¸éä¹å®¢âæ¢åçæ®µ" data-hrefexp="fr=pplay_rbygp">
+                                <img src="http://image14.m1905.cn/uploadfile/2019/0514/thumb_1_205_112_20190514112439398290.jpg" alt="ãæ¤æçå°é¸2ãâä¸éä¹å®¢âæ¢åçæ®µ">
+                            </a>
+                            <div class="li-wrap-info">
+                                <span>01:01</span>
+                            </div>
+                        </div>
+                        <div class="items-li-name"><a href="http://www.1905.com/video/play/1375288.shtml" title="ãæ¤æçå°é¸2ãâä¸éä¹å®¢âæ¢åçæ®µ" target="_blank"  data-hrefexp="fr=pplay_rbygp">ãæ¤æçå°é¸2ãâä¸éä¹å®¢âæ¢åçæ®µ</a></div>
+                    </li>
+                                        <li class="list-items-li">
+                        <div class="items-li-wrap">
+                            <a target="_blank" href="http://www.1905.com/video/play/1375133.shtml" title="ãé¾ç è¶ï¼å¸ç½å©ãæâæå¼ºvsæå¼ºâé¢å" data-hrefexp="fr=pplay_rbygp">
+                                <img src="http://image13.m1905.cn/uploadfile/2019/0513/thumb_1_205_112_20190513081905521747.jpg" alt="ãé¾ç è¶ï¼å¸ç½å©ãæâæå¼ºvsæå¼ºâé¢å">
+                            </a>
+                            <div class="li-wrap-info">
+                                <span>01:30</span>
+                            </div>
+                        </div>
+                        <div class="items-li-name"><a href="http://www.1905.com/video/play/1375133.shtml" title="ãé¾ç è¶ï¼å¸ç½å©ãæâæå¼ºvsæå¼ºâé¢å" target="_blank"  data-hrefexp="fr=pplay_rbygp">ãé¾ç è¶ï¼å¸ç½å©ãæâæå¼ºvsæå¼ºâé¢å</a></div>
+                    </li>
+                                        <li class="list-items-li">
+                        <div class="items-li-wrap">
+                            <a target="_blank" href="http://www.1905.com/video/play/1376269.shtml" title="ãåçãâé»åâç¹è¾" data-hrefexp="fr=pplay_rbygp">
+                                <img src="http://image14.m1905.cn/uploadfile/2019/0517/thumb_1_205_112_20190517095342574641.jpg" alt="ãåçãâé»åâç¹è¾">
+                            </a>
+                            <div class="li-wrap-info">
+                                <span>03:34</span>
+                            </div>
+                        </div>
+                        <div class="items-li-name"><a href="http://www.1905.com/video/play/1376269.shtml" title="ãåçãâé»åâç¹è¾" target="_blank"  data-hrefexp="fr=pplay_rbygp">ãåçãâé»åâç¹è¾</a></div>
+                    </li>
+                                        <li class="list-items-li">
+                        <div class="items-li-wrap">
+                            <a target="_blank" href="http://www.1905.com/video/play/1376377.shtml" title="ãå¤©ä½¿é·è½ãé¦æé¢åç" data-hrefexp="fr=pplay_rbygp">
+                                <img src="http://image13.m1905.cn/uploadfile/2019/0517/thumb_1_205_112_20190517014833906000.jpg" alt="ãå¤©ä½¿é·è½ãé¦æé¢åç">
+                            </a>
+                            <div class="li-wrap-info">
+                                <span>02:30</span>
+                            </div>
+                        </div>
+                        <div class="items-li-name"><a href="http://www.1905.com/video/play/1376377.shtml" title="ãå¤©ä½¿é·è½ãé¦æé¢åç" target="_blank"  data-hrefexp="fr=pplay_rbygp">ãå¤©ä½¿é·è½ãé¦æé¢åç</a></div>
+                    </li>
+                                        <li class="list-items-li">
+                        <div class="items-li-wrap">
+                            <a target="_blank" href="http://www.1905.com/video/play/1375185.shtml" title="ãæ²ç¡é­å2ãé¦æ¯ä¸­æé¢åç" data-hrefexp="fr=pplay_rbygp">
+                                <img src="http://image13.m1905.cn/uploadfile/2019/0514/thumb_1_205_112_20190514090049625402.jpg" alt="ãæ²ç¡é­å2ãé¦æ¯ä¸­æé¢åç">
+                            </a>
+                            <div class="li-wrap-info">
+                                <span>01:25</span>
+                            </div>
+                        </div>
+                        <div class="items-li-name"><a href="http://www.1905.com/video/play/1375185.shtml" title="ãæ²ç¡é­å2ãé¦æ¯ä¸­æé¢åç" target="_blank"  data-hrefexp="fr=pplay_rbygp">ãæ²ç¡é­å2ãé¦æ¯ä¸­æé¢åç</a></div>
+                    </li>
+                                        <li class="list-items-li">
+                        <div class="items-li-wrap">
+                            <a target="_blank" href="http://www.1905.com/video/play/1375886.shtml" title="ãå¤§ä¾¦æ¢ç®å¡ä¸ãâä½³é³ç»æ¢âè·¯æ¼ç¹è¾" data-hrefexp="fr=pplay_rbygp">
+                                <img src="http://image13.m1905.cn/uploadfile/2019/0516/thumb_1_205_112_20190516084236922496.jpg" alt="ãå¤§ä¾¦æ¢ç®å¡ä¸ãâä½³é³ç»æ¢âè·¯æ¼ç¹è¾">
+                            </a>
+                            <div class="li-wrap-info">
+                                <span>00:58</span>
+                            </div>
+                        </div>
+                        <div class="items-li-name"><a href="http://www.1905.com/video/play/1375886.shtml" title="ãå¤§ä¾¦æ¢ç®å¡ä¸ãâä½³é³ç»æ¢âè·¯æ¼ç¹è¾" target="_blank"  data-hrefexp="fr=pplay_rbygp">ãå¤§ä¾¦æ¢ç®å¡ä¸ãâä½³é³ç»æ¢âè·¯æ¼ç¹è¾</a></div>
+                    </li>
+                                        <li class="list-items-li">
+                        <div class="items-li-wrap">
+                            <a target="_blank" href="http://www.1905.com/video/play/1376245.shtml" title="ãä¸ä¸ªæ¯äº²çå¤ä»ãéæ¼âéæªâçæ®µ" data-hrefexp="fr=pplay_rbygp">
+                                <img src="http://image13.m1905.cn/uploadfile/2019/0517/thumb_1_205_112_20190517090837377633.jpg" alt="ãä¸ä¸ªæ¯äº²çå¤ä»ãéæ¼âéæªâçæ®µ">
+                            </a>
+                            <div class="li-wrap-info">
+                                <span>02:41</span>
+                            </div>
+                        </div>
+                        <div class="items-li-name"><a href="http://www.1905.com/video/play/1376245.shtml" title="ãä¸ä¸ªæ¯äº²çå¤ä»ãéæ¼âéæªâçæ®µ" target="_blank"  data-hrefexp="fr=pplay_rbygp">ãä¸ä¸ªæ¯äº²çå¤ä»ãéæ¼âéæªâçæ®µ</a></div>
+                    </li>
+                                        <li class="list-items-li">
+                        <div class="items-li-wrap">
+                            <a target="_blank" href="http://www.1905.com/video/play/1376258.shtml" title="ãé»åº§çæªåå­¦ãâæªåæ¬¢ä½ âç»æé¢å" data-hrefexp="fr=pplay_rbygp">
+                                <img src="http://image11.m1905.cn/uploadfile/2019/0517/thumb_1_205_112_20190517093533540054.jpg" alt="ãé»åº§çæªåå­¦ãâæªåæ¬¢ä½ âç»æé¢å">
+                            </a>
+                            <div class="li-wrap-info">
+                                <span>01:35</span>
+                            </div>
+                        </div>
+                        <div class="items-li-name"><a href="http://www.1905.com/video/play/1376258.shtml" title="ãé»åº§çæªåå­¦ãâæªåæ¬¢ä½ âç»æé¢å" target="_blank"  data-hrefexp="fr=pplay_rbygp">ãé»åº§çæªåå­¦ãâæªåæ¬¢ä½ âç»æé¢å</a></div>
+                    </li>
+                                                </ul>
+            <a href="javascript: void(0);" class="same-itemList-prev" style="display: none;"><i
+                    class="icon-page i-left"></i></a>
+            <a href="javascript: void(0);" class="same-itemList-next disabled_drag" style="display: block;"><i
+                    class="icon-page i-right"></i></a>
+        </div>
+    </div>
+</div>
+
+        <!--çè¨-->
+        <div id="commentBox"></div>
+    </div>
+    <div class="shortVideo-rightConts fr">
+    <!-- ç­è§é¢-é¢åç -->
+            	<div id="adjs_1199" class="ad"></div>
+            </div>
+</div>
+<script>
+    var COMMENT_CONFIG = {
+        type: "changyan",
+        divID: "commentBox",
+        CHANGYAN_CONFIG: {
+            SourceID: "140000001376830"
+        }
+    }
+</script>
+<!-- footer -->
+<footer class="footer commonWidth">
+    <div class="footer-inner">
+        <h3 class="icon-home footer-inner-logo"></h3>
+        <p class="footer-inner-links">
+            <a href="http://www.1905.com/about/aboutus/" target="_blank" data-hrefexp="fr=homepc_bottom">å³äºæä»¬</a><span>|</span>
+            <a href="http://www.1905.com/sitemap.html" target="_blank" data-hrefexp="fr=homepc_bottom">ç½ç«å°å¾</a><span>|</span>
+            <a href="http://www.1905.com/jobs/" target="_blank" data-hrefexp="fr=homepc_bottom">è¯èè±æ</a><span>|</span>
+            <a href="http://www.1905.com/about/copyright/" target="_blank" data-hrefexp="fr=homepc_bottom">çæå£°æ</a><span>|</span>
+            <a href="http://www.1905.com/about/contactus/" target="_blank" data-hrefexp="fr=homepc_bottom">èç³»æä»¬</a><span>|</span>
+            <a href="http://www.1905.com/error_report/error_report-p-pid-125-cid-126-tid-128.html" target="_blank" data-hrefexp="fr=homepc_bottom">å¸®å©ä¸åé¦</a><span>|</span>
+            <a href="http://www.1905.com/link/" target="_blank" data-hrefexp="fr=homepc_bottom">åæé¾æ¥</a><span>|</span>
+            <a href="http://www.1905.com/cctv6/advertise/" target="_blank" data-hrefexp="fr=homepc_bottom">CCTV6å¹¿åæå</a><!--<span>|</span>
+            <a href="javascript:void(0)">åä½åªä½</a>-->
+        </p>
+        <div class="footer-inner-bottom">
+            <a href="http://www.1905.com/about/licence/" target="_blank" data-hrefexp="fr=homepc_bottom">ç½ç»è§å¬è®¸å¯è¯0107199å·</a>
+            <a href="http://www.1905.com/about/culture/" target="_blank" data-hrefexp="fr=homepc_bottom">äº¬ç½æ[2016]6480-878å·</a>
+            <a href="http://www.1905.com/about/cbwjyxkz/" target="_blank" data-hrefexp="fr=homepc_bottom">åºçç©ç»è¥è®¸å¯è¯</a>
+            <a href="http://www.1905.com/about/dyfxjyxkz/" target="_blank" data-hrefexp="fr=homepc_bottom">çµå½±åè¡è®¸å¯è¯</a>
+            <a href="http://www.1905.com/about/jyxyc/" target="_blank" data-hrefexp="fr=homepc_bottom">è¥ä¸æ§æ¼åºè®¸å¯è¯</a><br>
+            <a href="http://www.1905.com/about/beian/" target="_blank" data-hrefexp="fr=homepc_bottom">ä¼ä¸æ³äººè¥ä¸æ§ç§</a>
+            <a href="http://www.1905.com/about/zzdxyw/" target="_blank" data-hrefexp="fr=homepc_bottom">å¢å¼çµä¿¡ä¸å¡ç»è¥è®¸å¯è¯</a>
+            <a href="javascript:void(0)">äº¬ICPå¤12022675å·-3</a>
+            <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000300" target="_blank" data-hrefexp="fr=homepc_bottom">äº¬å¬ç½å®å¤ 11010202000300å·</a>
+        </div>
+    </div>
+</footer>
+<!-- çæ -->
+<div class="copy-right commonWidth">
+    <div class="copy-right-conts clearfix">
+        <div class="right-conts-left fl">
+            <span>CopyRight Â© 2017</span>
+            <em>çµå½±å«æé¢éèç®ä¸­å¿å®æ¹ç½ç«</em><em class="conts-left-margin">|</em>
+            <em>
+                <a href="http://www.1905.com/about/icp/" target="_blank" data-hrefexp="fr=homepc_bottom">äº¬ICPè¯100935</a>
+            </em>
+        </div>
+    </div>
+</div>
+<script language="JavaScript" src="http://counter.m1905.com/count.php?contentid=1376830"></script>
+<!--ç»è®¡ä»£ç -->
+<script type="text/javascript" src="http://js.static.m1905.cn/pingd.js?v=1"></script>
+<script>
+var beginTime = +new Date,
+referer = document.referrer || '',
+VIDEOCONFIG = {
+url: 'http://www.1905.com/video/play/',
+vid: "1376830",
+title : "ãçç±ç¾åç¾ãâè°è¨ä¸çç±âçç»æé¢åç",
+thumb : "http://image14.m1905.cn/uploadfile/2019/0520/20190520091857109419.jpg",
+duration : "110",
+vtag: "çç±ç¾åç¾",
+vtags: "çç±ç¾åç¾,é¢åç",
+catid: "158",
+hits: "1ä¸",
+play_like : "0",
+play_notlike : "0",
+videosource:"1905",
+flash:"",
+hzh5url:"",
+apikey : "8d811ae63f6a0f0356ac3763180c9083",
+    version : "v2.0"
+}
+</script>
+</body>
+</html>
+

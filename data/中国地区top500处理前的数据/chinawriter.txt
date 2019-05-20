@@ -1,0 +1,742 @@
+<!DOCTYPE html>  
+<!--[if IE 9]><html class="ie ie9 lt10"><![endif]-->
+<!--[if (gt IE 9) | !(IE)]><!-->
+<html>
+<!--<![endif]-->
+<head>
+<meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+<meta charset="utf-8"> 
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no" /> 
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+<link rel="icon" href="/img/MAIN/2018/04/118229/img/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/img/MAIN/2018/04/118229/img/favicon.ico" type="image/x-icon">
+<meta name="format-detection" content="telephone=no"/>
+<meta name="format-detection" content="email=no"/>
+<meta name="HandheldFriendly" content="true">
+<!--æµè§å¨å¼ºå¶ç«å±-->
+<meta name="screen-orientation" content="portrait"/>
+<meta name="x5-orientation" content="portrait"/>
+<meta name="full-screen" content="yes"/>
+<meta name="x5-fullscreen" content="true"/>
+<meta name="browsermode" content="application"/>
+<meta name="x5-page-mode" content="app"/>
+<meta name="msapplication-tap-highlight" content="no"/>    
+<title>ä¸­å½ä½å®¶ç½</title>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta name="filetype" content="1" />
+<meta name="publishedtype" content="1" />
+<meta name="pagetype" content="2" />
+<meta name="catalogs" content="403928" />
+<link rel="stylesheet" href="/img/MAIN/2018/04/118229/css/animate.min.css"/>
+<link rel="stylesheet" href="/img/MAIN/2018/04/118229/css/swiper.min.css">
+<link rel="stylesheet" href="/img/MAIN/2018/04/118229/css/publicindex.css">
+<link rel="stylesheet" href="/img/MAIN/2018/04/118229/css/index.css"/>
+<script type="text/javascript" src="/img/MAIN/2018/04/118229/js/jquery-1.10.2.min.js"></script>  
+<script type="text/javascript" src="/img/MAIN/2018/04/118229/js/jquery.nicescroll.js"></script> 
+<script type="text/javascript" src="/img/MAIN/2018/04/118229/js/swiper.min.js"></script>
+<script type="text/javascript" src="/img/MAIN/2018/04/118229/js/web02.js"></script>
+<script type="text/javascript" src="/img/MAIN/2018/04/118229/js/wow.min.js" ></script>
+<script type="text/javascript" src="/img/MAIN/2018/04/118229/js/pgwmenu.min.js"></script>
+<script type="text/javascript" src="/img/MAIN/2018/04/118229/js/portamento.js"></script>
+<!--[if lt IE 9]>
+<script src="/img/MAIN/2018/04/118229/js/html5shiv.js"></script>
+<script src="/img/MAIN/2018/04/118229/js/respond.min.js"></script>
+<p class="browserupgrade">æ¨å¨ä½¿ç¨ä¸ä¸ª <strong>æ§çæ¬ç</strong> æµè§å¨ï¼è¯· <a href="https://support.microsoft.com/zh-cn#!/zh-cn" target="_blank">æ´æ°ä½ çæµè§å¨</a> æ¥æ´å¥½çä½éªæ¬ç½ç«ã</p>
+<![endif]--> 
+<style type="text/css">
+main{ width:1000px; margin:0 auto;}
+@media only screen and (max-width: 767px){
+	main{ width:100%;}
+}
+</style>
+</head>
+<body>
+
+
+<!--header begin-->
+<header class="header headerIndex">
+    <div class="inner clearfix">
+        <div class="header_bar clearfix">
+            <div class="oldLink"><a href="http://www.chinawriter.com.cn/index.shtml" target="_blank">[æ§çå¥å£]</a></div>
+            <div class="sousuo">					
+                <form action="http://search.chinawriter.com.cn/chinawriter/search.do" name="searchForm" method="post"  target="_blank">
+                <a href="http://vip.chinawriter.com.cn/" target="_blank">ç¨æ·ç»å½</a>
+                <div class="searchBox fr"><input type="text" name="keyword" id="keyword" class="text_01"><select name="searchField">
+                        <option value="content" selected>æåå®¹</option>
+                        <option value="title">ææ é¢</option>
+                        <option value="author">æä½è</option>
+                </select><input type="image" src="/img/MAIN/2018/04/118229/img/search.jpg" style="width:76px;height:36px;"></div>
+                <input type="hidden" name="pageNum" value="1" />
+                <input type="hidden" name="siteName" value="chinawriter" />
+                </form>
+            </div>
+        </div>
+        <h1 class="logo"><a href="http://www.chinawriter.com.cn/"><img src="/img/MAIN/2018/04/118229/img/logo.jpg"></a><b>ä¸­å½ä½å®¶åä¼ä¸»ç®¡</b></h1>
+    </div>
+</header>
+<!--nav begin-->
+<div class="inner clearfix">
+		<div class="nav indexNav">
+			<div class="daohang"><ul>
+<li>
+<a href="http://www.chinawriter.com.cn/403936/index.html" target=_blank><b>æºæ</b></a>
+<a href="http://www.chinawriter.com.cn/403937/index.html" target=_blank>æå¡</a>
+<a href="http://vip.chinawriter.com.cn/" target=_blank>ä¼å</a>
+<a href="http://www.chinawriter.com.cn/403973/index.html" target=_blank>æå­¦å¥é¡¹</a>
+</li>
+<li><a href="http://www.chinawriter.com.cn/403990/index.html" target=_blank><b>æ°é»</b></a>
+<a href="http://www.chinawriter.com.cn/403997/index.html" target=_blank>è®¿è°</a>
+<a href="http://www.chinawriter.com.cn/404087/index.html" target=_blank>ä¸é¢</a><a href="http://video.chinawriter.com.cn/" target=_blank>ç´æ­</a><a href="http://www.chinawriter.com.cn/404002/index.html" target=_blank>èºæ¯</a>
+</ul>
+<ul>
+<li>
+<a href="http://www.chinawriter.com.cn/404029/index.html" target=_blank><b>çè®ºè¯è®º</b></a>
+<a href="http://www.chinawriter.com.cn/404057/index.html" target=_blank>æå²</a>
+<a href="http://www.chinawriter.com.cn/404078/index.html" target=_blank>ç§å¹»</a>
+<a href="http://www.chinawriter.com.cn/404058/index.html" target=_blank>ä¹¦æ±</a>
+<a href="http://www.chinawriter.com.cn/404015/index.html" target=_blank>æ°ä½å</a>
+</li>
+<li>
+<a href="http://www.chinawriter.com.cn/404085/index.html" target=_blank><b>ä¸çæå</b></a>
+<a href="http://www.chinawriter.com.cn/404086/index.html" target=_blank>æ°ææèº</a>
+<a href="http://www.chinawriter.com.cn/404022/index.html" target=_blank>ç½ç»æå­¦</a>
+<a href="http://www.chinawriter.com.cn/404059/index.html" target=_blank>å¿ç«¥æå­¦</a>
+</li>
+</ul>
+<ul>
+<li>
+<a href="http://wyb.chinawriter.com.cn/" target=_blank><b>æèºæ¥</b></a>
+</li>
+<li>
+<a href="http://www.chinawriter.com.cn/404040/index.html" target=_blank><b>é²è¿æå­¦é¢</b></a>
+</li>
+</ul></div>
+			<a href="javascript:void(0);" class="menu_ico"><i></i><i></i><i></i></a>
+		</div>
+	</div>
+<!--main begin-->
+<main>
+    <div class="inner clearfix">
+        <div class="firstNews" >
+            <a href="http://www.chinawriter.com.cn/n1/2019/0520/c403991-31092527.html" target=_blank><img src="/NMediaFile/2019/0520/MAIN201905200910491441686804709.jpg" class="btimg" alt="ä¸­åå½åå°åãéç¥ãï¼å¹¿æ³ç»ç»å¼å±âæåæçç¥å½âç¾¤ä¼æ§ä¸»é¢å®£ä¼ æè²æ´»å¨"/><h1 class="bt01">ä¸­åå½åå°åãéç¥ãï¼å¹¿æ³ç»ç»å¼å±âæåæçç¥å½âç¾¤ä¼æ§ä¸»é¢å®£ä¼ æè²æ´»å¨</h1></a>
+
+            <p>
+<a href="http://www.chinawriter.com.cn/n1/2019/0516/c403994-31087927.html" target="_blank">[âæåæçç¥å½âå¾æå¾éæ´»å¨æ¶å°3.4ä¸ä½ä»½ä½å]</a>
+
+<a href="http://www.chinawriter.com.cn/n1/2019/0322/c419388-30989038.html" target="_blank">[çµå½±ãæåæçç¥å½ãå¯å¨]</a>
+
+
+
+</p>
+        </div>
+        <!--focus begin-->  
+        <div class="owl-carousel" id="focus"><div class="item"><a href="http://www.chinawriter.com.cn/n1/2019/0518/c403993-31091833.html" target=_blank><img src="/NMediaFile/2019/0520/MAIN201905200835411651856958477.jpg" width="640" height="405" alt="âæå­¦å©åææå¯¹è¯âåº§è°ä¼å¨äº¬å¬å¼"/><p class="focus_caption">âæå­¦å©åææå¯¹è¯âåº§è°ä¼å¨äº¬å¬å¼</p></a></div>
+<div class="item"><a href="http://www.chinawriter.com.cn/n1/2019/0516/c403991-31088151.html" target=_blank><img src="/NMediaFile/2019/0516/MAIN201905160933156273870760861.jpg" width="640" height="405" alt="ä¹ è¿å¹³åºå¸­äºæ´²ææå¯¹è¯å¤§ä¼å¼å¹å¼å¹¶åè¡¨ä¸»æ¨æ¼è®²"/><p class="focus_caption">ä¹ è¿å¹³åºå¸­äºæ´²ææå¯¹è¯å¤§ä¼å¼å¹å¼å¹¶åè¡¨ä¸»æ¨æ¼è®²</p></a></div>
+<div class="item"><a href="http://www.chinawriter.com.cn/n1/2019/0520/c403994-31093678.html" target=_blank><img src="/NMediaFile/2019/0520/MAIN201905201014330276241945638.jpg" width="640" height="405" alt="æ½èçæå­¦ç§å¯ï¼åä½çå¸¸é"/><p class="focus_caption">æ½èçæå­¦ç§å¯ï¼åä½çå¸¸é</p></a></div>
+<div class="item"><a href="http://www.chinawriter.com.cn/n1/2019/0517/c405057-31089318.html" target=_blank><img src="/NMediaFile/2019/0517/MAIN201905170920565734618807963.jpg" width="640" height="405" alt="è´¾æ¨æ¯ï¼ä¸ä¸ªæåºçæå­¦"/><p class="focus_caption">è´¾æ¨æ¯ï¼ä¸ä¸ªæåºçæå­¦</p></a></div>
+<div class="item"><a href="http://www.chinawriter.com.cn/n1/2019/0517/c405057-31089225.html" target=_blank><img src="/NMediaFile/2019/0517/MAIN201905170921554056609819363.jpg" width="640" height="405" alt="æ¯å°ï¼åå½±è¯æäºä¸ç§äººçéå¾·ï¼æ²ç"/><p class="focus_caption">æ¯å°ï¼åå½±è¯æäºä¸ç§äººçéå¾·ï¼æ²ç</p></a></div>
+</div>
+        <!--news_r begin-->
+        <div class="news_r">
+				<ul><li><a href='/n1/2019/0520/c403991-31092973.html' target=_blank>å±ååé äºæ´²ææåä¸çææçç¾å¥½æªæ¥</a></li>
+<li><a href='/n1/2019/0515/c403937-31084979.html' target=_blank>ç¬¬åå±èç¾æå­¦å¥åè¯ä½åç®å½å¬ç¤º</a></li>
+<li><a href='/n1/2019/0518/c403993-31091833.html' target=_blank>âæå­¦å©åææå¯¹è¯âåº§è°ä¼å¨äº¬å¬å¼</a></li>
+<li><a href='/n1/2019/0518/c403993-31091844.html' target=_blank>ä¸­å½ä½åä¸¾åæ°è¿äººåå¥èå¹è®­ç­</a></li>
+</ul>
+				<ul><li><a href='/n1/2019/0520/c403988-31094382.html' target=_blank>2019å¹´ä¼ç§ç½ç»æå­¦ååä½åæ¨ä»æ´»å¨å¯å¨</a></li>
+<li><a href='/n1/2019/0520/c403994-31092790.html' target=_blank>ãåäº¬æå­¦ã2018å¹´ä¼ç§ä½åæ­æ </a></li>
+<li><a href='/n1/2019/0520/c403994-31093833.html' target=_blank>ãå¤§æ¡¥ãï¼å±ç¤ºæ¸¯ç æ¾³å¤§æ¡¥å»ºè®¾åç¨</a></li>
+<li><a href='/n1/2019/0520/c405057-31092524.html' target=_blank>å¶è¾ï¼ä½å®¶è¦ææ¹æ¶ä»£æ´è¦è¶è¶æ¶ä»£</a></li>
+</ul>
+				<ul><li><a href='/n1/2019/0517/c403937-31090812.html' target=_blank>2019ä¸­å½ä½å®¶åä¼å®ç¹æ·±å¥çæ´»é¡¹ç®å¬å</a></li>
+<li><a href='/n1/2019/0517/c403937-31090890.html' target=_blank>2019å°æ°æ°ææå­¦éç¹ä½åæ¶æç¯ç®å¬å</a></li>
+<li><a href='/n1/2019/0517/c403937-31090894.html' target=_blank>2019å°æ°æ°ææå­¦è¯ä¸ï¼æ°è¯æ±ï¼æ¶æç¯ç®å¬å</a></li>
+</ul>
+			</div>
+    </div>
+    <div class="ad01 inner clearfix"><a href="http://www.chinawriter.com.cn/404087/404988/426807/index.html" target=_blank><img src="/NMediaFile/2019/0513/MAIN201905132147163546609698469.jpg" width="1000" height="100" border="0" alt="ç¬¬äºå±ä¸­å½ç½ç»æå­¦å¨"/></a>
+</div>
+    <div class="ad01sj inner clearfix"><a href="http://www.chinawriter.com.cn/404087/404988/426807/index.html" target=_blank><img src="/NMediaFile/2019/0513/MAIN201905132149189580769419049.jpg" width="640" height="150" border="0" alt="ç¬¬äºå±ä¸­å½ç½ç»æå­¦å¨"/></a>
+</div>
+    <!--xinwen_inner begin-->
+    <div class="inner xinwen_inner clearfix">
+        <div class="sz_news">
+				<h3 class="title_01"><span>æ°é»å¨æ</span> <a href="http://www.chinawriter.com.cn/403990/index.html" target="_blank" class="more_01"></a></h3>
+				<ul><li><a href='/n1/2019/0520/c403994-31093678.html' target=_blank><img alt="" desc="" src="/NMediaFile/2018/0410/MAIN201804101351233557121345097.png">æ½èçæå­¦ç§å¯ï¼åä½çå¸¸é</a></li>
+<li><a href='/n1/2019/0520/c403988-31093875.html' target=_blank>âæåæçç¥å½â¢æ°çæ¯ä¸ªå¥½å°æ¹âè¯æ­èå¾ç¨¿</a></li>
+<li><a href='/n1/2019/0520/c403994-31092633.html' target=_blank>ä¸­å½ä¹¦é¢å¦ä½å½±åäºæ´²ææ</a></li>
+<li><a href='/n1/2019/0520/c403994-31093318.html' target=_blank>æ±èå¸èå¤§å­¦ä¸¾åâå½éæå­¦å¨â</a></li>
+<li><a href='/n1/2019/0520/c403994-31092945.html' target=_blank>âä¸­å½å²è¯ä¼ ç»âå±å¨é¿ææ¨å¾å¼å¹</a></li>
+<li><a href='/n1/2019/0520/c403994-31093079.html' target=_blank>åºç¥ä¸æµ·è§£æ¾70å¨å¹´è¯æè¯µè¯»ä¼ä¸¾è¡</a></li>
+<li><a href='/n1/2019/0520/c403994-31093100.html' target=_blank>å²å­¦å®¶å¼ ä¸è±ï¼è¯ææ å±æ¯äººçæ´é«çè¿½æ±</a></li>
+<li><a href='/n1/2019/0520/c403994-31092991.html' target=_blank>è¿äºå¹´ï¼æä¸­å¤©ç»ååªäºååï¼</a></li>
+<li><a href='/n1/2019/0520/c403994-31093095.html' target=_blank>æ²³åçä½åå¬çè®²åº§èµ°è¿çå±±å¤§å­¦</a></li>
+<li><a href='/n1/2019/0520/c403994-31093108.html' target=_blank>ææåå²ä¸ä¸­å½åå²å°è¯´çåæ°</a></li>
+</ul>
+			</div>
+        <div class="sz_news zx_news clearfix">
+            <h3 class="title_01"><span>è¯è®ºäºé¸£</span> <a href="http://www.chinawriter.com.cn/404029/index.html" target="_blank" class="more_01"></a></h3>
+            <div class="left_news">
+                <dl class="clearfix"><dt><a href="http://www.chinawriter.com.cn/n1/2019/0520/c404030-31093291.html" target=_blank><img src="/NMediaFile/2019/0520/MAIN201905200851530436307313398.jpg" width="117" height="151"/></a></dt>
+						<dd><h6><a href="
+http://www.chinawriter.com.cn/n1/2019/0520/c404030-31093291.html" target="_blank">æ¢å²±æ£æãèµ°è¿ãæåæ­ããï¼æ¢å¯»ä¸­åææçæ·±å±é­å
+</a></h6>
+							<p>
+å°±æ´ä½åæ¬è´¨èè¨ï¼ä¸­åææåæ±æ°æèªæä¸ç§æµ·çº³ç¾å·â¦â¦</p></dd>
+</dl>
+                <ul class="clearfix"  style="margin-top:0px;"><li><a href='/n1/2019/0519/c404030-31092175.html' target=_blank>æ´å°åæ£æï¼å ä¸ºææãæ´å ä¸ºæç±</a></li>
+<li><a href='/n1/2019/0519/c404030-31092187.html' target=_blank>åéè¯æ­ä¸­çå½æ¬ä½çè¯ææ å±ä¸èªæå¯»æ±</a></li>
+<li><a href='/n1/2019/0518/c404030-31091527.html' target=_blank>å½å¥½ä½å®¶éå°å¥½æ¶ä»£</a></li>
+</ul>
+            </div>
+            <ul class="right_news"><li><a href='/n1/2019/0520/c404030-31093245.html' target=_blank>è´¾å¹³å¹ãèªå¨ç¬è¡ãï¼åå¿çå®å®ä¸ç¬è¡çèªå¨</a></li>
+<li><a href='/n1/2019/0520/c404032-31093226.html' target=_blank>èæ°´å¹³ï¼ä¸åï¼ä»¿ä½å¨æ¶é´ä¹å¤å»¶ä¼¸</a></li>
+<li><a href='/n1/2019/0520/c404030-31093259.html' target=_blank>éºéºãå¹»å¢ä¹å¢ãï¼ä¸çæ¯ææ¬ï¼æ¯ä¸ç§è¯­è¨äºå®</a></li>
+<li><a href='/n1/2019/0520/c404030-31093272.html' target=_blank>éå°é©´ãå»æ´åº­ã ï¼éä¸­ä¹é</a></li>
+<li><a href='/n1/2019/0520/c404032-31093237.html' target=_blank>å°¹å­¦è¸ï¼ä¸è¡¨ä¸åé</a></li>
+<li><a href='/n1/2019/0520/c404030-31093285.html' target=_blank>èé¹è¯éãäºåå¤©æãï¼æ¥å¸¸çåæä¸çæ´»çå²æ</a></li>
+<li><a href='/n1/2019/0517/c404034-31090273.html' target=_blank>è®ºä¸­å½å½ä»£ç­ç¯å°è¯´çèºæ¯åå±</a></li>
+</ul>
+            <!--shiping begin-->
+            <dl class="shiping clearfix">
+					<dt><img src="/img/MAIN/2018/04/118229/img/index09.png"><br>æ¶è¯</dt><dd><a href="
+
+http://www.chinawriter.com.cn/n1/2019/0520/c407521-31093126.html"target=_"blank">ä¸è¦åç²¾è´çå©å·±ä¸»ä¹è
+
+
+<span>
+è¿ä¸ªä¸çä¸ï¼æå³ä½¿åªåäºä¹æ æ³å¾å°åæ¥çäººï¼ææ³è¦åªåå´æ æ³åªåçäººï¼æå ä¸ºè¿äºåªåèèº«å¿å´©æºçäººâ¦â¦
+
+</span></a>
+</dd><dd><a href="
+http://www.chinawriter.com.cn/n1/2019/0517/c407521-31090350.html"target=_"blank">æºæå¼åäºæ´²ææç¾å¥½æªæ¥
+
+<span>
+å¨ä¸çåè¿çæ­¥ä¼ä¸­åè¿ï¼å¨ä¸çåå±çæ½®æµä¸­åå±ï¼äºæ´²å½å®¶æºæå¹¶è¿ï¼å¿å°å¼åæ´å åæçæªæ¥â¦â¦</span></a>
+</dd></dl>
+        </div>
+    </div>
+    <!--btnrukou begin-->
+    <div class="btnrukou inner clearfix" >
+        <div class="rukoul">
+        	<div class="rukoul_top">
+            	<div class="rukouTit"><p class="btnSelect"><span><img src="/img/MAIN/2018/04/118229/img/index04.png"></span>å¥ä¼ç³è¯·</p>  
+  					<div class="ulDiv names_block">  
+    					<ul>  
+      						<li><a href="http://www.chinawriter.com.cn/n1/2018/1219/c403937-30476393.html" target=_blank>å¥ä¼ç³è¯·</a></li>  
+      						<li><a href="http://www.chinawriter.com.cn/n1/2018/1228/c403993-30493496.html" target=_blank>å®ç¹æ·±å¥çæ´»</a></li>  
+      						
+     					</ul>  
+  					</div></div>
+            	<div class="rukouTit"><p class="btnSelect"><span><img src="/img/MAIN/2018/04/118229/img/index05.png"></span>ä½åæ¶æ</p>  
+<div class="ulDiv names_block">
+<ul>  
+<li><a href="http://www.chinawriter.com.cn/n1/2019/0220/c403937-30806312.html" target=_blank>éç¹ä½åæ¶æ</a></li>  
+<li>  
+<li><a href="http://www.chinawriter.com.cn/n1/2019/0220/c403937-30807398.html" target=_blank>ç½ç»æå­¦ä¸­å¿éç¹ä½åæ¶æ</a></li>  
+<li><a href="http://www.chinawriter.com.cn/n1/2019/0104/c403937-30505163.html" target=_blank>å°æ°æ°ææå­¦éç¹ä½åæ¶æ</a></li>  
+<li><a href="http://www.chinawriter.com.cn/n1/2019/0109/c403937-30512678.html" target=_blank>âä¸­å½å°æ°æ°ææå­¦ä¹æâç³æ¥</a></li>  
+</ul>  
+</div></div>
+            	<div class="rukouTit"><p class="btnSelect"><span><img src="/img/MAIN/2018/04/118229/img/index06.png"></span>å¯¹å¤è¯ä»</p>  
+  					<div class="ulDiv names_block">  
+    					<ul> 
+  
+      						<li><a href="http://www.chinawriter.com.cn/n1/2017/0825/c403985-29495522.html" target=_blank>å½ä»£ä½åç¿»è¯èµå©ç³è¯·åæ³</a></li>  
+      						<li><a href="http://www.chinawriter.com.cn/n1/2016/0706/c403985-28529410.html" target=_blank>ä¸­å½å½ä»£æå­¦å¯¹å¤è¯ä»</a></li> 
+      						
+    					</ul>  
+  					</div></div>
+            	<div class="rukouTit"><p class="btnSelect"><span><img src="/img/MAIN/2018/04/118229/img/index07.png"></span>ä½å®¶ç»´æ</p>  
+  					<div class="ulDiv names_block ulDiv1">  
+    					<ul>  
+<li><a href="http://www.chinawriter.com.cn/n1/2018/1128/c403972-30430836.html" target=_blank>èç³»ä¸­å½ä½åä½å®¶æçä¿éå§åä¼</a></li>  
+      						
+    					</ul>  
+  					</div></div>
+            </div>
+            <div class="ad02_add"><a href="http://www.chinawriter.com.cn/404087/404988/425775/index.html" target=_blank><img src="/NMediaFile/2019/0306/MAIN201903061514520710708607480.jpg" width="720" height="110" border="0" alt="ãä¸­å½å½ä»£æå­¦ç ç©¶ã"/></a>
+</div>
+        </div>
+        <div class="rukour">
+        <a href="http://wyb.chinawriter.com.cn/" target="_blank"><dl><dt><img src="/NMediaFile/2019/0520/MAIN201905200735309816357200739.jpg"></dt>
+            <dd>     æ»ç¬¬<span>4450</span>æ</dd></dl>
+        </a>
+        </div>
+    </div>
+    
+    <div class="ad01sj inner clearfix"><a href="http://www.chinawriter.com.cn/404087/404988/425775/index.html" target=_blank><img src="/NMediaFile/2019/0317/MAIN201903172352377371703207827.jpg" width="640" height="150" border="0" alt="ä¸­å½å½ä»£æå­¦ç ç©¶"/></a>
+</div>
+    <!--bwch_inner begin-->
+    <div class="inner bwch_inner clearfix">
+        
+        <!--æ°ä½å begin-->
+        <h3 class="title_01 clearfix"><span>æ°ä½å</span><a href="http://vip.chinawriter.com.cn/" target="_blank" class="tougao">æè¦æç¨¿</a><a href="http://www.chinawriter.com.cn/404015/index.html" target="_blank" class="more_01"></a></h3>
+        <div class="xinzp01">
+            <div class="xinzpTxt"><h5><a href="http://www.chinawriter.com.cn/n1/2019/0520/c418967-31092795.html" target=blank>ææç§æ¸é£</a></h5>
+					<p>æ¶åèµ°å°ä»å¤©ï¼çå­æ¯ä¸æ¶å¤±ç¸å¯¹èè¨çãè½çå­ä¸æ¥è¯å®æ¯æä»ä¹ç¼ç±ï¼æèè¯å®ä¸éè¦ç¼ç±â¦â¦</p>
+					<span>èæ°´å¹³ ãéå¹´ä½å®¶ã</span></div>
+            <ul><li><p><a href="http://www.chinawriter.com.cn/404015/404018/index.html" targset=blank class="leibie sanwen">æ£æ</a><a href="
+http://www.chinawriter.com.cn/n1/2019/0520/c404018-31092541.html" target=blank>æ¼«æ°´æçå¥½æ¥å­</a></p>
+						<span>çè·æ ãäººæ°æ¥æ¥ã</span></li><li><p><a href="http://www.chinawriter.com.cn/404015/404018/index.html" targset=blank class="leibie sanwen">æ£æ</a><a href="
+http://www.chinawriter.com.cn/n1/2019/0520/c404018-31093871.html
+
+"target=blank>æ°å¨æ·±å±±ä¸åé¢</a></p>
+						<span>è°­è° ãä¸­å½èºæ¯æ¥ã</span></li><li><p><a href="http://www.chinawriter.com.cn/404015/404018/index.html" targset=blank class="leibie sanwen">æ£æ</a><a href="
+http://www.chinawriter.com.cn/n1/2019/0520/c418954-31092548.html
+
+"target=blank>å¾éå®¢çä¸æ</a></p>
+						<span>æ¢è¡¡ ãåäº¬æå­¦ã</span></li><li><p><a href="http://www.chinawriter.com.cn/404015/404020/index.html" target=_blank 
+
+class="leibie shige">è¯æ­</a><a 
+
+href="	
+http://www.chinawriter.com.cn/n1/2019/0520/c404020-31093173.html"target=_blank>
+æé©¬</a></p>
+
+      <span>è¢æ¯å ä¸­å½è¯æ­ç½</span> </li><li><p><a href="http://www.chinawriter.com.cn/404015/404018/index.html" targset=blank class="leibie sanwen">æ£æ</a><a href="
+http://vip.chinawriter.com.cn/member/index.php?uid=heyuan&action=viewarchives&aid=68758
+
+"target=blank>æ¢¦çç§å­</a></p>
+						<span>ç¦¾æº ä¸­å½ä½å®¶ç½</span></li></ul>
+        </div>
+        <div class="xinzp01 xinzp02">
+            <div class="xinzpTxt02"><a href="http://www.chinawriter.com.cn/n1/2019/0520/c404018-31092564.html" target=_blank><img src="/NMediaFile/2019/0520/MAIN201905200818436140165978190.jpg" width="137" height="168" alt="çå½¬ï¼å®æ³¢æä¸ªç¿¡ç¿ æ¹¾"/><span>çå½¬ï¼å®æ³¢æä¸ªç¿¡ç¿ æ¹¾</span></a>
+<a href="http://vip.chinawriter.com.cn/member/index.php?uid=smwll5201314wll&action=viewarchives&aid=68490" target=_blank><img src="/NMediaFile/2019/0519/MAIN201905192211569761621522267.jpg" width="137" height="168" alt="èå¿ï¼å¤å¤©çè®°å¿"/><span>èå¿ï¼å¤å¤©çè®°å¿</span></a>
+</div>
+            <ul style="margin-top:15px;"><li><p><a href="http://www.chinawriter.com.cn/404015/404017/index.html" target=blan class="leibie 
+
+xiaoshuo">å°è¯´</a><a href="http://www.chinawriter.com.cn/n1/2019/0520/c418958-31093062.html" 
+
+target=_blank>ééç´ ï¼èéï¼</a></p>
+						<span>å°¹å­¦è¸ ãæ¶è·ã</span></li><li><p><a href="http://www.chinawriter.com.cn/404015/404017/index.html" target=blan class="leibie 
+
+xiaoshuo">å°è¯´</a><a href="http://www.chinawriter.com.cn/n1/2019/0520/c418928-31093377.html" 
+
+target=_blank>é»æ¨è³ï¼èéï¼</a></p>
+						<span>çå°å¿  ãæ°ææå­¦ã</span></li><li><p><a href="http://www.chinawriter.com.cn/404015/404017/index.html" target=blan class="leibie 
+
+xiaoshuo">å°è¯´</a><a href="http://www.chinawriter.com.cn/n1/2019/0520/c418986-31093263.html" 
+
+target=_blank>æ·±å¤çå«</a></p>
+						<span>èµµå¿æ ãèèã</span></li><li><p><a href="http://www.chinawriter.com.cn/404015/404018/index.html" targset=blank 
+
+class="leibie sanwen">æ£æ</a><a href="
+http://vip.chinawriter.com.cn/member/index.php?uid=SHIJIN&action=viewarchives&aid=68494
+"target=blank>å¿ææéç¢è¼å£°</a></p>
+						<span>æ¶ä» ä¸­å½ä½å®¶ç½</span>
+</li><li><p><a href="http://www.chinawriter.com.cn/404015/404020/index.html" target=_blank class="leibie shige">è¯æ­</a><a href="http://vip.chinawriter.com.cn/member/index.php?uid=songyu311&action=viewarchives&aid=68465"target=_blank>ä»¥ä¸é¦è¯ä¸ºå®¶ï¼å¤ä¸é¦ï¼</a></p>
+
+      <span>å®ç ä¸­å½ä½å®¶ç½</span></li></ul>
+        </div>
+        <div class="xinzp01 xinzp03">
+            <ul><li><p><a href="http://www.chinawriter.com.cn/404015/404020/index.html" target=_blank 
+
+class="leibie shige">è¯æ­</a><a href="http://www.chinawriter.com.cn/n1/2019/0520/c418926-31093414.html"target=_blank>ä½ æçä½çï¼å¨æ¢¦çæ æé´é£ç¿</a></p>
+
+      <span>å¾æ ãè¯åã</span></li><li><p><a href="http://www.chinawriter.com.cn/404015/404017/index.html" target=blan class="leibie 
+
+xiaoshuo">å°è¯´</a><a href="http://www.chinawriter.com.cn/n1/2019/0520/c418961-31093514.html" 
+
+target=_blank>éªè½è¥¿é¨ï¼èéï¼</a></p>
+						<span>åé¹è³ ãé¿æ±æèºã</span></li><li><p><a href="http://www.chinawriter.com.cn/404015/404020/index.html" target=_blank 
+
+class="leibie shige">è¯æ­</a><a href="http://www.chinawriter.com.cn/n1/2019/0520/c418962-31093488.html"target=_blank>æ¶å¤±çå½¼å²¸</a></p>
+
+      <span>éªå®¶ ãä¸æµ·æå­¦ã</span></li><li>
+<p><a href="http://www.chinawriter.com.cn/404015/404018/index.html" targset=blank 
+
+class="leibie sanwen">æ£æ</a><a href="
+http://vip.chinawriter.com.cn/member/index.php?uid=liumydream123456&action=viewarchives&aid=68571
+
+
+
+
+"target=blank>æ±¨ç½æ®</a></p>
+						<span>æä» ä¸­å½ä½å®¶ç½</span>
+</li><li><p><a href="http://www.chinawriter.com.cn/404015/404020/index.html" target=_blank class="leibie shige">è¯æ­</a><a href="http://vip.chinawriter.com.cn/member/index.php?uid=ningshehua&action=viewarchives&aid=68488
+"target=_blank>ä¸çç¦ä¾æ§æ¯æä¹¡çå¤©</a></p>
+
+      <span>å®ç¤¾å ä¸­å½ä½å®¶ç½</span></li><li>
+<p><a href="http://www.chinawriter.com.cn/404015/404018/index.html" targset=blank 
+
+class="leibie sanwen">æ£æ</a><a href="
+http://vip.chinawriter.com.cn/member/index.php?uid=chengqingchang&action=viewarchives&aid=68803
+
+
+
+"target=blank>é£è¿ä¿å£å¯º</a></p>
+						<span>ç¨åºæ ä¸­å½ä½å®¶ç½</span>
+</li><li>
+<p><a href="http://www.chinawriter.com.cn/404015/404018/index.html" targset=blank 
+
+class="leibie sanwen">æ£æ</a><a href="
+http://vip.chinawriter.com.cn/member/index.php?uid=chenxingege&action=viewarchives&aid=68804
+
+
+"target=blank>æ¿é´</a></p>
+						<span>éæ¬£ ä¸­å½ä½å®¶ç½</span>
+</li><li><p><a href="http://www.chinawriter.com.cn/404015/404020/index.html" target=_blank class="leibie shige">è¯æ­</a><a href="http://vip.chinawriter.com.cn/member/index.php?uid=2222rrrr&action=viewarchives&aid=68837"target=_blank>æ°¢æ°çä¸æ ·çæ¢¦ï¼å¤ä¸é¦ï¼</a></p>
+
+      <span>å¤©é³ ä¸­å½ä½å®¶ç½</span></li></ul>
+        </div>
+    </div>
+        
+    <!--contJh begin-->
+    <div class="inner contJh clearfix">
+        <div class="contJhL">
+			<h3 class="title_01 title_04"><span>è®¿è°</span> <a href="http://www.chinawriter.com.cn/403997/index.html" target="_blank" class="more_02"></a></h3>
+				<div class="owl-carousel" id="fangtan"><div class="item">
+					<dl>
+						<dt><a href="http://www.chinawriter.com.cn/n1/2019/0520/c405057-31092524.html" target=_blank><img src="/NMediaFile/2019/0519/MAIN201905192246095837488061048.jpg" width="310" height="146"/></a></dt>
+						<dd><h6><a href="		
+	
+http://www.chinawriter.com.cn/n1/2019/0520/c405057-31092524.html" target=_blank>å¶è¾ï¼ä½å®¶è¦ææ¹æ¶ä»£æ´è¦è¶è¶æ¶ä»£
+</a></h6>							<p>ä»å¤©åæå­¦åå¿å½ä¸è½åä»¥å¾é£æ ·äºãä¸å¶åä¸è¬å°åèªå·±å¦ä½åä½ï¼ä¸å¦ä¸æ­¥æ­¥å°äº¤ä»£æ¸æ¥èªå·±çæå­¦åä½ä¸æ¶ä»£çå³ç³»â¦â¦</p></dd>
+					</dl>
+				</div>
+<div class="item">
+					<dl>
+						<dt><a href="http://www.chinawriter.com.cn/n1/2019/0520/c405057-31092636.html" target=_blank><img src="/NMediaFile/2019/0520/MAIN201905200936196472867078354.jpg" width="310" height="146"/></a></dt>
+						<dd><h6><a href="		
+	
+http://www.chinawriter.com.cn/n1/2019/0520/c405057-31092636.html" target=_blank>é©¬æªé½ï¼ä»ãå°æ65ãè¯´èµ·
+</a></h6>							<p>è¿ä¹å¤å¹´åäºå¾å¤åºãææ¬èº«æ¯ç¼è¾ï¼ç¼è¾åºèº«çäººå¯¹åºç¹å«éè§ï¼è¿å»æä»¬çä¹¦é¦åçåºï¼åªä¸è¿è¿äºå¹´åºå¾å¾åå¾å¾æ°´ãç±äºåå¤äºï¼å°±æå®åæä¸æ¬ä¹¦â¦â¦</p></dd>
+					</dl>
+				</div>
+<div class="item">
+					<dl>
+						<dt><a href="http://www.chinawriter.com.cn/n1/2019/0520/c405057-31092531.html" target=_blank><img src="/NMediaFile/2019/0520/MAIN201905200945326255709365440.jpg" width="310" height="146"/></a></dt>
+						<dd><h6><a href="		
+	
+http://www.chinawriter.com.cn/n1/2019/0520/c405057-31092531.html" target=_blank>è®¡æåï¼ååä¹å»
+</a></h6>							<p>æè¦åå°èªå·±å¿éææ°ææææ¡å»åãä½ä¸ºå°è¯´å®¶ï¼ææ¡çæ´»ä¸­çåç§ç¥è¯ï¼åªåå»åâç¾ç§å¨ä¹¦âæ¯æ¬åãä¸è¿ï¼å³ä½¿æäºè§£é¶è¡ï¼ä¹å¹¶ä¸ä»£è¡¨æå°±è¦æå®åæå°è¯´ãä½å®¶é¢å¯¹çè¿æ¯æ¶ä»£åçæ´»æ¬èº«â¦â¦</p></dd>
+					</dl>
+				</div>
+</div>
+			</div>
+        <div class="sz_news zx_news contJhC">
+				<h3 class="title_01 title_04"><span>æå²</span> <a href="http://www.chinawriter.com.cn/404057/index.html" target="_blank" class="more_02"></a></h3>
+				<div class="left_news"><dl class="clearfix">
+						<dt><a href="http://www.chinawriter.com.cn/n1/2019/0520/c404063-31093158.html" target=_blank><img src="/NMediaFile/2019/0520/MAIN201905200851302656777908185.jpg" width="120" height="146"/></a></dt>
+						<dd><h6><a href="http://www.chinawriter.com.cn/n1/2019/0520/c404063-31093158.html"target="_blank">æ¨è¡ï¼ç¾å²æ©å¸æ¥å¸¸å¨
+
+</a></h6>
+				<p>å´åªè§ä½ æçæ¨æµªé¼ï¼æ²æçç«¥å¹´çå¬ç¬ï¼éå¹´çæ¢ç´¢ ä¸­å¹´çå¯å¯ åèå¹´çè§£è±â¦â¦
+</p></dd>
+					</dl>
+					<ul class="clearfix">
+<li><a href='/n1/2019/0520/c404063-31092736.html' target=_blank>é±éï¼æ¼«è°è¯»ç»å¸</a></li>
+<li><a href='/n1/2019/0520/c404063-31092782.html' target=_blank>å­çæï¼ææçè§£çä¸­å½å¤å¸å­¦</a></li>
+<li><a href='/n1/2019/0520/c404063-31092815.html' target=_blank>çè½å®ªï¼æçå¯¼å¸è¢è¡é</a></li>
+<li><a href='/n1/2019/0520/c404063-31093179.html' target=_blank>åè¾ä½å®¶å½åâäºåâ</a></li>
+<li><a href='/n1/2019/0520/c404063-31093194.html' target=_blank>æ±ªæ¾ç¥ºï¼âå°æ¸©âæ¯çç§æ´æä¹ </a></li>
+</ul>
+				</div>
+			</div>
+        <div class="sz_news zx_news contJhC">
+				<h3 class="title_01 title_04"><span>èºæ¯</span> <a href="http://www.chinawriter.com.cn/404002/index.html" target="_blank" class="more_02"></a></h3>
+				<div class="left_news"><dl class="clearfix">
+						<dt><a href="http://www.chinawriter.com.cn/n1/2019/0520/c419389-31093431.html" target=_blank><img src="/NMediaFile/2019/0520/MAIN201905200932593938399166652.jpg" width="120" height="146"/></a></dt>
+						<dd><h6><a href="http://www.chinawriter.com.cn/n1/2019/0520/c419389-31093431.html"target="blank">ç¬¬åäºå±ä¸­å½èºæ¯èä»å¤©å¨ä¸æµ·å¼å¹
+
+</a></h6>
+							<p>å¨å½åå°ä¼ç§ä½åéç»æ²ªä¸ï¼å¨æ¹ä½å±ç¤ºæ°æ¶ä»£æèºåä½ç´¯ç´¯ç¡æâ¦â¦
+</p></dd>
+					</dl>
+					<ul class="clearfix">
+<li><a href='/n1/2019/0520/c404005-31093419.html' target=_blank>äºé­æºï¼ä¸ç¥å½åè¡ ä¸äº¬å§åè¾</a></li>
+<li><a href='/n1/2019/0520/c419389-31093354.html' target=_blank>å¨âè°æâä¸­æ¢ç´¢äº¬å§ç°ä»£æ</a></li>
+<li><a href='/n1/2019/0520/c419389-31093324.html' target=_blank>æ°ææ­å§æ¥è±ç»½æ¾</a></li>
+<li><a href='/n1/2019/0520/c419389-31093532.html' target=_blank>æºèªå¤§å°çèè¹ï¼å¨æ¥å¸¸çæ´»ä¸­âè¿½æ¢¦â</a></li>
+<li><a href='/n1/2019/0520/c419392-31093403.html' target=_blank>æ¹åæ°¸å·ï¼å¤éæ²ç¡åå¹´çç³å»</a></li>
+</ul>
+				</div>
+			</div>
+    </div>
+    <!--contJh begin-->
+    <div class="inner contJh clearfix">
+        <div class="sz_news zx_news contJhC contJhL02">
+				<h3 class="title_01 title_04"><span>ç½ç»æå­¦</span> <a href="http://www.chinawriter.com.cn/404022/index.html" target="_blank" class="more_02"></a></h3>
+				<div class="left_news"><dl class="clearfix">
+						<dt><a href="http://www.chinawriter.com.cn/n1/2019/0518/c404023-31091573.html" target=_blank><img src="/NMediaFile/2019/0518/MAIN201905180920492871899585882.jpg" width="120" height="146"/></a></dt>
+						<dd><h6><a href="http://www.chinawriter.com.cn/n1/2019/0518/c404023-31091573.html"target="blank">
+å¤§éæ°æ­¦ä¾ æ¹ç¼é¾å¨åèææä½éª
+</a></h6>
+							<p>
+ç±æ²§æåèå°è¯´ãå¬éªæ¥¼ãç³»åæ¹ç¼çååçµè§å§ãå¬éªæ¥¼ãè¿æ¥ç»å½è§é¢ç½ç«â¦â¦</p></dd>
+					</dl>
+					<ul class="clearfix">
+<li><a href='/n1/2019/0513/c426808-31082225.html' target=_blank>ãç½ç»æå­¦åå®¶åä½å¯¼è¯»ãæ°ä¹¦åå¸ä¼å¬å¼</a></li>
+<li><a href='/n1/2019/0511/c404023-31079490.html' target=_blank>ç¬¬äºå±ä¸­å½ç½ç»æå­¦å¨å¨æµæ±æ­å·å¼å¹</a></li>
+<li><a href='/n1/2019/0511/c404028-31079442.html' target=_blank>2018å¹´ä¸­å½ç½ç»å°è¯´æè¡æ¦å¨æ­å·æ­æ</a></li>
+<li><a href='/n1/2019/0511/c404023-31079531.html' target=_blank>ã2018å¹´ä¸­å½ç½ç»æå­¦èç®ä¹¦ãåå¸</a></li>
+<li><a href='/n1/2019/0513/c404023-31081070.html' target=_blank>ååæå»ç½ç»æå­¦ççè¡ä¸º</a></li>
+</ul>
+				</div>
+			</div>
+        <div class="sz_news zx_news contJhC">
+				<h3 class="title_01 title_04"><span>å¿ç«¥æå­¦</span> <a href="http://www.chinawriter.com.cn/404059/index.html" target="_blank" class="more_02"></a></h3>
+				<div class="left_news"><dl class="clearfix">
+						<dt><a href="http://www.chinawriter.com.cn/n1/2019/0520/c404072-31093224.html" target=_blank><img src="/NMediaFile/2019/0520/MAIN201905200912208081934541241.jpg" width="120" height="146"/></a></dt>
+						<dd><h6><a href="
+http://www.chinawriter.com.cn/n1/2019/0520/c404072-31093224.html"target="blank">ãæ°´èä¹¦ãï¼ä¸åå°æ²éçå¯ç </a></h6>
+							<p>åè§ä½¿é©å¼æ¥æ´åç¡®å°éè§æ°´èçèªç¶å±æ§â¦â¦</p></dd>
+					</dl>
+					<ul class="clearfix">
+<li><a href='/n1/2019/0520/c404071-31093271.html' target=_blank>å·¨åæ°æ¶ä»£ï¼ä¸­å½å¿ç«¥æå­¦ä½å®¶å¦ä½ä¹¦åå¿ç«¥ï¼</a></li>
+<li><a href='/n1/2019/0520/c404071-31093256.html' target=_blank>æ±¤ç´ å°ï¼æ´æ·±è¿æ´å¹¿éçæµè¾¾</a></li>
+<li><a href='/n1/2019/0520/c404071-31093426.html' target=_blank>æ¸©åæï¼ç°å¨è¯­ææå­¦æå¤§å¼çå°±æ¯å°è¯»ä¹¦</a></li>
+<li><a href='/n1/2019/0520/c404072-31093199.html' target=_blank>æµ·é£ãç³æ¦´çº¢ãï¼äºæ å£°å¤å¬æé·</a></li>
+<li><a href='/n1/2019/0520/c404072-31093210.html' target=_blank>ç«¥è¯»æ¶ä»£çâåæâç²¾å</a></li>
+</ul>
+				</div>
+			</div>
+        <div class="sz_news zx_news contJhC">
+				<h3 class="title_01 title_04"><span>ä¸çæå</span> <a href="http://www.chinawriter.com.cn/404085/index.html" target="_blank" class="more_02"></a></h3>
+				<div class="left_news"><dl class="clearfix">
+						<dt><a href="http://www.chinawriter.com.cn/n1/2019/0520/c404092-31093402.html" target=_blank><img src="/NMediaFile/2019/0520/MAIN201905200915163127452552579.jpg" width="120" height="146"/></a></dt>
+						<dd><h6><a href="
+http://www.chinawriter.com.cn/n1/2019/0520/c404092-31093402.html"target="blank">å¨è¾ä¸½æ¯Â·é¨ç½çå°è¯´éï¼æè§é»æ´
+</a></h6>
+							<p>
+è¾ä¸½æ¯Â·é¨ç½æä¸ç¯å°è¯´ãæ·±æ´ãï¼åå¿å­åç¶æ¯çå³ç³»â¦â¦</p></dd>
+					</dl>
+					<ul class="clearfix">
+<li><a href='/n1/2019/0520/c404092-31093415.html' target=_blank>ååè¶è¿âé»ç½âä¹é´çæ³¥æ·</a></li>
+<li><a href='/n1/2019/0520/c404090-31093058.html' target=_blank>ç¬¬åå±ä¸­æ¬§å½éæå­¦èå¨äº¬å¼å¹</a></li>
+<li><a href='/n1/2019/0517/c404090-31089986.html' target=_blank>åå¨æµ·æ»©ä¸åé¸¡å°¾éèä¸çå´å¨å´©æº</a></li>
+<li><a href='/n1/2019/0513/c404092-31081671.html' target=_blank>ä¸çæå­¦éè¦æ¯å¥äººå¿çåæ°</a></li>
+<li><a href='/n1/2019/0513/c404092-31082611.html' target=_blank>åå£°ä¸­åå¡çå·´å«å¡ä¸è¯­è¨å¯ç©ä¸»ä¹</a></li>
+</ul>
+				</div>
+			</div>
+    </div>
+    <!--wenxuehd begin-->
+    <div class="inner wenxuehd clearfix">
+        <div class="wenxuehdL">
+            <h3 class="title_01 clearfix"><span>æå­¦çæ´»</span><a href="http://www.chinawriter.com.cn/403982/index.html" target="_blank" class="more_01"></a></h3>
+            <div class="exhibit_list clearfix">
+                <a href="http://www.chinawriter.com.cn/n1/2019/0518/c403994-31091831.html" target=_blank><img src="/NMediaFile/2019/0520/MAIN201905200907197838542976069.jpg" width="310" height="205" alt="æä¸­å¤©ï¼åªæç»è¿ç°ä»£ééï¼ä¼ ç»æåæè½çæ­£ä¼ æ¿ä¸å»"/><p>æä¸­å¤©ï¼åªæç»è¿ç°ä»£ééï¼ä¼ ç»æåæè½çæ­£ä¼ æ¿ä¸å»</p></a>
+
+                <a href="http://www.chinawriter.com.cn/n1/2019/0409/c403988-31020993.html" target=_blank><img src="/NMediaFile/2019/0509/MAIN201905091557492458417583735.png" width="138" height="104" alt="â21ä¸çºªæå­¦ä¹æâ"/><p>â21ä¸çºªæå­¦ä¹æâ</p></a>
+<a href="http://www.chinawriter.com.cn/n1/2019/0101/c403988-30498016.html" target=_blank><img src="/NMediaFile/2019/0105/MAIN201901051107386966046528236.png" width="138" height="104" alt="âæåæçç¥å½âå¾æå¾éæ´»å¨å¯äº"/><p>âæåæçç¥å½âå¾æå¾éæ´»å¨å¯äº</p></a>
+
+            </div>
+            <div class="wxhdList">
+				<ul><li>
+
+<a href="http://video.chinawriter.com.cn/play.php?live_id=11"target=blank_"><span><img src="/img/MAIN/2018/04/118229/img/index20.png"></span>ä¸¥èé¯ï¼ç»å¸æå­¦vså½±è§æ¹ç¼</a></li><li><a href='/n1/2019/0510/c403994-31078312.html' target=_blank><span><img src="/NMediaFile/2018/0410/MAIN201804101701345941261679657.png"></span>âç¾å·æ±æµ·â¢ä½å®¶å¤§è®²å âï¼è®ºéâç½ç»æå­¦äºåå¹´â</a></li>
+<li><a href='/n1/2019/0507/c403994-31072533.html' target=_blank>é²è¿æå­¦é¢æè®°ï¼ä¸ä¸ªç­ç15å¤©</a></li>
+<li><a href='/n1/2019/0510/c403994-31077841.html' target=_blank>çèè°ä¸å¯éª¥æçåæï¼âç¸æ¿¡ä»¥æ²«âçæ¸©æ</a></li>
+<li><a href='/n1/2019/0510/c403994-31077849.html' target=_blank>è«è¨å¿å¼ èºè°æ¹ç¼ãçº¢é«ç²±ãï¼6ä¸å­å§æ¬è¢«ç¼©å°2ä¸å­</a></li>
+<li><a href='/n1/2019/0511/c403994-31078806.html' target=_blank>åºç¥æ°ä¸­å½æç«70å¨å¹´å¤®ä¼æäºå¤§èµå¯å¨</a></li>
+<li><a href='/n1/2019/0512/c403994-31079885.html' target=_blank>è¡éªï¼å¥è¾å¹´ä»£éæµç¼©äºåå²ä¹¡æ</a></li>
+<li><a href='/n1/2019/0512/c403994-31079901.html' target=_blank>éåºä½å®¶ä¹¦é¢åå»º</a></li>
+<li><a href='/n1/2019/0508/c403994-31073491.html' target=_blank>âä¹¦ç±æ¯æ·±å¥äºè§£ä¸­å½çéè¦çªå£â</a></li>
+</ul>
+			</div>
+        </div>
+        <div class="wenxuehdR">
+            <h3 class="title_01 title_03"><span>ä¸é¢</span> <a href="http://www.chinawriter.com.cn/404087/index.html" target="_blank" class="more_01"></a></h3>
+				<div class="rCont"><dl>
+						<dt><a href="http://www.chinawriter.com.cn/404087/404988/426014/index.html" target=_blank><img src="/NMediaFile/2019/0409/MAIN201904091142398700006861811.jpg" width="80" height="80" alt="âæåæçç¥å½âå¾æ"/></a></dt>
+						<dd><a href="http://www.chinawriter.com.cn/404087/404988/426014/index.html" target=_blank>âæåæçç¥å½âå¾æ</a></dd>
+					</dl>
+<dl>
+						<dt><a href="http://www.chinawriter.com.cn/404087/404988/426165/index.html?from=singlemessage&isappinstalled=0" target=_blank><img src="/NMediaFile/2019/0401/MAIN201904011554573369078220650.jpg" width="80" height="80" alt="ä¸­åè¯è¯å¤å´è®ºå"/></a></dt>
+						<dd><a href="http://www.chinawriter.com.cn/404087/404988/426165/index.html?from=singlemessage&isappinstalled=0" target=_blank>ä¸­åè¯è¯å¤å´è®ºå</a></dd>
+					</dl>
+</div>
+            <!-- begin-->
+            <div class="slDiv">
+  					<span class="btnSelect">ä¸­å½ä½åæå±åä½</span>  
+  					<div class="ulDiv names_block">  
+    					<ul><li><a href="http://www.chinawriter.com.cn/404040/index.html" target="_blank">é²è¿æå­¦é¢</a></li>
+
+<li><a href="http://www.wxg.org.cn/" target="_blank">ä¸­å½ç°ä»£æå­¦é¦</a>
+</a></li>
+
+<li><a href="" target="_blank">ä¸­å½ä½å®¶åºçéå¢</a>
+</li>  
+      						  
+<li><a href="http://wyb.chinawriter.com.cn" target="_blank">æèºæ¥ç¤¾</a></li>      					
+
+<li><a href="http://blog.sina.com.cn/u/1716856101" target="_blank">äººæ°æå­¦æå¿ç¤¾</a></li> 
+
+<li><a href="http://blog.sina.com.cn/u/1766810633" target="_blank">è¯åç¤¾</a></li> 
+
+<li><a href="http://www.mzwxzz.com/" target="_blank">æ°ææå­¦æå¿ç¤¾</a></li> 
+
+
+<li><a href="http://www.zgzjzzs.com/" target="_blank">ä¸­å½ä½å®¶æå¿ç¤¾</a></li>
+
+<li><a href="http://www.mzwxzz.com/" target="_blank">å°è¯´éåæå¿ç¤¾</a></li> 
+  
+
+<li><a href="http://www.zuojiachubanshe.com/" target="_blank">ä½å®¶åºçç¤¾</a></li> 
+
+<li><a href="http://www.clfoundation.cn/home_gb.htm" target="_blank">ä¸­åæå­¦åºéä¼</a>
+</li>  						
+</ul>  
+  					</div> 
+				</div>
+            <div class="slDiv">
+  					<span class="btnSelect">ä¸­å½ä½åå¢ä½ä¼å</span>  
+  					<div class="ulDiv names_block">  
+    					<ul><li><a href="http://www.bjwl.org.cn/wwwroot/bjzjw/publish/article/index.shtml" target=_blank>åäº¬å¸ä½å®¶åä¼</a></li>
+<li><a href="http://www.tjwriter.net/" target=_blank>å¤©æ´¥å¸ä½å®¶åä¼</a></li>
+<li><a href="http://www.hbzuojia.com/" target=_blank>æ²³åçä½å®¶åä¼</a></li>
+<li><a href="http://www.chinawriter.com.cn/n1/2016/0707/c403961-28534884.html" target=_blank>å±±è¥¿çä½å®¶åä¼</a></li>
+<li><a href="http://z.imflac.org.cn:81/" target=_blank>åèå¤èªæ²»åºä½å®¶åä¼</a></li>
+<li><a href="http://www.liaoningwriter.org.cn/" target=_blank>è¾½å®çä½å®¶åä¼</a></li>
+<li><a href="http://www.beifangwriter.com/" target=_blank>åæçä½å®¶åä¼</a></li>
+<li><a href="http://www.hljszjxhw.com/" target=_blank>é»é¾æ±çä½å®¶åä¼</a></li>
+<li><a href="http://www.shzuojia.cn/" target=_blank>ä¸æµ·å¸ä½å®¶åä¼</a></li>
+<li><a href="http://www.jszjw.com/" target=_blank>æ±èçä½å®¶åä¼</a></li>
+<li><a href="http://www.zjzj.org/" target=_blank>æµæ±çä½å®¶åä¼</a></li>
+<li><a href="http://www.ahwriter.com/" target=_blank>å®å¾½çä½å®¶åä¼</a></li>
+<li><a href="http://www.fjwyw.com/class/xhcs/szjxh/" target=_blank>ç¦å»ºçä½å®¶åä¼</a></li>
+<li><a href="http://www.jxflac.com/gswyjxh/jxxul.html" target=_blank>æ±è¥¿çä½å®¶åä¼</a></li>
+<li><a href="http://www.sdzj.org/" target=_blank>å±±ä¸çä½å®¶åä¼</a></li>
+<li><a href="http://www.hnwriter.com/" target=_blank>æ²³åçä½å®¶åä¼</a></li>
+<li><a href="http://www.hbzjw.org.cn/" target=_blank>æ¹åçä½å®¶åä¼</a></li>
+<li><a href="http://www.frguo.com/" target=_blank>æ¹åçä½å®¶åä¼</a></li>
+<li><a href="http://www.gdzuoxie.com/?gdxzid=1" target=_blank>å¹¿ä¸çä½å®¶åä¼</a></li>
+<li><a href="http://www.gxwenlian.com/index/index.asp" target=_blank>å¹¿è¥¿å£®æèªæ²»åºä½å®¶åä¼</a></li>
+<li><a href="http://www.hainanzuojia.com/" target=_blank>æµ·åçä½å®¶åä¼</a></li>
+<li><a href="http://www.cqwriter.com/" target=_blank>éåºå¸ä½å®¶åä¼</a></li>
+<li><a href="http://www.sczjw.gov.cn/" target=_blank>åå·çä½å®¶åä¼</a></li>
+<li><a href="http://www.gzszjxh.com/portal.php" target=_blank>è´µå·çä½å®¶åä¼</a></li>
+<li><a href="http://www.chinawriter.com.cn/n1/2016/0707/c403961-28534888.html" target=_blank>äºåçä½å®¶åä¼</a></li>
+<li><a href="http://www.chinawriter.com.cn/n1/2016/0707/c403961-28534889.html" target=_blank>è¥¿èèªæ²»åºä½å®¶åä¼</a></li>
+<li><a href="http://www.sxzjw.org/" target=_blank>éè¥¿çä½å®¶åä¼</a></li>
+<li><a href="http://www.gsarts.org.cn/zjxh/sysIndex!index.do" target=_blank>çèçä½å®¶åä¼</a></li>
+<li><a href="http://www.qhwriter.com/" target=_blank>éæµ·çä½å®¶åä¼</a></li>
+<li><a href="	
+http://www.chinawriter.com.cn/n1/2016/0707/c403961-28534890.html" target=_blank>å®å¤åæèªæ²»åºä½å®¶åä¼</a></li>
+<li><a href="http://www.chinawriter.com.cn/n1/2016/0707/c403961-28534891.html" target=_blank>æ°çç»´å¾å°èªæ²»åºä½å</a></li>
+<li><a href="http://www.chinawriter.com.cn/n1/2016/0707/c403961-28534892.html" target=_blank>æ°ççäº§å»ºè®¾åµå¢ä½å</a></li>
+<li><a href="http://www.ybzjxh.com/" target=_blank>å»¶è¾¹æé²æèªæ²»å·ä½å</a>
+
+<li><a href="http://center.cnpc.com.cn/zjw/" target=_blank>ä¸­å½ç³æ²¹ä½å®¶åä¼</a></li>
+<li><a href="http://www.chinawriter.com.cn/n1/2016/0707/c403961-28534893.html" target=_blank>ä¸­å½éè·¯ä½å®¶åä¼</a></li>
+<li><a href="http://wx.caaccm.org.cn/" target=_blank>ä¸­å½ç¤ç¿ä½å®¶åä¼</a></li>
+<li><a href="http://zj.gtzyb.com/" target=_blank>ä¸­å½å½åèµæºä½å®¶åä¼</a></li>
+<li><a href="http://www.chinawriter.com.cn/n1/2016/0707/c403961-28534894.html" target=_blank>ä¸­å½çµåä½å®¶åä¼</a></li>
+<li><a href="http://www.chinawriter.com.cn/n1/2016/0707/c403961-28534895.html" target=_blank>ä¸­å½å¶éä½å®¶åä¼</a></li>
+<li><a href="http://www.chinawriter.com.cn/n1/2016/0707/c403961-28534896.html" target=_blank>ä¸­å½æ°´å©ä½å®¶åä¼</a></li>
+<li><a href="http://www.chinawriter.com.cn/n1/2016/0707/c403961-28534897.html" target=_blank>ä¸­å½ç³åä½å®¶åä¼</a></li>
+<li><a href="http://www.chinawriter.com.cn/n1/2016/0905/c403961-28691732.html" target=_blank>ä¸­å½åå·¥ä½å®¶åä¼</a></li>
+<li><a href="http://www.chinawriter.com.cn/n1/2016/0707/c403961-28534898.html" target=_blank>å¨å½å¬å®ä½å®¶åä¼</a></li>
+<li><a href="#" target=_blank>ä¸­å½éèä½å®¶åä¼</a></li>
+<li><a href="http://www.kpcswa.org.cn/index.html" target=_blank>ä¸­å½ç§æ®ä½å®¶åä¼</a></li></ul>  
+  					</div> 
+				</div>
+        </div>
+    </div>
+    <!--xinshuTj begin-->
+    <div class="inner clearfix xinshuTj">
+			<h3 class="title_01"><span>æ°ä¹¦æ¨è</span> <a href="http://www.chinawriter.com.cn/404058/index.html" target="_blank" class="more_01"></a></h3>
+			<div class="contMar">
+			<div class="owl-carousel" id="newbook"><div class="item"><a href="http://www.chinawriter.com.cn/n1/2019/0520/c405081-31093861.html" target=_blank><img src="/NMediaFile/2019/0520/MAIN201905201142179890048987535.jpg" width="101" height="144"/><p>ãè°è¯å½ã</p>
+						<span>çå®å¿ å¼ æ°é¢ è</span></a></div>
+<div class="item"><a href="http://www.chinawriter.com.cn/n1/2019/0520/c405085-31093632.html" target=_blank><img src="/NMediaFile/2019/0520/MAIN201905201142178792319812525.jpg" width="101" height="144"/><p>ãå°æ65ã</p>
+						<span>é©¬æªé½ è</span></a></div>
+<div class="item"><a href="http://www.chinawriter.com.cn/n1/2019/0520/c405079-31093840.html" target=_blank><img src="/NMediaFile/2019/0520/MAIN201905201142176789857431398.jpg" width="101" height="144"/><p>ãå¦æä¸ä¸ä¸åæç«ã</p>
+						<span>å·æåæ° è</span></a></div>
+<div class="item"><a href="http://www.chinawriter.com.cn/n1/2019/0517/c405065-31090708.html" target=_blank><img src="/NMediaFile/2019/0517/MAIN201905171424008792279785858.jpg" width="101" height="144"/><p>ãå¤§æ¡¥ã</p>
+						<span>ä½å»ºæ è</span></a></div>
+<div class="item"><a href="http://www.chinawriter.com.cn/n1/2019/0517/c405064-31090844.html" target=_blank><img src="/NMediaFile/2019/0517/MAIN201905171424012248078499222.jpg" width="101" height="144"/><p>ãæ¥è¾ãç¬è®°</p>
+						<span>å¼ ç è</span></a></div>
+<div class="item"><a href="http://www.chinawriter.com.cn/n1/2019/0517/c405080-31090834.html" target=_blank><img src="/NMediaFile/2019/0517/MAIN201905171424010704548103681.jpg" width="101" height="144"/><p>ãçå½æåçè¯»ä¹¦ä¼ã</p>
+						<span>å¨å°Â·æ½ç¦å°è´ è</span></a></div>
+<div class="item"><a href="http://www.chinawriter.com.cn/n1/2019/0516/c405071-31088486.html" target=_blank><img src="/NMediaFile/2019/0516/MAIN201905161132454402156096537.jpg" width="101" height="144"/><p>ãå®¶ä½æ­¦éµæºã</p>
+						<span>çºªçº¢å»º è</span></a></div>
+<div class="item"><a href="http://www.chinawriter.com.cn/n1/2019/0516/c405064-31088473.html" target=_blank><img src="/NMediaFile/2019/0516/MAIN201905161132450459151912164.jpg" width="101" height="144"/><p>ãæ¥æ¥å¤©æ¶¯ã</p>
+						<span>ç« ç¼ è</span></a></div>
+<div class="item"><a href="http://www.chinawriter.com.cn/n1/2019/0516/c405081-31088477.html" target=_blank><img src="/NMediaFile/2019/0516/MAIN201905161132452373777089741.jpg" width="101" height="144"/><p>ãå¤©äº®å¤æ¹è¾¹ã</p>
+						<span>å®æ è</span></a></div>
+<div class="item"><a href="http://www.chinawriter.com.cn/n1/2019/0515/c405086-31086534.html" target=_blank><img src="/NMediaFile/2019/0515/MAIN201905151115436055988892986.jpg" width="101" height="144"/><p>ãç°ç«ã</p>
+						<span>æä¸å è</span></a></div>
+</div>
+			</div>
+		</div>
+    <!--youqingLink begin-->
+    <div class="inner youqingLink_inner clearfix">
+			<h3><span>åæé¾æ¥</span></h3>
+			<div class="link_img clearfix"><a href="http://www.cac.gov.cn/" target=_blank><img src="/NMediaFile/2018/1204/MAIN201812041030263514332023605.jpg" width="60" height="40" alt="ä¸­åäººæ°å±åå½å½å®¶äºèç½ä¿¡æ¯åå¬å®¤"/></a>
+<a href="https://www.mct.gov.cn/" target=_blank><img src="/NMediaFile/2018/0514/MAIN201805141756063731551245086.png" width="60" height="40"/></a>
+<a href="http://www.sapprft.gov.cn/" target=_blank><img src="/NMediaFile/2018/0514/MAIN201805141612591245766110891.png" width="60" height="40"/></a>
+<a href="http://www.people.com.cn/" target=_blank><img src="/NMediaFile/2018/0514/MAIN201805141526046418887737602.jpg" width="60" height="40"/></a>
+<a href="http://www.xinhuanet.com/" target=_blank><img src="/NMediaFile/2018/0514/MAIN201805141526132684155063518.jpg" width="60" height="40" alt=""/></a>
+<a href="http://www.gmw.cn/" target=_blank><img src="/NMediaFile/2018/0514/MAIN201805141526048340197970151.jpg" width="60" height="40"/></a>
+<a href="http://www.wenming.cn/" target=_blank><img src="/NMediaFile/2018/0514/MAIN201805141631310348450604166.png" width="60" height="40"/></a>
+<a href="http://cul.chinanews.com/" target=_blank><img src="/NMediaFile/2018/0514/MAIN201805141526109462851346168.jpg" width="60" height="40"/></a>
+<a href="http://www.ccdy.cn/" target=_blank><img src="/NMediaFile/2018/0514/MAIN201805141606559451266601247.jpg" width="60" height="40"/></a>
+<a href="http://epaper.ccdy.cn" target=_blank><img src="/NMediaFile/2018/0514/MAIN201805141526136738731286093.jpg" width="60" height="40"/></a>
+<a href="http://www.cflac.org.cn/" target=_blank><img src="/NMediaFile/2018/0514/MAIN201805141551269144948459213.png" width="60" height="40"/></a>
+<a href="http://www.cflac.org.cn/zgysb/dz/ysb/" target=_blank><img src="/NMediaFile/2018/0514/MAIN201805141526131405571134243.jpg" width="60" height="40"/></a>
+<a href="http://www.nlc.cn/" target=_blank><img src="/NMediaFile/2018/0514/MAIN201805141526085537389349489.jpg" width="60" height="40" alt=""/></a>
+<a href="http://www.cssn.cn/" target=_blank><img src="/NMediaFile/2018/0514/MAIN201805141526138051908449780.jpg" width="60" height="40"/></a>
+<a href="http://wxb.whb.cn/" target=_blank><img src="/NMediaFile/2018/0801/MAIN201808011435008515922323019.png" width="60" height="40"/></a>
+<a href="http://www.haozuojia.com/" target=_blank><img src="/NMediaFile/2018/0514/MAIN201805141548271498803236452.png" width="60" height="40"/></a>
+<a href="http://cul.qq.com/" target=_blank><img src="/NMediaFile/2018/0514/MAIN201805141526166085023986135.jpg" width="60" height="40" alt=""/></a>
+<a href="http://culture.ifeng.com/" target=_blank><img src="/NMediaFile/2018/0514/MAIN201805141526176212853705039.jpg" width="60" height="40"/></a>
+<a href="http://www.bjwxg.cn/" target=_blank><img src="/NMediaFile/2018/0514/MAIN201805141638329216980286728.png" width="60" height="40"/></a>
+<a href="http://www.zgshige.com/" target=_blank><img src="/NMediaFile/2018/0514/MAIN201805141526143352277256972.jpg" width="60" height="40"/></a>
+<a href="http://www.claf.cn/" target=_blank><img src="/NMediaFile/2019/0212/MAIN201902121656526275158758994.jpg" width="60" height="40"/></a>
+<a href="http://www.kpcswa.org.cn/index.html" target=_blank><img src="/NMediaFile/2018/0514/MAIN201805141526152081147982025.jpg" width="60" height="40"/></a>
+<a href="http://www.chenggua.com/" target=_blank><img src="/NMediaFile/2018/0514/MAIN201805141641035357405374131.jpg" width="60" height="40"/></a>
+</div>
+		</div>
+</main>
+<!--footer begin-->
+<footer>
+		<div class="inner footer_inner clearfix"><p>ä¸­å½ä½å®¶åºçéå¢çæææ |    
+<a href="http://www.miibeian.gov.cn/" target=_blank>äº¬ICPå¤16044554å·</a> | äº¬å¬ç½å®å¤110402440007å· | <a href="http://www.chinawriter.com.cn/n1/2019/0130/c403928-30600339.html" target="_blank">äºèç½æ°é»ä¿¡æ¯æå¡è®¸å¯è¯ï¼10120180023ï¼</a></p>
+<p>å°åï¼åäº¬å¸æé³åºåå±é¦åé10å·15å±  èç³»çµè¯ï¼010-65389115  é®ç®±ï¼cnwriter@126.com</p>æ¬ç½ç«æé¨ååå®¹æ¥èªäºèç½ï¼å¦åªä½ãå¬å¸ãä¼ä¸æä¸ªäººå¯¹è¯¥é¨åä¸»å¼ ç¥è¯äº§æï¼è¯·æ¥çµæè´å½åä¹ï¼æ¬ç½ç«å°éåéå½æªæ½ï¼å¦åï¼ä¸ä¹æå³çç¥è¯äº§æçº çº·æ¬ç½ç«ä¸æ¿æä»»ä½è´£ä»»ã</div>
+	</footer>
+<div class="goTop"><div class="erweima"><img src="/NMediaFile/2018/0510/MAIN201805101635526610551558369.jpg"></div>
+	<div class="TopBtn"><img src="/img/MAIN/2018/04/118229/img/top.jpg"></div></div>
+<script>
+	$(function(){
+	var numselect;
+	var cishu=0;
+	$('.btnSelect').on("click",function(){
+		var index= $(".btnSelect").index(this);		
+		$(".ulDiv").removeClass("ulShow");  
+  		$(this).siblings(".ulDiv").toggleClass("ulShow");
+		if(numselect == index){
+			$(this).siblings(".ulDiv").removeClass("ulShow");
+			cishu++;
+			if(cishu%2==0 && cishu > 0){
+				$(this).siblings(".ulDiv").toggleClass("ulShow");
+			}
+			else{
+				$(this).siblings(".ulDiv").removeClass("ulShow");
+			}
+		}
+		else{
+			numselect=index;
+			cishu=0;
+		}		
+	});  
+	$(".ulDiv ul li").on("click",function(){ 
+  	$(".ulDiv").removeClass("ulShow");  
+	}); 
+})
+</script>
+<script src="http://tools.people.com.cn/css/2010tianrun/webdig_test.js" language="javascript" type="text/javascript" async></script>
+<script src="http://www.people.com.cn/img/2016wb/jweixin-1.0.0.js" type="text/javascript"></script><script type="text/javascript">      
+	var wxData = {
+		"imgUrl": "http://www.people.com.cn/NMediaFile/2018/0514/MAIN201805141407539113754086100.jpg",
+		"link": window.location.href,
+		"desc": "æ±èä½å®¶ä¿¡æ¯ï¼ååºä½å®¶å£°é³ï¼å±ç¤ºæå­¦é­åâ¦â¦",
+		"title": "ä¸­å½ä½å®¶ç½"
+	};
+</script>
+<script src="http://www.people.com.cn/img/2016wb/WeiXinData.js" type="text/javascript"></script>
+</body>
+</html>

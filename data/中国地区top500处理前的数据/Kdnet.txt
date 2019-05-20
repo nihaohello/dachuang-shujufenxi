@@ -1,0 +1,985 @@
+<!DOCTYPE html>
+
+<html lang="zh-CN">
+
+<head>
+
+
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<meta property="qc:admins" content="15033067352456645346346546654" />
+<meta name = "format-detection" content = "telephone=no">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>凯迪网络 - 主流声音，全球知名华人网络互动媒体</title>
+<meta name="author" content="凯迪网络">
+<meta name="keywords" content="凯迪,社区,凯迪网络,凯迪社区,南都报系,南都,深水区,猫眼看人,政治,时政,政经,新闻,思想,意见领袖,媒体,数据服务,数据分析,云情报,KCIS,欲知,百姓家谱,百姓家史,问卷宝,公共观察,舆情观察,奥一网">
+<meta name="description" content="南方报业传媒集团旗下凯迪网络始建于2000年，其凯迪社区已发展成为中国最具影响力、传播力、最大密度的 “意见领袖”社区之一。正致力于打造社会化媒体和数据服务两大创新平台。股票代码：832611">
+<meta name="copyright" content="凯迪网络版权所有" />
+<meta name='360_ssp_verify' content='038a0e28a698c0d42bd47f2c6f63d192' />
+<link rel="icon" href="//qc-static.kdnet.net/static/static/common/img/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="//qc-static.kdnet.net/static/static/common/img/favicon.ico" type="image/x-icon" />
+<script type="text/javascript">
+			var $CONFIG = {};
+			$CONFIG['a_host'] = 'http:\/\/cluster.kdnet.net';
+			$CONFIG['a_format'] = 'json';
+		</script>
+<script type="text/javascript">!function(a,b){if(!b.__SV){var c,d,e,f;window.dplus=b,b._i=[],b.init=function(a,c,d){function g(a,b){var c=b.split(".");2==c.length&&(a=a[c[0]],b=c[1]),a[b]=function(){a.push([b].concat(Array.prototype.slice.call(arguments,0)))}}var h=b;for("undefined"!=typeof d?h=b[d]=[]:d="dplus",h.people=h.people||[],h.toString=function(a){var b="dplus";return"dplus"!==d&&(b+="."+d),a||(b+=" (stub)"),b},h.people.toString=function(){return h.toString(1)+".people (stub)"},e="disable track track_links track_forms register unregister get_property identify clear set_config get_config get_distinct_id track_pageview register_once track_with_tag time_event people.set people.unset people.delete_user".split(" "),f=0;f<e.length;f++)g(h,e[f]);b._i.push([a,c,d])},b.__SV=1.1,c=a.createElement("script"),c.type="text/javascript",c.charset="utf-8",c.async=!0,c.src="//w.cnzz.com/dplus.php?id=1260004087",d=a.getElementsByTagName("script")[0],d.parentNode.insertBefore(c,d)}}(document,window.dplus||[]),dplus.init("1260004087");</script>
+<!--[if gte IE 9]>
+<script src="//qc-static.kdnet.net/static/static/common/libs/flexible/flexible.9cef59ac.js"></script>
+<![endif]-->
+
+
+
+<!--[if lt IE 9]>
+<script src="//qc-static.kdnet.net/static/static/common/js/html5shiv.min.831d9bca.js"></script>
+<script src="//qc-static.kdnet.net/static/static/common/js/respond.min.39981a39.js"></script>
+<![endif]-->
+<script type="text/javascript">
+			_atrk_opts = { atrk_acct:"qlI7j1a4ZP00wT", domain:"kdnet.net",dynamic: true};
+			(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+		</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=qlI7j1a4ZP00wT" style="display:none" height="1" width="1" alt="" /></noscript>
+<link rel="stylesheet" type="text/css" href="//qc-static.kdnet.net/static/static/common/pkg/common.43b90947.css"/><link rel="stylesheet" type="text/css" href="//qc-static.kdnet.net/static/static/common/libs/jquery-webui-popover/jquery.webui-popover.ace6c896.css"/></head>
+
+<body>
+
+<div class="c_error">
+<div class="img"><img src="//imgcdn.kdnet.net/resource/404.png" alt=""/></div>
+<div class="tit">
+<h2>喵呜，您访问的页面找不着了！</h2>
+<p>您可能输入了错误的网址，也可能该页面已经删除或移动。            如果您持续遇到这个错误，请到<a href="//club.kdnet.net/list.asp?boardid=13">【站务专区】</a>反馈。</p>
+<a href="javascript:history.go(-1);" class="btn btn-primary">返回</a>
+</div>
+<div class="footed">
+<a href="/">凯迪首页</a>
+<i>—</i>
+<a href="/club/list?boardid=13">站务专区</a>
+<i>—</i>
+<a href="http://user.kdnet.net/index.asp?userid=188">@凯迪网络</a>
+</div>
+</div>
+</body><script type="text/javascript" src="//qc-static.kdnet.net/static/static/common/pkg/common.7392a1ba.js"></script>
+<script type="text/javascript" src="//tracking.kdnet.net/about/log.js"></script>
+<script type="text/javascript">!function(){    if(location.host=='uc.kdnet.net'){
+        var _hmt_keys = "4584ffe9d9787c63971dee1a706a9df8";
+    }else{
+        var _hmt_keys = "86996f749ffad4ce6ea9c7b1ca3a0a77";
+    }
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?" + _hmt_keys;
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+}();
+!function(){
+    if ($.isFunction(window.tracking_log)) {
+        var tracking_starttime = 1558358049;
+        tracking_log();
+    }
+
+}();</script></html>
+
+<!DOCTYPE html>
+
+<html lang="zh-CN">
+
+<head>
+
+
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<meta property="qc:admins" content="15033067352456645346346546654" />
+<meta name = "format-detection" content = "telephone=no">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>凯迪网络 - 主流声音，全球知名华人网络互动媒体</title>
+<meta name="author" content="凯迪网络">
+<meta name="keywords" content="凯迪,社区,凯迪网络,凯迪社区,南都报系,南都,深水区,猫眼看人,政治,时政,政经,新闻,思想,意见领袖,媒体,数据服务,数据分析,云情报,KCIS,欲知,百姓家谱,百姓家史,问卷宝,公共观察,舆情观察,奥一网">
+<meta name="description" content="南方报业传媒集团旗下凯迪网络始建于2000年，其凯迪社区已发展成为中国最具影响力、传播力、最大密度的 “意见领袖”社区之一。正致力于打造社会化媒体和数据服务两大创新平台。股票代码：832611">
+<meta name="copyright" content="凯迪网络版权所有" />
+<meta name='360_ssp_verify' content='038a0e28a698c0d42bd47f2c6f63d192' />
+<link rel="icon" href="//qc-static.kdnet.net/static/static/common/img/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="//qc-static.kdnet.net/static/static/common/img/favicon.ico" type="image/x-icon" />
+<script type="text/javascript">
+			var $CONFIG = {};
+			$CONFIG['a_host'] = 'http:\/\/cluster.kdnet.net';
+			$CONFIG['a_format'] = 'json';
+		</script>
+<script type="text/javascript">!function(a,b){if(!b.__SV){var c,d,e,f;window.dplus=b,b._i=[],b.init=function(a,c,d){function g(a,b){var c=b.split(".");2==c.length&&(a=a[c[0]],b=c[1]),a[b]=function(){a.push([b].concat(Array.prototype.slice.call(arguments,0)))}}var h=b;for("undefined"!=typeof d?h=b[d]=[]:d="dplus",h.people=h.people||[],h.toString=function(a){var b="dplus";return"dplus"!==d&&(b+="."+d),a||(b+=" (stub)"),b},h.people.toString=function(){return h.toString(1)+".people (stub)"},e="disable track track_links track_forms register unregister get_property identify clear set_config get_config get_distinct_id track_pageview register_once track_with_tag time_event people.set people.unset people.delete_user".split(" "),f=0;f<e.length;f++)g(h,e[f]);b._i.push([a,c,d])},b.__SV=1.1,c=a.createElement("script"),c.type="text/javascript",c.charset="utf-8",c.async=!0,c.src="//w.cnzz.com/dplus.php?id=1260004087",d=a.getElementsByTagName("script")[0],d.parentNode.insertBefore(c,d)}}(document,window.dplus||[]),dplus.init("1260004087");</script>
+<!--[if gte IE 9]>
+<script src="//qc-static.kdnet.net/static/static/common/libs/flexible/flexible.9cef59ac.js"></script>
+<![endif]-->
+
+
+
+<!--[if lt IE 9]>
+<script src="//qc-static.kdnet.net/static/static/common/js/html5shiv.min.831d9bca.js"></script>
+<script src="//qc-static.kdnet.net/static/static/common/js/respond.min.39981a39.js"></script>
+<![endif]-->
+<script type="text/javascript">
+			_atrk_opts = { atrk_acct:"qlI7j1a4ZP00wT", domain:"kdnet.net",dynamic: true};
+			(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+		</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=qlI7j1a4ZP00wT" style="display:none" height="1" width="1" alt="" /></noscript>
+<link rel="stylesheet" type="text/css" href="//qc-static.kdnet.net/static/static/common/pkg/common.43b90947.css"/><link rel="stylesheet" type="text/css" href="//qc-static.kdnet.net/static/static/common/libs/jquery-webui-popover/jquery.webui-popover.ace6c896.css"/></head>
+
+<body>
+
+<div class="c_error">
+<div class="img"><img src="//imgcdn.kdnet.net/resource/404.png" alt=""/></div>
+<div class="tit">
+<h2>喵呜，您访问的页面找不着了！</h2>
+<p>您可能输入了错误的网址，也可能该页面已经删除或移动。            如果您持续遇到这个错误，请到<a href="//club.kdnet.net/list.asp?boardid=13">【站务专区】</a>反馈。</p>
+<a href="javascript:history.go(-1);" class="btn btn-primary">返回</a>
+</div>
+<div class="footed">
+<a href="/">凯迪首页</a>
+<i>—</i>
+<a href="/club/list?boardid=13">站务专区</a>
+<i>—</i>
+<a href="http://user.kdnet.net/index.asp?userid=188">@凯迪网络</a>
+</div>
+</div>
+</body><script type="text/javascript" src="//qc-static.kdnet.net/static/static/common/pkg/common.7392a1ba.js"></script>
+<script type="text/javascript" src="//tracking.kdnet.net/about/log.js"></script>
+<script type="text/javascript">!function(){    if(location.host=='uc.kdnet.net'){
+        var _hmt_keys = "4584ffe9d9787c63971dee1a706a9df8";
+    }else{
+        var _hmt_keys = "86996f749ffad4ce6ea9c7b1ca3a0a77";
+    }
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?" + _hmt_keys;
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+}();
+!function(){
+    if ($.isFunction(window.tracking_log)) {
+        var tracking_starttime = 1558358053;
+        tracking_log();
+    }
+
+}();</script></html>
+
+<!DOCTYPE html>
+
+<html lang="zh-CN">
+
+<head>
+
+
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<meta property="qc:admins" content="15033067352456645346346546654" />
+<meta name = "format-detection" content = "telephone=no">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>凯迪网络 - 主流声音，全球知名华人网络互动媒体</title>
+<meta name="author" content="凯迪网络">
+<meta name="keywords" content="凯迪,社区,凯迪网络,凯迪社区,南都报系,南都,深水区,猫眼看人,政治,时政,政经,新闻,思想,意见领袖,媒体,数据服务,数据分析,云情报,KCIS,欲知,百姓家谱,百姓家史,问卷宝,公共观察,舆情观察,奥一网">
+<meta name="description" content="南方报业传媒集团旗下凯迪网络始建于2000年，其凯迪社区已发展成为中国最具影响力、传播力、最大密度的 “意见领袖”社区之一。正致力于打造社会化媒体和数据服务两大创新平台。股票代码：832611">
+<meta name="copyright" content="凯迪网络版权所有" />
+<meta name='360_ssp_verify' content='038a0e28a698c0d42bd47f2c6f63d192' />
+<link rel="icon" href="//qc-static.kdnet.net/static/static/common/img/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="//qc-static.kdnet.net/static/static/common/img/favicon.ico" type="image/x-icon" />
+<script type="text/javascript">
+			var $CONFIG = {};
+			$CONFIG['a_host'] = 'http:\/\/cluster.kdnet.net';
+			$CONFIG['a_format'] = 'json';
+		</script>
+<script type="text/javascript">!function(a,b){if(!b.__SV){var c,d,e,f;window.dplus=b,b._i=[],b.init=function(a,c,d){function g(a,b){var c=b.split(".");2==c.length&&(a=a[c[0]],b=c[1]),a[b]=function(){a.push([b].concat(Array.prototype.slice.call(arguments,0)))}}var h=b;for("undefined"!=typeof d?h=b[d]=[]:d="dplus",h.people=h.people||[],h.toString=function(a){var b="dplus";return"dplus"!==d&&(b+="."+d),a||(b+=" (stub)"),b},h.people.toString=function(){return h.toString(1)+".people (stub)"},e="disable track track_links track_forms register unregister get_property identify clear set_config get_config get_distinct_id track_pageview register_once track_with_tag time_event people.set people.unset people.delete_user".split(" "),f=0;f<e.length;f++)g(h,e[f]);b._i.push([a,c,d])},b.__SV=1.1,c=a.createElement("script"),c.type="text/javascript",c.charset="utf-8",c.async=!0,c.src="//w.cnzz.com/dplus.php?id=1260004087",d=a.getElementsByTagName("script")[0],d.parentNode.insertBefore(c,d)}}(document,window.dplus||[]),dplus.init("1260004087");</script>
+<!--[if gte IE 9]>
+<script src="//qc-static.kdnet.net/static/static/common/libs/flexible/flexible.9cef59ac.js"></script>
+<![endif]-->
+
+
+
+<!--[if lt IE 9]>
+<script src="//qc-static.kdnet.net/static/static/common/js/html5shiv.min.831d9bca.js"></script>
+<script src="//qc-static.kdnet.net/static/static/common/js/respond.min.39981a39.js"></script>
+<![endif]-->
+<script type="text/javascript">
+			_atrk_opts = { atrk_acct:"qlI7j1a4ZP00wT", domain:"kdnet.net",dynamic: true};
+			(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+		</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=qlI7j1a4ZP00wT" style="display:none" height="1" width="1" alt="" /></noscript>
+<link rel="stylesheet" type="text/css" href="//qc-static.kdnet.net/static/static/common/pkg/common.43b90947.css"/><link rel="stylesheet" type="text/css" href="//qc-static.kdnet.net/static/static/common/libs/jquery-webui-popover/jquery.webui-popover.ace6c896.css"/></head>
+
+<body>
+
+<div class="c_error">
+<div class="img"><img src="//imgcdn.kdnet.net/resource/404.png" alt=""/></div>
+<div class="tit">
+<h2>喵呜，您访问的页面找不着了！</h2>
+<p>您可能输入了错误的网址，也可能该页面已经删除或移动。            如果您持续遇到这个错误，请到<a href="//club.kdnet.net/list.asp?boardid=13">【站务专区】</a>反馈。</p>
+<a href="javascript:history.go(-1);" class="btn btn-primary">返回</a>
+</div>
+<div class="footed">
+<a href="/">凯迪首页</a>
+<i>—</i>
+<a href="/club/list?boardid=13">站务专区</a>
+<i>—</i>
+<a href="http://user.kdnet.net/index.asp?userid=188">@凯迪网络</a>
+</div>
+</div>
+</body><script type="text/javascript" src="//qc-static.kdnet.net/static/static/common/pkg/common.7392a1ba.js"></script>
+<script type="text/javascript" src="//tracking.kdnet.net/about/log.js"></script>
+<script type="text/javascript">!function(){    if(location.host=='uc.kdnet.net'){
+        var _hmt_keys = "4584ffe9d9787c63971dee1a706a9df8";
+    }else{
+        var _hmt_keys = "86996f749ffad4ce6ea9c7b1ca3a0a77";
+    }
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?" + _hmt_keys;
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+}();
+!function(){
+    if ($.isFunction(window.tracking_log)) {
+        var tracking_starttime = 1558357996;
+        tracking_log();
+    }
+
+}();</script></html>
+
+<!DOCTYPE html>
+
+<html lang="zh-CN">
+
+<head>
+
+
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<meta property="qc:admins" content="15033067352456645346346546654" />
+<meta name = "format-detection" content = "telephone=no">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>凯迪网络 - 主流声音，全球知名华人网络互动媒体</title>
+<meta name="author" content="凯迪网络">
+<meta name="keywords" content="凯迪,社区,凯迪网络,凯迪社区,南都报系,南都,深水区,猫眼看人,政治,时政,政经,新闻,思想,意见领袖,媒体,数据服务,数据分析,云情报,KCIS,欲知,百姓家谱,百姓家史,问卷宝,公共观察,舆情观察,奥一网">
+<meta name="description" content="南方报业传媒集团旗下凯迪网络始建于2000年，其凯迪社区已发展成为中国最具影响力、传播力、最大密度的 “意见领袖”社区之一。正致力于打造社会化媒体和数据服务两大创新平台。股票代码：832611">
+<meta name="copyright" content="凯迪网络版权所有" />
+<meta name='360_ssp_verify' content='038a0e28a698c0d42bd47f2c6f63d192' />
+<link rel="icon" href="//qc-static.kdnet.net/static/static/common/img/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="//qc-static.kdnet.net/static/static/common/img/favicon.ico" type="image/x-icon" />
+<script type="text/javascript">
+			var $CONFIG = {};
+			$CONFIG['a_host'] = 'http:\/\/cluster.kdnet.net';
+			$CONFIG['a_format'] = 'json';
+		</script>
+<script type="text/javascript">!function(a,b){if(!b.__SV){var c,d,e,f;window.dplus=b,b._i=[],b.init=function(a,c,d){function g(a,b){var c=b.split(".");2==c.length&&(a=a[c[0]],b=c[1]),a[b]=function(){a.push([b].concat(Array.prototype.slice.call(arguments,0)))}}var h=b;for("undefined"!=typeof d?h=b[d]=[]:d="dplus",h.people=h.people||[],h.toString=function(a){var b="dplus";return"dplus"!==d&&(b+="."+d),a||(b+=" (stub)"),b},h.people.toString=function(){return h.toString(1)+".people (stub)"},e="disable track track_links track_forms register unregister get_property identify clear set_config get_config get_distinct_id track_pageview register_once track_with_tag time_event people.set people.unset people.delete_user".split(" "),f=0;f<e.length;f++)g(h,e[f]);b._i.push([a,c,d])},b.__SV=1.1,c=a.createElement("script"),c.type="text/javascript",c.charset="utf-8",c.async=!0,c.src="//w.cnzz.com/dplus.php?id=1260004087",d=a.getElementsByTagName("script")[0],d.parentNode.insertBefore(c,d)}}(document,window.dplus||[]),dplus.init("1260004087");</script>
+<!--[if gte IE 9]>
+<script src="//qc-static.kdnet.net/static/static/common/libs/flexible/flexible.9cef59ac.js"></script>
+<![endif]-->
+
+
+
+<!--[if lt IE 9]>
+<script src="//qc-static.kdnet.net/static/static/common/js/html5shiv.min.831d9bca.js"></script>
+<script src="//qc-static.kdnet.net/static/static/common/js/respond.min.39981a39.js"></script>
+<![endif]-->
+<script type="text/javascript">
+			_atrk_opts = { atrk_acct:"qlI7j1a4ZP00wT", domain:"kdnet.net",dynamic: true};
+			(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+		</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=qlI7j1a4ZP00wT" style="display:none" height="1" width="1" alt="" /></noscript>
+<link rel="stylesheet" type="text/css" href="//qc-static.kdnet.net/static/static/common/pkg/common.43b90947.css"/><link rel="stylesheet" type="text/css" href="//qc-static.kdnet.net/static/static/common/libs/jquery-webui-popover/jquery.webui-popover.ace6c896.css"/></head>
+
+<body>
+
+<div class="c_error">
+<div class="img"><img src="//imgcdn.kdnet.net/resource/404.png" alt=""/></div>
+<div class="tit">
+<h2>喵呜，您访问的页面找不着了！</h2>
+<p>您可能输入了错误的网址，也可能该页面已经删除或移动。            如果您持续遇到这个错误，请到<a href="//club.kdnet.net/list.asp?boardid=13">【站务专区】</a>反馈。</p>
+<a href="javascript:history.go(-1);" class="btn btn-primary">返回</a>
+</div>
+<div class="footed">
+<a href="/">凯迪首页</a>
+<i>—</i>
+<a href="/club/list?boardid=13">站务专区</a>
+<i>—</i>
+<a href="http://user.kdnet.net/index.asp?userid=188">@凯迪网络</a>
+</div>
+</div>
+</body><script type="text/javascript" src="//qc-static.kdnet.net/static/static/common/pkg/common.7392a1ba.js"></script>
+<script type="text/javascript" src="//tracking.kdnet.net/about/log.js"></script>
+<script type="text/javascript">!function(){    if(location.host=='uc.kdnet.net'){
+        var _hmt_keys = "4584ffe9d9787c63971dee1a706a9df8";
+    }else{
+        var _hmt_keys = "86996f749ffad4ce6ea9c7b1ca3a0a77";
+    }
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?" + _hmt_keys;
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+}();
+!function(){
+    if ($.isFunction(window.tracking_log)) {
+        var tracking_starttime = 1558358014;
+        tracking_log();
+    }
+
+}();</script></html>
+
+<!DOCTYPE html>
+
+<html lang="zh-CN">
+
+<head>
+
+
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<meta property="qc:admins" content="15033067352456645346346546654" />
+<meta name = "format-detection" content = "telephone=no">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>凯迪网络 - 主流声音，全球知名华人网络互动媒体</title>
+<meta name="author" content="凯迪网络">
+<meta name="keywords" content="凯迪,社区,凯迪网络,凯迪社区,南都报系,南都,深水区,猫眼看人,政治,时政,政经,新闻,思想,意见领袖,媒体,数据服务,数据分析,云情报,KCIS,欲知,百姓家谱,百姓家史,问卷宝,公共观察,舆情观察,奥一网">
+<meta name="description" content="南方报业传媒集团旗下凯迪网络始建于2000年，其凯迪社区已发展成为中国最具影响力、传播力、最大密度的 “意见领袖”社区之一。正致力于打造社会化媒体和数据服务两大创新平台。股票代码：832611">
+<meta name="copyright" content="凯迪网络版权所有" />
+<meta name='360_ssp_verify' content='038a0e28a698c0d42bd47f2c6f63d192' />
+<link rel="icon" href="//qc-static.kdnet.net/static/static/common/img/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="//qc-static.kdnet.net/static/static/common/img/favicon.ico" type="image/x-icon" />
+<script type="text/javascript">
+			var $CONFIG = {};
+			$CONFIG['a_host'] = 'http:\/\/cluster.kdnet.net';
+			$CONFIG['a_format'] = 'json';
+		</script>
+<script type="text/javascript">!function(a,b){if(!b.__SV){var c,d,e,f;window.dplus=b,b._i=[],b.init=function(a,c,d){function g(a,b){var c=b.split(".");2==c.length&&(a=a[c[0]],b=c[1]),a[b]=function(){a.push([b].concat(Array.prototype.slice.call(arguments,0)))}}var h=b;for("undefined"!=typeof d?h=b[d]=[]:d="dplus",h.people=h.people||[],h.toString=function(a){var b="dplus";return"dplus"!==d&&(b+="."+d),a||(b+=" (stub)"),b},h.people.toString=function(){return h.toString(1)+".people (stub)"},e="disable track track_links track_forms register unregister get_property identify clear set_config get_config get_distinct_id track_pageview register_once track_with_tag time_event people.set people.unset people.delete_user".split(" "),f=0;f<e.length;f++)g(h,e[f]);b._i.push([a,c,d])},b.__SV=1.1,c=a.createElement("script"),c.type="text/javascript",c.charset="utf-8",c.async=!0,c.src="//w.cnzz.com/dplus.php?id=1260004087",d=a.getElementsByTagName("script")[0],d.parentNode.insertBefore(c,d)}}(document,window.dplus||[]),dplus.init("1260004087");</script>
+<!--[if gte IE 9]>
+<script src="//qc-static.kdnet.net/static/static/common/libs/flexible/flexible.9cef59ac.js"></script>
+<![endif]-->
+
+
+
+<!--[if lt IE 9]>
+<script src="//qc-static.kdnet.net/static/static/common/js/html5shiv.min.831d9bca.js"></script>
+<script src="//qc-static.kdnet.net/static/static/common/js/respond.min.39981a39.js"></script>
+<![endif]-->
+<script type="text/javascript">
+			_atrk_opts = { atrk_acct:"qlI7j1a4ZP00wT", domain:"kdnet.net",dynamic: true};
+			(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+		</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=qlI7j1a4ZP00wT" style="display:none" height="1" width="1" alt="" /></noscript>
+<link rel="stylesheet" type="text/css" href="//qc-static.kdnet.net/static/static/common/pkg/common.43b90947.css"/><link rel="stylesheet" type="text/css" href="//qc-static.kdnet.net/static/static/common/libs/jquery-webui-popover/jquery.webui-popover.ace6c896.css"/></head>
+
+<body>
+
+<div class="c_error">
+<div class="img"><img src="//imgcdn.kdnet.net/resource/404.png" alt=""/></div>
+<div class="tit">
+<h2>喵呜，您访问的页面找不着了！</h2>
+<p>您可能输入了错误的网址，也可能该页面已经删除或移动。            如果您持续遇到这个错误，请到<a href="//club.kdnet.net/list.asp?boardid=13">【站务专区】</a>反馈。</p>
+<a href="javascript:history.go(-1);" class="btn btn-primary">返回</a>
+</div>
+<div class="footed">
+<a href="/">凯迪首页</a>
+<i>—</i>
+<a href="/club/list?boardid=13">站务专区</a>
+<i>—</i>
+<a href="http://user.kdnet.net/index.asp?userid=188">@凯迪网络</a>
+</div>
+</div>
+</body><script type="text/javascript" src="//qc-static.kdnet.net/static/static/common/pkg/common.7392a1ba.js"></script>
+<script type="text/javascript" src="//tracking.kdnet.net/about/log.js"></script>
+<script type="text/javascript">!function(){    if(location.host=='uc.kdnet.net'){
+        var _hmt_keys = "4584ffe9d9787c63971dee1a706a9df8";
+    }else{
+        var _hmt_keys = "86996f749ffad4ce6ea9c7b1ca3a0a77";
+    }
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?" + _hmt_keys;
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+}();
+!function(){
+    if ($.isFunction(window.tracking_log)) {
+        var tracking_starttime = 1558358018;
+        tracking_log();
+    }
+
+}();</script></html>
+
+<!DOCTYPE html>
+
+<html lang="zh-CN">
+
+<head>
+
+
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<meta property="qc:admins" content="15033067352456645346346546654" />
+<meta name = "format-detection" content = "telephone=no">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>凯迪网络 - 主流声音，全球知名华人网络互动媒体</title>
+<meta name="author" content="凯迪网络">
+<meta name="keywords" content="凯迪,社区,凯迪网络,凯迪社区,南都报系,南都,深水区,猫眼看人,政治,时政,政经,新闻,思想,意见领袖,媒体,数据服务,数据分析,云情报,KCIS,欲知,百姓家谱,百姓家史,问卷宝,公共观察,舆情观察,奥一网">
+<meta name="description" content="南方报业传媒集团旗下凯迪网络始建于2000年，其凯迪社区已发展成为中国最具影响力、传播力、最大密度的 “意见领袖”社区之一。正致力于打造社会化媒体和数据服务两大创新平台。股票代码：832611">
+<meta name="copyright" content="凯迪网络版权所有" />
+<meta name='360_ssp_verify' content='038a0e28a698c0d42bd47f2c6f63d192' />
+<link rel="icon" href="//qc-static.kdnet.net/static/static/common/img/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="//qc-static.kdnet.net/static/static/common/img/favicon.ico" type="image/x-icon" />
+<script type="text/javascript">
+			var $CONFIG = {};
+			$CONFIG['a_host'] = 'http:\/\/cluster.kdnet.net';
+			$CONFIG['a_format'] = 'json';
+		</script>
+<script type="text/javascript">!function(a,b){if(!b.__SV){var c,d,e,f;window.dplus=b,b._i=[],b.init=function(a,c,d){function g(a,b){var c=b.split(".");2==c.length&&(a=a[c[0]],b=c[1]),a[b]=function(){a.push([b].concat(Array.prototype.slice.call(arguments,0)))}}var h=b;for("undefined"!=typeof d?h=b[d]=[]:d="dplus",h.people=h.people||[],h.toString=function(a){var b="dplus";return"dplus"!==d&&(b+="."+d),a||(b+=" (stub)"),b},h.people.toString=function(){return h.toString(1)+".people (stub)"},e="disable track track_links track_forms register unregister get_property identify clear set_config get_config get_distinct_id track_pageview register_once track_with_tag time_event people.set people.unset people.delete_user".split(" "),f=0;f<e.length;f++)g(h,e[f]);b._i.push([a,c,d])},b.__SV=1.1,c=a.createElement("script"),c.type="text/javascript",c.charset="utf-8",c.async=!0,c.src="//w.cnzz.com/dplus.php?id=1260004087",d=a.getElementsByTagName("script")[0],d.parentNode.insertBefore(c,d)}}(document,window.dplus||[]),dplus.init("1260004087");</script>
+<!--[if gte IE 9]>
+<script src="//qc-static.kdnet.net/static/static/common/libs/flexible/flexible.9cef59ac.js"></script>
+<![endif]-->
+
+
+
+<!--[if lt IE 9]>
+<script src="//qc-static.kdnet.net/static/static/common/js/html5shiv.min.831d9bca.js"></script>
+<script src="//qc-static.kdnet.net/static/static/common/js/respond.min.39981a39.js"></script>
+<![endif]-->
+<script type="text/javascript">
+			_atrk_opts = { atrk_acct:"qlI7j1a4ZP00wT", domain:"kdnet.net",dynamic: true};
+			(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+		</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=qlI7j1a4ZP00wT" style="display:none" height="1" width="1" alt="" /></noscript>
+<link rel="stylesheet" type="text/css" href="//qc-static.kdnet.net/static/static/common/pkg/common.43b90947.css"/><link rel="stylesheet" type="text/css" href="//qc-static.kdnet.net/static/static/common/libs/jquery-webui-popover/jquery.webui-popover.ace6c896.css"/></head>
+
+<body>
+
+<div class="c_error">
+<div class="img"><img src="//imgcdn.kdnet.net/resource/404.png" alt=""/></div>
+<div class="tit">
+<h2>喵呜，您访问的页面找不着了！</h2>
+<p>您可能输入了错误的网址，也可能该页面已经删除或移动。            如果您持续遇到这个错误，请到<a href="//club.kdnet.net/list.asp?boardid=13">【站务专区】</a>反馈。</p>
+<a href="javascript:history.go(-1);" class="btn btn-primary">返回</a>
+</div>
+<div class="footed">
+<a href="/">凯迪首页</a>
+<i>—</i>
+<a href="/club/list?boardid=13">站务专区</a>
+<i>—</i>
+<a href="http://user.kdnet.net/index.asp?userid=188">@凯迪网络</a>
+</div>
+</div>
+</body><script type="text/javascript" src="//qc-static.kdnet.net/static/static/common/pkg/common.7392a1ba.js"></script>
+<script type="text/javascript" src="//tracking.kdnet.net/about/log.js"></script>
+<script type="text/javascript">!function(){    if(location.host=='uc.kdnet.net'){
+        var _hmt_keys = "4584ffe9d9787c63971dee1a706a9df8";
+    }else{
+        var _hmt_keys = "86996f749ffad4ce6ea9c7b1ca3a0a77";
+    }
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?" + _hmt_keys;
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+}();
+!function(){
+    if ($.isFunction(window.tracking_log)) {
+        var tracking_starttime = 1558358094;
+        tracking_log();
+    }
+
+}();</script></html>
+
+<!DOCTYPE html>
+
+<html lang="zh-CN">
+
+<head>
+
+
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<meta property="qc:admins" content="15033067352456645346346546654" />
+<meta name = "format-detection" content = "telephone=no">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>凯迪网络 - 主流声音，全球知名华人网络互动媒体</title>
+<meta name="author" content="凯迪网络">
+<meta name="keywords" content="凯迪,社区,凯迪网络,凯迪社区,南都报系,南都,深水区,猫眼看人,政治,时政,政经,新闻,思想,意见领袖,媒体,数据服务,数据分析,云情报,KCIS,欲知,百姓家谱,百姓家史,问卷宝,公共观察,舆情观察,奥一网">
+<meta name="description" content="南方报业传媒集团旗下凯迪网络始建于2000年，其凯迪社区已发展成为中国最具影响力、传播力、最大密度的 “意见领袖”社区之一。正致力于打造社会化媒体和数据服务两大创新平台。股票代码：832611">
+<meta name="copyright" content="凯迪网络版权所有" />
+<meta name='360_ssp_verify' content='038a0e28a698c0d42bd47f2c6f63d192' />
+<link rel="icon" href="//qc-static.kdnet.net/static/static/common/img/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="//qc-static.kdnet.net/static/static/common/img/favicon.ico" type="image/x-icon" />
+<script type="text/javascript">
+			var $CONFIG = {};
+			$CONFIG['a_host'] = 'http:\/\/cluster.kdnet.net';
+			$CONFIG['a_format'] = 'json';
+		</script>
+<script type="text/javascript">!function(a,b){if(!b.__SV){var c,d,e,f;window.dplus=b,b._i=[],b.init=function(a,c,d){function g(a,b){var c=b.split(".");2==c.length&&(a=a[c[0]],b=c[1]),a[b]=function(){a.push([b].concat(Array.prototype.slice.call(arguments,0)))}}var h=b;for("undefined"!=typeof d?h=b[d]=[]:d="dplus",h.people=h.people||[],h.toString=function(a){var b="dplus";return"dplus"!==d&&(b+="."+d),a||(b+=" (stub)"),b},h.people.toString=function(){return h.toString(1)+".people (stub)"},e="disable track track_links track_forms register unregister get_property identify clear set_config get_config get_distinct_id track_pageview register_once track_with_tag time_event people.set people.unset people.delete_user".split(" "),f=0;f<e.length;f++)g(h,e[f]);b._i.push([a,c,d])},b.__SV=1.1,c=a.createElement("script"),c.type="text/javascript",c.charset="utf-8",c.async=!0,c.src="//w.cnzz.com/dplus.php?id=1260004087",d=a.getElementsByTagName("script")[0],d.parentNode.insertBefore(c,d)}}(document,window.dplus||[]),dplus.init("1260004087");</script>
+<!--[if gte IE 9]>
+<script src="//qc-static.kdnet.net/static/static/common/libs/flexible/flexible.9cef59ac.js"></script>
+<![endif]-->
+
+
+
+<!--[if lt IE 9]>
+<script src="//qc-static.kdnet.net/static/static/common/js/html5shiv.min.831d9bca.js"></script>
+<script src="//qc-static.kdnet.net/static/static/common/js/respond.min.39981a39.js"></script>
+<![endif]-->
+<script type="text/javascript">
+			_atrk_opts = { atrk_acct:"qlI7j1a4ZP00wT", domain:"kdnet.net",dynamic: true};
+			(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+		</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=qlI7j1a4ZP00wT" style="display:none" height="1" width="1" alt="" /></noscript>
+<link rel="stylesheet" type="text/css" href="//qc-static.kdnet.net/static/static/common/pkg/common.43b90947.css"/><link rel="stylesheet" type="text/css" href="//qc-static.kdnet.net/static/static/common/libs/jquery-webui-popover/jquery.webui-popover.ace6c896.css"/></head>
+
+<body>
+
+<div class="c_error">
+<div class="img"><img src="//imgcdn.kdnet.net/resource/404.png" alt=""/></div>
+<div class="tit">
+<h2>喵呜，您访问的页面找不着了！</h2>
+<p>您可能输入了错误的网址，也可能该页面已经删除或移动。            如果您持续遇到这个错误，请到<a href="//club.kdnet.net/list.asp?boardid=13">【站务专区】</a>反馈。</p>
+<a href="javascript:history.go(-1);" class="btn btn-primary">返回</a>
+</div>
+<div class="footed">
+<a href="/">凯迪首页</a>
+<i>—</i>
+<a href="/club/list?boardid=13">站务专区</a>
+<i>—</i>
+<a href="http://user.kdnet.net/index.asp?userid=188">@凯迪网络</a>
+</div>
+</div>
+</body><script type="text/javascript" src="//qc-static.kdnet.net/static/static/common/pkg/common.7392a1ba.js"></script>
+<script type="text/javascript" src="//tracking.kdnet.net/about/log.js"></script>
+<script type="text/javascript">!function(){    if(location.host=='uc.kdnet.net'){
+        var _hmt_keys = "4584ffe9d9787c63971dee1a706a9df8";
+    }else{
+        var _hmt_keys = "86996f749ffad4ce6ea9c7b1ca3a0a77";
+    }
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?" + _hmt_keys;
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+}();
+!function(){
+    if ($.isFunction(window.tracking_log)) {
+        var tracking_starttime = 1558358028;
+        tracking_log();
+    }
+
+}();</script></html>
+
+<!DOCTYPE html>
+
+<html lang="zh-CN">
+
+<head>
+
+
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<meta property="qc:admins" content="15033067352456645346346546654" />
+<meta name = "format-detection" content = "telephone=no">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>凯迪网络 - 主流声音，全球知名华人网络互动媒体</title>
+<meta name="author" content="凯迪网络">
+<meta name="keywords" content="凯迪,社区,凯迪网络,凯迪社区,南都报系,南都,深水区,猫眼看人,政治,时政,政经,新闻,思想,意见领袖,媒体,数据服务,数据分析,云情报,KCIS,欲知,百姓家谱,百姓家史,问卷宝,公共观察,舆情观察,奥一网">
+<meta name="description" content="南方报业传媒集团旗下凯迪网络始建于2000年，其凯迪社区已发展成为中国最具影响力、传播力、最大密度的 “意见领袖”社区之一。正致力于打造社会化媒体和数据服务两大创新平台。股票代码：832611">
+<meta name="copyright" content="凯迪网络版权所有" />
+<meta name='360_ssp_verify' content='038a0e28a698c0d42bd47f2c6f63d192' />
+<link rel="icon" href="//qc-static.kdnet.net/static/static/common/img/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="//qc-static.kdnet.net/static/static/common/img/favicon.ico" type="image/x-icon" />
+<script type="text/javascript">
+			var $CONFIG = {};
+			$CONFIG['a_host'] = 'http:\/\/cluster.kdnet.net';
+			$CONFIG['a_format'] = 'json';
+		</script>
+<script type="text/javascript">!function(a,b){if(!b.__SV){var c,d,e,f;window.dplus=b,b._i=[],b.init=function(a,c,d){function g(a,b){var c=b.split(".");2==c.length&&(a=a[c[0]],b=c[1]),a[b]=function(){a.push([b].concat(Array.prototype.slice.call(arguments,0)))}}var h=b;for("undefined"!=typeof d?h=b[d]=[]:d="dplus",h.people=h.people||[],h.toString=function(a){var b="dplus";return"dplus"!==d&&(b+="."+d),a||(b+=" (stub)"),b},h.people.toString=function(){return h.toString(1)+".people (stub)"},e="disable track track_links track_forms register unregister get_property identify clear set_config get_config get_distinct_id track_pageview register_once track_with_tag time_event people.set people.unset people.delete_user".split(" "),f=0;f<e.length;f++)g(h,e[f]);b._i.push([a,c,d])},b.__SV=1.1,c=a.createElement("script"),c.type="text/javascript",c.charset="utf-8",c.async=!0,c.src="//w.cnzz.com/dplus.php?id=1260004087",d=a.getElementsByTagName("script")[0],d.parentNode.insertBefore(c,d)}}(document,window.dplus||[]),dplus.init("1260004087");</script>
+<!--[if gte IE 9]>
+<script src="//qc-static.kdnet.net/static/static/common/libs/flexible/flexible.9cef59ac.js"></script>
+<![endif]-->
+
+
+
+<!--[if lt IE 9]>
+<script src="//qc-static.kdnet.net/static/static/common/js/html5shiv.min.831d9bca.js"></script>
+<script src="//qc-static.kdnet.net/static/static/common/js/respond.min.39981a39.js"></script>
+<![endif]-->
+<script type="text/javascript">
+			_atrk_opts = { atrk_acct:"qlI7j1a4ZP00wT", domain:"kdnet.net",dynamic: true};
+			(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+		</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=qlI7j1a4ZP00wT" style="display:none" height="1" width="1" alt="" /></noscript>
+<link rel="stylesheet" type="text/css" href="//qc-static.kdnet.net/static/static/common/pkg/common.43b90947.css"/><link rel="stylesheet" type="text/css" href="//qc-static.kdnet.net/static/static/common/libs/jquery-webui-popover/jquery.webui-popover.ace6c896.css"/></head>
+
+<body>
+
+<div class="c_error">
+<div class="img"><img src="//imgcdn.kdnet.net/resource/404.png" alt=""/></div>
+<div class="tit">
+<h2>喵呜，您访问的页面找不着了！</h2>
+<p>您可能输入了错误的网址，也可能该页面已经删除或移动。            如果您持续遇到这个错误，请到<a href="//club.kdnet.net/list.asp?boardid=13">【站务专区】</a>反馈。</p>
+<a href="javascript:history.go(-1);" class="btn btn-primary">返回</a>
+</div>
+<div class="footed">
+<a href="/">凯迪首页</a>
+<i>—</i>
+<a href="/club/list?boardid=13">站务专区</a>
+<i>—</i>
+<a href="http://user.kdnet.net/index.asp?userid=188">@凯迪网络</a>
+</div>
+</div>
+</body><script type="text/javascript" src="//qc-static.kdnet.net/static/static/common/pkg/common.7392a1ba.js"></script>
+<script type="text/javascript" src="//tracking.kdnet.net/about/log.js"></script>
+<script type="text/javascript">!function(){    if(location.host=='uc.kdnet.net'){
+        var _hmt_keys = "4584ffe9d9787c63971dee1a706a9df8";
+    }else{
+        var _hmt_keys = "86996f749ffad4ce6ea9c7b1ca3a0a77";
+    }
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?" + _hmt_keys;
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+}();
+!function(){
+    if ($.isFunction(window.tracking_log)) {
+        var tracking_starttime = 1558358031;
+        tracking_log();
+    }
+
+}();</script></html>
+
+<!DOCTYPE html>
+
+<html lang="zh-CN">
+
+<head>
+
+
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<meta property="qc:admins" content="15033067352456645346346546654" />
+<meta name = "format-detection" content = "telephone=no">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>凯迪网络 - 主流声音，全球知名华人网络互动媒体</title>
+<meta name="author" content="凯迪网络">
+<meta name="keywords" content="凯迪,社区,凯迪网络,凯迪社区,南都报系,南都,深水区,猫眼看人,政治,时政,政经,新闻,思想,意见领袖,媒体,数据服务,数据分析,云情报,KCIS,欲知,百姓家谱,百姓家史,问卷宝,公共观察,舆情观察,奥一网">
+<meta name="description" content="南方报业传媒集团旗下凯迪网络始建于2000年，其凯迪社区已发展成为中国最具影响力、传播力、最大密度的 “意见领袖”社区之一。正致力于打造社会化媒体和数据服务两大创新平台。股票代码：832611">
+<meta name="copyright" content="凯迪网络版权所有" />
+<meta name='360_ssp_verify' content='038a0e28a698c0d42bd47f2c6f63d192' />
+<link rel="icon" href="//qc-static.kdnet.net/static/static/common/img/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="//qc-static.kdnet.net/static/static/common/img/favicon.ico" type="image/x-icon" />
+<script type="text/javascript">
+			var $CONFIG = {};
+			$CONFIG['a_host'] = 'http:\/\/cluster.kdnet.net';
+			$CONFIG['a_format'] = 'json';
+		</script>
+<script type="text/javascript">!function(a,b){if(!b.__SV){var c,d,e,f;window.dplus=b,b._i=[],b.init=function(a,c,d){function g(a,b){var c=b.split(".");2==c.length&&(a=a[c[0]],b=c[1]),a[b]=function(){a.push([b].concat(Array.prototype.slice.call(arguments,0)))}}var h=b;for("undefined"!=typeof d?h=b[d]=[]:d="dplus",h.people=h.people||[],h.toString=function(a){var b="dplus";return"dplus"!==d&&(b+="."+d),a||(b+=" (stub)"),b},h.people.toString=function(){return h.toString(1)+".people (stub)"},e="disable track track_links track_forms register unregister get_property identify clear set_config get_config get_distinct_id track_pageview register_once track_with_tag time_event people.set people.unset people.delete_user".split(" "),f=0;f<e.length;f++)g(h,e[f]);b._i.push([a,c,d])},b.__SV=1.1,c=a.createElement("script"),c.type="text/javascript",c.charset="utf-8",c.async=!0,c.src="//w.cnzz.com/dplus.php?id=1260004087",d=a.getElementsByTagName("script")[0],d.parentNode.insertBefore(c,d)}}(document,window.dplus||[]),dplus.init("1260004087");</script>
+<!--[if gte IE 9]>
+<script src="//qc-static.kdnet.net/static/static/common/libs/flexible/flexible.9cef59ac.js"></script>
+<![endif]-->
+
+
+
+<!--[if lt IE 9]>
+<script src="//qc-static.kdnet.net/static/static/common/js/html5shiv.min.831d9bca.js"></script>
+<script src="//qc-static.kdnet.net/static/static/common/js/respond.min.39981a39.js"></script>
+<![endif]-->
+<script type="text/javascript">
+			_atrk_opts = { atrk_acct:"qlI7j1a4ZP00wT", domain:"kdnet.net",dynamic: true};
+			(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+		</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=qlI7j1a4ZP00wT" style="display:none" height="1" width="1" alt="" /></noscript>
+<link rel="stylesheet" type="text/css" href="//qc-static.kdnet.net/static/static/common/pkg/common.43b90947.css"/><link rel="stylesheet" type="text/css" href="//qc-static.kdnet.net/static/static/common/libs/jquery-webui-popover/jquery.webui-popover.ace6c896.css"/><link rel="stylesheet" type="text/css" href="//qc-static.kdnet.net/static/static/home/home.417f4939.css"/></head>
+
+<body>
+
+<div class="header-layout">
+<div class="header">
+<a class="kd-logo" href="http://www.kdnet.net">
+<img src="//qc-static.kdnet.net/static/static/home/img/logo.e2694c41.png" />
+</a>
+<ul class="moremenu-list">
+<li>
+<a href="//club.kdnet.net">社区</a>
+</li>
+<li>
+<a target="_blank" href="http://school.kdnet.net">凯迪小学</a>
+</li>
+<li>
+<a target="_blank" href="http://game.kdnet.net">凯迪游戏</a>
+</li>
+<li>
+<a target="_blank" href="http://music.kdnet.net/">凯迪音乐</a>
+</li>
+</ul>
+<div class="pull-right">
+<div class="search-wrap">
+<form class="search-form" action="http://search.kdnet.net/" target="_blank">
+<input type="text" class="form-control" placeholder="" value="" name="q">
+<button class="btn btn-default" type="submit"><i class="fa fa-search"></i></button>
+</form>
+</div>
+<ul class="nav navbar-nav login-nav">
+<li><a id="login" href="javascript:void(0);">登录</a></li>
+<li><a href="http://uc.kdnet.net/#formRegister">注册</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="shortcut-wrap">
+<div class="shortcut">
+<div class="pull-left">
+<ul class="shortcut-list">
+<li><em>社区快捷入口：</em></li>
+<li class="hover" id="shortcut-show">
+<a>更多版块<em class="fa fa-caret-down"></em></a>
+</li>
+</ul>
+</div>
+<div class="shortcut-right">
+<img src="//qc-static.kdnet.net/static/static/home/img/slogan_2x.810e56d0.png" />
+</div>
+<div class="shortcut-more" id="shortcut-more">
+</div>
+</div>
+</div>
+<div class="homeMore">
+<h2>金融能源</h2>
+<ul class="ul">
+<li><b>·</b><a href="http://club.kdnet.net/dispbbs.asp?id=13293532&boardid=3&replyid=13293532&page=1&1=1#13293532">新青年消费主义</a><span class="date">(2019-05-20 20:01:44)</span></li>
+<li><b>·</b><a href="http://club.kdnet.net/dispbbs.asp?boardid=3&id=13293524">中国是否考虑通过限制稀土出口来反制美国？</a><span class="date">(2019-05-20 19:57:36)</span></li>
+<li><b>·</b><a href="http://club.kdnet.net/dispbbs.asp?id=13293042&boardid=3">“断供”华为的背后，谁将遭遇重创？</a><span class="date">(2019-05-20 19:52:08)</span></li>
+<li><b>·</b><a href="http://club.kdnet.net/dispbbs.asp?boardid=3&id=13293134">谷歌回应“暂停与华为部分业务往来”</a><span class="date">(2019-05-20 18:39:42)</span></li>
+<li><b>·</b><a href="http://club.kdnet.net/dispbbs.asp?id=13293378&boardid=1">鏖战腾讯、御敌百度！张一鸣的帝王野心！</a><span class="date">(2019-05-20 18:33:04)</span></li>
+<li><b>·</b><a href="http://club.kdnet.net/dispbbs.asp?id=13287499&boardid=1">美国第二大城市洛杉矶，相当于我国几线城市</a><span class="date">(2019-05-19 19:01:36)</span></li>
+<li><b>·</b><a href="http://club.kdnet.net/dispbbs.asp?id=13292089&boardid=3">12位中年程序员：收入虽高前途摇摆</a><span class="date">(2019-05-19 19:01:08)</span></li>
+<li><b>·</b><a href="http://club.kdnet.net/dispbbs.asp?id=13292084&boardid=3">在美国，有多少钱才能被称为“有钱人”？</a><span class="date">(2019-05-19 19:00:44)</span></li>
+<li><b>·</b><a href="http://club.kdnet.net/dispbbs.asp?id=13292079&boardid=3">老百姓养殖小龙虾到底赚不赚钱？</a><span class="date">(2019-05-19 19:00:31)</span></li>
+<li><b>·</b><a href="http://club.kdnet.net/dispbbs.asp?id=13292096&boardid=3">那些负债几百万的人，每天都是怎么度过的？</a><span class="date">(2019-05-19 19:00:18)</span></li>
+<li><b>·</b><a href="http://club.kdnet.net/dispbbs.asp?id=13290160&boardid=3">百度报告上市后首次亏损</a><span class="date">(2019-05-18 01:25:08)</span></li>
+<li><b>·</b><a href="http://club.kdnet.net/dispbbs.asp?id=13290239&boardid=3">从今天起，关心水果和蔬菜…的价格</a><span class="date">(2019-05-18 01:22:30)</span></li>
+<li><b>·</b><a href="http://club.kdnet.net/dispbbs.asp?id=13290245&boardid=3">前腾讯员工自述：月薪没有达7万，但收获不止薪水</a><span class="date">(2019-05-18 01:21:48)</span></li>
+<li><b>·</b><a href="http://club.kdnet.net/dispbbs.asp?id=13290251&boardid=3">假如40岁时会被裁员，从现在开始你会怎么</a><span class="date">(2019-05-18 01:21:01)</span></li>
+</ul>
+<form class="c_pager">
+<span class="numInfo">共3355个记录，页次1/240页</span>
+<a href="javascript:void(0);" class="btn btn-default prev disabled"><i class="fa fa-chevron-left"></i>上一页</a>
+<a href="/site/more?id=5&page=2" class="btn btn-default next">下一页<i class="fa fa-chevron-right"></i></a>
+<div class="input-group">
+<input type="text" class="form-control" id="page_input">
+<button type="submit" class="btn btn-primary page_button" action-uri="/site/more?id=5&page=%d">GO</button>
+</div>
+</form>
+</div>
+</body><script type="text/javascript" src="//qc-static.kdnet.net/static/static/common/pkg/common.7392a1ba.js"></script>
+<script type="text/javascript" src="//tracking.kdnet.net/about/log.js"></script>
+<script type="text/javascript" src="//qc-static.kdnet.net/static/static/home/pkg/home.72793e9d.js"></script>
+<script type="text/javascript">!function(){    if(location.host=='uc.kdnet.net'){
+        var _hmt_keys = "4584ffe9d9787c63971dee1a706a9df8";
+    }else{
+        var _hmt_keys = "86996f749ffad4ce6ea9c7b1ca3a0a77";
+    }
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?" + _hmt_keys;
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+}();
+!function(){
+    if ($.isFunction(window.tracking_log)) {
+        var tracking_starttime = 1558358061;
+        tracking_log();
+    }
+
+}();
+!function(){require("home:widget/header/header.js").init();
+}();
+!function(){	require("home:widget/shortcut/shortcut.js").init();
+}();
+!function(){
+require('home:widget/pager/pager.js').init(240);
+
+}();</script></html>
+
+<!DOCTYPE html>
+
+<html lang="zh-CN">
+
+<head>
+
+
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<meta property="qc:admins" content="15033067352456645346346546654" />
+<meta name = "format-detection" content = "telephone=no">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>凯迪网络 - 主流声音，全球知名华人网络互动媒体</title>
+<meta name="author" content="凯迪网络">
+<meta name="keywords" content="凯迪,社区,凯迪网络,凯迪社区,南都报系,南都,深水区,猫眼看人,政治,时政,政经,新闻,思想,意见领袖,媒体,数据服务,数据分析,云情报,KCIS,欲知,百姓家谱,百姓家史,问卷宝,公共观察,舆情观察,奥一网">
+<meta name="description" content="南方报业传媒集团旗下凯迪网络始建于2000年，其凯迪社区已发展成为中国最具影响力、传播力、最大密度的 “意见领袖”社区之一。正致力于打造社会化媒体和数据服务两大创新平台。股票代码：832611">
+<meta name="copyright" content="凯迪网络版权所有" />
+<meta name='360_ssp_verify' content='038a0e28a698c0d42bd47f2c6f63d192' />
+<link rel="icon" href="//qc-static.kdnet.net/static/static/common/img/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="//qc-static.kdnet.net/static/static/common/img/favicon.ico" type="image/x-icon" />
+<script type="text/javascript">
+			var $CONFIG = {};
+			$CONFIG['a_host'] = 'http:\/\/cluster.kdnet.net';
+			$CONFIG['a_format'] = 'json';
+		</script>
+<script type="text/javascript">!function(a,b){if(!b.__SV){var c,d,e,f;window.dplus=b,b._i=[],b.init=function(a,c,d){function g(a,b){var c=b.split(".");2==c.length&&(a=a[c[0]],b=c[1]),a[b]=function(){a.push([b].concat(Array.prototype.slice.call(arguments,0)))}}var h=b;for("undefined"!=typeof d?h=b[d]=[]:d="dplus",h.people=h.people||[],h.toString=function(a){var b="dplus";return"dplus"!==d&&(b+="."+d),a||(b+=" (stub)"),b},h.people.toString=function(){return h.toString(1)+".people (stub)"},e="disable track track_links track_forms register unregister get_property identify clear set_config get_config get_distinct_id track_pageview register_once track_with_tag time_event people.set people.unset people.delete_user".split(" "),f=0;f<e.length;f++)g(h,e[f]);b._i.push([a,c,d])},b.__SV=1.1,c=a.createElement("script"),c.type="text/javascript",c.charset="utf-8",c.async=!0,c.src="//w.cnzz.com/dplus.php?id=1260004087",d=a.getElementsByTagName("script")[0],d.parentNode.insertBefore(c,d)}}(document,window.dplus||[]),dplus.init("1260004087");</script>
+<!--[if gte IE 9]>
+<script src="//qc-static.kdnet.net/static/static/common/libs/flexible/flexible.9cef59ac.js"></script>
+<![endif]-->
+
+
+
+<!--[if lt IE 9]>
+<script src="//qc-static.kdnet.net/static/static/common/js/html5shiv.min.831d9bca.js"></script>
+<script src="//qc-static.kdnet.net/static/static/common/js/respond.min.39981a39.js"></script>
+<![endif]-->
+<script type="text/javascript">
+			_atrk_opts = { atrk_acct:"qlI7j1a4ZP00wT", domain:"kdnet.net",dynamic: true};
+			(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+		</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=qlI7j1a4ZP00wT" style="display:none" height="1" width="1" alt="" /></noscript>
+<link rel="stylesheet" type="text/css" href="//qc-static.kdnet.net/static/static/common/pkg/common.43b90947.css"/><link rel="stylesheet" type="text/css" href="//qc-static.kdnet.net/static/static/common/libs/jquery-webui-popover/jquery.webui-popover.ace6c896.css"/></head>
+
+<body>
+
+<div class="c_error">
+<div class="img"><img src="//imgcdn.kdnet.net/resource/404.png" alt=""/></div>
+<div class="tit">
+<h2>喵呜，您访问的页面找不着了！</h2>
+<p>您可能输入了错误的网址，也可能该页面已经删除或移动。            如果您持续遇到这个错误，请到<a href="//club.kdnet.net/list.asp?boardid=13">【站务专区】</a>反馈。</p>
+<a href="javascript:history.go(-1);" class="btn btn-primary">返回</a>
+</div>
+<div class="footed">
+<a href="/">凯迪首页</a>
+<i>—</i>
+<a href="/club/list?boardid=13">站务专区</a>
+<i>—</i>
+<a href="http://user.kdnet.net/index.asp?userid=188">@凯迪网络</a>
+</div>
+</div>
+</body><script type="text/javascript" src="//qc-static.kdnet.net/static/static/common/pkg/common.7392a1ba.js"></script>
+<script type="text/javascript" src="//tracking.kdnet.net/about/log.js"></script>
+<script type="text/javascript">!function(){    if(location.host=='uc.kdnet.net'){
+        var _hmt_keys = "4584ffe9d9787c63971dee1a706a9df8";
+    }else{
+        var _hmt_keys = "86996f749ffad4ce6ea9c7b1ca3a0a77";
+    }
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?" + _hmt_keys;
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+}();
+!function(){
+    if ($.isFunction(window.tracking_log)) {
+        var tracking_starttime = 1558358083;
+        tracking_log();
+    }
+
+}();</script></html>
+
+<!DOCTYPE html>
+
+<html lang="zh-CN">
+
+<head>
+
+
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<meta property="qc:admins" content="15033067352456645346346546654" />
+<meta name = "format-detection" content = "telephone=no">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>凯迪网络 - 主流声音，全球知名华人网络互动媒体</title>
+<meta name="author" content="凯迪网络">
+<meta name="keywords" content="凯迪,社区,凯迪网络,凯迪社区,南都报系,南都,深水区,猫眼看人,政治,时政,政经,新闻,思想,意见领袖,媒体,数据服务,数据分析,云情报,KCIS,欲知,百姓家谱,百姓家史,问卷宝,公共观察,舆情观察,奥一网">
+<meta name="description" content="南方报业传媒集团旗下凯迪网络始建于2000年，其凯迪社区已发展成为中国最具影响力、传播力、最大密度的 “意见领袖”社区之一。正致力于打造社会化媒体和数据服务两大创新平台。股票代码：832611">
+<meta name="copyright" content="凯迪网络版权所有" />
+<meta name='360_ssp_verify' content='038a0e28a698c0d42bd47f2c6f63d192' />
+<link rel="icon" href="//qc-static.kdnet.net/static/static/common/img/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="//qc-static.kdnet.net/static/static/common/img/favicon.ico" type="image/x-icon" />
+<script type="text/javascript">
+			var $CONFIG = {};
+			$CONFIG['a_host'] = 'http:\/\/cluster.kdnet.net';
+			$CONFIG['a_format'] = 'json';
+		</script>
+<script type="text/javascript">!function(a,b){if(!b.__SV){var c,d,e,f;window.dplus=b,b._i=[],b.init=function(a,c,d){function g(a,b){var c=b.split(".");2==c.length&&(a=a[c[0]],b=c[1]),a[b]=function(){a.push([b].concat(Array.prototype.slice.call(arguments,0)))}}var h=b;for("undefined"!=typeof d?h=b[d]=[]:d="dplus",h.people=h.people||[],h.toString=function(a){var b="dplus";return"dplus"!==d&&(b+="."+d),a||(b+=" (stub)"),b},h.people.toString=function(){return h.toString(1)+".people (stub)"},e="disable track track_links track_forms register unregister get_property identify clear set_config get_config get_distinct_id track_pageview register_once track_with_tag time_event people.set people.unset people.delete_user".split(" "),f=0;f<e.length;f++)g(h,e[f]);b._i.push([a,c,d])},b.__SV=1.1,c=a.createElement("script"),c.type="text/javascript",c.charset="utf-8",c.async=!0,c.src="//w.cnzz.com/dplus.php?id=1260004087",d=a.getElementsByTagName("script")[0],d.parentNode.insertBefore(c,d)}}(document,window.dplus||[]),dplus.init("1260004087");</script>
+<!--[if gte IE 9]>
+<script src="//qc-static.kdnet.net/static/static/common/libs/flexible/flexible.9cef59ac.js"></script>
+<![endif]-->
+
+
+
+<!--[if lt IE 9]>
+<script src="//qc-static.kdnet.net/static/static/common/js/html5shiv.min.831d9bca.js"></script>
+<script src="//qc-static.kdnet.net/static/static/common/js/respond.min.39981a39.js"></script>
+<![endif]-->
+<script type="text/javascript">
+			_atrk_opts = { atrk_acct:"qlI7j1a4ZP00wT", domain:"kdnet.net",dynamic: true};
+			(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+		</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=qlI7j1a4ZP00wT" style="display:none" height="1" width="1" alt="" /></noscript>
+<link rel="stylesheet" type="text/css" href="//qc-static.kdnet.net/static/static/common/pkg/common.43b90947.css"/><link rel="stylesheet" type="text/css" href="//qc-static.kdnet.net/static/static/common/libs/jquery-webui-popover/jquery.webui-popover.ace6c896.css"/></head>
+
+<body>
+
+<div class="c_error">
+<div class="img"><img src="//imgcdn.kdnet.net/resource/404.png" alt=""/></div>
+<div class="tit">
+<h2>喵呜，您访问的页面找不着了！</h2>
+<p>您可能输入了错误的网址，也可能该页面已经删除或移动。            如果您持续遇到这个错误，请到<a href="//club.kdnet.net/list.asp?boardid=13">【站务专区】</a>反馈。</p>
+<a href="javascript:history.go(-1);" class="btn btn-primary">返回</a>
+</div>
+<div class="footed">
+<a href="/">凯迪首页</a>
+<i>—</i>
+<a href="/club/list?boardid=13">站务专区</a>
+<i>—</i>
+<a href="http://user.kdnet.net/index.asp?userid=188">@凯迪网络</a>
+</div>
+</div>
+</body><script type="text/javascript" src="//qc-static.kdnet.net/static/static/common/pkg/common.7392a1ba.js"></script>
+<script type="text/javascript" src="//tracking.kdnet.net/about/log.js"></script>
+<script type="text/javascript">!function(){    if(location.host=='uc.kdnet.net'){
+        var _hmt_keys = "4584ffe9d9787c63971dee1a706a9df8";
+    }else{
+        var _hmt_keys = "86996f749ffad4ce6ea9c7b1ca3a0a77";
+    }
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?" + _hmt_keys;
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+}();
+!function(){
+    if ($.isFunction(window.tracking_log)) {
+        var tracking_starttime = 1558358143;
+        tracking_log();
+    }
+
+}();</script></html>
+

@@ -1,0 +1,2011 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="keywords" content="就业,学信就业,就业杂志,高校就业,校园招聘GPS">
+<meta name="description" content='教育部"学信就业"平台是为用人单位招聘大学毕业生所提供的一个校园招聘网络平台。在普通招聘模式的基础上，还提供了校园招聘三步骤服务模式，从学科专业角度科学指导用人单位筛选目标高校，并通过平台与各高校之间的定向信息通道，将招聘信息迅速有效地传递到目标高校的毕业生，达到招聘职位在平台单点发布、定向覆盖的效果，从而构建起畅通有效的全国网络校园招聘一体化服务体系。'>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>校园招聘GPS_学信就业</title>
+<link rel="icon" href="favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+<link href="/css/2012common.css" rel="stylesheet" type="text/css" />
+<link href="/css/2012header.css" rel="stylesheet" type="text/css" />
+
+<script src="https://t1.chei.com.cn/common/js/boomerang-min-20141211.js" type="text/javascript"></script>
+<script type="text/javascript">
+BOOMR.init({ 
+beacon_url: "https://www.chsi.com.cn/images/perf.gif", 
+DNS:{ 
+base_url: "http://*.chdi.com.cn/images/" 
+} 
+});
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-100524-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body style="padding:0;">
+<style>
+/*顶部*/
+.t_top_nav{border-top:3px solid #3e84ca; border-bottom:1px solid #ccc; height:35px; line-height:35px; font-size:12px; min-width:1000px; overflow:hidden; background-color:#f1f1f1; margin-bottom:5px;}
+.width1000{ width:1000px;  margin:0 auto;}
+.t_top_nav_l{width:750px; float:left; display:inline;}
+.t_top_nav_r{width:240px; float:left; display:inline; text-align:right;}
+.clearit{ font-size:0; clear:both;}
+.wrap{ margin-top:10px;}
+</style>
+
+
+
+<div class="wrap">
+
+
+
+<!--  top_header  start-->
+<div class="top_header" style="position:relative;">
+<div id="newlogin">
+
+
+
+
+
+
+
+
+        <script type="text/javascript">
+		var flag_job = false;
+		function movein_bundle(){flag_job = true;}
+		function moveout_bundle(event){
+			var e = event || window.event;
+			var relTarg=e.relatedTarget||e.toElement;
+			var target_e = document.getElementById('login_tip_wrap');
+			setTimeout(function(){ if(!flag_job) target_e.style.display="none" },300)
+			//if(relTarg.id =="login_tip_wrap") return;
+			//target_e.style.display="none";
+			}
+			
+
+function show_top_box(id){
+	document.getElementById("top_cont_en").style.display="none";
+	document.getElementById("top_cont").style.display="none"
+	document.getElementById(id).style.display="block";
+	}
+
+          </script>
+			<ul id="newlogin_index">
+				<li>
+                <a style='color:red; text-decoration:underline; display:inline;' href='#' onmouseover="document.getElementById('login_tip_wrap').style.display='block'"  id="login_show" onmouseout="moveout_bundle(event)" >个人/企业登录</a>
+                </li>
+                <li style="margin-left:10px;">
+                	<a style='color:red; text-decoration:underline; display:inline;' href='/htgl/index.do'>学校用户登录</a> （ <a style=' display:inline;' target="_blank" href="/help/ptsydjb.zip">平台使用登记表</a> ）
+                </li>
+                
+			</ul>
+            <style type="text/css">
+			.login_tip_box{ margin-top:10px;}		
+            .login_tip_box a{
+				display:block; 
+				margin:0 auto;
+				margin-top:10px;
+    			font-size: 12px;
+    			font-weight: bold;
+				width:165px;
+				padding:0px 5px;
+				line-height:26px;
+				height:26px;
+				color:#3E84CA;
+				letter-spacing:6px;
+			    background: url("/image/title_side_bg.jpg") repeat-x scroll 0 0 #FFFFFF;
+   				 border: 1px solid #C0E4F1;
+    			overflow: hidden;
+				}
+				a{ text-decoration:none}
+				div.login_tip_box a:hover,div.login_tip_box a:active,div.login_tip_box a:focus {   text-decoration: underline;}
+				div#login_tip_wrap{ text-align:left;  line-height:20px; font:12px/20px "宋体";}
+            </style>
+   <div id="login_tip_wrap" style="position:absolute; background:#FFF; border:1px solid #CDCDCD;  box-shadow: 0 0 8px #CDCDCD; padding:15px 20px; z-index:1000; top:40px; left:0; width:650px; display:none;" onmouseover="movein_bundle()" >
+   <div id="top_cont">
+	
+    <table class="login_tip_box" width="620" style="margin:0 auto">
+    <tbody>
+    <tr>
+   
+    <td   valign="top"  style="border-right:solid 1px #ccc; padding:10px 15px;">
+     <p style="text-align:center">
+     <span><strong>企业用户</strong></span>
+     <a style='color:red;' class="right_side_box" href='https://job.chsi.com.cn/admin/index.do'>登录</a>
+    <a class="right_side_box" href="https://account.chsi.com.cn/account/corpnewaccount.action" target="_blank">注册</a>
+    </p>
+    </td>
+    
+     <td width="48%" valign="top"  style="  padding:10px 15px;">
+    <p style="text-align:center">
+    <span><strong>个人用户</strong></span>
+ 	<a class="right_side_box" style='color:red; ' href='https://job.chsi.com.cn/stu/showStuHome.do'>登录</a>
+    <a class="right_side_box" href="https://account.chsi.com.cn/account/account!newAccount" target="_blank">注册</a>
+    </p>
+    </td>
+    </tr>
+    </tbody>
+    </table>
+    </div>
+    <div id="top_cont_en" style="display:none">
+	<p style="color:#F00;"><strong>Notification</strong>: Since the system is upgraded at July 2013, personal and enterprise users need to re-register for a new account. After log-in, the old account could be bound together with the new one (<a href="https://job.chsi.com.cn/help/newintro/liucheng.jsp" target="_blank">check the binding process</a>) &nbsp;（<a href="javascript:void(0);" onclick="show_top_box('top_cont')">中文</a>）。</p>
+    <table class="login_tip_box" width="620" style="margin:0 auto">
+    <tbody>
+    <tr>
+   
+    <td   valign="top"  style="border-right:solid 1px #ccc; padding:10px 15px;">
+     <p style="text-align:center">
+     <span><strong> Enterprise account</strong></span>
+     <a style='color:red;letter-spacing:normal' class="right_side_box" href='https://job.chsi.com.cn/admin/index.do' >Login</a>
+    <a class="right_side_box" href="https://account.chsi.com.cn/account/corpnewaccount.action" target="_blank" style="letter-spacing:normal">Register</a>
+    </p>
+    </td>
+    
+     <td width="48%" valign="top"  style="  padding:10px 15px;">
+    <p style="text-align:center">
+    <span><strong> Personal account</strong></span>
+ 	<a class="right_side_box" style='color:red;letter-spacing:normal ' href='https://job.chsi.com.cn/stu/showStuHome.do' >Login</a>
+    <a class="right_side_box" href="https://account.chsi.com.cn/account/account!newAccount" target="_blank" style="letter-spacing:normal">Register</a>
+    </p>
+    </td>
+    </tr>
+    </tbody>
+    </table>
+    </div>
+    
+</div>
+<script type="text/javascript">
+
+document.onmouseup=function(event){
+	var e=event ||window.event;
+ 	var elm=e.srcElement || e.target;
+	var target_e = document.getElementById('login_tip_wrap');
+	do{ 
+	if(elm.id == "login_show" && target_e.style.display=="none" ) {target_e.style.display="block"; return;}
+	if(elm.id =="login_tip_wrap") return; 
+	elm = elm.parentNode;
+	}
+	while(elm.parentNode)
+	flag_job = false;
+	target_e.style.display="none";
+	}
+
+</script>
+
+
+</div>
+</div>
+<!--  top_header  end-->
+<div class="top_head_line"></div>
+<!-- header_log_nav start-->
+<div id="header_new">
+<div class="topmenus">
+<ul class="main_nav">
+<li><a target="_blank" href="https://www.chsi.com.cn/">学信首页</a></li>
+<li><strong>&brvbar;</strong></li>
+<li><a target="_blank" href="https://www.chsi.com.cn/xlcx/index.jsp">学历查询</a></li>
+<li><strong>&brvbar;</strong></li>
+<li><a href="https://www.chsi.com.cn/xlrz/index2.jsp" target="_blank">出国教育背景服务</a></li>
+<li><strong>&brvbar;</strong></li>
+<li><a target="_blank" href="https://my.chsi.com.cn/">学籍学历</a></li>
+<li><strong>&brvbar;</strong></li>
+<li><a target="_blank" href="https://my.chsi.com.cn/">学信档案</a></li>
+<li><strong>&brvbar;</strong></li>
+<li><a target="_blank" href="https://gaokao.chsi.com.cn/">高考</a></li>
+<li><strong>&brvbar;</strong></li>
+<li><a target="_blank" href="https://yz.chsi.com.cn/">研招</a></li>
+<li><strong>&brvbar;</strong></li>
+<li><a target="_blank" href="https://job.chsi.com.cn/" style="color:#F00">学信就业</a></li>
+<li><strong>&brvbar;</strong></li>
+<li><a target="_blank" href="https://www.gfbzb.gov.cn/">征兵</a></li>
+<li><strong>&brvbar;</strong></li>
+<li><a target="_blank" href="https://www.chsi.com.cn/cet/">四六级查分</a></li>
+<li><strong>&brvbar;</strong></li>
+<li><a target="_blank" href="https://www.gatzs.com.cn/">港澳台招生</a></li>
+<li><strong>&brvbar;</strong></li>
+<li><a href="https://www.ncss.org.cn" title='新职业' target='_blank' onmousedown="goo(this, '1654381345')" onblur="this.href='http://www.ncss.org.cn'">新职业</a></li>
+</ul>
+<ul class="sub_nav">
+<li style="width:215px;">
+<a href="/job/hyzp/" target="_parent">高端职位</a> <a href="/job/hyzp/tjzw.jsp" target="_parent">推荐职位</a> <a href="/job/zpxx/" target="_parent">招聘职位</a><br />
+<a href="/job/jzsx/" target="_parent">兼职实习</a> <a href="/sch/" target="_parent">院校</a> <a href="/syxx/" target="_parent">生源</a>  <a href="/stu/showStuHome.do" target="_parent">求职</a>  <a href="/zxzx/" target="_parent">咨询</a>
+</li>
+<li style="width:190px;">
+<a href="/jyzd/jyxx/" target="_blank">就业动态</a> <a href="/jyzd/qzjq/" target="_blank">求职技巧</a> <a href="/jyzd/zygh/" target="_blank">职业规划</a><br />
+<!--<a href="#" target="_blank">*就业关注</a>--><a href="/jyzd/jygz/" target="_parent">就业关注</a> <a href="/jyzd/wayd/" target="_parent">我爱阅读</a> <a href="/jyzd/zazhi/cz" target="_blank">职场茶座</a>
+</li>
+<li style="width:210px">
+<a href="/zazhi/" target="_parent" style="margin-left:0px;">《中国大学生就业》</a> <a href="/jyzdy/" target="_parent">就业指导</a> <br />
+<a href="/jyzc/" target="_parent">政策</a> <a href="/help/newintro/new.jsp" target="_parent">校园招聘GPS使用指南</a>
+</li>
+</ul>
+</div>
+<div id="logo" style="position:static;"><h1><img src="/image/logo2.gif"  onclick="location.href='/'" alt="学信就业" /></h1></div>
+</div>
+<!-- header_log_nav end-->
+
+<script type="text/javascript"> 
+ function goo(curr,adv_id){ 
+ curr.href = "http://axvert.chsi.com.cn/goo.action?aid=" + adv_id + "&evtype=referer_blank"; 
+ return true; 
+ } 
+ </script>
+
+<div class="left_side">
+<a href="http://my.chsi.com.cn/" target="_blank" title="学信档案"><img src="image/xx_danan.jpg" align="middle" alt="学信档案" /></a>
+
+<div class="side_box">
+<div class="side_title"><span class="title_more"><a href="/jyzd/jygz/" target="_blank">&gt;&gt; more</a></span><strong>就业关注</strong></div>
+<ul class="side_list_ul" style="height:420px;padding-top:10px;">
+
+
+
+<li><strong>&middot;</strong><a href='/jyzd/jygz/201702/20170214/1583134481.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07' target='_blank' title='探寻新动力背后就业新机遇'>探寻新动力背后就业新机遇</a></li>
+
+<li><strong>&middot;</strong><a href='/jyzd/jygz/201702/20170207/1580687009.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07' target='_blank' title='国务院：继续把高校毕业生就业摆在就业工作首位'>国务院：继续把高校毕业生就业摆在就业...</a></li>
+
+<li><strong>&middot;</strong><a href='/jyzd/jyzc/201701/20170125/1580505781.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07' target='_blank' title='中办国办印发《关于进一步引导和鼓励高校毕业生到基层工作的意见》'>中办国办印发《关于进一步引导和鼓励高...</a></li>
+
+<li><strong>&middot;</strong><a href='/jyzd/jygz/201701/20170116/1579145836.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07' target='_blank' title='国家专项计划首批毕业生反哺家乡'>国家专项计划首批毕业生反哺家乡</a></li>
+
+<li><strong>&middot;</strong><a href='/jyzd/jygz/201701/20170105/1577243850.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07' target='_blank' title='2020年我国全科医生将超30万人'>2020年我国全科医生将超30万人</a></li>
+
+<li><strong>&middot;</strong><a href='/jyzd/jygz/201701/20170104/1577163314.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07' target='_blank' title='2017年高校毕业生招聘：岗位结构性变动明显'>2017年高校毕业生招聘：岗位结构性变动...</a></li>
+
+<li><strong>&middot;</strong><a href='/jyzd/jygz/201612/20161229/1575717410.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07' target='_blank' title='中国非重点高校大学生创业意愿更强'>中国非重点高校大学生创业意愿更强</a></li>
+
+<li><strong>&middot;</strong><a href='/jyzd/jyxx/201612/20161228/1575716381.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07' target='_blank' title='男幼教凤毛麟角引来幼儿园“哄抢”'>男幼教凤毛麟角引来幼儿园“哄抢”</a></li>
+
+<li><strong>&middot;</strong><a href='/jyzd/jyxx/201612/20161227/1575701262.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07' target='_blank' title='百校助力微创业？让创业离大学生不再遥远'>百校助力微创业？让创业离大学生不再遥...</a></li>
+
+<li><strong>&middot;</strong><a href='/jyzd/jyxx/201612/20161226/1575663445.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07' target='_blank' title='2017年考研报名人数首破200万 考研升温折射就业压力'>2017年考研报名人数首破200万 考研升温...</a></li>
+
+<li><strong>&middot;</strong><a href='/jyzd/jygz/201612/20161226/1575670360.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07' target='_blank' title='“轻创业”造就新“衔能”'>“轻创业”造就新“衔能”</a></li>
+
+<li><strong>&middot;</strong><a href='/jyzd/jyxx/201612/20161223/1575054063.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07' target='_blank' title='高校毕业生工作与专业相关度仅65%，逾3成半年内离职'>高校毕业生工作与专业相关度仅65%，逾3...</a></li>
+
+<li><strong>&middot;</strong><a href='/jyzd/jygz/201612/20161221/1574957361.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07' target='_blank' title='总理力推，国家职业资格目录清单公示了！ '>总理力推，国家职业资格目录清单公示了...</a></li>
+
+<li><strong>&middot;</strong><a href='/jyzd/jygz/201612/20161220/1574727600.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07' target='_blank' title='纺织类毕业生供不应求却普遍遭遇招生难 我们需要什么样的纺织业人才？'>纺织类毕业生供不应求却普遍遭遇招生难...</a></li>
+
+<li><strong>&middot;</strong><a href='/jyzd/jygz/201612/20161220/1574727140.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07' target='_blank' title='人社部印发技工教育“十三五”规划'>人社部印发技工教育“十三五”规划</a></li>
+
+<li><strong>&middot;</strong><a href='/jyzd/jygz/201612/20161220/1574727138.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07' target='_blank' title='女大学生就业难在哪'>女大学生就业难在哪</a></li>
+
+<li><strong>&middot;</strong><a href='/jyzd/jyxx/201612/20161219/1574285057.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07' target='_blank' title='河南农大重金揽才 最高年薪150万'>河南农大重金揽才 最高年薪150万</a></li>
+
+<li><strong>&middot;</strong><a href='/jyzd/jyxx/201612/20161215/1574045204.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07' target='_blank' title='截至11月 辽宁高校毕业生创业实体达1255户'>截至11月 辽宁高校毕业生创业实体达125...</a></li>
+
+</ul>
+</div>
+</div>
+<div class="middle_side">
+<div class="middle_box01">
+<strong><a href="/jyzd/jyxx/201712/20171207/1643799944.html" target="_blank">2018年全国820万大学生毕业 就业形势严峻</a></strong><br />
+<a href="/jyzd/jyxx/201712/20171214/1644244821.html" target="_blank">成都2016年本科生平均月薪近8000元 研究生翻倍</a><br />
+<strong><a href="/jyzd/jyxx/201712/20171227/1645629400.html" target="_blank">2018年新增就业人数将稳中略升</a></strong><br />
+<a href="/jyzd/jyxx/201712/20171215/1644539958.html" target="_blank">陕西省精准推进建档立卡贫困家庭毕业生就业</a><br />
+<strong><a href="/jyzd/jysp/201711/20171128/1642783296.html" target="_blank">&ldquo;95后&rdquo;随&ldquo;兴&rdquo;就业是时代进步</a></strong><br />
+<a href="/jyzd/jysp/201711/20171128/1642843974.html" target="_blank">&ldquo;别问五险一金&rdquo;是职场&ldquo;毒鸡汤&rdquo;</a><br />
+
+
+</div>
+
+
+
+<script language="javascript" type="text/javascript">
+ function SetHover(o,s){
+var ites =o.parentNode.parentNode.getElementsByTagName('li');
+var f =document.getElementById(s)
+var fs=f.parentNode.getElementsByTagName('ul');
+for(var i=0; i<ites.length;i++){ites[i].className=""; fs[i].style.cssText='display:none'}
+o.parentNode.className= "current_tabs";
+f.style.cssText='';
+}
+ </script>
+<div class="middle_box02">
+<div class="middle_side_title">
+
+<ul class="title_tab_ul02"><li class="current_tabs"><a href="/jyzd/jyxx/" target="_blank" onMouseOver="SetHover(this,'mid_list_ul01')">就业动态</a></li><li class=""><a href="/jyzd/qzxd/" target="_blank" onMouseOver="SetHover(this,'mid_list_ul05')">就业故事</a></li><li class=""><a href="/jyzc/" target="_blank" onMouseOver="SetHover(this,'mid_list_ul02')">政 策</a></li><li class=""><a href="/jyzd/jysp/" target="_blank" onMouseOver="SetHover(this,'mid_list_ul03')">就业时评</a></li><li class=""><a href="/jyzd/zcht/" target="_blank" onMouseOver="SetHover(this,'mid_list_ul04')">职 场</a></li></ul>
+</div>
+<div>
+
+<ul class="mid_list_ul" id="mid_list_ul01">
+
+
+
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/jyxx/201712/20171228/1645641465.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">“海归”就业研究生学历受青睐</span></a></li>
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/jyxx/201712/20171227/1645245072.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">珠海精准扶持创业就业高校毕业生创业最高资助可领20万</span></a></li>
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/jyxx/201712/20171227/1645245071.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">学习贯彻十九大精神 | 把握新时代就业特征，实现更高...</span></a></li>
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/jyxx/201712/20171227/1645629400.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">2018年新增就业人数将稳中略升</span></a></li>
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/jyxx/201712/20171227/1645245052.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">重庆高校毕业生初次就业率达到89.65%</span></a></li>
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/jyxx/201712/20171219/1644902623.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">随州揽才放大招:本科生买房补1万 硕士博士补的更多</span></a></li>
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/jyxx/201712/20171215/1644539958.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">陕西省精准推进建档立卡贫困家庭毕业生就业</span></a></li>
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/jyxx/201712/20171214/1644244821.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">成都2016年本科生平均月薪近8000元 研究生翻倍</span></a></li>
+
+</ul>
+
+<ul class="mid_list_ul" id="mid_list_ul02" style="display:none">
+
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/jyzc/201706/20170626/1612685232.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">人社部、国务院扶贫办发布全国就业扶贫基地名单 </span></a></li>
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/jyzc/201705/20170519/1606230101.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">李克强谈《中国制造2025》：大中小企业要融通发展</span></a></li>
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/jyzc/201705/20170516/1605265348.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">康德纳：“一带一路”促就业具有全球意义</span></a></li>
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/jyzc/201705/20170512/1604071914.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">精准做好就业创业各项工作</span></a></li>
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/jyzc/201705/20170511/1603215905.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">全国就业创业工作电视电话会议召开 李克强作出重要批...</span></a></li>
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/jyzc/201705/20170511/1603215904.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">李克强：确保分流职工就业有出路、生活有保障</span></a></li>
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/jyzc/201705/20170504/1601306196.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">上海出台新政促进青年就业</span></a></li>
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/jyzc/201701/20170125/1580505781.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">中办国办印发《关于进一步引导和鼓励高校毕业生到基层...</span></a></li>
+
+</ul>
+
+<ul class="mid_list_ul" id="mid_list_ul03" style="display:none">
+
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/jysp/201711/20171128/1642843974.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">“别问五险一金”是职场“毒鸡汤”</span></a></li>
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/jysp/201711/20171128/1642783296.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">“95后”随“兴”就业是时代进步</span></a></li>
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/jysp/201708/20170816/1623894511.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">慢就业，如何“慢”出精彩</span></a></li>
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/jysp/201708/20170815/1623803665.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">人工智能：就业“杀手”还是“助手”</span></a></li>
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/jysp/201708/20170814/1623315140.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">对“慢就业”不必大惊小怪</span></a></li>
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/jysp/201708/20170808/1622900174.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">郭台铭的烦恼 大学生就业难别只吐给政府和学校</span></a></li>
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/jysp/201708/20170808/1622900169.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">众多大学生成传销受骗者警示什么？</span></a></li>
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/jysp/201707/20170719/1620139442.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">十八大以来我国就业新特点和就业优先战略新内涵</span></a></li>
+
+</ul>
+<ul class="mid_list_ul" id="mid_list_ul04" style="display:none">
+
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/zcht/201711/20171128/1642843973.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">远离“职场霸凌”者</span></a></li>
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/zcht/201711/20171108/1639549035.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">近三成职场人为脱单逃离北上广 程序员单身率最高</span></a></li>
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/zcht/201710/20171030/1638009966.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">扎克伯格在清华谈创业：想要胜出应关注这个问题</span></a></li>
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/zcht/201710/20171026/1637781033.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">职场迷茫的你一定要做的三件事</span></a></li>
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/zcht/201709/20170918/1629013125.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">新技术降低创业门槛 阿里巴巴零售平台创造3300万人就...</span></a></li>
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/zcht/201708/20170815/1623803673.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">大学生就业新趋势：高考之后 要文凭还是要技能</span></a></li>
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/zcht/201708/20170814/1623315143.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">认清“拦路虎” 打开“就业门”</span></a></li>
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/zcht/201708/20170814/1623315142.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">应届生择业成长超待遇</span></a></li>
+
+</ul>
+<ul class="mid_list_ul" id="mid_list_ul05" style="display:none">
+
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/qzxd/201711/20171101/1638327710.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">“80后”女硕士的“创业生态圈”</span></a></li>
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/qzxd/201705/20170516/1605041114.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">近六成“95后”大学生认可“慢就业”</span></a></li>
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/qzxd/201612/20161229/1575718627.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">大学生创业全凭“顶上功夫”</span></a></li>
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/qzxd/201612/20161223/1575114841.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">官何晔：一位残疾大学生的电商梦</span></a></li>
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/qzxd/201612/20161221/1574957358.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">上节目给讲解员"争脸" “网红”讲解员是怎样炼成的</span></a></li>
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/qzxd/201612/20161219/1574283677.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">过来人说创业经历：“你不会？很好，那就学啊”</span></a></li>
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/qzxd/201612/20161208/1572768243.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">大学生辞职当乡村快递员：农村有更广阔天地</span></a></li>
+
+<li><span class="mid_text_span"><strong>&middot;</strong><a href="/jyzd/qzxd/201612/20161207/1572529279.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank">90后音乐专业大学生创业：不搞艺术卖包子</span></a></li>
+
+</ul>
+</div>
+</div>
+
+<div class="middle_box02">
+<div class="middle_side_title"><ul class="title_tab_ul02"><li class="current_tabs"><a href="/job/zpxx/" target="_blank" onMouseOver="SetHover(this,'box02_01')">职位信息</a></li><li class=""><a href="/stu/showStuHome.do" target="_blank" onMouseOver="SetHover(this,'box02_02')">最新求职人才</a></li></ul></div>
+
+<div>
+<ul id="box02_01" class="mid_list_ul02" style="">
+
+<li><span class="job_span"><a target="_blank" href="/jobInfoDetails.do?id=1576007274">
+        经理助理</a></span>&#12288;&#12288;&#12288;<a target="_blank" href="/corp/listJobInfo.do?schId=1472915347&amp;corpId=1472915346" title="查看该单位发布的所有普通职位信息">桉楹物流有限公司</a></li>
+  
+<li><span class="job_span"><a target="_blank" href="/jobInfoDetails.do?id=1576006684">
+        物流专员（进口空运方向）</a></span>&#12288;&#12288;&#12288;<a target="_blank" href="/corp/listJobInfo.do?schId=1472915347&amp;corpId=1472915346" title="查看该单位发布的所有普通职位信息">桉楹物流有限公司</a></li>
+  
+<li><span class="job_span"><a target="_blank" href="/jobInfoDetails.do?id=1470098087">
+        Android工程师</a></span>&#12288;&#12288;&#12288;<a target="_blank" href="/corp/listJobInfo.do?schId=1470054995&amp;corpId=1470054994" title="查看该单位发布的所有普通职位信息">上海乾生乾金融信息服务有限公司</a></li>
+  
+<li><span class="job_span"><a target="_blank" href="/jobInfoDetails.do?id=1470098081">
+        IOS工程师</a></span>&#12288;&#12288;&#12288;<a target="_blank" href="/corp/listJobInfo.do?schId=1470054995&amp;corpId=1470054994" title="查看该单位发布的所有普通职位信息">上海乾生乾金融信息服务有限公司</a></li>
+  
+<li><span class="job_span"><a target="_blank" href="/jobInfoDetails.do?id=1470098070">
+        web前端开发</a></span>&#12288;&#12288;&#12288;<a target="_blank" href="/corp/listJobInfo.do?schId=1470054995&amp;corpId=1470054994" title="查看该单位发布的所有普通职位信息">上海乾生乾金融信息服务有限公司</a></li>
+  
+<li><span class="job_span"><a target="_blank" href="/jobInfoDetails.do?id=1470098061">
+        在地渠道运营----针对全国招聘</a></span>&#12288;&#12288;&#12288;<a target="_blank" href="/corp/listJobInfo.do?schId=1470054995&amp;corpId=1470054994" title="查看该单位发布的所有普通职位信息">上海乾生乾金融信息服务有限公司</a></li>
+  
+<li><span class="job_span"><a target="_blank" href="/jobInfoDetails.do?id=1470096663">
+        渠道运营（销售助理方向）</a></span>&#12288;&#12288;&#12288;<a target="_blank" href="/corp/listJobInfo.do?schId=1470054995&amp;corpId=1470054994" title="查看该单位发布的所有普通职位信息">上海乾生乾金融信息服务有限公司</a></li>
+  
+<li><span class="job_span"><a target="_blank" href="/jobInfoDetails.do?id=1470096653">
+        渠道运营</a></span>&#12288;&#12288;&#12288;<a target="_blank" href="/corp/listJobInfo.do?schId=1470054995&amp;corpId=1470054994" title="查看该单位发布的所有普通职位信息">上海乾生乾金融信息服务有限公司</a></li>
+  
+<li><span class="job_span"><a target="_blank" href="/jobInfoDetails.do?id=1470096641">
+        金融产品运营经理</a></span>&#12288;&#12288;&#12288;<a target="_blank" href="/corp/listJobInfo.do?schId=1470054995&amp;corpId=1470054994" title="查看该单位发布的所有普通职位信息">上海乾生乾金融信息服务有限公司</a></li>
+  
+<li><span class="job_span"><a target="_blank" href="/jobInfoDetails.do?id=1470096618">
+        贷后运营</a></span>&#12288;&#12288;&#12288;<a target="_blank" href="/corp/listJobInfo.do?schId=1470054995&amp;corpId=1470054994" title="查看该单位发布的所有普通职位信息">上海乾生乾金融信息服务有限公司</a></li>
+  
+
+</ul>
+
+
+
+
+<ul class="mid_list_ul02" id="box02_02" style="display:none">
+<li><span class="job_span"> <a href="/pub/stu/viewResume.do?id=ff808081457e16460145c6d09b3b0025" target="_blank">孙学伟</a></span> 男 硕士 社会保障 <a href="/sch/schoolInfo.do?schId=64268" target="_blank">中南财经政法大学</a> </li>
+<li><span class="job_span"> <a href="/pub/stu/viewResume.do?id=ff80808145ff00230146318d908c001b" target="_blank">杨桂先</a></span> 女 本科 英语 <a href="/sch/schoolInfo.do?schId=78308" target="_blank">楚雄师范学院</a> </li>
+<li><span class="job_span"> <a href="/pub/stu/viewResume.do?id=ff80808145feffa701463387851b0030" target="_blank">尹兴懿</a></span> 男 本科 汉语言文学 <a href="/sch/schoolInfo.do?schId=78128" target="_blank">保山学院</a> </li>
+<li><span class="job_span"> <a href="/pub/stu/viewResume.do?id=ff808081422bf1100142984ae901012a" target="_blank">张可欣</a></span> 女 本科 艺术设计 <a href="/sch/schoolInfo.do?schId=75518" target="_blank">西南民族大学</a> </li>
+<li><span class="job_span"> <a href="/pub/stu/viewResume.do?id=ff80808145feffa701462eaca819002a" target="_blank">蒋慧</a></span> 女 本科 汽车服务工程 <a href="/sch/schoolInfo.do?schId=48368" target="_blank">江苏理工学院</a> </li>
+<li><span class="job_span"> <a href="/pub/stu/viewResume.do?id=ff80808145ff002301464608c6060026" target="_blank">戴思宇</a></span> 男 本科 音乐表演(民族声... <a href="/sch/schoolInfo.do?schId=40538" target="_blank">沈阳音乐学院</a> </li>
+<li><span class="job_span"> <a href="/pub/stu/viewResume.do?id=ff80808145feffa701463142471b002d" target="_blank">李顺</a></span> 男 专科(高职) 光伏发电技术及应... <a href="/sch/schoolInfo.do?schId=58088" target="_blank">赣西科技职业学院</a> </li>
+<li><span class="job_span"> <a href="/pub/stu/viewResume.do?id=ff80808145ff0023014637dbbb84001d" target="_blank">马思婧</a></span> 女 专科(高职) 电脑艺术设计(游... <a href="/sch/schoolInfo.do?schId=46688" target="_blank">上海电影艺术职业学...</a> </li> 
+
+</ul>
+</div>
+</div>
+ 
+
+</div>
+<div class="right_side">
+<div class="right_side_box" >
+<div class="right_side_title"><strong>学信卡</strong></div>
+<ul class="right_list_ul">
+<li class="xuexin_card"><a href="/help/newintro/19.jsp" target="_blank"><img src="image/card3.gif" /></a></li>
+<li class="card_bnt"><strong><a href="/help/newintro/01.jsp" target="_blank">[介绍]</a></strong></li>
+<li class="card_bnt"><strong><a href="/help/newintro/19.jsp" target="_blank">[购买]</a></strong></li>
+<li class="card_bnt"><strong><a href="/help/newintro/16.jsp" target="_blank">[费用]</a></strong></li>
+</ul>
+</div>
+
+<div class="right_img_side" >
+<a href="http://www.chsi.com.cn/about/zhaopin.shtml" target="_blank"><img src="image/zhaopin.jpg" width="264" height="50" border="0" align="middle"  /></a>
+</div>
+
+<div class="right_side_box" style="background:none; border-bottom:none;">
+<ul class="right_special_ul">
+<li><a href="http://www.chsi.com.cn/cet/" target="_blank">四六级成绩查询</a></li>
+<li><a href="/help/zyzxsrz.jsp" target="_blank">职业咨询师认证</a></li>
+<li><a href="/help/jyzdpx.jsp" target="_blank">就业指导工作人员培训</a></li>
+<li><a href="/help/jyres1.jsp" target="_blank">高校毕业生就业研究会</a></li>
+</ul>
+</div>
+
+<div class="right_side_box" >
+<div class="right_side_title"><span class="title_more"><a href="/zazhi/">&gt;&gt; more</a></span><strong>《中国大学生就业》</strong></div>
+<iframe src="/common/iframe_jy2012.jsp" frameborder="0" scrolling="no" height="185" width="264"></iframe>
+</div>
+
+<div class="right_img_side" style="margin-bottom:0px;">
+<a href="http://www.chsi.com.cn/xlcx/bgys.jsp" target="_blank"><img src="image/new_yzbg.jpg" width="263" height="74" border="0" align="middle"  /></a>
+</div>
+
+</div>
+<div class="clearFloat"></div>
+<div class="main_bottom">
+<div class="middle_box03 bottom_box" style="float:left;">
+<div class="middle_side_title"><ul class="title_tab_ul02"><li class="current_tabs"><a onMouseOver="SetHover(this,'sylist01')" href="javascript:void(0);">本专科毕业生生源</a></li><li class=''><a onMouseOver="SetHover(this,'sylist02')" href="javascript:void(0);">研究生毕业生生源</a></li></ul></div>
+<div>
+<ul class="bottom_text_ul" id="sylist01">
+
+
+
+
+
+
+
+
+
+
+
+
+				
+<li class="content_main2"><font color=#0066cc>[</font><a href="/sch/listBzksy--schId-53469097,categoryId-53469110,mindex-12.dhtml" target="_blank" style="color:#0066cc" title="西安交通大学城市学院">西安交通大学城市学院</a><font color=#0066cc>]</font>&nbsp;<a href="/sch/viewBzksy--schId-53469097,infoId-1249775636,categoryId-53469110,mindex-12.dhtml" target="_blank" title="西安交通大学城市学院2015届毕业生生源信息">西安交通大学城市学院2015届毕业生生源信息</a></li>
+
+
+
+				
+<li class="content_main2"><font color=#0066cc>[</font><a href="/sch/listBzksy--schId-74708,categoryId-74721,mindex-12.dhtml" target="_blank" style="color:#0066cc" title="重庆民生职业技术学院">重庆民生职业技术学院</a><font color=#0066cc>]</font>&nbsp;<a href="/sch/viewBzksy--schId-74708,infoId-930147672,categoryId-74721,mindex-12.dhtml" target="_blank" title="2014届毕业生资源信息">2014届毕业生资源信息</a></li>
+
+
+
+				
+<li class="content_main2"><font color=#0066cc>[</font><a href="/sch/listBzksy--schId-37178,categoryId-37191,mindex-12.dhtml" target="_blank" style="color:#0066cc" title="山西师范大学">山西师范大学</a><font color=#0066cc>]</font>&nbsp;<a href="/sch/viewBzksy--schId-37178,infoId-925508564,categoryId-37191,mindex-12.dhtml" target="_blank" title="山西师范大学2014届毕业生分专业人数统计表">山西师范大学2014届毕业生分专业人数统计表</a></li>
+
+
+
+				
+<li class="content_main2"><font color=#0066cc>[</font><a href="/sch/listBzksy--schId-64268,categoryId-64281,mindex-12.dhtml" target="_blank" style="color:#0066cc" title="中南财经政法大学">中南财经政法大学</a><font color=#0066cc>]</font>&nbsp;<a href="/sch/viewBzksy--schId-64268,infoId-274413242,categoryId-64281,mindex-12.dhtml" target="_blank" title="中南财经政法大学2012届本科毕业生生源信息表">中南财经政法大学2012届本科毕业生生源信息表</a></li>
+
+
+
+				
+<li class="content_main2"><font color=#0066cc>[</font><a href="/sch/listBzksy--schId-249906516,categoryId-249906531,mindex-12.dhtml" target="_blank" style="color:#0066cc" title="合肥幼儿师范高等专科学校">合肥幼儿师范高等专科学校</a><font color=#0066cc>]</font>&nbsp;<a href="/sch/viewBzksy--schId-249906516,infoId-249954676,categoryId-249906531,mindex-12.dhtml" target="_blank" title="2012届专科毕业生信息">2012届专科毕业生信息</a></li>
+
+
+
+				
+<li class="content_main2"><font color=#0066cc>[</font><a href="/sch/listBzksy--schId-59228,categoryId-59241,mindex-12.dhtml" target="_blank" style="color:#0066cc" title="青岛大学">青岛大学</a><font color=#0066cc>]</font>&nbsp;<a href="/sch/viewBzksy--schId-59228,infoId-237792709,categoryId-59241,mindex-12.dhtml" target="_blank" title="青岛大学2012届毕业生生源及招聘联系">青岛大学2012届毕业生生源及招聘联系</a></li>
+
+
+
+				
+<li class="content_main2"><font color=#0066cc>[</font><a href="/sch/listBzksy--schId-73538,categoryId-73551,mindex-12.dhtml" target="_blank" style="color:#0066cc" title="海南经贸职业技术学院">海南经贸职业技术学院</a><font color=#0066cc>]</font>&nbsp;<a href="/sch/viewBzksy--schId-73538,infoId-130950716,categoryId-73551,mindex-12.dhtml" target="_blank" title="2011届毕业生各专业人数一览表">2011届毕业生各专业人数一览表</a></li>
+
+
+
+				
+<li class="content_main2"><font color=#0066cc>[</font><a href="/sch/listBzksy--schId-73538,categoryId-73551,mindex-12.dhtml" target="_blank" style="color:#0066cc" title="海南经贸职业技术学院">海南经贸职业技术学院</a><font color=#0066cc>]</font>&nbsp;<a href="/sch/viewBzksy--schId-73538,infoId-130948463,categoryId-73551,mindex-12.dhtml" target="_blank" title="2010届毕业生各专业人数一览表				">2010届毕业生各专业人数一览表				</a></li>
+
+
+
+
+
+
+           
+
+</ul>
+
+<ul class="bottom_text_ul" id="sylist02" style="display:none">
+ 
+
+
+
+
+
+
+
+
+
+
+
+				
+<li class="content_main2"><font color=#0066cc>[</font><a href="/sch/listYjssy--schId-64268,categoryId-64283,mindex-12.dhtml" target="_blank" style="color:#0066cc" title="中南财经政法大学">中南财经政法大学</a><font color=#0066cc>]</font>&nbsp;<a href="/sch/viewYjssy--schId-64268,infoId-274416537,categoryId-64283,mindex-12.dhtml" target="_blank" title="中南财经政法大学2012届博士毕业研究生生源信息表">中南财经政法大学2012届博士毕业研究生生源信息表</a></li>
+
+
+
+				
+<li class="content_main2"><font color=#0066cc>[</font><a href="/sch/listYjssy--schId-64268,categoryId-64283,mindex-12.dhtml" target="_blank" style="color:#0066cc" title="中南财经政法大学">中南财经政法大学</a><font color=#0066cc>]</font>&nbsp;<a href="/sch/viewYjssy--schId-64268,infoId-274414464,categoryId-64283,mindex-12.dhtml" target="_blank" title="中南财经政法大学2012届毕业硕士研究生生源信息表">中南财经政法大学2012届毕业硕士研究生生源信息表</a></li>
+
+
+
+				
+<li class="content_main2"><font color=#0066cc>[</font><a href="/sch/listYjssy--schId-59228,categoryId-59243,mindex-12.dhtml" target="_blank" style="color:#0066cc" title="青岛大学">青岛大学</a><font color=#0066cc>]</font>&nbsp;<a href="/sch/viewYjssy--schId-59228,infoId-237792829,categoryId-59243,mindex-12.dhtml" target="_blank" title="青岛大学2012届毕业生生源及招聘联系">青岛大学2012届毕业生生源及招聘联系</a></li>
+
+
+
+				
+<li class="content_main2"><font color=#0066cc>[</font><a href="/sch/listYjssy--schId-34448,categoryId-34463,mindex-12.dhtml" target="_blank" style="color:#0066cc" title="河北工业大学">河北工业大学</a><font color=#0066cc>]</font>&nbsp;<a href="/sch/viewYjssy--schId-34448,infoId-92404866,categoryId-34463,mindex-12.dhtml" target="_blank" title="河北工业大学2011届研究生毕业生生源情况">河北工业大学2011届研究生毕业生生源情况</a></li>
+
+
+
+				
+<li class="content_main2"><font color=#0066cc>[</font><a href="/sch/listYjssy--schId-59228,categoryId-59243,mindex-12.dhtml" target="_blank" style="color:#0066cc" title="青岛大学">青岛大学</a><font color=#0066cc>]</font>&nbsp;<a href="/sch/viewYjssy--schId-59228,infoId-85448642,categoryId-59243,mindex-12.dhtml" target="_blank" title="青岛大学2011届毕业生生源信息及邀请函">青岛大学2011届毕业生生源信息及邀请函</a></li>
+
+
+
+				
+<li class="content_main2"><font color=#0066cc>[</font><a href="/sch/listYjssy--schId-79538,categoryId-79553,mindex-12.dhtml" target="_blank" style="color:#0066cc" title="西北农林科技大学">西北农林科技大学</a><font color=#0066cc>]</font>&nbsp;<a href="/sch/viewYjssy--schId-79538,infoId-3704507,categoryId-79553,mindex-12.dhtml" target="_blank" title="西北农林科技大学2011年毕业研究生资源情况">西北农林科技大学2011年毕业研究生资源情况</a></li>
+
+
+
+				
+<li class="content_main2"><font color=#0066cc>[</font><a href="/sch/listYjssy--schId-34448,categoryId-34463,mindex-12.dhtml" target="_blank" style="color:#0066cc" title="河北工业大学">河北工业大学</a><font color=#0066cc>]</font>&nbsp;<a href="/sch/viewYjssy--schId-34448,infoId-48336392,categoryId-34463,mindex-12.dhtml" target="_blank" title="河北工业大学2010届研究生毕业生生源情况">河北工业大学2010届研究生毕业生生源情况</a></li>
+
+
+
+				
+<li class="content_main2"><font color=#0066cc>[</font><a href="/sch/listYjssy--schId-50228,categoryId-50243,mindex-12.dhtml" target="_blank" style="color:#0066cc" title="浙江农林大学">浙江农林大学</a><font color=#0066cc>]</font>&nbsp;<a href="/sch/viewYjssy--schId-50228,infoId-28410482,categoryId-50243,mindex-12.dhtml" target="_blank" title="浙江林学院2010届毕业生各专业人数及招聘联系方式">浙江林学院2010届毕业生各专业人数及招聘联系方式</a></li>
+
+
+
+
+
+
+
+
+</ul>
+</div>
+</div>
+
+<div class="bottom_box" style="float:right;">
+<div class="bottom_box_title"><span class="title_more"><a href="/sch/listSchNameBySsdm.do?method=yjssy" target="_blank">&gt;&gt; more</a></span><strong>高校就业工作动态</strong></div>
+<ul class="bottom_text_ul">
+
+
+
+
+
+
+
+
+
+
+
+
+				
+<li class="content_main2"><font color=#0066cc>[</font><a href="/sch/listBulletin--schId-249906516,categoryId-249906537,mindex-11.dhtml" target="_blank" style="color:#0066cc" title="合肥幼儿师范高等专科学校">合肥幼儿师范高等专科学校</a><font color=#0066cc>]</font>&nbsp;<a href="/sch/viewBulletin--schId-249906516,infoId-275649624,categoryId-249906537,mindex-11.dhtml" target="_blank" title="合肥幼专2012届毕业生就业洽谈会邀请函">合肥幼专2012届毕业生就业洽谈会邀请函</a></li>
+
+
+
+				
+<li class="content_main2"><font color=#0066cc>[</font><a href="/sch/listBulletin--schId-37868,categoryId-37887,mindex-11.dhtml" target="_blank" style="color:#0066cc" title="山西兴华职业学院">山西兴华职业学院</a><font color=#0066cc>]</font>&nbsp;<a href="/sch/viewBulletin--schId-37868,infoId-243629713,categoryId-37887,mindex-11.dhtml" target="_blank" title="山西兴华职业学院2012届毕业生实训就业校企合作邀请函">山西兴华职业学院2012届毕业生实训就业校企合作邀请函</a></li>
+
+
+
+				
+<li class="content_main2"><font color=#0066cc>[</font><a href="/sch/listBulletin--schId-34448,categoryId-34467,mindex-11.dhtml" target="_blank" style="color:#0066cc" title="河北工业大学">河北工业大学</a><font color=#0066cc>]</font>&nbsp;<a href="/sch/viewBulletin--schId-34448,infoId-147992875,categoryId-34467,mindex-11.dhtml" target="_blank" title="河北工业大学将于2011年4月8日召开2011届毕业生就业市场">河北工业大学将于2011年4月8日召开2011届毕业生就.. </a></li>
+
+
+
+				
+<li class="content_main2"><font color=#0066cc>[</font><a href="/sch/listBulletin--schId-73538,categoryId-73557,mindex-11.dhtml" target="_blank" style="color:#0066cc" title="海南经贸职业技术学院">海南经贸职业技术学院</a><font color=#0066cc>]</font>&nbsp;<a href="/sch/viewBulletin--schId-73538,infoId-130978722,categoryId-73557,mindex-11.dhtml" target="_blank" title="我院召开2011届毕业生校园招聘会协调会">我院召开2011届毕业生校园招聘会协调会</a></li>
+
+
+
+				
+<li class="content_main2"><font color=#0066cc>[</font><a href="/sch/listBulletin--schId-73538,categoryId-73557,mindex-11.dhtml" target="_blank" style="color:#0066cc" title="海南经贸职业技术学院">海南经贸职业技术学院</a><font color=#0066cc>]</font>&nbsp;<a href="/sch/viewBulletin--schId-73538,infoId-130981805,categoryId-73557,mindex-11.dhtml" target="_blank" title="我院学生就业创业工委会开展就业工作检查活动">我院学生就业创业工委会开展就业工作检查活动</a></li>
+
+
+
+				
+<li class="content_main2"><font color=#0066cc>[</font><a href="/sch/listBulletin--schId-73538,categoryId-73557,mindex-11.dhtml" target="_blank" style="color:#0066cc" title="海南经贸职业技术学院">海南经贸职业技术学院</a><font color=#0066cc>]</font>&nbsp;<a href="/sch/viewBulletin--schId-73538,infoId-130979228,categoryId-73557,mindex-11.dhtml" target="_blank" title="招生就业办率队参加东莞校企对接会">招生就业办率队参加东莞校企对接会</a></li>
+
+
+
+				
+<li class="content_main2"><font color=#0066cc>[</font><a href="/sch/listBulletin--schId-37868,categoryId-37887,mindex-11.dhtml" target="_blank" style="color:#0066cc" title="山西兴华职业学院">山西兴华职业学院</a><font color=#0066cc>]</font>&nbsp;<a href="/sch/viewBulletin--schId-37868,infoId-18483569,categoryId-37887,mindex-11.dhtml" target="_blank" title="1">1</a></li>
+
+
+
+				
+<li class="content_main2"><font color=#0066cc>[</font><a href="/sch/listBulletin--schId-37868,categoryId-37887,mindex-11.dhtml" target="_blank" style="color:#0066cc" title="山西兴华职业学院">山西兴华职业学院</a><font color=#0066cc>]</font>&nbsp;<a href="/sch/viewBulletin--schId-37868,infoId-93373564,categoryId-37887,mindex-11.dhtml" target="_blank" title="山西兴华职业学院举办2011届毕业生就业指导政策宣传月活动">山西兴华职业学院举办2011届毕业生就业指导政策宣传.. </a></li>
+
+
+
+				
+<li class="content_main2"><font color=#0066cc>[</font><a href="/sch/listBulletin--schId-34448,categoryId-34467,mindex-11.dhtml" target="_blank" style="color:#0066cc" title="河北工业大学">河北工业大学</a><font color=#0066cc>]</font>&nbsp;<a href="/sch/viewBulletin--schId-34448,infoId-92832661,categoryId-34467,mindex-11.dhtml" target="_blank" title="河北工业大学将于2010年11月19日召开2011届毕业生就业市场">河北工业大学将于2010年11月19日召开2011届毕业.. </a></li>
+
+
+
+
+
+
+
+
+</ul>
+</div>
+<div class="clearFloat"></div>
+<div class="bottom_box" style="float:left;">
+<div class="bottom_box_title"><span class="title_more"><a href="/jyzd/zph/" target="_blank">&gt;&gt; more</a></span><strong>招聘会信息</strong></div>
+<ul class="bottom_list_ul">
+
+
+<li><strong>&middot;</strong><a href="/jyzd/zph/201611/20161118/1568495151.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank" title="天津大学武清专场招聘会举行">天津大学武清专场招聘会举行</a></li>
+
+<li><strong>&middot;</strong><a href="/jyzd/zph/201611/20161118/1568475926.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank" title="湖南人才市场19日举行招聘会 200家单位5000个岗位">湖南人才市场19日举行招聘会 200家单位5000个岗位</a></li>
+
+<li><strong>&middot;</strong><a href="/jyzd/zph/201611/20161109/1565817363.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank" title="10日，菏泽将举办2016年高校毕业生秋冬专场招聘会">10日，菏泽将举办2016年高校毕业生秋冬专场招聘会</a></li>
+
+<li><strong>&middot;</strong><a href="/jyzd/zph/201611/20161109/1565810631.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank" title="温州市高校毕业生招聘会将启幕">温州市高校毕业生招聘会将启幕</a></li>
+
+<li><strong>&middot;</strong><a href="/jyzd/zph/201611/20161104/1564387800.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank" title="11月13日德州学院内高校毕业生招聘会不容错过">11月13日德州学院内高校毕业生招聘会不容错过</a></li>
+
+<li><strong>&middot;</strong><a href="/jyzd/zph/201611/20161101/1563544448.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank" title="玉林“就业援助季”首场招聘会提供就业岗位超千个">玉林“就业援助季”首场招聘会提供就业岗位超千个</a></li>
+
+<li><strong>&middot;</strong><a href="/jyzd/zph/201610/20161027/1562747630.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank" title="开封市2016年秋季大学生双选会 10月29日将在开封大学大观广场举办">开封市2016年秋季大学生双选会 10月29日将在开封大学大观...</a></li>
+
+<li><strong>&middot;</strong><a href="/jyzd/zph/201610/20161027/1562731512.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank" title="焦作“相约英才”招聘会明日举行 为中高级人才搭建新舞台">焦作“相约英才”招聘会明日举行 为中高级人才搭建新舞台</a></li>
+
+</ul>
+</div>
+<div class="bottom_box" style="float:right;">
+<div class="bottom_box_title"><span class="title_more"><a href="/jyzd/zygh/" target="_blank">&gt;&gt; more</a></span><strong>职业生涯规划</strong></div>
+<ul class="bottom_list_ul">
+
+
+<li><strong>&middot;</strong><a href="/jyzd/zygh/201611/20161101/1563426097.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank" title='大学生职业生涯何以规划？'>大学生职业生涯何以规划？</a></li>
+
+<li><strong>&middot;</strong><a href="/jyzd/zygh/201607/20160704/1541851571.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank" title='大学生职业规划如何影响就业落差'>大学生职业规划如何影响就业落差</a></li>
+
+<li><strong>&middot;</strong><a href="/jyzd/zygh/201605/20160520/1534606749.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank" title='常德大学生提前规划人生 职业发展有“门路”'>常德大学生提前规划人生 职业发展有“门路”</a></li>
+
+<li><strong>&middot;</strong><a href="/jyzd/zygh/201604/20160425/1530345823.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank" title='大学生职场“闪辞”现象频现'>大学生职场“闪辞”现象频现</a></li>
+
+<li><strong>&middot;</strong><a href="/jyzd/zygh/201604/20160425/1530268716.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank" title='人人都需要一份职业规划'>人人都需要一份职业规划</a></li>
+
+<li><strong>&middot;</strong><a href="/jyzd/zygh/201604/20160425/1530268714.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank" title='毕业了，更迷茫了'>毕业了，更迷茫了</a></li>
+
+<li><strong>&middot;</strong><a href="/jyzd/zygh/201604/20160425/1530345714.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank" title='大学生个人职业生涯规划制定的意义'>大学生个人职业生涯规划制定的意义</a></li>
+
+<li><strong>&middot;</strong><a href="/jyzd/zygh/201604/20160425/1530215388.html;jsessionid=5EFD40199D6B088F8ABAC9E532DCDF07" target="_blank" title='如何制定职场规划 做职业规划要知道8个要点'>如何制定职场规划 做职业规划要知道8个要点</a></li>
+
+
+</ul>
+</div>
+<div class="clearFloat"></div>
+</div>
+
+
+
+<div id="footer_new">
+<div class="nav_line"><div class="nav_line_main"></div></div>
+<div id="footer">
+	<div id="footer_link"> <a style="color: rgb(0, 0, 0);" target="_blank" href="https://www.chsi.com.cn/">学信首页</a> - <a style="color: rgb(0, 0, 0);" target="_blank" href="https://www.chsi.com.cn/about/about_center.shtml">中心介绍</a> - <a style="color: rgb(0, 0, 0);" target="_blank" href="/help/newintro/01.jsp">网站介绍</a> - <a style="color: rgb(0, 0, 0);" target="_blank" href="https://www.chsi.com.cn/about/zhaopin.shtml">加入我们</a> - <a style="color: rgb(0, 0, 0);" target="_blank" href="/help/newintro/21.jsp">客户服务</a> - <a style="color: rgb(0, 0, 0);" target="_blank" href="https://www.chsi.com.cn/about/contact.shtml">联系我们</a> - <a style="color: rgb(0, 0, 0);" target="_blank" href="/help/newintro/new.jsp">使用指南</a> - <a style="color: rgb(0, 0, 0);" target="_blank" href="https://www.chsi.com.cn/help/xlcx_dwhycx.jsp">常见问题</a></div>
+	<div id="footer_text1"> 主办单位：<a href="https://chesicc.moe.edu.cn/" target="_blank">全国高等学校学生信息咨询与就业指导中心</a>　Copyright © 2003-2019 学信网 All Rights Reserved</div>
+
+</div>
+</div>
+</div>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+    <head>
+        <title>登录_中国研究生招生信息网</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link href="https://t1.chei.com.cn/passport/css/cas-1.0.1.css" rel="stylesheet" type="text/css" />
+        <!--[if gte IE 6]><link href="https://t3.chei.com.cn/passport/css/ie_cas.css" rel="stylesheet" type="text/css" /><![endif]-->
+        <script type="text/javascript" src="https://t1.chei.com.cn/common/jquery/1.3.2/jquery.min.js"></script>
+        <script type="text/javascript" src="https://t1.chei.com.cn/passport/js/captchaChange.js"></script>
+        <script type="text/javascript" src="https://t1.chei.com.cn/passport/js/common_rosters.js"></script>
+        <link href="https://t4.chei.com.cn/passport/css/login.css" rel="stylesheet" type="text/css" />
+        <style type="text/css">
+            .main {background: url(https://t4.chei.com.cn/passport/images/login/body_bg_yz.png) no-repeat scroll left top #F7F7F7;}
+        </style>
+        <link rel="icon" href="https://t1.chei.com.cn/yz/favicon.ico" type="image/x-icon" />
+        
+<script src="https://t1.chei.com.cn/common/js/boomerang-min-20141211.js" type="text/javascript"></script>
+<script type="text/javascript">
+BOOMR.init({
+	beacon_url: "https://www.chsi.com.cn/images/perf.gif",
+    log: null,
+	DNS:{ 
+		base_url: "https://*.chdi.com.cn/images/" 
+	}
+});
+</script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-100524-4']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+    </head>
+<body id="cas" onLoad="init();">
+
+
+
+
+<style>
+    .clearfix {
+        zoom:1
+    }
+    .clearfix:after {
+        content: '\0020';
+        display: block;
+        clear: both;
+        height: 0
+    }
+    body,html {
+        height: 100%;
+        min-width: 1200px;
+        font:14px/1.5 "Helvetica Neue",Helvetica,"PingFang SC","Microsoft YaHei","Hiragino Sans GB","WenQuanYi Micro Hei",Arial,sans-serif;
+    }
+    input{
+        font: 14px/1.5 "Helvetica Neue",Helvetica,"PingFang SC","Microsoft YaHei","Hiragino Sans GB","WenQuanYi Micro Hei",Arial,sans-serif;
+    }
+    .input_text.input_text_focus{
+        font-weight: 700;
+        color: #333;
+    }
+    .yz-outer-layer {
+        min-height: 100%;
+        margin-bottom: -66px;
+        background: url("https://t3.chei.com.cn/passport/images/login2017/yz-gl-bg.jpg") repeat;
+    }
+    .yz-outer-layer .yz-layer-content {
+        padding-bottom: 66px;
+    }
+    .yz-gl-footer {
+        background: #161D2C;
+        min-width: 100%;
+        width: 100%;
+        opacity: .8;
+        text-align: center;
+        height: 26px;
+        line-height: 26px;
+        color: #fff;
+        font-size: 14px;
+        padding: 20px 0;
+    }
+    .yz-gl-footer a {
+        color: #fff;
+    }
+    .yz-gl-footer a:hover {
+        color: #fff;
+    }
+    .content-box{
+        width: 1100px;
+        margin: 0 auto;
+        padding-top: 100px;
+    }
+    .content-box .box-l{
+        float: left;
+        width: 470px;
+        height: 610px;
+        background: #6CB8F2;
+        padding: 30px 40px;
+    }
+    .content-box .box-r{
+        float: left;
+        width: 550px;
+        height: 670px;
+        background: #fff;
+    }
+    a.logo-box{
+        display: block;
+        width: 400px;
+        height: 50px;
+        background-repeat: no-repeat;
+        background-position: 0 10px;
+        background-image: url("https://t1.chei.com.cn/passport/images/login2017/yz-logo.png");
+        background-image: -webkit-image-set(url("https://t1.chei.com.cn/passport/images/login2017/yz-logo.png") 1x,url("https://t3.chei.com.cn/passport/images/login2017/yz-logo2x.png") 2x)
+    }
+    a.logo-box:hover{
+        text-decoration: none;
+    }
+    .gl-img{
+        margin: 80px 0 170px 60px;
+    }
+    .box-l h3{
+        font-size: 18px;
+        color: #fff;
+        line-height: 30px;
+        font-weight: 400;
+    }
+    .szzs-list{
+        margin-top: 10px;
+    }
+    .szzs-list li{
+        float: left;
+        margin-right: 22px;
+    }
+    .szzs-list li.marginR0{
+        margin-right: 0;
+    }
+    .szzs-list li a{
+        color: #fff;
+    }
+    .box-r .login-box{
+        width: 350px;
+        position: relative;
+        margin: 130px auto 100px;
+    }
+    .wel-title{
+        font-size: 30px;
+        color: #333;
+    }
+    .bubble-box{
+        position: relative;
+        display: inline-block;
+        vertical-align: middle;
+        background: #6CB8F2;
+        width: 80px;
+        height: 24px;
+        line-height: 24px;
+        border-radius: 4px;
+        text-align: center;
+        color: #fff;
+        margin-bottom: 12px;
+        margin-left: 16px;
+    }
+    .bubble-box i{
+        display: block;
+        position: absolute;
+        width: 0;
+        height: 0;
+        border-top: 6px solid transparent;
+        border-bottom: 6px solid transparent;
+        border-right: 12px solid #6CB8F2;
+        left: -10px;
+        top: 6px;
+    }
+    .errors{
+        color: #D60909;
+        margin-bottom: 5px;
+        background: #fff !important;
+        border: none;
+        padding: 0;
+        margin: 10px 0 0;
+        text-align: left;
+        font-size: 14px;
+    }
+    .input_text{
+        width: 336px;
+        height: 34px;
+        line-height: 34px;
+        border: 1px solid #B0B1B5;
+        border-radius: 2px;
+        padding: 2px 6px;
+        margin-top: 20px;
+        outline: none;
+        color: #999;
+    }
+    .input_psd{
+        width: 336px;
+        height: 34px;
+        line-height: 34px;
+        border: 1px solid #B0B1B5;
+        border-radius: 2px;
+        padding: 2px 6px;
+        margin-top: 20px;
+        outline: none;
+        color: #333;
+        font-weight: 700;
+    }
+    .find-box{
+        font: 14px/1.5 tahoma,arial,'Microsoft YaHei',"Hiragino Sans GB",SimSun,sans-serif;
+        padding: 4px 0;
+        float: left;
+        margin-top: 10px;
+    }
+    .find-box a{
+        color: #9EA3A7;
+    }
+    .find-box a:hover{
+        color: #9EA3A7;
+    }
+    .btn-box{
+        text-align: center;
+        margin-top: 20px;
+    }
+    .login-btn{
+        width: 350px;
+        height: 36px;
+        background: #6CB8F2;
+        border: 1px solid #6CB8F2;
+        border-radius: 2px;
+        color: #fff;
+        font-size: 16px;
+        cursor: pointer;
+    }
+    .login-btn:hover{
+        background: #58aae8;
+        border: 1px solid #58aae8;
+    }
+    .password_txt{
+        position: absolute;
+        left: 0;top: 21px;
+        width: 343px;
+        height: 38px;
+        line-height: 38px;
+        font-family: '微软雅黑';
+        padding-left: 6px;
+        color: #999;
+        cursor: text;
+    }
+    .cut-tag {
+        margin: 0 8px;
+    }
+
+    /*研招管理部的tip提示修正*/
+    .tip02{ top: -65px;  left: 123px; }
+    .tip02 .tip02_arrow{ bottom: 0; top: auto; left: 1px; }
+    .errors{ width: auto; }
+</style>
+
+<div class="yz-outer-layer">
+    <div class="yz-layer-content">
+        <div class="content-box clearfix">
+            <div class="box-l">
+                <a href="http://yz.chsi.com.cn/" target="_blank" class="logo-box">&ensp;</a>
+                <img src="https://t3.chei.com.cn/passport/images/login2017/yz-gl-ch.png" class="gl-img">
+                <h3>学信网数字证书</h3>
+                <ul class="szzs-list clearfix">
+                    <li><a href="http://cert.chsi.com.cn/" target="_blank">申请流程</a></li>
+                    <li><a href="http://cert.chsi.com.cn/help/azlc.jsp" target="_blank">安装流程</a></li>
+                    <li><a href="http://cert.chsi.com.cn/help/gx.jsp" target="_blank">更新流程</a></li>
+                    <li><a href="http://cert.chsi.com.cn/help/zlk/ePass3003_SimpChinese_gfa.exe" target="_blank">驱动下载</a></li>
+                    <li><a href="http://cert.chsi.com.cn/help/zlk/gfa_ca.zip" target="_blank">根证书下载</a></li>
+                    <li class="marginR0"><a href="http://cert.chsi.com.cn/help/questions.jsp" target="_blank">常见问题</a></li>
+                </ul>
+            </div>
+            <div class="box-r">
+                <div class="login-box">
+                    <span class="wel-title">欢迎登录</span>
+                    <span class="bubble-box">
+                        <i>&ensp;</i>
+                        管理部门
+                    </span>
+                    
+
+
+
+<style>
+  #tipClose{ cursor:pointer; margin:4px auto 0 auto; height:21px; width:70px; text-align:center; border:1px solid #C30; font-size:12px; background:#FFC; border-radius:4px;}
+#tipClose a,#tipClose a:link,#tipClose a:visited{text-decoration:none;}
+.tip02{ width:306px; position:absolute;  background:url(//t3.chei.com.cn/passport/images/login/tip02_top.png) no-repeat right top; text-align:center; font-size:12px; color:#660000;}
+.tip02_cnt{ width:270px; margin-top:8px; padding:0 12px 8px 24px; background:url(//t3.chei.com.cn/passport/images/login/tip02_bot.png) no-repeat right bottom;}
+.tip02_arrow{height:12px;width:12px;background:url(//t3.chei.com.cn/passport/images/login/tip_arrow.gif) no-repeat;position:absolute;left: 1px;bottom: 0; top: auto;}
+.tip02 a,.tip02 a:link,.tip02 a:visited{color:#C00; text-decoration:underline;}
+</style>
+
+<script>
+  $(function(){
+    // 重写：避免多个tip提示时，关闭失效问题
+    $(".js-tip-close").click(function(){
+     $(this).parents(".tip02").hide();
+    });
+  });
+</script>
+                       
+                   
+                       
+                        
+                            <form id="fm1" action="/passport/login;jsessionid=1320BCEC58E4755799C1EADF44C119C4?service=https%3A%2F%2Fyz.chsi.com.cn%2Fhtgl%2Fj_spring_cas_security_check" method="post" autocomplete="off">
+                                
+                                    
+                                    
+                                    
+                                    
+                                        
+                                    
+                                
+                                 
+                                <table border="0" cellspacing="0" cellpadding="0" align="center" width="350" style="margin-top: 10px;">
+                                    <tr>
+                                        <!-- 用户名 -->
+                                        <td>
+                                          <span style="display:none">用户名:</span>
+                                             
+                                            
+                                                
+                                                
+                                                    
+                                                    
+                                                        <input id="username" name="username" class="l_login_name input_text" tabindex="1" onfocus="if(this.value==&#39;用户名&#39;){this.value=&#39;&#39;;this.className=&#39;l_login_name input_text input_text_focus&#39;}" onblur="if(this.value==&#39;&#39;){this.value=&#39;用户名&#39;;this.className=&#39;l_login_name input_text&#39;}" accesskey="n" type="text" value="" size="25" maxlength="50"/>
+                                                    
+                                                
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <!-- 密码 -->
+                                        <td style="position: relative;">
+                                          <span style="display:none">密　码:</span>
+                                            <span id="password_txt" class="password_txt" style="">密码</span>
+                                             
+        <input id="password" name="password" class="l_login_password input_psd" tabindex="2" onfocus="document.getElementById(&#39;password_txt&#39;).style.display=&#39;none&#39;;this.className=&#39;l_login_password input_psd input_text_focus&#39;" onblur="if(this.value==&#39;&#39;)document.getElementById(&#39;password_txt&#39;).style.display=&#39;block&#39;;this.className=&#39;l_login_password input_psd&#39;" accesskey="p" type="password" value="" size="25" maxlength="50"/>
+                                        </td>
+                                    </tr>
+                                    
+                                    
+                                        
+                                        
+                                        
+                                        
+                                    
+                                    <tr>
+                                        <td>
+                                            <div class="btn-box clearfix">
+                                                <input type="hidden" name="lt" value="LT-529353-OE4soQfcIxSZKjb7G2Iqneh1XR9IrV" />
+                                                <input type="hidden" name="execution" value="e1s1" />
+                                                <input type="hidden" name="_eventId" value="submit" />
+                                                <input class="login-btn"  accesskey="l" value="登录" tabindex="4" type="submit" title="登录" />
+            
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="cleafix">
+                                            <div class="find-box">
+                                                <a href="https://login.chsi.com.cn/account/password!retrive">找回密码</a>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </form>
+                       
+                  
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="yz-gl-footer">
+    
+
+Copyright &copy; 2003-2019 <a href="http://www.chsi.com.cn/" target="_blank">学信网</a> All Rights Reserved
+</div>
+<script>
+    $(function (){
+        $("#username[type=text]").val("用户名");
+        $("#input-yzm").val("图片验证码");
+        $("#password_txt").click(function (){
+            $(this).hide();
+            $("#password").focus();
+        });
+        // 重写：避免多个tip提示时，关闭失效问题
+        $(".js-tip-close").click(function(){
+         $(this).parents(".tip02").hide();
+        });
+
+    });
+</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+<title>i乡音 爱上最美乡音！</title>
+<meta name="keywords" content="i乡音,爱乡音,方言保护,官话,粤语" />
+<meta name="description" content="为保护我国多样化的方言，在国家教育部语信司的指导与支持下，学信网建设“i乡音”平台，呼吁全国大学生，以实际行动留住我们的乡音、乡情与乡愁，共同体验浓浓的乡音与乡情。" />
+<meta name="baidu-site-verification" content="iacwpJ4Htc" />
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
+<link rel="icon" href="favicon.ico" type="image/x-icon"/>
+<link rel="stylesheet"  href="/css/fy_common.css"/>
+<script src='https://t1.chsi.com.cn/common/jquery/1.11.1/jquery.min.js'></script>
+<script src="//api.map.baidu.com/api?v=2.0&ak=f4n4sv25xmcllt2pkV7q92B0"></script>
+<script src='https://t1.chsi.com.cn/common/ixy/js/mymap/myfuc.js'></script>
+<script src='https://t1.chsi.com.cn/common/ixy/js/common.js' ></script>
+<script>
+function turnoff(obj){
+	document.getElementById(obj).style.display="none";
+}
+</script>
+
+
+<script src="//t1.chei.com.cn/common/js/boomerang-min-20141211.js" type="text/javascript"></script>
+<script type="text/javascript">
+BOOMR.init({
+	beacon_url: "//www.chsi.com.cn/images/perf.gif",
+	DNS:{ 
+		base_url: "//*.chdi.com.cn/images/" 
+	}
+});
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-100524-15', 'auto');
+  ga('send', 'pageview');
+</script>
+</head>
+<body>
+<img style="display: block;" src='https://t1.chsi.com.cn/common/wap/images/share_ixy.jpg' width='0' height='0' />
+<input type="hidden" id="pageid" value="shouye" />
+<div id="head">
+    
+
+
+
+
+
+
+<link rel="stylesheet"  href='https://t1.chsi.com.cn/common/plugins/dialog/6.0.5/css/ui-dialog.css' />
+<script src='https://t1.chsi.com.cn/common/ixy/js/cookie.js' ></script>
+<script src='https://t1.chsi.com.cn/common/ixy/js/footer-height.js' ></script>
+<script src='https://t1.chsi.com.cn/common/plugins/dialog/6.0.5/dialog-min.js'></script>
+<script src='https://t1.chsi.com.cn/common/plugins/dialog/6.0.5/dialog-plus-min.js'></script>
+<script>
+var div_id_name = "head_con";
+var cookie_name = "sc_comp_header";
+var cookie_path = "/";
+function clearCookie() {
+	document.cookie = "sc_comp_header=; path=/";
+}
+</script>
+<script type="text/javascript">
+function check_out(){
+	if (confirm("您确定要退出系统?")){
+		return true;
+	}else{
+		return false;
+	}
+}
+
+</script>
+<div class="head">
+    <div class="head_con">
+        <ul id="navi">
+            <a href="/"><li class="menutd logo"></li></a>
+            <li id="shouye" class="nav shouye"><a href="/"><span class='icon_1'></span>首页</a> </li>
+            <li id="fyfq" class="nav fyfq"> <a href="/fyfq/" ><span class='icon_2'></span>方言分区</a> </li>
+            <li id="gdmt" class="nav gdmt"> <a href="/fytp/" ><span class='icon_3'></span>各地美图</a> </li>
+            <li id="wysc" class="nav wysc"> <a href="/stu/user/userBjgc_intoYp.action" class="checkSc"><span class='icon_4'></span>我要上传</a> </li>
+        </ul>
+        <input type="hidden" id="checkNc" value=""/>
+        <input type="hidden" id="checkUser" value=""/>
+        <div class="login">
+            
+            <div class="register clearfix">
+                <div class="search_wrap">
+                    <form method="get" action="/pub/search.jsp" target="_blank" id='cse-search-box'>
+                        <input type="text" id="sbi" class="search" maxlength="50" name="q"  />
+                        <a id="sbb" class="search_icon"></a> 
+                    </form>
+                </div>
+                <input type="button" class="register_btn" value="登 录"  onclick="location.href='/stu/'"/>
+                <input type="button" class="register_btn" value="注 册"  onclick="location.href='https://account.chsi.com.cn/account/preregister.action?from=ixy-login'"/>
+            </div>
+            
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+$(function(){
+    var pageid= $("#pageid").val();
+    $(".head_con ul").find("."+pageid).addClass("nav curent");
+    $(".checkSc").click(function(){
+      var user = $("#checkUser").val();
+      var nc = $("#checkNc").val();
+      if(user==""){
+         return true;
+      }else{
+         if(nc==""){
+            dialog({
+			    lock:true,
+			    title:'提示',
+			    icon: 'warning',
+			    content: '您的个人资料还未完善，待完善后再上传音频。',
+			    ok: function () {
+			    	window.location ="/stu/jbxx.action";
+			    },
+			    okValue:'去完善个人资料'
+			}).showModal(); 
+           return false;
+         }else{
+           return true;
+         }
+      }
+    
+    });
+    })
+	function formSubmitH(){
+		var sbi = $('#sbi').val();
+		sbi = sbi.replace(/^\s+|\s+$/g, '');//去左右空格	
+		$('#sbi').val(sbi);//去空格后赋值
+		if(sbi==''){
+			alert('请输入搜索内容！');
+			return false;	
+		}
+		if(sbi.length>50){
+			alert('关键字不得超过50个字');
+			return false;
+		}
+		return true;
+	}
+	$('#cse-search-box').submit(function(){
+		return formSubmitH();
+	});
+	$("#sbb").click(function(){
+		$('#cse-search-box').submit();
+	});
+</script>
+
+    <div class="head_map" >
+        <div class="top">
+            <div id="allmap"></div>
+                <div id="guild">
+                    <div>
+                        <table id="qhtb">
+                            <tr>
+                                <td class="tds" id="hyan" onclick="anniuqihuan(this.id)">汉语方言</td>
+                                <td  id="ssan" onclick="anniuqihuan(this.id)">民族语言</td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div id="hydv">
+                    <ul class="note">
+                        <li class="icon_1"><span>官话</span></li>
+                        <li class="icon_2"><span>晋语</span></li>
+                        <li class="icon_3"><span>吴语</span></li>
+                        <li class="icon_4"><span>客家话</span></li>
+                        <li class="icon_5"><span>赣语</span></li>
+                        <li class="icon_6"><span>闽语</span></li>
+                        <li class="icon_7"><span>湘语</span></li>
+                        <li class="icon_8"><span>粤语</span></li>
+                        <li class="icon_9"><span>徽语</span></li>
+                        <li class="icon_10"><span>平话</span></li>
+                        <li class="icon_11"><span>粤北土话</span></li>
+                    </ul>
+                    </div>
+                    <div id="ssdv" style="display: none;">
+                    <ul class="note">                
+                        <li class="icon_12"><span>汉藏语系</span></li>
+                        <li class="icon_13"><span>阿尔泰语系</span></li>
+                        <li class="icon_14"><span>印欧语系</span></li>
+                        <li class="icon_15"><span>南亚语系</span></li>
+                        <li class="icon_16"><span>朝鲜语</span></li>
+                        <li class="icon_17"><span>南岛语系</span></li>
+                        <li class="icon_18"><span>京语</span></li>
+                     </ul>  
+                    </div>
+                </div> 
+        </div>
+    </div>
+</div>
+<div id="content">
+    <div class="con_top clearfix">
+        <div class="con_left">
+            <div class="block_title">最新推荐</div>
+            <div class="block_con">
+                <ul class="clearfix">
+                
+                        
+                        <li >
+                        <div class="imge_mid">
+                        	<a href="/pub/showYpxx.action?ypid=664">
+                        	<img class="image_all"  src="/img/showImg.action?img=635"/>
+                            <span class="left_note" title="面朝大海">面朝大海</span>
+                            </a>
+                        </div>
+                        <div class="con_text">
+                            <p class="p_left_1 clearfix"><a class="user_id" href="/pub/toGrzx.action?uid=a0d5458722ce41e48f67808542161936" title="徽商">徽商</a>
+                            <span class="time">2016年10月30日
+                            </span></p>
+                            <p class="p_left_2" title="安徽省 | 阜阳市 | 阜南县  官话 | 中原官话 | 信蚌片"><span class="address"></span>
+                            安徽省
+                            &nbsp;&nbsp;官话 | 中原官话 | 信蚌片
+                            </p>
+     <div class="p_left_3" title="面朝大海，春暖花开。"><p>面朝大海，春暖花开。</p></div>
+                        </div>
+                       </li>
+                        
+           
+                        
+                        <li style='margin-left:19px;'>
+                        <div class="imge_mid">
+                        	<a href="/pub/showYpxx.action?ypid=646">
+                        	<img class="image_all"  src="/img/showImg.action?img=613"/>
+                            <span class="left_note" title="深州方言  面朝大海">深州方言  面朝大海</span>
+                            </a>
+                        </div>
+                        <div class="con_text">
+                            <p class="p_left_1 clearfix"><a class="user_id" href="/pub/toGrzx.action?uid=85618fb3c0274d768866569fe1c6ad12" title="哈利路亚">哈利路亚</a>
+                            <span class="time">2016年10月24日
+                            </span></p>
+                            <p class="p_left_2" title="河北省 | 衡水市 | 深州市  官话 | 冀鲁官话 | 石济片 | 赵深小片"><span class="address"></span>
+                            河北省
+                            &nbsp;&nbsp;官话 | 冀鲁官话 | 石济片 | 赵深小片
+                            </p>
+     <div class="p_left_3" title="深州南边"><p>深州南边</p></div>
+                        </div>
+                       </li>
+                        
+           
+                        
+                        <li >
+                        <div class="imge_mid">
+                        	<a href="/pub/showYpxx.action?ypid=624">
+                        	<img class="image_all"  src="/img/showImg.action?img=578"/>
+                            <span class="left_note" title="听听荣成大土话">听听荣成大土话</span>
+                            </a>
+                        </div>
+                        <div class="con_text">
+                            <p class="p_left_1 clearfix"><a class="user_id" href="/pub/toGrzx.action?uid=668848943b2ae76921c295ced12a2434" title="威海荣成kavin哥">威海荣成kavin哥</a>
+                            <span class="time">2016年09月22日
+                            </span></p>
+                            <p class="p_left_2" title="山东省 | 威海市 | 荣成市  官话 | 胶辽官话 | 登连片"><span class="address"></span>
+                            山东省
+                            &nbsp;&nbsp;官话 | 胶辽官话 | 登连片
+                            </p>
+     <div class="p_left_3" title="感觉中国除了山东威海三市一区之外的人说话都是一样的，好尴尬~"><p>感觉中国除了山东威海三市一区之外的人说话都是一样的，好尴尬~</p></div>
+                        </div>
+                       </li>
+                        
+           
+                        
+                        <li style='margin-left:19px;'>
+                        <div class="imge_mid">
+                        	<a href="/pub/showYpxx.action?ypid=609">
+                        	<img class="image_all"  src="/img/showImg.action?img=596"/>
+                            <span class="left_note" title="砀山介绍">砀山介绍</span>
+                            </a>
+                        </div>
+                        <div class="con_text">
+                            <p class="p_left_1 clearfix"><a class="user_id" href="/pub/toGrzx.action?uid=ffee47a392c244b9a6a9e4a9baac97a3" title="范小小">范小小</a>
+                            <span class="time">2016年09月30日
+                            </span></p>
+                            <p class="p_left_2" title="安徽省 | 宿州市 | 砀山县  官话 | 中原官话 | 徐淮片"><span class="address"></span>
+                            安徽省
+                            &nbsp;&nbsp;官话 | 中原官话 | 徐淮片
+                            </p>
+     <div class="p_left_3" title="砀山介绍，下次重点介绍葛集镇"><p>砀山介绍，下次重点介绍葛集镇</p></div>
+                        </div>
+                       </li>
+                        
+           
+           
+            
+            
+            </ul>
+            </div>
+        </div>
+        <div class="con_right">
+        	<div class="con_tips">
+                <div class="tip">
+                	<span class="triangle-right"></span>
+                	小编推荐
+                </div>
+                <ul>
+                
+                    <li><a href='/ixynews/201608/20160819/1549534202.html;jsessionid=2594B09C3D9C0618BB1301F4C302738B' target="_blank" title="i乡音，爱上最美乡音！">i乡音，爱上最美乡音！</a></li>
+                
+                    <li><a href='/ixynews/201602/20160205/1521698976.html;jsessionid=2594B09C3D9C0618BB1301F4C302738B' target="_blank" title="乡音录点啥?">乡音录点啥?</a></li>
+                
+                </ul>
+            </div>
+        	<div class="right_p">
+            	<div class="tip">
+                	<span class="triangle-right"></span>
+                	爱上乡音
+                </div>
+                <p>Hi，欢迎来到i乡音！</p>
+              	<p>在地图上找一找，这里有你熟悉的乡音吗？</p>
+              	<p>有？没有？ </p>
+              	<p>先录一段给大家听听吧！ </p>
+            	<p>还可以分享到微博、QQ空间和微信哒！ </p>
+              	<p>下一个活跃用户就是你！</p>
+            </div>
+            <div class="block_tips">活跃用户</div>
+            <ul class="user_u clearfix">
+            
+              
+                       
+                        <li>
+                        	<span class="s_right  right_top  ">1</span>
+                            <img class="icon_1" src="/img/showTxImg.action?img=87&txdx=small"/>
+                            <a class="p_right_1" href="/pub/toGrzx.action?uid=76fce8520e9448b1ba59fc870f194df6" title="北北粑粑">北北粑粑</a>
+                            <div class="p_right_2" title="被赞数量：29"><span class="yizan"></span>29</div>
+                        </li>
+                        
+         
+                       
+                        <li>
+                        	<span class="s_right  right_top  ">2</span>
+                            <img class="icon_1" src="/img/showTxImg.action?img=114&txdx=small"/>
+                            <a class="p_right_1" href="/pub/toGrzx.action?uid=d06e1d82d7ef49d49f601b232942909e" title="yimixiaohua">yimixiaohua</a>
+                            <div class="p_right_2" title="被赞数量：27"><span class="yizan"></span>27</div>
+                        </li>
+                        
+         
+                       
+                        <li>
+                        	<span class="s_right  right_top  ">3</span>
+                            <img class="icon_1" src="/img/showTxImg.action?img=40&txdx=small"/>
+                            <a class="p_right_1" href="/pub/toGrzx.action?uid=dc0e477e9264e597c698735e4882444f" title="沉舟侧畔">沉舟侧畔</a>
+                            <div class="p_right_2" title="被赞数量：26"><span class="yizan"></span>26</div>
+                        </li>
+                        
+         
+                       
+                        <li>
+                        	<span class="s_right  ">4</span>
+                            <img class="icon_1" src="/img/showTxImg.action?img=99&txdx=small"/>
+                            <a class="p_right_1" href="/pub/toGrzx.action?uid=15fb7b7d582d48a18a6f7bb3fa688271" title="hxn">hxn</a>
+                            <div class="p_right_2" title="被赞数量：25"><span class="yizan"></span>25</div>
+                        </li>
+                        
+         
+                       
+                        <li>
+                        	<span class="s_right  ">5</span>
+                            <img class="icon_1" src="/img/showTxImg.action?img=568&txdx=small"/>
+                            <a class="p_right_1" href="/pub/toGrzx.action?uid=c21a3b622e294cdd89ef89b1e672eb61" title="北方的南方">北方的南方</a>
+                            <div class="p_right_2" title="被赞数量：19"><span class="yizan"></span>19</div>
+                        </li>
+                        
+         
+                       
+                        <li>
+                        	<span class="s_right  ">6</span>
+                            <img class="icon_1" src="/img/showTxImg.action?img=79&txdx=small"/>
+                            <a class="p_right_1" href="/pub/toGrzx.action?uid=b9f782de4e7445dc9ed25567afec3458" title="小园香径">小园香径</a>
+                            <div class="p_right_2" title="被赞数量：17"><span class="yizan"></span>17</div>
+                        </li>
+                        
+         
+                       
+                        <li>
+                        	<span class="s_right  ">7</span>
+                            <img class="icon_1" src="/img/showTxImg.action?img=163&txdx=small"/>
+                            <a class="p_right_1" href="/pub/toGrzx.action?uid=cdfc01dd686754a8f0c215ba16839e92" title="奋斗小青年">奋斗小青年</a>
+                            <div class="p_right_2" title="被赞数量：12"><span class="yizan"></span>12</div>
+                        </li>
+                        
+         
+                       
+                        <li>
+                        	<span class="s_right  ">8</span>
+                            <img class="icon_1" src="/img/showTxImg.action?img=48&txdx=small"/>
+                            <a class="p_right_1" href="/pub/toGrzx.action?uid=67496cb02a0f401eb7efbabcff7b0463" title="冰晶苹果">冰晶苹果</a>
+                            <div class="p_right_2" title="被赞数量：9"><span class="yizan"></span>9</div>
+                        </li>
+                        
+         
+                       
+                        <li>
+                        	<span class="s_right  ">9</span>
+                            <img class="icon_1" src="/img/showTxImg.action?img=221&txdx=small"/>
+                            <a class="p_right_1" href="/pub/toGrzx.action?uid=897fb7237c654dcba8e006c1eaafedaa" title="apple叔叔">apple叔叔</a>
+                            <div class="p_right_2" title="被赞数量：9"><span class="yizan"></span>9</div>
+                        </li>
+                        
+         
+                       
+                        <li>
+                        	<span class="s_right  ">10</span>
+                            <img class="icon_1" src="/img/showTxImg.action?img=241&txdx=small"/>
+                            <a class="p_right_1" href="/pub/toGrzx.action?uid=c4a985250d554ac99567afa43a04e8d8" title="清晰个毛">清晰个毛</a>
+                            <div class="p_right_2" title="被赞数量：8"><span class="yizan"></span>8</div>
+                        </li>
+                        
+         
+           
+            
+            
+            </ul>
+        </div>
+    </div>
+    <div class="con_bottom clearfix">
+    	<div class="left">
+            <div class="block_title">热门乡音</div>
+            <ul class="clearfix">
+              
+                    <li >
+                        <a href="/pub/showYpxx.action?ypid=85" >
+                        <img  src="/img/showImg.action?img=106"/>
+                        <span class="bottom_note" title="江西省南城县方言">江西省南城县方言</span>
+                        </a>
+                   </li>
+                
+                    <li >
+                        <a href="/pub/showYpxx.action?ypid=90" >
+                        <img  src="/img/showImg.action?img=113"/>
+                        <span class="bottom_note" title="哥哥和叔叔">哥哥和叔叔</span>
+                        </a>
+                   </li>
+                
+                    <li style='margin-right:0;'>
+                        <a href="/pub/showYpxx.action?ypid=82" >
+                        <img  src="/img/showImg.action?img=101"/>
+                        <span class="bottom_note" title="东北话版海燕">东北话版海燕</span>
+                        </a>
+                   </li>
+                
+                
+            </ul>
+        </div>
+        <div class="right">
+            <div class="block_title" style="color:#333;">最新上传</div>
+            <ul class="clearfix">
+                
+                <li><img class="p_right_img" src="/img/showTxImg.action?img=927"/> <a class="p_right_1" href="/pub/showYpxx.action?ypid=932" title="myfanyan">myfanyan</a></li>
+                
+                <li><img class="p_right_img" src="/img/showTxImg.action?img=null"/> <a class="p_right_1" href="/pub/showYpxx.action?ypid=964" title="《当年情》">《当年情》</a></li>
+                
+                <li><img class="p_right_img" src="/img/showTxImg.action?img=867"/> <a class="p_right_1" href="/pub/showYpxx.action?ypid=865" title="十堰是个好地方">十堰是个好地方</a></li>
+                
+                <li><img class="p_right_img" src="/img/showTxImg.action?img=808"/> <a class="p_right_1" href="/pub/showYpxx.action?ypid=824" title="吴小鱼 - 永远放你在心底(苗语版)">吴小鱼 - 永远放你在心底(苗语版)</a></li>
+                
+            </ul>
+        </div>
+    </div>
+</div>
+
+
+
+<style>
+#footer { min-width: 1000px; padding: 15px 0; line-height: 28px; background-color: rgb( 51, 51, 51 ); text-align: center; color: #999;    }
+#footer a, #footer a:link, #footer a:visited { color: #999; }
+</style>
+<div id="footer">
+    主办单位：<a href="http://chesicc.moe.edu.cn/" target="_blank">全国高等学校学生信息咨询与就业指导中心</a>　　
+    Copyright © 2003-2019 <a href="//www.chsi.com.cn/" target="_blank">学信网</a> All Rights Reserved
+</div>
+</body>
+<script type="text/javascript">
+$(".p_left_3").each(function(i){
+    var divH = $(this).height();
+    var $p = $("p", $(this)).eq(0);
+    while ($p.outerHeight() > divH) {
+        $p.text($p.text().replace(/(\s)*([a-zA-Z0-9]+|\W)(\.\.\.)?$/, "..."));
+    };
+});
+map = new BMap.Map("allmap",{enableMapClick:false,minZoom:4,maxZoom:15});
+map.centerAndZoom(new BMap.Point(105.426119,37.739883),5);
+      map.enableKeyboard();
+      map.enableDragging();
+      map.enableDoubleClickZoom()
+      map.disableScrollWheelZoom();     //开启鼠标滚轮缩放
+var opts = {offset: new BMap.Size(10, 20),anchor: BMAP_ANCHOR_TOP_RIGHT};
+map.addControl(new BMap.NavigationControl(opts));
+
+var json = eval('[{"fyfqdm":"-1-5-502-50204-","fyfqmc":"客家话 | 南部大片 | 粤北片","nc":"Saving","title":"《当年情》","txid":0,"userid":"9fd577af4c366dcc89c058840a62287b","ypid":964,"zb":"113.981109,24.634518","zbdtb":"coin_f_07.png"},{"fyfqdm":"-1-7-705-70501-","fyfqmc":"晋语 | 上党片 | 长治小片","nc":"美丽","title":"myfanyan","txid":927,"userid":"f043ef3b361fd5118dfec0201f581a5b","ypid":932,"zb":"112.409146,35.99442","zbdtb":"coin_f_11.png"},{"fyfqdm":"-1-27-2707-270704-","fyfqmc":"官话 | 西南官话 | 鄂北片","nc":"忆上江南笙北执","title":"十堰是个好地方","txid":867,"userid":"a5816ccaca2594723201a2acb892954a","ypid":865,"zb":"110.803096,32.667629","zbdtb":"coin_f_01.png"},{"fyfqdm":"-2-12-1202-120203-12020302-","fyfqmc":"汉藏语系 | 苗瑶语族 | 苗语 | 黔东方言","nc":"追风鸟儿","title":"吴小鱼 - 永远放你在心底(苗语版)","txid":808,"userid":"4aebc2e3d4d71b7d06ba26dcad5f413b","ypid":844,"zb":"108.093039,26.844057","zbdtb":"coin_f_22-23.png"},{"fyfqdm":"-2-12-1202-120203-12020302-","fyfqmc":"汉藏语系 | 苗瑶语族 | 苗语 | 黔东方言","nc":"追风鸟儿","title":"吴小鱼 - 永远放你在心底(苗语版)","txid":808,"userid":"4aebc2e3d4d71b7d06ba26dcad5f413b","ypid":824,"zb":"108.093039,26.844057","zbdtb":"coin_f_22-23.png"},{"fyfqdm":"-1-27-2708-270807-","fyfqmc":"官话 | 中原官话 | 徐淮片","nc":"范小小","title":"大话西游台词砀山版","txid":607,"userid":"ffee47a392c244b9a6a9e4a9baac97a3","ypid":764,"zb":"116.509893,34.510978","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2708-270808-","fyfqmc":"官话 | 中原官话 | 兖菏片","nc":"大主演","title":"济宁方言","txid":0,"userid":"41ce60e8be5bc12e882b5b89293dd24b","ypid":724,"zb":"117.34882,35.491954","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2708-270806-","fyfqmc":"官话 | 中原官话 | 信蚌片","nc":"徽商","title":"面朝大海","txid":0,"userid":"a0d5458722ce41e48f67808542161936","ypid":664,"zb":"115.624073,32.65634","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2703-270303-27030303-","fyfqmc":"官话 | 冀鲁官话 | 石济片 | 赵深小片","nc":"哈利路亚","title":"深州方言  面朝大海","txid":0,"userid":"85618fb3c0274d768866569fe1c6ad12","ypid":646,"zb":"115.58268,37.935614","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2707-270702-","fyfqmc":"官话 | 西南官话 | 成渝片","nc":"爽爽的重庆","title":"你要啷个","txid":603,"userid":"9ff61ec0e2455e3000557a7dc75c0c64","ypid":619,"zb":"108.067384,29.327893","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2707-270702-","fyfqmc":"官话 | 西南官话 | 成渝片","nc":"爽爽的重庆","title":"我是重庆崽儿","txid":603,"userid":"9ff61ec0e2455e3000557a7dc75c0c64","ypid":617,"zb":"108.663456,29.678755","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2707-270702-","fyfqmc":"官话 | 西南官话 | 成渝片","nc":"爽爽的重庆","title":"太阳出来喜洋洋","txid":603,"userid":"9ff61ec0e2455e3000557a7dc75c0c64","ypid":644,"zb":"108.378312,29.770925","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2707-270702-","fyfqmc":"官话 | 西南官话 | 成渝片","nc":"爽爽的重庆","title":"老子明天不上班","txid":603,"userid":"9ff61ec0e2455e3000557a7dc75c0c64","ypid":615,"zb":"104.181873,30.405462","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2707-270702-","fyfqmc":"官话 | 西南官话 | 成渝片","nc":"爽爽的重庆","title":"舌尖上的重庆","txid":603,"userid":"9ff61ec0e2455e3000557a7dc75c0c64","ypid":613,"zb":"106.564335,29.569037","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2708-270801-","fyfqmc":"官话 | 中原官话 | 汾河片","nc":"刺客、殇","title":"梦想","txid":608,"userid":"5579d2d6adab498ebe022508e60c49c5","ypid":610,"zb":"110.846525,35.419509","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2708-270807-","fyfqmc":"官话 | 中原官话 | 徐淮片","nc":"范小小","title":"砀山介绍","txid":607,"userid":"ffee47a392c244b9a6a9e4a9baac97a3","ypid":609,"zb":"116.510521,34.510881","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2705-270501-","fyfqmc":"官话 | 胶辽官话 | 登连片","nc":"威海荣成kavin哥","title":"听听荣成大土话","txid":591,"userid":"668848943b2ae76921c295ced12a2434","ypid":624,"zb":"122.638043,37.416493","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2707-270706-","fyfqmc":"官话 | 西南官话 | 桂柳片","nc":"Kimhana","title":"公鸡和宝玉","txid":0,"userid":"7baff9788ab4ebe5319b9cdac413caa1","ypid":574,"zb":"110.295756,25.312085","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2704-270401-27040101-","fyfqmc":"官话 | 江淮官话 | 洪巢片 | 淮东话","nc":"","title":"城门城门几丈高","txid":0,"userid":"6fffe2f5208531e45cc8d2045ab2812b","ypid":584,"zb":"119.458257,32.403126","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-5-501-50104-","fyfqmc":"客家话 | 北部大片 | 于桂片","nc":"HH","title":"客家话","txid":84,"userid":"9bc0e67d97c4a455ecae208027e46efa","ypid":568,"zb":"115.426303,25.999936","zbdtb":"coin_f_07.png"},{"fyfqdm":"-1-27-2708-270808-","fyfqmc":"官话 | 中原官话 | 兖菏片","nc":"沉舟侧畔","title":"【山东】馍馍","txid":40,"userid":"dc0e477e9264e597c698735e4882444f","ypid":564,"zb":"116.021915,36.143789","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-7-703-70302-","fyfqmc":"晋语 | 邯新片 | 获济小片","nc":"","title":"好热的夏天！","txid":0,"userid":"f9c67cfd47200caa989d9c10631d0723","ypid":547,"zb":"114.414451,36.084076","zbdtb":"coin_f_11.png"},{"fyfqdm":"-1-3-303-","fyfqmc":"闽语 | 闽南区","nc":"北极胡","title":"潮汕童谣","txid":0,"userid":"9e771cf39cee1f04f7003b45d412c5dc","ypid":545,"zb":"116.548538,23.394948","zbdtb":"coin_f_03.png"},{"fyfqdm":"-1-10-1004-","fyfqmc":"粤语 | 罗广片","nc":"北极胡","title":"小公鸡和小鸭子的故事","txid":0,"userid":"9e771cf39cee1f04f7003b45d412c5dc","ypid":544,"zb":"112.629913,23.700262","zbdtb":"coin_f_16-17.png"},{"fyfqdm":"-1-27-2707-270708-","fyfqmc":"官话 | 西南官话 | 黔南片","nc":"落落","title":"布依姑娘的歌声","txid":534,"userid":"23dfc3f225237228fc1cf2bc73fc656c","ypid":542,"zb":"107.153996,26.394638","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-4-408-","fyfqmc":"赣语 | 鹰弋片","nc":"lchiiiiiii","title":"生日祝福语","txid":547,"userid":"4449e494b2e337b955f727b9f49685ac","ypid":514,"zb":"116.670878,29.000319","zbdtb":"coin_f_05.png"},{"fyfqdm":"-1-27-2708-270801-","fyfqmc":"官话 | 中原官话 | 汾河片","nc":"云儿","title":"蒲剧  苏三起解","txid":0,"userid":"c8f8a93e4d7f45c091cab6352acab41e","ypid":512,"zb":"111.654857,36.143789","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2707-270702-","fyfqmc":"官话 | 西南官话 | 成渝片","nc":"哎呀呀","title":"重庆话版划拳","txid":381,"userid":"f0747cc3e256ec42842c4c5e70354d99","ypid":501,"zb":"106.522011,29.40525","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2703-270301-27030101-","fyfqmc":"官话 | 冀鲁官话 | 保唐片 | 定霸小片","nc":"落落","title":"河北话唱诗词","txid":534,"userid":"23dfc3f225237228fc1cf2bc73fc656c","ypid":499,"zb":"115.678741,38.814163","zbdtb":"coin_f_01.png"},{"fyfqdm":"-2-12-1201-120102-","fyfqmc":"汉藏语系 | 藏缅语族 | 白语","nc":"落落","title":"云南方言","txid":534,"userid":"23dfc3f225237228fc1cf2bc73fc656c","ypid":509,"zb":"102.839386,25.020374","zbdtb":"coin_f_22-23.png"},{"fyfqdm":"-1-9-904-90404-","fyfqmc":"吴语 | 太湖片 | 苏沪嘉小片","nc":"落落","title":"上海方言","txid":534,"userid":"23dfc3f225237228fc1cf2bc73fc656c","ypid":497,"zb":"121.079645,31.178145","zbdtb":"coin_f_14-15.png"},{"fyfqdm":"-1-27-2708-270807-","fyfqmc":"官话 | 中原官话 | 徐淮片","nc":"张辉","title":"安徽淮北话","txid":0,"userid":"bbce2ebb39184347af3b0037c3ff67e8","ypid":495,"zb":"116.8061,33.98082","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2701-270103-","fyfqmc":"官话 | 北京官话 | 京师片","nc":"yimixiaohua","title":"哥哥和叔叔","txid":114,"userid":"d06e1d82d7ef49d49f601b232942909e","ypid":90,"zb":"116.69356,39.940577","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2701-270103-","fyfqmc":"官话 | 北京官话 | 京师片","nc":"yimixiaohua","title":"从百草园到三味书屋（通州版）","txid":114,"userid":"d06e1d82d7ef49d49f601b232942909e","ypid":506,"zb":"116.677319,39.913287","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2707-270701-","fyfqmc":"官话 | 西南官话 | 常鹤片","nc":"yimixiaohua","title":"公交IC卡","txid":114,"userid":"d06e1d82d7ef49d49f601b232942909e","ypid":491,"zb":"110.044518,29.896405","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-7-702-","fyfqmc":"晋语 | 大包片","nc":"芽子叨叨","title":"内蒙古","txid":478,"userid":"f016a6cd51a16884f628c4d6823c13d6","ypid":502,"zb":"110.863773,41.299634","zbdtb":"coin_f_11.png"},{"fyfqdm":"-1-27-2701-270103-","fyfqmc":"官话 | 北京官话 | 京师片","nc":"紫陌","title":"北京大妞的爷们","txid":574,"userid":"e844cf558e774d169bea4ccc8da4db11","ypid":490,"zb":"116.32046,39.853049","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-7-707-","fyfqmc":"晋语 | 张呼片","nc":"久而安之","title":"普通话版孙悟空和怀来方言版红孩儿对话","txid":0,"userid":"06a9fc74c6ce6e3fb85690766d27f9a7","ypid":479,"zb":"115.695477,40.36297","zbdtb":"coin_f_11.png"},{"fyfqdm":"-1-27-2701-270103-","fyfqmc":"官话 | 北京官话 | 京师片","nc":"伊伊伊","title":"斋堂话","txid":0,"userid":"00c9a2a02673865ee9208e6e6e347cef","ypid":489,"zb":"116.093205,39.954007","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2703-270301-27030101-","fyfqmc":"官话 | 冀鲁官话 | 保唐片 | 定霸小片","nc":"迷糊","title":"讨红包","txid":130,"userid":"10e74c73ec232093721b6d00a53c65e5","ypid":477,"zb":"115.573481,39.202294","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2701-270103-","fyfqmc":"官话 | 北京官话 | 京师片","nc":"桔子","title":"京味顺口溜","txid":483,"userid":"2a6d983c090f40d894f5ef4c81eae630","ypid":486,"zb":"116.39676,39.897347","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-7-702-","fyfqmc":"晋语 | 大包片","nc":"闹闹and车车","title":"《疯狂动物城》","txid":0,"userid":"575464d74894a051ae331687180515d4","ypid":485,"zb":"113.660162,40.01062","zbdtb":"coin_f_11.png"},{"fyfqdm":"-1-27-2703-270301-27030104-","fyfqmc":"官话 | 冀鲁官话 | 保唐片 | 滦昌小片","nc":"噻U那拉","title":"唐山话聊天","txid":0,"userid":"b6f523232b39c03414e694d0f58c99c7","ypid":483,"zb":"118.718497,39.734364","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2707-270701-","fyfqmc":"官话 | 西南官话 | 常鹤片","nc":"贼心不死阿怪一号","title":"童谣和将进酒","txid":476,"userid":"f11c2ad216dc4e6b88e68eef65828e2a","ypid":482,"zb":"111.484153,28.896286","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2704-270402-","fyfqmc":"官话 | 江淮官话 | 黄孝片","nc":"要你管","title":"相亲","txid":0,"userid":"e82740c5f3bd4337944f46bcde791873","ypid":473,"zb":"113.908526,30.919981","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2708-270808-","fyfqmc":"官话 | 中原官话 | 兖菏片","nc":"呀呀哟","title":"芽儿哟","txid":0,"userid":"2126630d738f43861ec21de4b6af30d0","ypid":459,"zb":"118.480254,35.001438","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2703-270303-27030302-","fyfqmc":"官话 | 冀鲁官话 | 石济片 | 邢衡小片","nc":"李可心最棒了","title":"巨鹿城东方言","txid":457,"userid":"f53fb1f18506963167566130aa27d67b","ypid":471,"zb":"115.067555,37.212602","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-7-701-","fyfqmc":"晋语 | 并州片","nc":"yuanlaishini","title":"再别康桥","txid":406,"userid":"4be48cca22d957313a8d9298528f9f85","ypid":458,"zb":"112.7219,37.870012","zbdtb":"coin_f_11.png"},{"fyfqdm":"-1-27-2703-270302-27030201-","fyfqmc":"官话 | 冀鲁官话 | 沧惠片 | 黄乐小片","nc":"灵小犀","title":"月亮奶奶","txid":0,"userid":"e0332837acf4d27e055e53bb3fb57356","ypid":467,"zb":"116.539339,37.390807","zbdtb":"coin_f_01.png"},{"fyfqdm":"-2-13-1302-130202-","fyfqmc":"阿尔泰语系 | 蒙古语族 | 达斡尔语","nc":"悠悠我心","title":"梦中的额吉","txid":0,"userid":"5a088ddf0e78435b922de16687c9cde2","ypid":457,"zb":"120.025627,49.303647","zbdtb":"coin_f_24-25.png"},{"fyfqdm":"-1-27-2708-270805-","fyfqmc":"官话 | 中原官话 | 秦陇片","nc":"lostingz","title":"闲转记(宝鸡方言版)","txid":447,"userid":"38b33653e7ea4368bb4bfcc08b283e41","ypid":437,"zb":"107.47867,34.21041","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2701-270103-","fyfqmc":"官话 | 北京官话 | 京师片","nc":"太阳晴天","title":"给大家介绍点儿北京特产~","txid":0,"userid":"efb1644c706b4c3f9050ef9ecb08a9bc","ypid":456,"zb":"116.171393,39.76259","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2703-270303-27030301-","fyfqmc":"官话 | 冀鲁官话 | 石济片 | 聊泰小片","nc":"外星人怪兽","title":"买东西2","txid":0,"userid":"d718972a5bb04e46893167a19b330bc2","ypid":441,"zb":"117.118854,36.411931","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-7-707-","fyfqmc":"晋语 | 张呼片","nc":"彬彬妈妈","title":"方言扑克","txid":427,"userid":"2750bc07f007cd3737f67f7ef577dd35","ypid":439,"zb":"115.230831,40.37657","zbdtb":"coin_f_11.png"},{"fyfqdm":"-1-27-2708-270802-","fyfqmc":"官话 | 中原官话 | 关中片","nc":"rp","title":"相声","txid":0,"userid":"16ad00d954a24a478faa4d9588541bb8","ypid":433,"zb":"108.876865,34.240975","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2703-270303-27030301-","fyfqmc":"官话 | 冀鲁官话 | 石济片 | 聊泰小片","nc":"外星人怪兽","title":"济南话买东西","txid":0,"userid":"d718972a5bb04e46893167a19b330bc2","ypid":431,"zb":"117.045265,36.411931","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2707-270705-27070502-","fyfqmc":"官话 | 西南官话 | 灌赤片 | 仁富小片","nc":"徐梦","title":"月亮光光","txid":0,"userid":"b868bb7436044b2d82e6eb8fb2b957b2","ypid":453,"zb":"104.452315,29.435452","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2703-270301-27030101-","fyfqmc":"官话 | 冀鲁官话 | 保唐片 | 定霸小片","nc":"微O","title":"易县方言","txid":0,"userid":"c9e7ca4c7e0c483e8aaa6e66f8b9a777","ypid":451,"zb":"115.504491,39.351365","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2708-100-","fyfqmc":"官话 | 中原官话 | 南鲁片","nc":"","title":"河南漯河方言","txid":0,"userid":"5819ec7bcb814a2dbdd9fbb544ccd91e","ypid":449,"zb":"113.635441,33.672761","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2703-270301-27030101-","fyfqmc":"官话 | 冀鲁官话 | 保唐片 | 定霸小片","nc":"yi天","title":"小歌谣","txid":416,"userid":"63389065cd6b4002b8d81ce00eb44fea","ypid":447,"zb":"115.17334,38.541431","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2701-270103-","fyfqmc":"官话 | 北京官话 | 京师片","nc":"还可以","title":"老北京叫卖","txid":0,"userid":"79d92dc43c5d4471ae8a463d3aa1c45e","ypid":429,"zb":"116.401359,39.897347","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2701-270101-","fyfqmc":"官话 | 北京官话 | 朝峰片","nc":"随风","title":"赤峰地区土话","txid":0,"userid":"84145c232a964211bfb2cf181c202f87","ypid":444,"zb":"118.701021,42.181502","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-19-1901-190101-","fyfqmc":"湘语 | 长益片 | 长株潭小片","nc":"李苏胖胖","title":"一只羊也能成精","txid":0,"userid":"dd08075f61fd4c38d0c76b563392963d","ypid":410,"zb":"113.260571,28.192414","zbdtb":"coin_f_18-19.png"},{"fyfqdm":"-1-27-2706-270604-","fyfqmc":"官话 | 兰银官话 | 银吴片","nc":"夏天的西瓜甜又甜","title":"童谣","txid":72,"userid":"75684bbc71e1454a93e736c17540269b","ypid":442,"zb":"106.203942,38.004013","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2702-270201-27020102-","fyfqmc":"官话 | 东北官话 | 哈阜片 | 肇扶小片","nc":"谜一样的男子","title":"我的滑板鞋-东北话版","txid":411,"userid":"2062a1da825737ae37920a56836a6c0c","ypid":425,"zb":"126.53827,45.638225","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2703-270302-108-","fyfqmc":"官话 | 冀鲁官话 | 沧惠片 | 莒照小片","nc":"我是吃货朱大","title":"走出去才有路","txid":430,"userid":"83cb59e13a5579c89b9fa46814e5198c","ypid":423,"zb":"118.866597,35.148907","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-10-1006-","fyfqmc":"粤语 | 吴化片","nc":"沉舟侧畔","title":"【粤语】【朗诵】青玉案·元夕","txid":40,"userid":"dc0e477e9264e597c698735e4882444f","ypid":377,"zb":"110.81548,21.440714","zbdtb":"coin_f_16-17.png"},{"fyfqdm":"-1-27-2703-270302-27030202-","fyfqmc":"官话 | 冀鲁官话 | 沧惠片 | 阳寿小片","nc":"沉舟侧畔","title":"【山东】【童谣】枣树叶儿上的小白妮儿","txid":40,"userid":"dc0e477e9264e597c698735e4882444f","ypid":43,"zb":"115.435501,36.45653","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2703-270302-27030202-","fyfqmc":"官话 | 冀鲁官话 | 沧惠片 | 阳寿小片","nc":"沉舟侧畔","title":"【山东】【童谣】小巴狗带铃铛","txid":40,"userid":"dc0e477e9264e597c698735e4882444f","ypid":108,"zb":"115.449299,36.480678","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2703-270302-27030202-","fyfqmc":"官话 | 冀鲁官话 | 沧惠片 | 阳寿小片","nc":"沉舟侧畔","title":"【山东】【童谣】小板凳儿","txid":40,"userid":"dc0e477e9264e597c698735e4882444f","ypid":38,"zb":"115.474595,36.497391","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2708-270802-","fyfqmc":"官话 | 中原官话 | 关中片","nc":"点点","title":"猫和老鼠","txid":378,"userid":"357176c944d4cd0c4351baf853d21921","ypid":399,"zb":"109.951499,34.798702","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2706-270602-","fyfqmc":"官话 | 兰银官话 | 河西片","nc":"水鱼鱼","title":"民乐话--上一中","txid":0,"userid":"132900a375bdd829493fd995f9d14808","ypid":394,"zb":"100.598076,38.918281","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2708-270808-","fyfqmc":"官话 | 中原官话 | 兖菏片","nc":"苏醒的青石板","title":"河南方言村里人的疑惑","txid":149,"userid":"6db92967ad794812bf8678ae7843103a","ypid":419,"zb":"113.439394,34.485088","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2708-100-","fyfqmc":"官话 | 中原官话 | 南鲁片","nc":"苏醒的青石板","title":"河南豫剧","txid":149,"userid":"6db92967ad794812bf8678ae7843103a","ypid":417,"zb":"113.499186,33.869626","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2701-270103-","fyfqmc":"官话 | 北京官话 | 京师片","nc":"珠珠","title":"《班扎古鲁白玛的沉默》","txid":0,"userid":"2467a5722ae84ca0861634f0a9400041","ypid":397,"zb":"116.483777,40.085842","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2705-270502-","fyfqmc":"官话 | 胶辽官话 | 青莱片","nc":"淡淡茶香","title":"最美的乡音","txid":0,"userid":"f6f516abe99336b4b0a6bbcf84d99bf7","ypid":416,"zb":"120.388973,36.072874","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-3-303-","fyfqmc":"闽语 | 闽南区","nc":"海边的鸵鸟","title":"潮汕民谣","txid":401,"userid":"a1a1c67592c1c1353952183c0c5d6800","ypid":415,"zb":"116.38575,23.503116","zbdtb":"coin_f_03.png"},{"fyfqdm":"-1-27-2704-270401-27040101-","fyfqmc":"官话 | 江淮官话 | 洪巢片 | 淮东话","nc":"F，粉色蒲公英的迷恋","title":"买房","txid":376,"userid":"653d15b2b64fc631fb3c48589982e214","ypid":393,"zb":"118.712794,32.016398","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2708-100-","fyfqmc":"官话 | 中原官话 | 南鲁片","nc":"diana","title":"多彩中国话平顶山配音版太阳的后裔","txid":377,"userid":"258345b4c6d54599a8f5e7ed8ce6b14b","ypid":408,"zb":"113.217937,33.71563","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-7-706-","fyfqmc":"晋语 | 五台片","nc":"馨雅望缘","title":"假如生活欺骗了你","txid":0,"userid":"13dde367dba1f6c293b46fb9ec7562b0","ypid":404,"zb":"113.218627,39.568855","zbdtb":"coin_f_11.png"},{"fyfqdm":"-1-27-2701-270103-","fyfqmc":"官话 | 北京官话 | 京师片","nc":"知知妈","title":"北京话","txid":0,"userid":"e833bae76be34189ae9040b60049847d","ypid":406,"zb":"116.355366,39.907974","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2701-270103-","fyfqmc":"官话 | 北京官话 | 京师片","nc":"知知妈","title":"儿歌","txid":0,"userid":"e833bae76be34189ae9040b60049847d","ypid":402,"zb":"116.142072,39.985858","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2701-270102-","fyfqmc":"官话 | 北京官话 | 怀承片","nc":"tbw","title":"念奴娇赤壁怀古","txid":0,"userid":"b709227bf77a4b588f3fc70e3bb14ecb","ypid":379,"zb":"116.934881,39.939846","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2707-270707-","fyfqmc":"官话 | 西南官话 | 昆贵片","nc":"时间的灰","title":"滇池圆舞曲","txid":0,"userid":"18b729c269804ac99d88419bdb107bf1","ypid":389,"zb":"102.723256,25.050952","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2701-270103-","fyfqmc":"官话 | 北京官话 | 京师片","nc":"黄瓜西红柿","title":"北京琴书-有话好好说","txid":365,"userid":"e8f9bb6298e94c529e2eeea1c0d617c1","ypid":388,"zb":"116.382962,39.670234","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-10-1001-","fyfqmc":"粤语 | 高阳片","nc":"北方的南方","title":"用粤语简单的介绍广州","txid":568,"userid":"c21a3b622e294cdd89ef89b1e672eb61","ypid":373,"zb":"110.937362,21.645119","zbdtb":"coin_f_16-17.png"},{"fyfqdm":"-1-27-2703-270303-27030303-","fyfqmc":"官话 | 冀鲁官话 | 石济片 | 赵深小片","nc":"北上","title":"唐僧取经","txid":358,"userid":"908c956230424b2494c1294834736c2a","ypid":371,"zb":"114.515636,38.008435","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2703-270303-27030303-","fyfqmc":"官话 | 冀鲁官话 | 石济片 | 赵深小片","nc":"北上","title":"抒情诗","txid":358,"userid":"908c956230424b2494c1294834736c2a","ypid":370,"zb":"114.377657,38.552267","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2708-270808-","fyfqmc":"官话 | 中原官话 | 兖菏片","nc":"亦君","title":"班主任谈感情问题","txid":357,"userid":"f3b79d9291944625a29965e4ed59dd2d","ypid":386,"zb":"117.645476,35.51076","zbdtb":"coin_f_01.png"},{"fyfqdm":"-2-12-1201-120103-","fyfqmc":"汉藏语系 | 藏缅语族 | 藏语","nc":"冰晶苹果","title":"luyin","txid":48,"userid":"67496cb02a0f401eb7efbabcff7b0463","ypid":368,"zb":"101.444357,34.728482","zbdtb":"coin_f_22-23.png"},{"fyfqdm":"-1-27-2703-270301-27030101-","fyfqmc":"官话 | 冀鲁官话 | 保唐片 | 定霸小片","nc":"闪灵","title":"正宗高碑店方言","txid":0,"userid":"1581eb95e3d946cf8b1305e8b1c4e6b4","ypid":384,"zb":"115.895092,39.336776","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2708-270805-","fyfqmc":"官话 | 中原官话 | 秦陇片","nc":"Jennifer","title":"明修栈道暗度陈仓","txid":102,"userid":"79eb7500caed6b63b98cf28d90171b14","ypid":383,"zb":"106.954347,32.982578","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-4-405-","fyfqmc":"赣语 | 怀岳片","nc":"云游四方","title":"倒车","txid":0,"userid":"4d67add805494627b39437ee1480921d","ypid":382,"zb":"116.226585,30.474808","zbdtb":"coin_f_05.png"},{"fyfqdm":"-1-7-705-70502-","fyfqmc":"晋语 | 上党片 | 晋城小片","nc":"艾尔文","title":"山西晋城话","txid":0,"userid":"c34a2f394b404f1eba65be252199e4ea","ypid":340,"zb":"112.92427,35.694825","zbdtb":"coin_f_11.png"},{"fyfqdm":"-1-27-2703-270303-27030302-","fyfqmc":"官话 | 冀鲁官话 | 石济片 | 邢衡小片","nc":"龙则灵","title":"仰望星空","txid":354,"userid":"47665792f82c42afb1f7c8991f5f26e7","ypid":363,"zb":"114.542082,37.037659","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2702-270201-27020102-","fyfqmc":"官话 | 东北官话 | 哈阜片 | 肇扶小片","nc":"眷恋","title":"在东北下雨了","txid":0,"userid":"95327b65397f656ac013d8e1923b5558","ypid":362,"zb":"125.379074,46.400266","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2708-101-","fyfqmc":"官话 | 中原官话 | 洛嵩片","nc":"妥妥的","title":"新安话-感冒之后","txid":0,"userid":"d6332ca9e53a403cbaa44f9c99fa59e4","ypid":336,"zb":"112.142385,34.717089","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2708-101-","fyfqmc":"官话 | 中原官话 | 洛嵩片","nc":"妥妥的","title":"新安县方言-训孩子","txid":0,"userid":"d6332ca9e53a403cbaa44f9c99fa59e4","ypid":335,"zb":"112.128587,34.724684","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2706-270602-","fyfqmc":"官话 | 兰银官话 | 河西片","nc":"HH","title":"啰嗦的唐僧-大话西游","txid":84,"userid":"9bc0e67d97c4a455ecae208027e46efa","ypid":359,"zb":"102.971333,37.621654","zbdtb":"coin_f_01.png"},{"fyfqdm":"-2-12-1201-120103-","fyfqmc":"汉藏语系 | 藏缅语族 | 藏语","nc":"HH","title":"四季","txid":84,"userid":"9bc0e67d97c4a455ecae208027e46efa","ypid":333,"zb":"88.713427,31.508988","zbdtb":"coin_f_22-23.png"},{"fyfqdm":"-1-3-303-","fyfqmc":"闽语 | 闽南区","nc":"HH","title":"闽语虞美人","txid":84,"userid":"9bc0e67d97c4a455ecae208027e46efa","ypid":358,"zb":"117.854746,24.998108","zbdtb":"coin_f_03.png"},{"fyfqdm":"-2-13-1302-130205-","fyfqmc":"阿尔泰语系 | 蒙古语族 | 蒙古语","nc":"侯林河","title":"蒙古人","txid":0,"userid":"69790672e973444e908a0aeefdcb6747","ypid":330,"zb":"112.482735,44.173978","zbdtb":"coin_f_24-25.png"},{"fyfqdm":"-1-27-2702-270201-27020101-","fyfqmc":"官话 | 东北官话 | 哈阜片 | 长锦小片","nc":"苗儿","title":"锦州话小段儿4","txid":164,"userid":"57359765a6134dd4ac9fe5291013d79f","ypid":355,"zb":"121.117966,41.108248","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2702-270201-27020101-","fyfqmc":"官话 | 东北官话 | 哈阜片 | 长锦小片","nc":"苗儿","title":"锦州话小段儿3","txid":164,"userid":"57359765a6134dd4ac9fe5291013d79f","ypid":353,"zb":"121.109917,41.115075","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2702-270201-27020101-","fyfqmc":"官话 | 东北官话 | 哈阜片 | 长锦小片","nc":"苗儿","title":"锦州话小段儿2","txid":164,"userid":"57359765a6134dd4ac9fe5291013d79f","ypid":352,"zb":"121.09267,41.085614","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2702-270201-27020101-","fyfqmc":"官话 | 东北官话 | 哈阜片 | 长锦小片","nc":"苗儿","title":"锦州话小段儿1","txid":164,"userid":"57359765a6134dd4ac9fe5291013d79f","ypid":350,"zb":"121.019081,40.86251","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2702-270201-27020101-","fyfqmc":"官话 | 东北官话 | 哈阜片 | 长锦小片","nc":"苗儿","title":"锦州话再别康桥","txid":164,"userid":"57359765a6134dd4ac9fe5291013d79f","ypid":348,"zb":"121.166259,40.86251","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2704-270401-27040102-","fyfqmc":"官话 | 江淮官话 | 洪巢片 | 淮西话","nc":"yinxl","title":"出路出路，走出去才有路","txid":311,"userid":"4cd0e2bf4a2d5ebec4c54628467e6836","ypid":327,"zb":"117.236137,30.703616","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2708-270803-","fyfqmc":"官话 | 中原官话 | 陇中片","nc":"yinxl","title":"出路出路，走出去才有路","txid":311,"userid":"4cd0e2bf4a2d5ebec4c54628467e6836","ypid":346,"zb":"105.728627,34.876446","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2702-270201-27020101-","fyfqmc":"官话 | 东北官话 | 哈阜片 | 长锦小片","nc":"妞妞妈妈","title":"假如","txid":0,"userid":"cfbfedd03a954e1785f89c941f0cf81d","ypid":345,"zb":"125.538506,43.721341","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2703-270301-27030101-","fyfqmc":"官话 | 冀鲁官话 | 保唐片 | 定霸小片","nc":"HH","title":"新录音测试","txid":84,"userid":"9bc0e67d97c4a455ecae208027e46efa","ypid":250,"zb":"115.426303,38.46553","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2703-270301-27030101-","fyfqmc":"官话 | 冀鲁官话 | 保唐片 | 定霸小片","nc":"杜若子","title":"定州顺口溜1","txid":0,"userid":"72fd126fb24e4f3b9ad765777f9d9931","ypid":232,"zb":"115.536686,38.819042","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2707-270709-","fyfqmc":"官话 | 西南官话 | 武天片","nc":"好好","title":"在武汉","txid":0,"userid":"362e7645fc6f41df992d83cc7b0a89d6","ypid":248,"zb":"114.769174,30.784562","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2707-270702-","fyfqmc":"官话 | 西南官话 | 成渝片","nc":"蓉儿","title":"四川童谣","txid":253,"userid":"3429e20d7ff84204b25b1bd4a5e9b050","ypid":229,"zb":"103.946389,30.685729","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2702-270201-27020102-","fyfqmc":"官话 | 东北官话 | 哈阜片 | 肇扶小片","nc":"apple叔叔","title":"穿貂东北大妈催女生娃一套一套的","txid":221,"userid":"897fb7237c654dcba8e006c1eaafedaa","ypid":247,"zb":"126.096735,45.638225","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2702-109-150-","fyfqmc":"官话 | 东北官话 | 黑松片 | 嫩克小片","nc":"光长痘不长肉的rabbit","title":"东北俗语","txid":203,"userid":"f1d01ff5c67a4fe1874f3e9d445c27c2","ypid":245,"zb":"124.339793,51.605206","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2703-270304-","fyfqmc":"官话 | 冀鲁官话 | 章利片","nc":"ALFA","title":"爱乡音","txid":0,"userid":"6894953edb2345acaecc9307c5bdab12","ypid":226,"zb":"118.093911,36.956495","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-7-703-70302-","fyfqmc":"晋语 | 邯新片 | 获济小片","nc":"HH","title":"学历认证报告编号咋查","txid":84,"userid":"9bc0e67d97c4a455ecae208027e46efa","ypid":222,"zb":"114.046505,35.213104","zbdtb":"coin_f_11.png"},{"fyfqdm":"-1-27-2708-101-","fyfqmc":"官话 | 中原官话 | 洛嵩片","nc":"sn","title":"日常对话之早上-中午-晚上","txid":238,"userid":"9d71b1a53e464cde89633a9b95b1f62d","ypid":175,"zb":"113.020856,34.458423","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2708-100-","fyfqmc":"官话 | 中原官话 | 南鲁片","nc":"sn","title":"中国文艺春节特别节目-示爱-吴鹏","txid":238,"userid":"9d71b1a53e464cde89633a9b95b1f62d","ypid":180,"zb":"112.547126,32.978701","zbdtb":"coin_f_01.png"},{"fyfqdm":"-2-12-1201-120105-","fyfqmc":"汉藏语系 | 藏缅语族 | 嘉戎语","nc":"sn","title":"中国文艺春节特别节目-示爱-刘劲","txid":238,"userid":"9d71b1a53e464cde89633a9b95b1f62d","ypid":202,"zb":"102.235441,31.949282","zbdtb":"coin_f_22-23.png"},{"fyfqdm":"-1-27-2708-270802-","fyfqmc":"官话 | 中原官话 | 关中片","nc":"sn","title":"中国文艺春节特别节目-示爱-王洲","txid":238,"userid":"9d71b1a53e464cde89633a9b95b1f62d","ypid":178,"zb":"108.991273,34.101911","zbdtb":"coin_f_01.png"},{"fyfqdm":"-2-12-1201-120105-","fyfqmc":"汉藏语系 | 藏缅语族 | 嘉戎语","nc":"sn","title":"中国文艺春节特别节目-致橡树","txid":238,"userid":"9d71b1a53e464cde89633a9b95b1f62d","ypid":200,"zb":"102.189447,31.870813","zbdtb":"coin_f_22-23.png"},{"fyfqdm":"-1-27-2708-270803-","fyfqmc":"官话 | 中原官话 | 陇中片","nc":"清晰个毛","title":"定西的情书是这么说的","txid":241,"userid":"c4a985250d554ac99567afa43a04e8d8","ypid":198,"zb":"104.621196,35.579937","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2701-270103-","fyfqmc":"官话 | 北京官话 | 京师片","nc":"耳东陈","title":"假如生活户哝了你","txid":0,"userid":"8382a53f495245febd5adb155b7a0c14","ypid":171,"zb":"116.279477,39.853492","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-7-705-70501-","fyfqmc":"晋语 | 上党片 | 长治小片","nc":"臭臭猫","title":"两只麻雀","txid":189,"userid":"eaa35a87b56549a7875bc1be19fbcad1","ypid":195,"zb":"113.154236,36.188544","zbdtb":"coin_f_11.png"},{"fyfqdm":"-1-27-2703-270302-27030201-","fyfqmc":"官话 | 冀鲁官话 | 沧惠片 | 黄乐小片","nc":"apple叔叔","title":"海兴话给大家拜年","txid":221,"userid":"897fb7237c654dcba8e006c1eaafedaa","ypid":194,"zb":"117.502897,38.130247","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2703-270302-27030201-","fyfqmc":"官话 | 冀鲁官话 | 沧惠片 | 黄乐小片","nc":"apple叔叔","title":"海兴话告诉你怎么录方言最正宗","txid":221,"userid":"897fb7237c654dcba8e006c1eaafedaa","ypid":168,"zb":"117.48565,38.129338","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-7-703-70301-","fyfqmc":"晋语 | 邯新片 | 磁漳小片","nc":"zzhao","title":"邢台县话","txid":200,"userid":"1716cfdcb10c4e51babfaa1bee6ad5ed","ypid":181,"zb":"114.563929,37.015532","zbdtb":"coin_f_11.png"},{"fyfqdm":"-1-27-2703-270303-27030301-","fyfqmc":"官话 | 冀鲁官话 | 石济片 | 聊泰小片","nc":"泪奔包子","title":"母上大人家乡话大拜年","txid":188,"userid":"eb927eadf622458c8184d233ebf3ab3b","ypid":167,"zb":"116.4646,37.748677","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2703-270303-27030301-","fyfqmc":"官话 | 冀鲁官话 | 石济片 | 聊泰小片","nc":"泪奔包子","title":"老姨的家乡话拜年！","txid":188,"userid":"eb927eadf622458c8184d233ebf3ab3b","ypid":189,"zb":"116.464456,37.748677","zbdtb":"coin_f_01.png"},{"fyfqdm":"-2-12-1202-120203-12020303-","fyfqmc":"汉藏语系 | 苗瑶语族 | 苗语 | 湘西方言","nc":"何须感伤离别","title":"比比高","txid":108,"userid":"1023c73e3eee44899b53ba4c54205a42","ypid":187,"zb":"109.503954,28.542455","zbdtb":"coin_f_22-23.png"},{"fyfqdm":"-2-12-1202-120203-12020303-","fyfqmc":"汉藏语系 | 苗瑶语族 | 苗语 | 湘西方言","nc":"何须感伤离别","title":"自然规律","txid":108,"userid":"1023c73e3eee44899b53ba4c54205a42","ypid":183,"zb":"109.513871,28.392132","zbdtb":"coin_f_22-23.png"},{"fyfqdm":"-1-27-2704-270402-","fyfqmc":"官话 | 江淮官话 | 黄孝片","nc":"落落","title":"瑞昌方言童谣","txid":534,"userid":"23dfc3f225237228fc1cf2bc73fc656c","ypid":148,"zb":"116.088605,29.726934","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-19-1901-190101-","fyfqmc":"湘语 | 长益片 | 长株潭小片","nc":"北方的南方","title":"月亮粑粑","txid":568,"userid":"c21a3b622e294cdd89ef89b1e672eb61","ypid":141,"zb":"113.093439,28.251043","zbdtb":"coin_f_18-19.png"},{"fyfqdm":"-1-19-1901-190102-","fyfqmc":"湘语 | 长益片 | 益沅小片","nc":"京京","title":"湖南话朗诵沁园春?雪","txid":152,"userid":"aaa38dfef59549d38fde66b7a57c5436","ypid":123,"zb":"111.894022,28.499069","zbdtb":"coin_f_18-19.png"},{"fyfqdm":"-1-27-2708-100-","fyfqmc":"官话 | 中原官话 | 南鲁片","nc":"苏醒的青石板","title":"可爱搞笑童声河南话","txid":149,"userid":"6db92967ad794812bf8678ae7843103a","ypid":121,"zb":"112.593119,32.92441","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-4-402-","fyfqmc":"赣语 | 大通片","nc":"北方的南方","title":"马马嘟嘟骑","txid":568,"userid":"c21a3b622e294cdd89ef89b1e672eb61","ypid":115,"zb":"112.551581,29.536813","zbdtb":"coin_f_05.png"},{"fyfqdm":"-1-27-2707-270702-","fyfqmc":"官话 | 西南官话 | 成渝片","nc":"奋斗小青年","title":"重庆","txid":163,"userid":"cdfc01dd686754a8f0c215ba16839e92","ypid":94,"zb":"108.591707,30.892218","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-4-407-","fyfqmc":"赣语 | 宜浏片","nc":"yuki","title":"江西省萍乡市上栗方言","txid":124,"userid":"d003b005d4274c81b0e92d50f2964c92","ypid":112,"zb":"113.839536,27.879634","zbdtb":"coin_f_05.png"},{"fyfqdm":"-1-4-401-","fyfqmc":"赣语 | 昌都片","nc":"xueming","title":"大家好！","txid":0,"userid":"31d60f3099bc4fc3ba710cb9bdd5fe87","ypid":105,"zb":"115.389508,28.84995","zbdtb":"coin_f_05.png"},{"fyfqdm":"-1-27-2708-270808-","fyfqmc":"官话 | 中原官话 | 兖菏片","nc":"Elaine","title":"假如生活欺负了你","txid":135,"userid":"1a4b741efc454ecdbbd92001e9582eb9","ypid":101,"zb":"115.499892,34.971155","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2708-270802-","fyfqmc":"官话 | 中原官话 | 关中片","nc":"大个子","title":"biangbiang面","txid":109,"userid":"98a276af3e5643c7beed4149b66cd938","ypid":80,"zb":"108.950454,34.236009","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2701-270102-","fyfqmc":"官话 | 北京官话 | 怀承片","nc":"奋斗小青年","title":"京剧","txid":163,"userid":"cdfc01dd686754a8f0c215ba16839e92","ypid":78,"zb":"116.60373,40.82269","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-4-404-","fyfqmc":"赣语 | 抚广片","nc":"hxn","title":"江西省南城县方言","txid":99,"userid":"15fb7b7d582d48a18a6f7bb3fa688271","ypid":85,"zb":"116.663521,27.550116","zbdtb":"coin_f_05.png"},{"fyfqdm":"-1-27-2702-270201-27020102-","fyfqmc":"官话 | 东北官话 | 哈阜片 | 肇扶小片","nc":"小园香径","title":"东北话版海燕","txid":79,"userid":"b9f782de4e7445dc9ed25567afec3458","ypid":82,"zb":"126.67165,45.725272","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2703-270301-27030101-","fyfqmc":"官话 | 冀鲁官话 | 保唐片 | 定霸小片","nc":"闪灵","title":"高碑店方言","txid":0,"userid":"1581eb95e3d946cf8b1305e8b1c4e6b4","ypid":58,"zb":"115.900033,39.324577","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2702-109-110-","fyfqmc":"官话 | 东北官话 | 黑松片 | 佳富小片","nc":"何妨一笑","title":"在黑龙江，有一种地方，叫那嘎达……","txid":93,"userid":"b29f437935ba49a8862218976167a507","ypid":69,"zb":"131.841291,47.287614","zbdtb":"coin_f_01.png"},{"fyfqdm":"-2-12-1201-120103-","fyfqmc":"汉藏语系 | 藏缅语族 | 藏语","nc":"w","title":"数数","txid":76,"userid":"fa288bec89924e3e96577370b3224351","ypid":56,"zb":"90.700336,30.095587","zbdtb":"coin_f_22-23.png"},{"fyfqdm":"-1-27-2701-270103-","fyfqmc":"官话 | 北京官话 | 京师片","nc":"北北粑粑","title":"奶奶对娃儿说","txid":87,"userid":"76fce8520e9448b1ba59fc870f194df6","ypid":67,"zb":"116.272578,40.242449","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2701-270103-","fyfqmc":"官话 | 北京官话 | 京师片","nc":"北北粑粑","title":"唱出家乡来","txid":87,"userid":"76fce8520e9448b1ba59fc870f194df6","ypid":53,"zb":"116.281777,40.211919","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2701-270103-","fyfqmc":"官话 | 北京官话 | 京师片","nc":"北北粑粑","title":"和老家的对话儿","txid":87,"userid":"76fce8520e9448b1ba59fc870f194df6","ypid":65,"zb":"116.015016,40.135002","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2703-270301-27030102-","fyfqmc":"官话 | 冀鲁官话 | 保唐片 | 抚龙小片","nc":"冰晶苹果","title":"我老太的一点事儿","txid":48,"userid":"67496cb02a0f401eb7efbabcff7b0463","ypid":40,"zb":"118.903392,39.872543","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2701-270103-","fyfqmc":"官话 | 北京官话 | 京师片","nc":"冰晶苹果","title":"元旦快乐哦","txid":48,"userid":"67496cb02a0f401eb7efbabcff7b0463","ypid":16,"zb":"116.364565,39.890261","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2702-270202-27020201-","fyfqmc":"官话 | 东北官话 | 吉沈片 | 通溪小片","nc":"哈哈哈","title":"这不是我的家乡话","txid":27,"userid":"2085780c07b849518217a23e05a427dd","ypid":14,"zb":"123.889059,41.410534","zbdtb":"coin_f_01.png"},{"fyfqdm":"-1-27-2703-270303-27030301-","fyfqmc":"官话 | 冀鲁官话 | 石济片 | 聊泰小片","nc":"哈哈哈","title":"a","txid":27,"userid":"2085780c07b849518217a23e05a427dd","ypid":27,"zb":"115.573481,36.113938","zbdtb":"coin_f_01.png"}]');
+var opts1 = {
+                width: 220,     // 信息窗口宽度
+                height: 130,     // 信息窗口高度
+                enableMessage:true//设置允许信息窗发送短息
+           };
+//alert(json);
+for(var i=0;i<json.length;i++){
+	var sContent ="<div id='tips"+i+"' style='text-align:center;'>" +
+ "<img style='width:50px;height:50px; border-radius:25px;' src='/img/showTxImg.action?img="+json[i].txid+"' title='"+stripscript(json[i].title)+"'>" +
+ "<p style='max-width:220px; height:30px; line-height:30px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; font-size:16px;font-weight:700; ' title='"+json[i].nc+"'><a href='/pub/toGrzx.action?uid="+json[i].userid+"'>"+json[i].nc+"</a></p>"+
+ "<p style='max-width:220px; height:20px; line-height:20px;color:#999; text-align:center; overflow:hidden; text-overflow:ellipsis; white-space:nowrap;' title='"+json[i].fyfqmc+"'>"+json[i].fyfqmc+"</p>"+
+ "<p style='max-width:220px; height:20px;line-height:20px; font-size:12px;text-align:left;overflow:hidden;text-overflow:ellipsis; white-space:nowrap;' title='"+stripscript(json[i].title)+"'><a href='/pub/showYpxx.action?ypid="+json[i].ypid+"'>"+stripscript(json[i].title)+"</a></p>"+
+ "</div>";
+ var marker = new BMap.Marker(new BMap.Point(json[i].zb.split(",")[0],json[i].zb.split(",")[1]),{ icon: new BMap.Icon('images/coin/'+json[i].zbdtb, new BMap.Size(14, 14), { infoWindowAnchor: new BMap.Size(0, 0)})
+});  
+//var infoWindow = new BMap.InfoWindow(sContent);  // 创建信息窗口对象
+// 创建标注
+        var content = json[i].title;
+        //alert(json[i].ypid);
+        map.addOverlay(marker);               // 将标注添加到地图中
+        //var id = "imgDemo"+json[i].ypid;
+        
+        addClickHandler(sContent,marker);
+        
+        /**
+       marker.addEventListener("click", function(){          
+       this.openInfoWindow(infoWindow);
+       //图片加载完毕重绘infowindow
+       document.getElementById(id).onload = function (){
+       infoWindow.redraw();   //防止在网速较慢，图片未加载时，生成的信息框高度比图片的总高度小，导致图片部分被隐藏
+        }
+    });
+    */
+}
+function addClickHandler(content,marker){
+            marker.addEventListener("click",function(e){
+            openInfo(content,e)}
+       );
+     }
+        function openInfo(content,e){
+        var p = e.target;
+        var point = new BMap.Point(p.getPosition().lng, p.getPosition().lat);
+        var infoWindow = new BMap.InfoWindow(content,opts1);  // 创建信息窗口对象 
+        map.openInfoWindow(infoWindow,point); //开启信息窗口
+     }
+     var myjson=[
+          {
+                    "featureType": "highway",
+                    "elementType": "all",
+                    "stylers": {
+                              "visibility": "off"
+                    }
+          },
+          {
+                    "featureType": "railway",
+                    "elementType": "all",
+                    "stylers": {
+                              "visibility": "off"
+                    }
+          }
+		];
+	map.setMapStyle({styleJson: myjson});
+</script>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+        <title>登录_全国万名优秀创新创业导师人才库</title>
+        <meta name="keywords" content="登录,全国万名优秀创新创业导师人才库"/>
+        <meta name="description" content="全国万名优秀创新创业导师人才库由各行各业优秀创新创业人才、具有较高理论水平和实践经验的高校教师组成。"/>
+        <link href="https://t3.chei.com.cn/passport/css/960_48_base.css" rel="stylesheet"/>
+        <link href="https://t1.chei.com.cn/passport/css/login2014.css?20170621" rel="stylesheet"/>
+        <link href="https://t4.chei.com.cn/passport/css/login/dsk_login.min.css?20160906" rel="stylesheet"/>
+        <link rel="icon" href="https://t1.chei.com.cn/passport/favicon.ico" type="image/x-icon" />
+        <script type="text/javascript" src="https://t1.chei.com.cn/common/jquery/1.8.3/jquery.min.js"></script>
+        <script type="text/javascript" src="https://t1.chei.com.cn/common/wap/js/wap.min.js"></script>
+        <script type="text/javascript" src="https://t1.chei.com.cn/passport/js/captchaChange.js"></script>        
+        <script>
+            if(wapFn()){
+                addFile("css","https://t1.chei.com.cn/passport/css/login_wap.min.css?20160826");
+            }
+        </script>
+        
+<script src="https://t1.chei.com.cn/common/js/boomerang-min-20141211.js" type="text/javascript"></script>
+<script type="text/javascript">
+BOOMR.init({
+	beacon_url: "https://www.chsi.com.cn/images/perf.gif",
+    log: null,
+	DNS:{ 
+		base_url: "https://*.chdi.com.cn/images/" 
+	}
+});
+</script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-100524-4']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+    </head>
+
+
+
+<body>
+
+
+<div class='logon_centerBg'>
+<div class='logon_center' id="logon_center">
+    <div class='container_48 clearfix'>
+        <div class="grid_enter clearfix">
+            <div class="con-right gxjx_contentR">
+                <h1>全国万名优秀创新创业导师人才库</h1>
+                <h3>用户登录</h3>
+                  <form id="fm1" action="/passport/login;jsessionid=03F0F455F96E8278F33DB1774C58F45F?entrytype=dsk&amp;service=https%3A%2F%2Fgxjx.chsi.com.cn%2Fdsk%2Fj_spring_cas_security_check" method="post" onsubmit="return formSubmit();" autocomplete="off">
+                  
+                <div class='cr_top'>
+                
+                
+                
+                
+                    
+                        
+                          
+                         
+                          
+                      
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                    <div class='ct_input'>
+                        <span class='ct_img_yhm'>&nbsp;</span>
+                        <input id="username" name="username" class="input_text" tabindex="1" onfocus="if(this.value==&#39;用户名&#39;){this.value=&#39;&#39;;}this.className =&#39;input_text input_text_focus&#39;" onblur="if(this.value==&#39;&#39;){this.value=&#39;用户名&#39;;this.className =&#39;input_text&#39;}" accesskey="n" type="text" value="" size="25" autocomplete="off"/>
+                    </div>
+                
+                
+                
+                
+                
+                    <div class='ct_input pass'>
+                        <span class='ct_img_mm'>&nbsp;</span>
+                        <span class='password_txt' id='password_txt_id' onClick="document.getElementById('password').focus()">密码</span>
+                        <input id="password" name="password" class="input_text input_text_focus" tabindex="2" onfocus="document.getElementById(&#39;password_txt_id&#39;).style.display=&#39;none&#39;" onblur="if(this.value==&#39;&#39;)document.getElementById(&#39;password_txt_id&#39;).style.display=&#39;block&#39;" accesskey="p" type="password" value="" size="25" autocomplete="off"/>
+                    </div>
+                
+                
+                
+                
+                
+                
+                  
+                
+                </div>
+                <div class="password clearfix">
+                    <a href="http://gxjx.chsi.com.cn/help/register.action" class="sqzh">申请账号</a>
+                    <a href="https://login.chsi.com.cn/account/forgot/atv/preaccrtv.action" class="jhzh">激活账号</a>
+                    <a href="https://login.chsi.com.cn/account/help/retrivepsd.jsp" class="zhmm">找回密码</a>
+                </div>
+                <div class="ds-denglu">
+                    <input type="hidden" name="lt" value="LT-529425-cNDe2UFdjKAJBRkW70ujIfqA4oEax6" />
+                    <input type="hidden" name="execution" value="e1s1" />
+                    <input type="hidden" name="_eventId" value="submit" />
+                    <input class="btn_login" name="submit" accesskey="l" value="登&nbsp;&nbsp;录" tabindex="4" type="submit" title="登录" />
+                </div>
+                </form>
+            </div>
+            <div class="footer">
+                <!-- 指导单位：<a href="http://www.moe.edu.cn/s78/A08/" target="_blank">教育部高等教育司</a>　 -->
+                主办单位：<a href="http://chesicc.moe.edu.cn/" target="_blank">全国高等学校学生信息咨询与就业指导中心</a>　　
+                技术支持：<a href="http://www.chsi.com.cn/" target="_blank">学信网</a>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<script>
+/**
+ * @descript: js代码规范化
+ * @author  : myx
+ * @date    :2016.08.24
+ */
+    $(function(){
+        inputPrompt('username','用户名');
+        inputPrompt('pcheckcode','短信验证码');
+        inputPrompt('captcha','图片验证码');
+        if(!wapFn()){
+            resizeWindow();
+        }
+    })
+    function resizeWindow(){
+        var eleHeight = $(".grid_enter")[0].clientHeight;
+        var IEclientH = document.documentElement.clientHeight
+        if(window.innerHeight && window.innerHeight > (eleHeight + 40)){
+            $(".logon_centerBg .logon_center").css("paddingTop",(window.innerHeight - eleHeight)/2 + "px");
+        }else if(IEclientH && IEclientH > (eleHeight + 40)){
+            $(".logon_centerBg .logon_center").css("paddingTop", (IEclientH - eleHeight)/2 + "px");
+           }else{
+              $(".logon_centerBg .logon_center").css("paddingTop","20px");
+          }
+    }
+    /** input提示消息 **/
+    function inputPrompt(id,val){
+        var input = document.getElementById(id)||'';
+        if(input==''){
+            return false;
+        }
+        if(input.value==''){
+            input.value = val;
+            input.className ='input_text';
+        }else{
+            input.className ='input_text input_text_focus';
+        }
+    }
+    /**表单验证**/
+    function formSubmit(){
+        var $username =$('#username')||'';
+        if($username.length!=0){
+            var username = $.trim($username.val());
+            if(username=='用户名'){
+                $("#username").val('');
+                username='';
+            }else{
+                $("#username").val(username);
+            }
+            if(username==''){
+                alert('用户名不能为空！');
+                $username.focus();
+                return false;
+            }
+        }
+        var $password = $('#password')||'';
+        if($password.length!=0){
+            var password = $.trim($('#password').val()||'');
+            if(password==''){
+                alert('密码不能为空！');
+                $password.focus();
+                return false;
+            }
+        }
+        var $pcheckcode = $('#pcheckcode')||'';
+        if($pcheckcode.length!=0){
+            var pcheckcode = $.trim($('#pcheckcode').val()||'');
+            if(pcheckcode==''){
+                alert('短信验证码不能为空！');
+                $pcheckcode.focus();
+                return false;
+            }
+        }
+    }
+
+</script>
+</body>
+</html>

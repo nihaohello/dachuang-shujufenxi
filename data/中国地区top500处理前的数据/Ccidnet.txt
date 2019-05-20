@@ -1,0 +1,14 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <title>é¡µé¢æªæ¾å°_èµè¿ªç½</title>
+    <link rel="stylesheet" type="text/css" href="http://img.ccidnet.com/templates/ccidnet/css/cmstop-error.css" media="all">
+</head>
+<body class="body-bg">
+<div class="main">
+    <p class="title">éå¸¸æ±æ­ï¼æ¨è¦æ¥ççé¡µé¢æ²¡æåæ³æ¾å°</p>
+    <a href="http://www.ccidnet.com/" class="btn">è¿åç½ç«é¦é¡µ</a>
+</div>
+</body>
+</html>

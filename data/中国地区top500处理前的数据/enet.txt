@@ -1,0 +1,20 @@
+<br />
+<b>Notice</b>:  Undefined index: HTTP_REFERER in <b>/data/www/frame/a.php</b> on line <b>4</b><br />
+  //document.write("<scr"+"ipt  type='text/javascript' src='http://trace.enet.com.cn/dma.js?46d3c84e20b53'></scr"+"ipt>");
+  if(typeof siteid == "undefined"){
+	siteid="all";
+  }
+  document.write("<scr"+"ipt  type='text/javascript' src='http://frame.enet.com.cn/b.php?site="+ siteid +"'></scr"+"ipt>");
+
+  //google-analytics
+  /*var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-22264921-1']);
+  _gaq.push(['_setDomainName', '.enet.com.cn']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();*/
+

@@ -1,0 +1,450 @@
+<!doctype html>
+<html>
+
+<head>
+	<meta charset="gb2312">
+<meta name="keywords" content="¹²Ó®×ÊÑ¶£¬ÐÂÎÅ×ÊÑ¶£¬Æû³µ£¬²Æ¾­£¬¿Æ¼¼£¬ÊÓÆµ£¬¹ÉÆ±£¬ÓéÀÖ£¬ÂÃÓÎ£¬ÑøÉú£¬Óý¶ù£¬ÃÀÊ³£¬ÓÎÏ·£¬¿ìÑ¶">
+<meta name="description" content="¡¶¹²Ó®×ÊÑ¶¡·ÊÇÖÐ¹úµÚÒ»¼ÒÒÔ³ÉÎª×÷ÕßÖ®¼ÒÎªÄ¿±ê£¬ÒÔ¹²ÈÚ¡¢¹²´´¡¢¹²Ó®ÎªÀíÄî£¬ÓëËùÓÐÇ©Ô¼×÷Õß·ÖÏí¹«Ë¾¾­ÓªÀûÈóµÄ×ÊÑ¶Æ½Ì¨¡£¡¶¹²Ó®×ÊÑ¶¡·ÊÇÃ½ÌåÈ¥ÖÐÐÄ»¯¡¢ËéÆ¬»¯¡¢·ÛÄ©»¯Ö®ºó£¬×ªÈëÔÙÖÐÐÄ»¯Ê±´úµÄ²úÎï£»ÊÇ»¥ÁªÍøÃâ·ÑÊ±´ú·¢Õ¹µ½¼«ÖÂ£¬×ªÏòÖªÊ¶¸¶·ÑÊ±´úµÄ²úÎï£»ÆäËùÍÆ³öµÄ·ÖÕËÄ£Ê½£¬½â¾öÁË×÷ÕßÓ°ÏìÁ¦ÎÞ·¨±äÏÖµÄÎÊÌâ£¬Ò²ÎªÍøÂç¹«Ë¾×Ê±¾Ä£Ê½ÔÙÔìÌá¹©ÁËÐÂµÄÄ£°å£¬´ú±íÁËIT¾­¼ÃÄ£Ê½×ªÐÍµÄÐÂÇ÷ÊÆ¡£">
+<meta name="baidu_union_verify" content="c37675a79678673839fb6ae8b7906b3b">
+<meta name="360-site-verification" content="c92ddc9c6ba43a3b6ef51094d4ea900d" />
+<meta baidu-gxt-verify-token="6c832df56aaeff758632e5d25f9b3c3b">
+<meta name="sogou_site_verification" content="gWVWeIdI2e"/>
+	<title>¹²Ó®×ÊÑ¶</title>
+	<link rel="stylesheet" type="text/css" href="/css/reset.css">
+	<link rel="stylesheet" type="text/css" href="/iconfont/iconfont.css">
+	<link rel="stylesheet" type="text/css" href="/swiper/swiper-3.4.2.min.css">
+	<link rel="stylesheet" type="text/css" href="/css/jquery.slider.css">
+	<link rel="stylesheet" type="text/css" href="/css/headafoot.css">
+	<link rel="stylesheet" type="text/css" href="/css/public.css">
+	<link rel="stylesheet" type="text/css" href="/css/style.css">
+<script>
+	var _hmt = _hmt || [];
+	(function() {
+		var hm = document.createElement("script");
+		hm.src = "https://hm.baidu.com/hm.js?5eec0c24a1d06e2eb748af01cb12529b";
+		var s = document.getElementsByTagName("script")[0]; 
+		s.parentNode.insertBefore(hm, s);
+	})();
+</script>
+</head>
+
+<body>
+	<a name="top"></a>
+
+	<!-- ¶¥²¿¹ã¸æÎ» -->
+	<div class="ad-top clearfix"></div>
+	<!-- #inc lude virtual="/index2018/page_2018/ad_top.htm"-->
+	<!--Ò³Í·-->
+	<script>
+	var _hmt = _hmt || [];
+	(function() {
+		var hm = document.createElement("script");
+		hm.src = "https://hm.baidu.com/hm.js?5eec0c24a1d06e2eb748af01cb12529b";
+		var s = document.getElementsByTagName("script")[0]; 
+		s.parentNode.insertBefore(hm, s);
+	})();
+</script>
+<div class="header clearfix">
+	<div class="logo"> <a href="#"><img src="/images/logo.png" width="" height="50" alt="" /></a> </div>
+	<!-- ËÑË÷ -->
+	<div class="search-wrap clearfix">
+		<input type="text" id="search-con" placeholder="ÊäÈëÄã¸ÐÐËÈ¤µÄÄÚÈÝ">
+		<span class="search-btn" onclick="search()"><i class="iconfont icon-search"></i></span>
+	</div>
+	<!-- ¸öÈËÖÐÐÄ -->
+	<div class="manage-wrap clearfix">
+		<!-- ×¢²áµÇÂ¼ -->
+		<div class="login-wrap">
+			<a href="/user/register.shtml" >×¢²á</a><a href="javascript:void(0)" onclick="openwinLogin()">µÇÂ¼</a>
+		</div>
+		<!-- µÇÂ½³É¹¦ -->
+		<div class="userinfo-wrap">
+			<a href="http://user.elementos.com.cn/" target="_blank" class="clearfix">
+				<span class="avatar"><img src="/test/avatar.jpg" width="40" height="40" alt=""></span>
+				<span class="nickname">ÓÃ»§Ãû</span>
+			</a>
+			<div class="exit-wrap">
+				<a href="http://user.elementos.com.cn/">¸öÈËÖÐÐÄ</a>
+				<a href="/user/myFollow.shtml">ÎÒµÄ¹Ø×¢</a>
+				<a href="javascript:void(0)" onclick="exitLogin()">ÍË³ö</a>
+			</div>
+		</div>
+		<a id="authorLogin" href="http://media.elementos.com.cn/#/login" target="_blank" class="apply-btn">×÷ÕßÈë×¤</a>
+                <a class="get-app" href="https://download.elementos.com.cn/download.html" target="_blank">ÏÂÔØAPP</a>
+	</div>
+</div>
+<!-- ÕÚÕÖ²ã -->
+<div class="layer-bg"> 
+	<!-- ¾Ù±¨ -->
+	<div class="report-wrap">
+		<div class="tit">
+			<h2>¾Ù±¨</h2>
+			<p>ÇëÑ¡Ôñ¾Ù±¨ÀíÓÉ</p>
+			<span class="close-btn" onclick="closeReport()"><i class="iconfont icon-close-b"></i></span> </div>
+		<ul class="report-item">
+			<li onclick="selectItem(this,1)"> <span>TA·¢Ð¡¹ã¸æ</span><i class="iconfont icon-check"></i> </li>
+			<li onclick="selectItem(this,2)"> <span>TAÂîÈË</span><i class="iconfont icon-check"></i> </li>
+			<li onclick="selectItem(this,3)"> <span>TAÇÖÈ¨</span><i class="iconfont icon-check"></i> </li>
+			<li onclick="selectItem(this,4)"> <span>TAÉ«ÀÇ</span><i class="iconfont icon-check"></i> </li>
+		</ul>
+		<span class="submit" onclick="subReport()">¾Ù±¨</span> </div>
+	<!-- µÇÂ¼ -->
+	<div class="win-login-wrap">
+		<!-- ¿ì½ÝµÇÂ¼ -->
+		<div class="qLogin-box">
+			<div class="tit">
+				<div class="erro-wrap"></div>
+				<h2>¿ì½ÝµÇÂ¼</h2>
+				<span class="close-btn" onclick="closewinLogin()"><i class="iconfont icon-close-b"></i></span>
+			</div>
+			<div class="item-wrap clearfix">
+				<span>ÊÖ»úºÅ</span><input type="text" id="qPhone" onblur="checkUserName(this)" placeholder="ÇëÊäÈëÊÖ»úºÅ">
+			</div>
+			<div class="item-wrap yzm-wrap clearfix">
+				<span>ÑéÖ¤Âë</span><input type="text" id="qYzm" placeholder="ÇëÊäÈë¶ÌÐÅÑéÖ¤Âë"><span class="sendYzm" data-send="send" onclick="sendYzm(this)">·¢ËÍÑéÖ¤Âë</span>
+			</div>
+			<!-- µÇÂ¼°´Å¥ -->
+			<div class="login-btn">
+				<span class="submit-btn quick-login" onclick="winLogin(4)">µÇ&nbsp;&nbsp;Â¼</span>
+				<a href="javascript:void(0)" onclick="goULogin()">ÕËºÅµÇÂ½</a>
+			</div>
+		</div>
+		<!-- ÕËºÅÃÜÂëµÇÂ½ -->
+		<div class="uLogin-box">
+			<div class="tit">
+				<div class="erro-wrap"></div>
+				<h2>ÕËºÅµÇÂ¼</h2>
+				<span class="close-btn" onclick="closewinLogin()"><i class="iconfont icon-close-b"></i></span>
+			</div>
+			<div class="item-wrap clearfix">
+				<span>ÊÖ»úºÅ</span><input type="text" id="userName" placeholder="ÇëÊäÈëÊÖ»úºÅ">
+			</div>
+			<div class="item-wrap clearfix">
+				<span>ÃÜÂë</span><input type="password" id="userPass" placeholder="ÇëÊäÈëÃÜÂë">
+			</div>
+			<!-- »¬¿éÑéÖ¤ -->
+			<div id="yz-btn" class="yz-btn"></div>
+			<!-- µÇÂ¼°´Å¥ -->
+			<div class="login-btn">
+				<span class="submit-btn default-login" onclick="winLogin(1)">µÇ&nbsp;&nbsp;Â¼</span>
+				<span class="other-btn">
+					<a href="javascript:void(0)" onclick="goQLogin()">¿ì½ÝµÇÂ½</a>
+					<br>
+					<a href="/user/forgot.shtml" target="_blank">ÕÒ»ØÃÜÂë</a>
+				</span>
+			</div>
+		</div>
+		<!-- µÚÈý·½µÇÂ¼ -->
+		<div class="third-party-login clearfix">
+			<span>µÚÈý·½µÇÂ¼:</span>
+			<div class="third-party">
+				<!-- Î¢ÐÅ -->
+				<a href="javascript:void(0)" onclick="window.location.href='https://open.weixin.qq.com/connect/qrconnect?appid=wx9833e370b037c903&redirect_uri=http://user.elementos.com.cn/OAuth/callbackWX.aspx&response_type=code&scope=snsapi_login'" class="wx-login">
+					<svg class="icon" aria-hidden="true">
+						<use xlink:href="#icon-weixin"></use>
+					</svg>
+				</a>
+				<!-- QQ -->
+				<a href="javascript:void(0)" onclick="window.location.href='https://graph.qq.com/oauth2.0/authorize?client_id=101527659&response_type=code&redirect_uri=http%3A%2F%2Fuser.elementos.com.cn%2FOAuth%2FcallbackQQ.aspx'" class="qq-login">
+					<svg class="icon" aria-hidden="true">
+						<use xlink:href="#icon-qq"></use>
+					</svg>
+				</a>
+				<!-- Î¢²© -->
+				<a href="javascript:void(0)" onclick="window.location.href='https://api.weibo.com/oauth2/authorize?client_id=1253713582&redirect_uri=http://user.elementos.com.cn/OAuth/callbackSina.aspx&response_type=code'" class="wb-login">
+					<svg class="icon" aria-hidden="true">
+						<use xlink:href="#icon-weibo"></use>
+					</svg>
+				</a>
+			</div>
+		</div>
+	</div>
+	<!-- ¶þÎ¬Âëµ¯´° -->
+	<div class="app-wrap">
+		<div class="tit">
+			<h2>É¨Ò»É¨ÏÂÔØ¹²Ïí×ÊÑ¶APP</h2>
+		</div>
+		<div class="app-ewm"> <img src="/images/kaixi-app.png" width="150" height="150" alt="" /> </div>
+		<span class="app-close" onclick="appClose()">¹Ø±Õ</span> </div>
+</div>
+	<!-- µ¼º½ -->
+<div class="nav-wrap">
+	<div class="nav-con clearfix">
+		<div class="nav-list" id="navlist">
+			<a href="#" class="act">Ê×Ò³</a>
+		</div>
+		<div class="slide-btn">
+			<i class="iconfont icon-down"></i>
+		</div>
+		<div class="nav-full-list clearfix">
+			<a href="#" class="act">Ê×Ò³</a>
+		</div>
+	</div>
+</div>
+	<!-- content-top -->
+	<div class="content-top clearfix">
+		<!-- ÂÖ²¥ -->
+		<div class="left">	<div class="swiper-container" id="lunbo">     <div class="swiper-wrapper"><div class="swiper-slide">      <div class="img-wrap"><a href="http://www.elementos.com.cn/templates/zt/template.html?subjectID=85" target="_blank"><img src="/image8/2019/5/20/A7807B7EC2934337AEEFBD4248C1DCFA.jpg" width="620" height="350" alt=""></a></div>      <div class="title-wrap">       	<a href="http://www.elementos.com.cn/templates/zt/template.html?subjectID=85" target="_blank">Ë­À´Õü¾È³¤°²Âí×Ô´ï£¿</a>      </div></div><div class="swiper-slide">      <div class="img-wrap"><a href="/video/254561.shtml" target="_blank"><img src="/image3/2019/5/17/07BD1FDFD59F45319615987521FF0A56.jpg" width="620" height="350" alt=""></a></div>      <div class="title-wrap">       	<a href="/video/254561.shtml" target="_blank">³µÀÐµÀ£º×ÔÖ÷Æ·ÅÆÊÇÈíÊÁ×Ó£¿</a>      </div></div><div class="swiper-slide">      <div class="img-wrap"><a href="/cyjj/255167.shtml" target="_blank"><img src="/image7/2019/5/17/BC8472D4BA9C45F8B43B7543148434B2.jpg" width="620" height="350" alt=""></a></div>      <div class="title-wrap">       	<a href="/cyjj/255167.shtml" target="_blank">ÊµÓÃ²ÅÊÇËüµÄ±¾ÖÊ&nbsp;ÊÔ¼ÝÆæÈð°¬ÈðÔó5e&nbsp;450</a>      </div></div><div class="swiper-slide">      <div class="img-wrap"><a href="/news/250852.shtml" target="_blank"><img src="/image7/2019/5/16/E29B582E714449F48DAB109005C8D54E.jpg" width="620" height="350" alt=""></a></div>      <div class="title-wrap">       	<a href="/news/250852.shtml" target="_blank">¼ªÀûÐÇÔ½¿É¿°ÖØÈÎ£¿&nbsp;</a>      </div></div><div class="swiper-slide">      <div class="img-wrap"><a href="/daogou/247376.shtml" target="_blank"><img src="/image8/2019/5/15/EF361AAFD1EF4344A2F6DD669823516E.jpg" width="620" height="350" alt=""></a></div>      <div class="title-wrap">       	<a href="/daogou/247376.shtml" target="_blank">¿´²»Í¸µÄÖÐµºØ</a>      </div></div><div class="swiper-slide">      <div class="img-wrap"><a href="/daogou/247388.shtml" target="_blank"><img src="/image7/2019/5/15/319026D6635B4DE5A85EDF776801453B.jpg" width="620" height="350" alt=""></a></div>      <div class="title-wrap">       	<a href="/daogou/247388.shtml" target="_blank">ÏÄÀûÖ®¼ø</a>      </div></div>    </div>    <div class="swiper-button-prev"></div>    <div class="swiper-button-next"></div><div class="swiper-pagination"></div></div></div>			
+					
+
+		<!-- ÂÖ²¥ÓÒ²à -->
+		<div class="right"><div class="item-wrap">	<a href="/daogou/125315.shtml" target="_blank"><img src="/image3/2019/4/11/C38B440FCB6241988D9105D7788A684C.jpg" width="335" height="165" alt=""></a>	<div class="title-wrap">		<div class="inline-wrap">			<a href="/daogou/125315.shtml" target="_blank">¡¶¹²Ó®×ÊÑ¶¡·ÉÏÏßÊ×ÈÕ&nbsp;×¢²á×÷Õß´´¼ÍÂ¼</a>		</div>	</div></div><div class="item-wrap">	<a href="/daogou/125308.shtml" target="_blank"><img src="/image3/2019/4/11/47A731819A4C4FCB97094D28D5DA83F0.jpg" width="335" height="165" alt=""></a>	<div class="title-wrap">		<div class="inline-wrap">			<a href="/daogou/125308.shtml" target="_blank">ÎÄ»¯ÈËÎªÍøÕ¾¡°´òÒå¹¤¡±»ò³ÉÀúÊ·</a>		</div>	</div></div></div>			
+					
+
+	</div>
+	<!-- ÖÐ²¿¹ã¸æÎ» -->
+	<div class="center-ad"></div>
+	<!-- #inc lude virtual="/index2018/page_2018/ad_lunbo_bottom.htm"-->
+	<div class="main-content clearfix">
+		<!-- main×ó²à -->
+		<div class="left">
+			<!-- ÏµÍ³ÍÆ¼öÎÄÕÂÁÐ±í -->
+			<!-- type-simple:¼òÑ¶/ÎÞÍ¼ type-single:µ¥Í¼ type-multiple:ÈýÍ¼ type-video:ÊÓÆµ type-ad:¹ã¸æ -->
+			<div class="article-list">
+				<ul>
+				</ul>
+				<!-- ¼ÓÔØ×´Ì¬ -->
+				<div class="load-status"> <span>ÎÒÃÇÊÇÓÐµ×ÏßµÄÈË</span> </div>
+			</div>
+		</div>
+		<!-- mainÓÒ²à -->
+		<div class="right">
+			<!-- »îÔ¾Ã½Ìå -->
+			<div class="active-media">
+	<div class="order-tab" id="order-tab">
+		<!-- <span data-rule="0">ÍÆ¼ö</span> -->
+		<span data-rule="2" class="act">ÈÈÃÅ</span>
+		<span data-rule="1">ÐÂ½ú</span>
+		<span data-rule="3">´óV</span>
+	</div>
+	<div class="media-list">
+		<div class="swiper-container" id="media-list">
+			<div class="swiper-wrapper"></div>
+			<div class="swiper-scrollbar" id="media-scrollbar"></div>
+		</div>
+		<div class="author-empty">ÔÝÎÞÍÆ¼ö</div>
+	</div>
+</div>
+			<!-- ÈÈÃÅÎÄÕÂ -->
+			<div class="hot-article">
+				<h2 class="title">
+					<span>ÈÈÎÄÍÆ¼ö</span>
+				</h2>
+				<div class="hot-article-list">
+					<ul>
+					</ul>
+				</div>
+			</div>
+			<!-- ÅÅÐÐ°ñµ¥ -->
+			<div class="rank-wrap">
+				<h2 class="title">
+					<span>ÅÅÐÐ°ñµ¥</span>
+				</h2>
+				<div class="rank-list">
+					<ul>
+						<li><span class="red">ÓéÀÖ°ñ</span><a href="#" target="_blank">²©Îï¹ÝÓë¹«ÖÚ¹ØÏµ</a></li>
+						<li><span class="orange">ÌåÓý°ñ</span><a href="#" target="_blank">ºÚÉ«µÄ9ÔÂ£¬°ÂµÏÆ·ÅÆÔÚÖÐ¹úÊÐ³¡È´´´ÔìÁËÀúÊ·ÏúÁ¿¼ÇÂ¼</a></li>
+						<li><span class="blue">ÈËÎï°ñ</span><a href="#" target="_blank">¿ê×Ó½ö½öÊÇ¸ö²Í¾ß£¿ D&G£¬ÄÇÊÇÄã²»¶®ÖÐ¹ú</a></li>
+						<li><span class="green">Ã½Ìå°ñ</span><a href="#" target="_blank">Ñ°ÕÒÏûÊ§µÄÎÄÃ÷</a></li>
+						<li><span class="lightgreen">³©Ïú°ñ</span><a href="#" target="_blank">µÚ¶þ½ìÖÇ»Û²©Îï¹ÝÂÛÌ³ÔÚ¸£ÖÝÕÙ¿ª</a></li>
+						<li><span class="purple">ÏúÁ¿°ñ</span><a href="#" target="_blank">µÚ¶þ½ìÖÇ»Û²©Îï¹ÝÂÛÌ³ÔÚ¸£ÖÝÕÙ¿ª</a></li>
+					</ul>
+				</div>
+			</div>
+			<!-- ¹ØÓÚÎÒÃÇ -->
+			<div class="about-us">
+	<h2 class="title">
+		<span>¹ØÓÚÎÒÃÇ</span>
+	</h2>
+	<div class="content-wrap">
+		<div class="logo-wrap-pos clearfix">
+			<div class="app-ewm-wrap"><img src="/images/app-ewm20190312.png" width="100" height="100" alt="" /></div>
+			<div class="logo-right">
+				<div class="logo-con"><img src="/images/logo.png" width="" height="45" alt="" /></div>
+				<div class="tip-wrap">É¨Ãè¶þÎ¬ÂëÏÂÔØAPP</div>
+			</div>
+		</div>
+		<div class="about-info">
+			<p>¹«Ë¾Ãû³Æ£º±±¾©ÕýÔòÑô¹âÎÄ»¯´«²¥ÓÐÏÞ¹«Ë¾</p>
+			<p>¿Í·þµç»°£º010-51254090</p>
+			<p>¹«Ë¾µØÖ·£º±±¾©ÊÐÎ÷³ÇÇø¹ãÍâ´ó½Ö248ºÅ»úÐµ´óÏÃ1003/1009ÊÒ</p>
+			<p>¾©ICP±¸12003842ºÅ-2</p>
+			<p>¾©ICPÖ¤100662</p>
+                         <p>¾©ÍøÎÄ£¨2019£©2401-238ºÅ</p>
+			<p>±±¾©ÊÐ³¯Ñô·Ö¾ÖÍø°²±¸°¸±àºÅ£º110105002796</p>
+			<p>¹ã²¥µçÊÓ½ÚÄ¿ÖÆ×÷¾­ÓªÐí¿ÉÖ¤£º£¨¾©£©×ÖµÚ05971ºÅ</p>
+		</div>
+	</div>
+</div>
+<!-- 360ÊÕÂ¼ -->
+<script>
+(function(){
+var src = (document.location.protocol == "http:") ? "http://js.passport.qihucdn.com/11.0.1.js?1b9963b91fa9f25c55f322c662336fc0":"https://jspassport.ssl.qhimg.com/11.0.1.js?1b9963b91fa9f25c55f322c662336fc0";
+document.write('<script src="' + src + '" id="sozz"><\/script>');
+})();
+</script>
+<!-- °Ù¶È×Ô¶¯ÍÆËÍ -->
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+		</div>
+	</div>
+	<!-- ·µ»Ø¶¥²¿ -->
+	<div class="fixed-wrap">
+	<div class="wb-wrap">
+		<i class="iconfont icon-wb"></i>
+		<div class="ewm-wrap"> <img src="/images/wbgzh.png" width="110" height="110" alt=""> </div>
+	</div>
+	<div class="wx-wrap">
+		<i class="iconfont icon-wx"></i>
+		<div class="ewm-wrap"> <img src="/images/wxgzh.jpg" width="110" height="110" alt=""> </div>
+	</div>
+	<a href="#top"><i class="iconfont icon-backtop"></i></a> 
+</div>
+</body>
+<script src="/js/jquery-1.11.3.min.js"></script>
+<script src="/iconfont/iconfont.js"></script>
+<script src="/js/jquery.slider.min.js"></script>
+<script src="/swiper/swiper-3.4.2.jquery.min.js"></script>
+<script>
+	var mySwiper = new Swiper('#lunbo', {
+		// direction: 'vertical',
+		loop: true,
+		autoplay: 3000,
+		// ·ÖÒ³Æ÷
+		pagination: '.swiper-pagination',
+		paginationType : 'progress',
+		prevButton:'.swiper-button-prev',
+		nextButton:'.swiper-button-next',
+		paginationProgressRender: function (mySwiper, progressbarClass) {
+			return '<span class="' + progressbarClass + '"></span>';
+		}
+	})
+	//Êó±ê¸²¸ÇÍ£Ö¹×Ô¶¯ÇÐ»»
+	$(".swiper-container").mouseenter(function(){
+		mySwiper.stopAutoplay();
+		$(".swiper-button-prev,.swiper-button-next").stop().fadeIn();
+	}).mouseleave(function(){
+		mySwiper.startAutoplay();
+		$(".swiper-button-prev,.swiper-button-next").stop().fadeOut();
+	})
+</script>
+<script src="/js/qrcode.min.js"></script>
+<script src="/js/global.js" chartset="gb2312"></script>
+<script src="/js/jquery.endless-scroll-1.3.js" charset="UTF-8"></script>
+<!--Ä£°å-->
+<!-- ¶àÍ¼ -->
+<script  type="text/template" id="type-multiple">
+<li class="type-multiple">
+	<div class="article-title">{{puttop}}<a href="{{url}}" target="_blank">{{title}}</a></div>
+	<div class="thumbnail-wrap clearfix">
+		<div class="thumbnail"><a href="{{url}}" target="_blank"><img src="{{COVERIMAGE1}}" width="200" height="150" onload="imgResize(this)" alt=""></a></div>
+		<div class="thumbnail"><a href="{{url}}" target="_blank"><img src="{{COVERIMAGE2}}" width="200" height="150" onload="imgResize(this)" alt=""></a></div>
+		<div class="thumbnail no-margin"><a href="{{url}}" target="_blank"><img src="{{COVERIMAGE3}}" width="200" height="150" onload="imgResize(this)" alt=""></a></div>
+	</div>
+	<div class="article-info">
+		<div class="avatar"><a href="{{mediaurl}}" target="_blank"><img src="{{zuozheimg}}" width="22" height="22" alt=""></a></div>
+		<div class="author"><a href="{{mediaurl}}" target="_blank">{{zuozhe}}</a></div>
+		<div class="comment"><i class="iconfont icon-eye"></i>{{hits}}</div>
+		<div class="time">{{publishdate}}</div>
+	</div>
+</li>
+</script>
+<!-- µ¥Í¼ -->
+<script  type="text/template" id="type-single">
+<li class="type-single clearfix">
+	<div class="thumbnail"><a href="{{url}}" target="_blank"><img src="{{COVERIMAGE1}}" width="200" height="150" onload="imgResize(this)" alt=""></a></div>
+	<div class="right">
+		<div class="pos-wrap">
+		<div class="article-title">{{puttop}}<a href="{{url}}" target="_blank">{{title}}</a></div>
+		<p class="desc">{{SUMMARY}}</p>
+		<div class="article-info">
+			<div class="avatar"><a href="{{mediaurl}}" target="_blank"><img src="{{zuozheimg}}" width="22" height="22" alt=""></a></div>
+			<div class="author"><a href="{{mediaurl}}" target="_blank">{{zuozhe}}</a></div>
+			<div class="comment"><i class="iconfont icon-eye"></i>{{hits}}</div>
+			<div class="time">{{publishdate}}</div>
+		</div>
+		</div>
+	</div>
+</li>
+</script>
+<!-- ÎÞÍ¼ -->
+<script  type="text/template" id="type-nopic">
+<li class="type-simple clearfix">
+	<div class="article-title">{{puttop}}<a href="{{url}}" target="_blank">{{title}}</a></div>
+	<div class="article-info">
+		<div class="avatar"><a href="{{mediaurl}}" target="_blank"><img src="{{zuozheimg}}" width="22" height="22" alt=""></a></div>
+		<div class="author"><a href="{{mediaurl}}" target="_blank">{{zuozhe}}</a></div>
+		<div class="comment"><i class="iconfont icon-eye"></i>{{hits}}</div>
+		<div class="time">{{publishdate}}</div>
+	</div>
+</li>
+</script>
+<!-- ¹ã¸æ -->
+<script  type="text/template" id="type-ad">
+<li class="type-ad">
+	<i class="iconfont icon-ad"></i>
+	<a href="#" target="_blank"><img src="test/ad-test-04.jpg" width="620" height="90" alt=""></a>
+</li>
+</script>
+<!-- ÊÓÆµ -->
+<script  type="text/template" id="type-video">
+<li class="type-video clearfix">
+	<div class="left">
+		<div class="inline-wrap">
+			<div class="article-title"><i class="set-video">[ÊÓÆµ]</i><a href="{{url}}" target="_blank">{{title}}</a></div>
+			<div class="article-info">
+				<div class="avatar"><a href="{{mediaurl}}" target="_blank"><img src="{{zuozheimg}}" width="22" height="22" alt=""></a></div>
+				<div class="author"><a href="{{mediaurl}}" target="_blank">{{zuozhe}}</a></div>
+				<div class="time">{{publishdate}}</div>
+			</div>
+		</div>
+	</div>
+	<div class="thumbnail">
+		<div class="playbtn-wrap"><i class="iconfont icon-playbtn"></i></div><a href="{{url}}" target="_blank"><img src="{{IMAGEURL}}" width="200" height="150" onload="imgResize(this)" alt=""></a>
+	</div>
+</li>
+</script>
+<!-- ?????? -->
+<script  type="text/template" id="media-left">
+<li class="clearfix">
+	<div class="media-left">
+		<div class="media-avatar"><a href="{{mediaurl}}" target="_blank"><img src="{{avatarurl}}" width="64" height="64" alt=""></a></div>
+	</div>
+	<div class="media-right">
+		<div class="media-name">
+			<a href="{{mediaurl}}" target="_blank">{{mediaName}}</a>
+			<span class="focus-btn {{isFollow}}" data-mediaid="{{mediaId}}">{{FollowTxt}}</span>
+		</div>
+		<div class="media-desc">{{summary}}</div>
+	</div>
+</li>
+</script>
+<script src="/js/default.js"></script>
+<script type="text/template" id="author-item">
+	<div class="swiper-slide">
+		<div class="media-left">
+			<div class="media-avatar"><a href="http://www.elementos.com.cn/media/?mediaid={{mediaId}}" target="_blank"><img src="{{avatarurl}}" width="64" height="64" alt=""></a></div>
+		</div>
+		<div class="media-right">
+			<div class="media-name">
+				<a href="http://www.elementos.com.cn/media/?mediaid={{mediaId}}" target="_blank">{{mediaName}}</a>
+				<span class="focus-btn {{isfollow}}" data-mediaid="{{mediaId}}">{{FollowTxt}}</span>
+			</div>
+			<div class="media-desc">{{summary}}</div>
+		</div>
+	</div>
+</script>
+</html>
